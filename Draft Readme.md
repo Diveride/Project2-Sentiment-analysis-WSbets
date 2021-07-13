@@ -26,7 +26,6 @@ The first step is to read the WSB into a dataframe
 ![WSB_DF.png](WSB_DF.png)
 2.2. Add sentiment Data <br>
 We then add sentiment data <br>
-[firs talk about process]<br>
 ![analyzed_df.png](analyzed_df.png)
 The derived columns of interest are:<br>
 * 'date' - the date of the message.<br>
