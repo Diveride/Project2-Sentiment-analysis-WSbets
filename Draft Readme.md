@@ -19,13 +19,14 @@ We took the follow steps to develop senstivity scenarios (what-if)
 ### 1 - Read WSB
 (Ludo)
 
-### 2 - Data Wrangling
-(Hassan)
+### 2 - Data Wrangling<br>
+![datawrangling.png](datawrangling.png)
 2.1. read WSB Data<br>
 The first step is to read the WSB into a dataframe
 ![WSB_DF.png](WSB_DF.png)
 2.2. Add sentiment Data <br>
 We then add sentiment data <br>
+
 ![analyzed_df.png](analyzed_df.png)
 The derived columns of interest are:<br>
 * 'date' - the date of the message.<br>
@@ -37,11 +38,11 @@ The derived columns of interest are:<br>
 * 'GME_sent_sum' - sum of daily sentiment of text mentioning GME<br>
 
 <br>
-3. add stock data from alpaca<br>
+2.3. add stock data from alpaca<br>
 We then read the stock data from Alpaca
 
 ![Alpaca_GME_df.png](Alpaca_GME_df.png)
-4. Data Output
+2.4. Data Output
 We then create a DataFrame feeding into Machine Learning<br>
 ![ML_GME_DF.png](ML_GME_DF.png)
 all numbers daily 
@@ -51,8 +52,8 @@ all numbers daily
 * 'pct_ch' - percent change of ticker price
 * 'up_neu_dn' - is stuck up (+1) down (-1) or neutral (0)
 
-### 3 - Run LSTM Scenarios
-(Hassan)
+### 3 - Run LSTM Scenarios<br>
+![LSTM.png](LSTM.png)
 3.1 We test the data with an LSTM Model with the following paramters:<br>
 * Test/Train Split = 70/30
 * model = Sequential()
