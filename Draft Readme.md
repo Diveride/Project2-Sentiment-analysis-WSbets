@@ -61,7 +61,7 @@ all numbers daily
 * dropout_fraction = 0.2
 * 4 layer with single output layer
 
-To run the LSTM scenarios:
+To run the LSTM scenarios:<br>
 3.2 We first import stock data and create the ML Data as described above<br>
 ml_df = fetch_data ('GME', '2021-01-28', '2021-06-28' )<br>
 3.3. We then create a feature list and a target list and select a stock from a ticker list<br>
