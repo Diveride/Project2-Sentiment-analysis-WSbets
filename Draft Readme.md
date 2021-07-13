@@ -80,7 +80,7 @@ cur_loss = run_lstm(ml_df, cur_feat, cur_targ, fname , title)<br>
 ![AAPL_pct_ch_AAPL_count_sumpng.png](AAPL_pct_ch_AAPL_count_sumpng.png)
 
 ### 4 - Evalute other ML Models
-(Jeremy)
+(Jimmy)
 
 ### 5 - Other
 (TBD)
