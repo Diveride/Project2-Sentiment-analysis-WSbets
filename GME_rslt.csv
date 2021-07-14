@@ -1,7 +1,0 @@
-,Ticker,Target,Feature,Loss
-0,GME,pct_ch,GME_count_sum,
-1,GME,pct_ch,sentiment,0.0440359003841877
-2,GME,pct_ch,ticker_sent,0.044623300433158875
-3,GME,up_neu_dn,GME_count_sum,
-4,GME,up_neu_dn,sentiment,0.18612974882125854
-5,GME,up_neu_dn,ticker_sent,0.18767620623111725
