@@ -40,11 +40,11 @@ The derived columns of interest are:<br>
 * 'GME_sent_sum' - sum of daily sentiment of text mentioning GME<br>
 
 <br>
-3. add stock data from alpaca<br>
+2.3. add stock data from alpaca<br>
 We then read the stock data from Alpaca
 
 ![Alpaca_GME_df.png](./Images/Alpaca_GME_df.png)
-4. Data Output
+2.4. Data Output
 We then create a DataFrame feeding into Machine Learning<br>
 ![ML_GME_DF.png](./Images/ML_GME_DF.png)
 all numbers daily 
@@ -54,9 +54,22 @@ all numbers daily
 * 'pct_ch' - percent change of ticker price
 * 'up_neu_dn' - is stuck up (+1) down (-1) or neutral (0)
 
-### 3 - Run LSTM Scenarios
+### 3 - Common Word Sentiments
+(Jimmy)
+3.1 Get Sentiment Value for title and body post<br>
+We separate the title and body column into their own dataframe, drop na, do stemming, clean the text, obtain the sentiment values using nltk SentimentIntensityAnalyzer, and then we plot them<br>
+![plot_setiments_for_reddit_title_and_body_posts.PNG](./Images/plot_setiments_for_reddit_title_and_body_posts.PNG)
+3.2 Generate Wordlouds<br>
+We generate wordclouds for both title and body, also wordclouds for each sentiment (negative, positive, and neutral)<br>
+![Token_Visualization_of_Common_Words_Among_Post_Titles.PNG](./Images/Token_Visualization_of_Common_Words_Among_Post_Titles.PNG)![wsb_common_words_among_Bodies_post.PNG](./Images/wsb_common_words_among_Bodies_post.PNG)
+The Positive Words
+![wsb_common_positive_titles_words.PNG](./Images/wsb_common_positive_titles_words.PNG)![wsb_common_positive_bodies_words.PNG](./Images/wsb_common_positive_bodies_words.PNG)
+The Negative Words
+![wsb_common_negative_titles_words.PNG](./Images/wsb_common_negative_titles_words.PNG)![wsb_common_negative_bodies_words.PNG](./Images/wsb_common_negative_bodies_words.PNG)
+
+### 4 - Run LSTM Scenarios
 (Hassan)
-3.1 We test the data with an LSTM Model with the following paramters:<br>
+4.1 We test the data with an LSTM Model with the following paramters:<br>
 * Test/Train Split = 70/30
 * model = Sequential()
 * number_units = 5
@@ -64,14 +77,14 @@ all numbers daily
 * 4 layer with single output layer
 
 To run the LSTM scenarios:
-3.2 We first import stock data and create the ML Data as described above<br>
+4.2 We first import stock data and create the ML Data as described above<br>
 ml_df = fetch_data ('GME', '2021-01-28', '2021-06-28' )<br>
-3.3. We then create a feature list and a target list and select a stock from a ticker list<br>
+4.3. We then create a feature list and a target list and select a stock from a ticker list<br>
 * targ_list = ['pct_ch', 'up_neu_dn']<br>
 * feat_list = [cur_tick + count_sufx] + feat_tmplt<br>
-3.4. Loop through them to get output with the following fucnction:<br>
+4.4. Loop through them to get output with the following fucnction:<br>
 cur_loss = run_lstm(ml_df, cur_feat, cur_targ, fname , title)<br>
-3.5 tabulate the output:<br> 
+4.5 tabulate the output:<br> 
 ![AAPL_Analysis.png](./Images/AAPL_Analysis.png)
 3.6 As can be seen from charting results, this needs a lot more experimentation:
 ![AAPL_up_neu_dn_ticker_sentpng.png](./Images/AAPL_up_neu_dn_ticker_sentpng.png)
@@ -81,8 +94,18 @@ cur_loss = run_lstm(ml_df, cur_feat, cur_targ, fname , title)<br>
 ![AAPL_pct_ch_sentimentpng.png](./Images/AAPL_pct_ch_sentimentpng.png)
 ![AAPL_pct_ch_AAPL_count_sumpng.png](./Images/AAPL_pct_ch_AAPL_count_sumpng.png)
 
-### 4 - Evalute other ML Models
-(Jeremy)
+### 5 - Evalute other ML Models
+(Jimmy)
 
-### 5 - Other
+### 6 - Other
 (TBD)
+
+
+### References:
+
+Trending stocks and cryptos on Reddit Wallstreetbets
+https://trade-tip.com/reddit-sentiment-wallstreetbets.html
+
+https://www.kaggle.com/sprakshith/beginner-s-guide-to-sentiment-analysis
+
+https://www.kaggle.com/thomaskonstantin/reddit-wallstreetbets-posts-sentiment-analysis
