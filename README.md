@@ -27,10 +27,10 @@ We took the follow steps to develop senstivity scenarios (what-if)
   - [Approach / Table of content](#approach--table-of-content)
     - [1 - Read WSB : API](#1---read-wsb--api)
     - [2 - Data Wrangling](#2---data-wrangling)
-    - [3 - Run LSTM Scenarios](#3---run-lstm-scenarios)
-    - [4 - Evalute other ML Models](#4---evalute-other-ml-models)
-    - [5 - Other](#5---other)
-    - [6 - Sources](#6---sources)
+    - [3 - Common Word Sentiments](#3---common-word-sentiments)
+    - [4 - Run LSTM Scenarios](#4---run-lstm-scenarios)
+    - [5 - Evalute other ML Models](#5---evalute-other-ml-models)
+    - [References:](#references)
 
 
 ### 1 - Read WSB : API
@@ -98,7 +98,7 @@ all numbers daily
 * 'up_neu_dn' - is stuck up (+1) down (-1) or neutral (0)
 
 ### 3 - Common Word Sentiments
-(Jimmy)
+
 3.1 Get Sentiment Value for title and body post<br>
 We separate the title and body column into their own dataframe, drop na, do stemming, clean the text, obtain the sentiment values using nltk SentimentIntensityAnalyzer, and then we plot them<br>
 ![plot_setiments_for_reddit_title_and_body_posts.PNG](./Images/plot_setiments_for_reddit_title_and_body_posts.PNG)
@@ -111,7 +111,7 @@ The Negative Words
 ![wsb_common_negative_titles_words.PNG](./Images/wsb_common_negative_titles_words.PNG)![wsb_common_negative_bodies_words.PNG](./Images/wsb_common_negative_bodies_words.PNG)
 
 ### 4 - Run LSTM Scenarios
-(Hassan)
+
 4.1 We test the data with an LSTM Model with the following paramters:<br>
 * Test/Train Split = 70/30
 * model = Sequential()
@@ -140,16 +140,6 @@ cur_loss = run_lstm(ml_df, cur_feat, cur_targ, fname , title)<br>
 ### 5 - Evalute other ML Models
 (Jimmy)
 
-### 6 - Other
-(TBD)
-
-<<<<<<< HEAD
-### 6 - Sources
-
-Reddit API : https://github.com/reddit-archive/reddit/wiki/API
-Pushift API : https://psaw.readthedocs.io/en/latest/ and https://pushshift.io/
-=======
-
 ### References:
 
 Trending stocks and cryptos on Reddit Wallstreetbets
@@ -158,4 +148,6 @@ https://trade-tip.com/reddit-sentiment-wallstreetbets.html
 https://www.kaggle.com/sprakshith/beginner-s-guide-to-sentiment-analysis
 
 https://www.kaggle.com/thomaskonstantin/reddit-wallstreetbets-posts-sentiment-analysis
->>>>>>> 3ec33658d9660920c1d172cb2cab1da913269d27
+
+Reddit API : https://github.com/reddit-archive/reddit/wiki/API
+Pushift API : https://psaw.readthedocs.io/en/latest/ and https://pushshift.io
