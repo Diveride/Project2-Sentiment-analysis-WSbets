@@ -153,16 +153,16 @@ cur_loss = run_lstm(ml_df, cur_feat, cur_targ, fname , title)<br>
 Stock market prediction is the act of trying to determine the future value of a company stock. The successful prediction of a stock’s future price could yield a significant profit, and this topic is within the scope of time series problems. Among the several ways developed over the years to accurately predict the complex and volatile variation of stock prices, neural networks, more specifically RNNs (Recurrent Neural Network), have shown significant application on the field. Here we are going to use the RNN model LSTM (Long short-term memory) with PyTorch to predict AMC stock market price 
 
 We are going to predict the Close price of AMC stock, and the following is the data behavior over the years.
-![amc_stock_price_chart.png](./Images/amc_stock_price_chart.png)
+![amc_stock_price_chart.png](./Images/amc_stock_price_chart.PNG)
 
 We slice the data frame to get the column we want and normalize the data. Then split the data into train and test sets. Before doing so, we must define the window width of the analysis. The use of prior time steps to predict the next time step is called the sliding window method.
-![split_data_and_setup_train_and_test.png](./Images/split_data_and_setup_train_and_test.png)
+![split_data_and_setup_train_and_test.png](./Images/split_data_and_setup_train_and_test.PNG)
 The basic structure for building a PyTorch model is transforming them into tensors and defining some common values for both models regarding the layers.
-![import_PyTorch.png](./Images/import_PyTorch.png)
+![import_PyTorch.png](./Images/import_PyTorch.PNG)
 An LSTM unit is composed of a cell, an input gate, an output gate, and a forget gate. The cell remembers values over arbitrary time intervals, and the three gates regulate the flow of information into and out of the cell.
-![long_short_term_memory.png](./Images/long_short_term_memory.png)
+![long_short_term_memory.png](./Images/long_short_term_memory.PNG)
 Finally, we train the model over 100 epochs.
-![run_100_epoch_and_display_Data_and_training_prediction.png](./Images/run_100_epoch_and_display_Data_and_training_prediction.png)
+![run_100_epoch_and_display_Data_and_training_prediction.png](./Images/run_100_epoch_and_display_Data_and_training_prediction.PNG)
 
 
 ### References:
