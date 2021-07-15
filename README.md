@@ -30,7 +30,7 @@ We took the follow steps to develop senstivity scenarios (what-if)
     - [3 - Common Word Sentiments](#3---common-word-sentiments)
     - [4 - Run LSTM Scenarios](#4---run-lstm-scenarios)
     - [5 - Evalute other ML Models](#5---evalute-other-ml-models)
-    - [5 - Evalute other ML Models](#5---Evalute-other-ML-Models:-Stock-Prediction-with-PyTorch)
+    - [5 - Evalute other ML Models](#5---Evalute-other-ML-Models:)
     - [References:](#references)
 
 
