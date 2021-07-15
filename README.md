@@ -166,6 +166,46 @@ Finally, we train the model over 100 epochs.
 Having finished the training, we can apply the prediction.
 ![Results_LSTM.png](./Images/Results_LSTM.PNG)
 
+### 6: Linear Regression Model Using Other Financial Metrics
+
+We calculated some additional financial metrics and tried to predict closing prices with a linear regression model. First, we calculated the 30-Day Rolling Standard Deviations, Simple Moving Averages, and Exponentially Weighted Moving Averages:
+
+![Rolling Stats](./Images/Rolling Stats.png)
+
+Then, we calculated the Relative Strength Indices:
+
+![RSI](./Images/RSI.png)
+
+And finally, the Moving Average Convergence Divergence:
+
+![MACD](./Images/MACD.png)
+
+We took a years worth of price data for AAPL, MSFT, AMZN, and UBER and used the first 9 months to train the model and the last 3 months to test the model. We scaled the data using sklearn's MinMaxScaler, fit the model, ran the model, plotted our results, and calculated the RMSE:
+
+![Fitting Model](./Images/Fitting Model.png)
+
+Here are our results:
+
+#### AAPL
+![AAPL](./Images/AAPL.png)
+
+RMSE = 1.627
+
+#### MSFT
+![MSFT](./Images/MSFT.png)
+
+RMSE = 1.786
+
+#### AMZN
+![AMZN](./Images/AMZN.png)
+
+RMSE = 51.043
+
+#### UBER
+![UBER](./Images/UBER.png)
+
+RMSE = 1.131
+
 ### References:
 
 Trending stocks and cryptos on Reddit Wallstreetbets: 
