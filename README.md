@@ -16,9 +16,7 @@ Determine if it is possible to predict stocks price action by analysing comments
 
 ## Rational
 
-<<<<<<< HEAD
 WSB was a forum intially created for retail investor to exchange trades ideas. It became "famous" in early 2021 with the GME story and its short squeeze strategy. WSB has over 10 million subscribers and individual investors would share ideas and joint forces in risky bets like the short squeeze where they pick the stocks that have the most short open position and together start to buy them to "squeeze" the Institutions (often large Hedge Funds) being short the stocks and forced to buy it back.
->>>>>>> 1574b509e2225a808f564c15792180190731cfee
 
 ## Approach / Table of content
 
@@ -60,10 +58,8 @@ To create your keys you need to create an account and a "program" via the link h
 ![Reddit_API_result.png](./Images/Reddit_API_result.png)
 
 
-<<<<<<< HEAD
 ![Reddit_API_result.png](./Images/PSAW_result.png)
 1.2. Second API: Retrieving the data via the Pushift Databse
->>>>>>> 1574b509e2225a808f564c15792180190731cfee
 
 For this API, we used the wraper PSAW: Python Pushshift.io API Wrapper
 
@@ -115,10 +111,10 @@ We separate the title and body column into their own dataframe, drop na, do stem
 ![plot_setiments_for_reddit_title_and_body_posts.PNG](./Images/plot_setiments_for_reddit_title_and_body_posts.PNG)
 3.2 Generate Wordlouds<br>
 We generate wordclouds for both title and body, also wordclouds for each sentiment (negative, positive, and neutral)<br>
-![Token_Visualization_of_Common_Words_Among_Post_Titles.PNG](./Images/Token_Visualization_of_Common_Words_Among_Post_Titles.PNG)![wsb_common_words_among_Bodies_post.PNG](./Images/wsb_common_words_among_Bodies_post.PNG)
-The Positive Words
+![Token_Visualization_of_Common_Words_Among_Post_Titles.PNG](./Images/Token_Visualization_of_Common_Words_Among_Post_Titles.PNG)![wsb_common_words_among_Bodies_post.PNG](./Images/wsb_common_words_among_Bodies_post.PNG)<br>
+* The Positive Words<br>
 ![wsb_common_positive_titles_words.PNG](./Images/wsb_common_positive_titles_words.PNG)![wsb_common_positive_bodies_words.PNG](./Images/wsb_common_positive_bodies_words.PNG)
-The Negative Words
+* The Negative Words<br>
 ![wsb_common_negative_titles_words.PNG](./Images/wsb_common_negative_titles_words.PNG)![wsb_common_negative_bodies_words.PNG](./Images/wsb_common_negative_bodies_words.PNG)<br>
 
 
@@ -164,7 +160,7 @@ We slice the data frame to get the column we want and normalize the data. Then s
 The basic structure for building a PyTorch model is transforming them into tensors and defining some common values for both models regarding the layers.
 ![import_PyTorch.png](./Images/import_PyTorch.png)
 An LSTM unit is composed of a cell, an input gate, an output gate, and a forget gate. The cell remembers values over arbitrary time intervals, and the three gates regulate the flow of information into and out of the cell.
-![LSTM.png](./Images/LSTM.png)
+![long_short_term_memory.png](./Images/long_short_term_memory.png)
 Finally, we train the model over 100 epochs.
 ![run_100_epoch_and_display_Data_and_training_prediction.png](./Images/run_100_epoch_and_display_Data_and_training_prediction.png)
 
@@ -179,11 +175,10 @@ https://www.kaggle.com/sprakshith/beginner-s-guide-to-sentiment-analysis
 https://www.kaggle.com/thomaskonstantin/reddit-wallstreetbets-posts-sentiment-analysis
 
 Reddit API : https://github.com/reddit-archive/reddit/wiki/API
-<<<<<<< HEAD
 
 Pushift API : https://psaw.readthedocs.io/en/latest/ and https://pushshift.io
 
 PyTorch : https://pytorch.org/
 
-Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-prediction-with-pytorch-37f52ae84632 
->>>>>>> 1574b509e2225a808f564c15792180190731cfee
+Stock Price Prediction with PyTorch : https://medium.com/swlh/stock-price-prediction-with-pytorch-37f52ae84632 
+
