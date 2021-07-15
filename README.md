@@ -163,7 +163,8 @@ An LSTM unit is composed of a cell, an input gate, an output gate, and a forget 
 ![long_short_term_memory.png](./Images/long_short_term_memory.PNG)
 Finally, we train the model over 100 epochs.
 ![run_100_epoch_and_display_Data_and_training_prediction.png](./Images/run_100_epoch_and_display_Data_and_training_prediction.PNG)
-
+Having finished the training, we can apply the prediction.
+![Results_LSTM.png](./Images/Results_LSTM.PNG)
 
 ### References:
 
