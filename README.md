@@ -114,7 +114,8 @@ We generate wordclouds for both title and body, also wordclouds for each sentime
 The Positive Words
 ![wsb_common_positive_titles_words.PNG](./Images/wsb_common_positive_titles_words.PNG)![wsb_common_positive_bodies_words.PNG](./Images/wsb_common_positive_bodies_words.PNG)
 The Negative Words
-![wsb_common_negative_titles_words.PNG](./Images/wsb_common_negative_titles_words.PNG)![wsb_common_negative_bodies_words.PNG](./Images/wsb_common_negative_bodies_words.PNG)
+![wsb_common_negative_titles_words.PNG](./Images/wsb_common_negative_titles_words.PNG)![wsb_common_negative_bodies_words.PNG](./Images/wsb_common_negative_bodies_words.PNG)<br>
+
 
 ### 4 - Run LSTM Scenarios
 ![LSTM.png](./Images/LSTM.png)
@@ -133,10 +134,13 @@ ml_df = fetch_data ('GME', '2021-01-28', '2021-06-28' )<br>
 * feat_list = [cur_tick + count_sufx] + feat_tmplt<br>
 
 4.4. Loop through them to get output with the following fucnction:<br>
+
 cur_loss = run_lstm(ml_df, cur_feat, cur_targ, fname , title)<br>
+
 4.5 tabulate the output:<br> 
 ![AAPL_Analysis.png](./Images/AAPL_Analysis.png)
-3.6 As can be seen from charting results, this needs a lot more experimentation:
+
+4.6 As can be seen from charting results, this needs a lot more experimentation:
 ![AAPL_up_neu_dn_ticker_sentpng.png](./Images/AAPL_up_neu_dn_ticker_sentpng.png)
 ![AAPL_up_neu_dn_sentimentpng.png](./Images/AAPL_up_neu_dn_sentimentpng.png)
 ![AAPL_up_neu_dn_AAPL_count_sumpng.png](./Images/AAPL_up_neu_dn_AAPL_count_sumpng.png)
