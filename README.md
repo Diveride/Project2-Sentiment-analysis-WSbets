@@ -30,7 +30,7 @@ We took the follow steps to develop senstivity scenarios (what-if)
     - [3 - Common Word Sentiments](#3---common-word-sentiments)
     - [4 - Run LSTM Scenarios](#4---run-lstm-scenarios)
     - [5 - Evalute other ML Models](#5---evalute-other-ml-models)
-    - [5 - Evalute other ML Models](#5---Evalute-other-ML-Models:)
+    - [5 - Evalute other ML Models](#5---Evalute-other-ML-Models)
     - [References:](#references)
 
 
@@ -150,7 +150,7 @@ cur_loss = run_lstm(ml_df, cur_feat, cur_targ, fname , title)<br>
 ![AAPL_pct_ch_sentimentpng.png](./Images/AAPL_pct_ch_sentimentpng.png)
 ![AAPL_pct_ch_AAPL_count_sumpng.png](./Images/AAPL_pct_ch_AAPL_count_sumpng.png)
 
-### 5 - Evalute other ML Models: Stock Prediction with PyTorch
+### 5 - Evalute other ML Models : Stock Prediction with PyTorch
 Stock market prediction is the act of trying to determine the future value of a company stock. The successful prediction of a stock’s future price could yield a significant profit, and this topic is within the scope of time series problems. Among the several ways developed over the years to accurately predict the complex and volatile variation of stock prices, neural networks, more specifically RNNs (Recurrent Neural Network), have shown significant application on the field. Here we are going to use the RNN model LSTM (Long short-term memory) with PyTorch to predict AMC stock market price 
 
 We are going to predict the Close price of AMC stock, and the following is the data behavior over the years.
