@@ -117,7 +117,7 @@ The Negative Words
 ![wsb_common_negative_titles_words.PNG](./Images/wsb_common_negative_titles_words.PNG)![wsb_common_negative_bodies_words.PNG](./Images/wsb_common_negative_bodies_words.PNG)
 
 ### 4 - Run LSTM Scenarios
-![LSTM.png]((./Images/LSTM.png)
+![LSTM.png](./Images/LSTM.png)
 4.1 We test the data with an LSTM Model with the following paramters:<br>
 * Test/Train Split = 70/30
 * model = Sequential()
