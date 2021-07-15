@@ -170,7 +170,7 @@ Having finished the training, we can apply the prediction.
 
 We calculated some additional financial metrics and tried to predict closing prices with a linear regression model. First, we calculated the 30-Day Rolling Standard Deviations, Simple Moving Averages, and Exponentially Weighted Moving Averages:
 
-![Rolling Stats](./Images/Rolling Stats.png)
+![Rolling Stats](./Images/Rolling%20Stats.png)
 
 Then, we calculated the Relative Strength Indices:
 
@@ -182,7 +182,7 @@ And finally, the Moving Average Convergence Divergence:
 
 We took a years worth of price data for AAPL, MSFT, AMZN, and UBER and used the first 9 months to train the model and the last 3 months to test the model. We scaled the data using sklearn's MinMaxScaler, fit the model, ran the model, plotted our results, and calculated the RMSE:
 
-![Fitting Model](./Images/Fitting Model.png)
+![Fitting Model](./Images/Fitting%20Model.png)
 
 Here are our results:
 
