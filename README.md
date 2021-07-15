@@ -72,7 +72,7 @@ We created the function: **pushiftapi (subreddit, start_year, start_month, start
 
 
 ### 2 - Data Wrangling
-![datawrangling.png](./Images/datawrangling.png)
+![datawrangling.png](./Images/data_wrangling.png)
 2.1. read WSB Data<br>
 The first step is to read the WSB into a dataframe
 ![WSB_DF.png](./Images/WSB_DF.png)
