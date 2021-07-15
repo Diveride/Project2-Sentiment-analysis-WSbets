@@ -72,7 +72,7 @@ We created the function: **pushiftapi (subreddit, start_year, start_month, start
 
 
 ### 2 - Data Wrangling
-
+![datawrangling.png](./Images/datawrangling.png)
 2.1. read WSB Data<br>
 The first step is to read the WSB into a dataframe
 ![WSB_DF.png](./Images/WSB_DF.png)
@@ -117,7 +117,7 @@ The Negative Words
 ![wsb_common_negative_titles_words.PNG](./Images/wsb_common_negative_titles_words.PNG)![wsb_common_negative_bodies_words.PNG](./Images/wsb_common_negative_bodies_words.PNG)
 
 ### 4 - Run LSTM Scenarios
-
+![LSTM.png]((./Images/LSTM.png)
 4.1 We test the data with an LSTM Model with the following paramters:<br>
 * Test/Train Split = 70/30
 * model = Sequential()
