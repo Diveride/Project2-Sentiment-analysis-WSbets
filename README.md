@@ -131,6 +131,7 @@ ml_df = fetch_data ('GME', '2021-01-28', '2021-06-28' )<br>
 4.3. We then create a feature list and a target list and select a stock from a ticker list<br>
 * targ_list = ['pct_ch', 'up_neu_dn']<br>
 * feat_list = [cur_tick + count_sufx] + feat_tmplt<br>
+
 4.4. Loop through them to get output with the following fucnction:<br>
 cur_loss = run_lstm(ml_df, cur_feat, cur_targ, fname , title)<br>
 4.5 tabulate the output:<br> 
