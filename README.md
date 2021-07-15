@@ -16,7 +16,7 @@ Determine if it is possible to predict stocks price action by analysing comments
 
 ## Rational
 
-WSB was a forum intially created for retail investor to exchange trades ideas. It became "famous" in early 2021 with the GME story and its short squeeze strategy. WSB has over 10mio subscribers and individual investors would share ideas and joint forces in risky bets like the short squeeze where they pick the stocks that have the most short open position and together start to buy them to "squeeze" the Institutions (often large Hedge Funds) being short teh stocks and forced to buy it back.
+WSB was a forum intially created for retail investor to exchange trades ideas. It became "famous" in early 2021 with the GME story and its short squeeze strategy. WSB has over 10 million subscribers and individual investors would share ideas and joint forces in risky bets like the short squeeze where they pick the stocks that have the most short open position and together start to buy them to "squeeze" the Institutions (often large Hedge Funds) being short the stocks and forced to buy it back.
 
 ## Approach / Table of content
 
@@ -54,7 +54,7 @@ format :
 To create your keys you need to create an account a "program" via the link https://www.reddit.com/prefs/apps.
 
 ![Reddit_API_result.png](./Images/PSAW_result.png)
-2.2. Second API: Retrieving the data via the Pushift Databse
+1.2. Second API: Retrieving the data via the Pushift Databse
 
 For this API, we used the wraper PSAW: Python Pushshift.io API Wrapper
 
@@ -137,12 +137,25 @@ cur_loss = run_lstm(ml_df, cur_feat, cur_targ, fname , title)<br>
 ![AAPL_pct_ch_sentimentpng.png](./Images/AAPL_pct_ch_sentimentpng.png)
 ![AAPL_pct_ch_AAPL_count_sumpng.png](./Images/AAPL_pct_ch_AAPL_count_sumpng.png)
 
-### 5 - Evalute other ML Models
-(Jimmy)
+### 5 - Evalute other ML Models: Stock Prediction with PyTorch
+Stock market prediction is the act of trying to determine the future value of a company stock. The successful prediction of a stock’s future price could yield a significant profit, and this topic is within the scope of time series problems. Among the several ways developed over the years to accurately predict the complex and volatile variation of stock prices, neural networks, more specifically RNNs (Recurrent Neural Network), have shown significant application on the field. Here we are going to use the RNN model LSTM (Long short-term memory) with PyTorch to predict AMC stock market price 
+
+We are going to predict the Close price of AMC stock, and the following is the data behavior over the years.
+![amc_stock_price_chart.png](./Images/amc_stock_price_chart.png)
+
+We slice the data frame to get the column we want and normalize the data. Then split the data into train and test sets. Before doing so, we must define the window width of the analysis. The use of prior time steps to predict the next time step is called the sliding window method.
+![split_data_and_setup_train_and_test.png](./Images/split_data_and_setup_train_and_test.png)
+The basic structure for building a PyTorch model is transforming them into tensors and defining some common values for both models regarding the layers.
+![import_PyTorch.png](./Images/import_PyTorch.png)
+An LSTM unit is composed of a cell, an input gate, an output gate, and a forget gate. The cell remembers values over arbitrary time intervals, and the three gates regulate the flow of information into and out of the cell.
+![LSTM.png](./Images/LSTM.png)
+Finally, we train the model over 100 epochs.
+![run_100_epoch_and_display_Data_and_training_prediction.png](./Images/run_100_epoch_and_display_Data_and_training_prediction.png)
+
 
 ### References:
 
-Trending stocks and cryptos on Reddit Wallstreetbets
+Trending stocks and cryptos on Reddit Wallstreetbets: 
 https://trade-tip.com/reddit-sentiment-wallstreetbets.html
 
 https://www.kaggle.com/sprakshith/beginner-s-guide-to-sentiment-analysis
@@ -150,4 +163,9 @@ https://www.kaggle.com/sprakshith/beginner-s-guide-to-sentiment-analysis
 https://www.kaggle.com/thomaskonstantin/reddit-wallstreetbets-posts-sentiment-analysis
 
 Reddit API : https://github.com/reddit-archive/reddit/wiki/API
+
 Pushift API : https://psaw.readthedocs.io/en/latest/ and https://pushshift.io
+
+PyTorch : https://pytorch.org/
+
+Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-prediction-with-pytorch-37f52ae84632 
