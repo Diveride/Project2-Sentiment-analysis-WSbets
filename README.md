@@ -29,7 +29,6 @@ We took the follow steps to develop senstivity scenarios (what-if)
     - [2 - Data Wrangling](#2---data-wrangling)
     - [3 - Common Word Sentiments](#3---common-word-sentiments)
     - [4 - Run LSTM Scenarios](#4---run-lstm-scenarios)
-    - [5 - Evalute other ML Models](#5---evalute-other-ml-models)
     - [5 - Evalute other ML Models](#5---Evalute-other-ML-Models)
     - [References:](#references)
 
