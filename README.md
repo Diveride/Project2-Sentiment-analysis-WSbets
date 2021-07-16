@@ -58,8 +58,6 @@ To create your keys you need to create an account and a "program" via the link h
 
 ![Reddit_API_result.png](./Images/Reddit_API_result.png)
 
-
-![Reddit_API_result.png](./Images/PSAW_result.png)
 1.2. Second API: Retrieving the data via the Pushift Databse
 
 For this API, we used the wraper PSAW: Python Pushshift.io API Wrapper
