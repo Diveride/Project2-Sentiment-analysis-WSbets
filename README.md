@@ -118,7 +118,7 @@ We generate wordclouds for both title and body, also wordclouds for each sentime
 
 
 ### 4 - Run LSTM Scenarios
-![LSTM.png](./Images/LSTM.png)
+![ha_LSTM.png](./Images/ha_LSTM.png)
 4.1 We test the data with an LSTM Model with the following paramters:<br>
 * Test/Train Split = 70/30
 * model = Sequential()
