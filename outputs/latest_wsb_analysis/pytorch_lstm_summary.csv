@@ -1,0 +1,3 @@
+ticker,rows,rmse,result_csv,chart_png
+MSTR,501,17.25347069364777,C:\Users\big_j\PycharmProjects\Project2-Sentiment-analysis-WSbets\outputs\latest_wsb_analysis\prices\mstr_pytorch_lstm_results.csv,C:\Users\big_j\PycharmProjects\Project2-Sentiment-analysis-WSbets\outputs\latest_wsb_analysis\charts\mstr_pytorch_lstm.png
+SPY,501,50.880307232391004,C:\Users\big_j\PycharmProjects\Project2-Sentiment-analysis-WSbets\outputs\latest_wsb_analysis\prices\spy_pytorch_lstm_results.csv,C:\Users\big_j\PycharmProjects\Project2-Sentiment-analysis-WSbets\outputs\latest_wsb_analysis\charts\spy_pytorch_lstm.png

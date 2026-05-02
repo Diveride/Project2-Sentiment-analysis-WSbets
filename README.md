@@ -4,6 +4,88 @@
 Bootcamp: Columbia Fintech<br>
 Cohort: March-Sep 2021<br>
 
+## 2026 refresh: latest top 10 WallStreetBets stocks
+
+This repository now includes a runnable refresh pipeline that:
+
+- pulls the latest public `r/wallstreetbets` posts without requiring Reddit credentials,
+- extracts and validates ticker mentions against Yahoo Finance,
+- ranks the latest top 10 discussed stocks,
+- computes current price analysis for each ticker using rolling statistics, RSI, MACD, and a linear-regression RMSE,
+- saves fresh CSV, JSON, Markdown, and PNG outputs under `outputs/latest_wsb_analysis/`.
+
+### Quick start
+
+Use the project virtual environment and install the dependencies from `requirements.txt`.
+For TensorFlow compatibility on Windows, Python `3.12` is the safest choice for this project.
+
+```powershell
+Set-Location "C:\Users\big_j\PycharmProjects\Project2-Sentiment-analysis-WSbets"
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+python -m nltk.downloader punkt stopwords wordnet omw-1.4 vader_lexicon
+python run_latest_analysis.py
+```
+
+### Optional arguments
+
+```powershell
+python run_latest_analysis.py --top-n 10 --per-feed 100 --price-period 1y
+```
+
+### Fresh output files
+
+- `outputs/latest_wsb_analysis/latest_wsb_posts.csv`
+- `outputs/latest_wsb_analysis/latest_wsb_mentions.csv`
+- `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
+- `outputs/latest_wsb_analysis/top10_summary.json`
+- `outputs/latest_wsb_analysis/top10_summary.md`
+- `outputs/latest_wsb_analysis/financial_metrics_summary.csv`
+- `outputs/latest_wsb_analysis/pytorch_lstm_summary.csv`
+- `outputs/latest_wsb_analysis/wsb_word_sentiment_summary.csv`
+- `outputs/latest_wsb_analysis/charts/top10_mentions_and_sentiment.png`
+- `outputs/latest_wsb_analysis/charts/top10_relative_performance.png`
+- `outputs/latest_wsb_analysis/charts/*_dashboard.png`
+
+### Runnable notebooks
+
+All primary notebooks in this repository have been refreshed to run against the current public-data workflow.
+They no longer depend on Pushshift, Alpaca credentials, or legacy local `.env` files.
+
+Recommended notebook run order:
+
+1. `Reddit_API_Data.ipynb`
+   - refreshes the latest public `r/wallstreetbets` post dataset
+   - writes updated root CSVs (`wsb_reddit_api_data.csv`, `wsb_pushshift_data.csv`)
+   - writes current outputs to `outputs/latest_wsb_analysis/`
+2. `WSBets_Sentiment_Analysis.ipynb`
+   - builds a live merged sentiment + market dataset for the latest top ticker
+   - runs a lightweight LSTM notebook workflow
+3. `financial_metrics.ipynb`
+   - analyzes the current top WSB tickers with rolling stats, RSI, MACD, and regression RMSE
+4. `word_sentiment_of_reddit_wsb.ipynb`
+   - computes title/body sentiment summaries and word clouds from the latest WSB posts
+5. `stock_prediction_with_PyTorch.ipynb`
+   - trains a compact PyTorch LSTM on the latest top WSB tickers
+
+### Execute all notebooks from the terminal
+
+```powershell
+Set-Location "C:\Users\big_j\PycharmProjects\Project2-Sentiment-analysis-WSbets"
+.\.venv\Scripts\Activate.ps1
+python -m jupyter nbconvert --to notebook --execute "Reddit_API_Data.ipynb" --output "Reddit_API_Data.executed.ipynb" --ExecutePreprocessor.timeout=1200
+python -m jupyter nbconvert --to notebook --execute "WSBets_Sentiment_Analysis.ipynb" --output "WSBets_Sentiment_Analysis.executed.ipynb" --ExecutePreprocessor.timeout=1200
+python -m jupyter nbconvert --to notebook --execute "financial_metrics.ipynb" --output "financial_metrics.executed.ipynb" --ExecutePreprocessor.timeout=1200
+python -m jupyter nbconvert --to notebook --execute "word_sentiment_of_reddit_wsb.ipynb" --output "word_sentiment_of_reddit_wsb.executed.ipynb" --ExecutePreprocessor.timeout=1200
+python -m jupyter nbconvert --to notebook --execute "stock_prediction_with_PyTorch.ipynb" --output "stock_prediction_with_PyTorch.executed.ipynb" --ExecutePreprocessor.timeout=1200
+```
+
+### Important note about the older README sections below
+
+The remainder of this README preserves the original 2021 project narrative for historical context.
+Those sections still describe the original Pushshift, direct Reddit OAuth, and Alpaca-based workflow.
+For the current runnable project, use the refresh pipeline and notebook workflow documented above instead.
+
 **Creators:**
 * Hassan Alam
 * Julian Lopez
@@ -12,214 +94,23 @@ Cohort: March-Sep 2021<br>
 
 ## Goal
 
-Determine if it is possible to predict stocks price action by analysing comments in the "famous" WallStreetBets (WSB) Subreddit group by applying Natural Language Programing (NLP) and Machine leanring models (including Long Short Term Memory -LSTM). The project was more an investigation of possible approaches than a final production produt. The idea was to asses and compare the value of WSB (unconventional data inputs for trading models) Vs traditional prices and financial indicators.
+Determine if it is possible to predict stock price action by analyzing comments in the "famous" WallStreetBets (WSB) Subreddit group by applying Natural Language Programing (NLP) and Machine leanring models (including Long Short Term Memory -LSTM). The project was more an investigation of possible approaches than a final production produt. The idea was to asses and compare the value of WSB (unconventional data inputs for trading models) Vs traditional prices and financial indicators.
 
 ## Rational
 
-WSB was a forum intially created for retail investor to exchange trades ideas. It became "famous" in early 2021 with the GME story and its short squeeze strategy. WSB has over 10 million subscribers and individual investors would share ideas and joint forces in risky bets like the short squeeze where they pick the stocks that have the most short open position and together start to buy them to "squeeze" the Institutions (often large Hedge Funds) being short the stocks and forced to buy it back.
+WSB was a forum initially created for retail investors to exchange trade ideas. It became "famous" in early 2021 with the GME story and its short squeeze strategy. WSB has over 10 million subscribers and individual investors would share ideas and joint forces in risky bets like the short squeeze where they pick the stocks that have the most short open position and together start to buy them to "squeeze" the Institutions (often large Hedge Funds) being short the stocks and forced to buy it back.
 
-## Approach / Table of content
+## Historical 2021 workflow summary
 
-We took the follow steps to develop senstivity scenarios (what-if)
-- [Project2 (grp3): WSbets Sentiment Analysis and stock price prediction](#project2-grp3-wsbets-sentiment-analysis-and-stock-price-prediction)
-  - [Goal](#goal)
-  - [Rational](#rational)
-  - [Approach / Table of content](#approach--table-of-content)
-    - [1 - Read WSB : API](#1---read-wsb--api)
-    - [2 - Data Wrangling](#2---data-wrangling)
-    - [3 - Common Word Sentiments](#3---common-word-sentiments)
-    - [4 - Run LSTM Scenarios](#4---run-lstm-scenarios)
-    - [5 - Evalute other ML Models](#5---Evalute-other-ML-Models)
-    - [6 - Linear Regression Model Using Other Financial Metrics](#6---Linear-Regression)
-    - [References:](#references)
+The original project explored several approaches that are now preserved mainly for historical context:
 
+- collecting Reddit data with direct Reddit API and Pushshift,
+- combining ticker mentions with price moves,
+- generating sentiment-focused word clouds,
+- experimenting with TensorFlow and PyTorch LSTMs,
+- evaluating linear regression against technical indicators.
 
-### 1 - Read WSB : API
-
-As a user, the first step is to create a Reddit account and join/request access to the subreddit that you want to analyse. In our case it is WSBest. Note this group is now private and it can take several days before you get approved. 
-
-1.1. First API: Retrieving the data via Reddit API directly
-
-It is not the best way to retrieve large dataset but it is a good way to stream/retrieve data in real time. It is also one of the only solution to access the updates for each post. So if you need/want to keep all the information about a post (comments - votes - score...) you probably want to use this methodology.
-
-The constraints of this API is that you are limited to 100 posts per requests. Hence we had to create a loop to allow the user to go back in time as much as desired by batches of 100 posts. This limitation makes it harder and a lot longer to build a large enough dataset to feed our machine learning experimentation.
-
-Therefore we decided to use a different methodology/API to build our dataset. However we still wanted to give the user the flexibility to use this API. The user can also adjust the code to create a "live" feed / stream of the last WSBets posts.
-
-We Created a function called: **reddit_direct_api(subreddit, max_batch, limit_posts)**
-To run the function the user needs Reddit API keys and  Reddit account password saved in an .env
-format :<br> 
-    client_id = os.getenv("REDDIT_CLIENT_ID")<br> 
-    reddit_secret_key = os.getenv("REDDIT_SECRET_KEY")<br>
-    reddit_pw = os.getenv('REDDIT_PW')<br>
-    
-To create your keys you need to create an account and a "program" via the link https://www.reddit.com/prefs/apps.
-
-
-![Reddit_API_result.png](./Images/Reddit_API_result.png)
-
-1.2. Second API: Retrieving the data via the Pushift Databse
-
-For this API, we used the wraper PSAW: Python Pushshift.io API Wrapper
-
-Pushift is a database built for users looking to extract a large amount of data - posts. The database is updated realtim, as soon as a new post is submitted to Reddit it is transfered to the database. However this is a one time transfer and hence this databse is missing all the "events" happening after the post initial submission. Therefore PSAW is for example missing the score information, comments ...<br>
-We still decided to go with this API as it allowed us to build a very large amount of data relatively quickly. The file we created and used for the future analysis contains 200k rows.
-
-We created the function: **pushiftapi (subreddit, start_year, start_month, start_date, end_year, end_month, end_date, max_posts)**<br>
-
-![PSAW_result.png](./Images/PSAW_result.png)
-
-
-
-### 2 - Data Wrangling<br>
-![datawrangling.png](./Images/datawrangling.png)
-2.1. read WSB Data<br>
-The first step is to read the WSB into a dataframe
-![WSB_DF.png](./Images/WSB_DF.png)
-2.2. Add sentiment Data <br>
-We then add sentiment data <br>
-![analyzed_df.png](./Images/analyzed_df.png)
-The derived columns of interest are:<br>
-* 'date' - the date of the message.<br>
-* 'title_body' - combined text of title and body
-* 'GME_count' - count how how many times the ticker (GME) was mentioned <br>
-* 'title_body_sent' - overall sentiment of title and body<br>
-* 'GME_sent' - sentiment of text mentioning ticker (GME) <br>
-* 'title_body_sent_sum' - sum of daily sentiment in title and body<br>
-* 'GME_sent_sum' - sum of daily sentiment of text mentioning GME<br>
-
-<br>
-2.3. add stock data from alpaca<br>
-We then read the stock data from Alpaca
-
-![Alpaca_GME_df.png](./Images/Alpaca_GME_df.png)
-2.4. Data Output
-We then create a DataFrame feeding into Machine Learning<br>
-![ML_GME_DF.png](./Images/ML_GME_DF.png)
-all numbers daily 
-* 'mentions' - number of mentions of ticker
-* 'sentiment' - overall sentiment
-* 'ticker_sent' - ticker sentiment
-* 'pct_ch' - percent change of ticker price
-* 'up_neu_dn' - is stuck up (+1) down (-1) or neutral (0)
-
-### 3 - Common Word Sentiments
-
-3.1 Get Sentiment Value for title and body post<br>
-We separate the title and body column into their own dataframe, drop na, do stemming, clean the text, obtain the sentiment values using nltk SentimentIntensityAnalyzer, and then we plot them<br>
-![plot_setiments_for_reddit_title_and_body_posts.PNG](./Images/plot_setiments_for_reddit_title_and_body_posts.PNG)
-3.2 Generate Wordlouds<br>
-We generate wordclouds for both title and body, also wordclouds for each sentiment (negative, positive, and neutral)<br>
-![Token_Visualization_of_Common_Words_Among_Post_Titles.PNG](./Images/Token_Visualization_of_Common_Words_Among_Post_Titles.PNG)![wsb_common_words_among_Bodies_post.PNG](./Images/wsb_common_words_among_Bodies_post.PNG)<br>
-* The Positive Words<br>
-![wsb_common_positive_titles_words.PNG](./Images/wsb_common_positive_titles_words.PNG)![wsb_common_positive_bodies_words.PNG](./Images/wsb_common_positive_bodies_words.PNG)
-* The Negative Words<br>
-![wsb_common_negative_titles_words.PNG](./Images/wsb_common_negative_titles_words.PNG)![wsb_common_negative_bodies_words.PNG](./Images/wsb_common_negative_bodies_words.PNG)<br>
-
-
-### 4 - Run LSTM Scenarios
-![ha_LSTM.png](./Images/ha_LSTM.png)
-4.1 We test the data with an LSTM Model with the following paramters:<br>
-* Test/Train Split = 70/30
-* model = Sequential()
-* number_units = 5
-* dropout_fraction = 0.2
-* 4 layer with single output layer
-
-To run the LSTM scenarios:
-4.2 We first import stock data and create the ML Data as described above<br>
-ml_df = fetch_data ('GME', '2021-01-28', '2021-06-28' )<br>
-4.3. We then create a feature list and a target list and select a stock from a ticker list<br>
-* targ_list = ['pct_ch', 'up_neu_dn']<br>
-* feat_list = [cur_tick + count_sufx] + feat_tmplt<br>
-
-4.4. Loop through them to get output with the following fucnction:<br>
-
-cur_loss = run_lstm(ml_df, cur_feat, cur_targ, fname , title)<br>
-
-4.5 tabulate the output:<br> 
-![AAPL_Analysis.png](./Images/AAPL_Analysis.png)
-
-4.6 As can be seen from charting results, this needs a lot more experimentation:
-![AAPL_up_neu_dn_ticker_sentpng.png](./Images/AAPL_up_neu_dn_ticker_sentpng.png)
-![AAPL_up_neu_dn_sentimentpng.png](./Images/AAPL_up_neu_dn_sentimentpng.png)
-![AAPL_up_neu_dn_AAPL_count_sumpng.png](./Images/AAPL_up_neu_dn_AAPL_count_sumpng.png)
-![AAPL_pct_ch_ticker_sentpng.png](./Images/AAPL_pct_ch_ticker_sentpng.png)
-![AAPL_pct_ch_sentimentpng.png](./Images/AAPL_pct_ch_sentimentpng.png)
-![AAPL_pct_ch_AAPL_count_sumpng.png](./Images/AAPL_pct_ch_AAPL_count_sumpng.png)
-
-### 5 - Evalute other ML Models : Stock Prediction with PyTorch
-Stock market prediction is the act of trying to determine the future value of a company stock. The successful prediction of a stock’s future price could yield a significant profit, and this topic is within the scope of time series problems. Among the several ways developed over the years to accurately predict the complex and volatile variation of stock prices, neural networks, more specifically RNNs (Recurrent Neural Network), have shown significant application on the field. Here we are going to use the RNN model LSTM (Long short-term memory) with PyTorch to predict AMC stock market price 
-
-We are going to predict the Close price of AMC and GME stock, and the following is the data behavior over the years.
-
-AMC Stock Price
-![amc_stock_price_chart.png](./Images/amc_stock_price_chart.PNG)
-
-GME Stock Price
-![gme_stock_price_chart.PNG](./Images/gme_stock_price_chart.PNG)
-
-We slice the data frame to get the column we want and normalize the data. Then split the data into train and test sets. Before doing so, we must define the window width of the analysis. The use of prior time steps to predict the next time step is called the sliding window method.
-![split_data_and_setup_train_and_test.png](./Images/split_data_and_setup_train_and_test.PNG)
-The basic structure for building a PyTorch model is transforming them into tensors and defining some common values for both models regarding the layers.
-![import_PyTorch.png](./Images/import_PyTorch.PNG)
-An LSTM unit is composed of a cell, an input gate, an output gate, and a forget gate. The cell remembers values over arbitrary time intervals, and the three gates regulate the flow of information into and out of the cell.
-![long_short_term_memory.png](./Images/long_short_term_memory.PNG)
-Finally, we train the model over 100 epochs.
-
-AMC Stock Prediction!
-![run_100_epoch_and_display_Data_and_training_prediction.png](./Images/run_100_epoch_and_display_Data_and_training_prediction.PNG)
-
-GME Stock Prediction!
-![gme_training_prediction_and_epoch.PNG](./Images/gme_training_prediction_and_epoch.PNG)
-
-Having finished the training, we can apply the prediction.
-
-AMC Result
-![Results_LSTM.png](./Images/Results_LSTM.PNG)
-
-GME Result
-![Results_LSTM_gme.png](./Images/Results_LSTM_gme.PNG)
-
-### 6: Linear Regression Model Using Other Financial Metrics
-
-We calculated some additional financial metrics and tried to predict closing prices with a linear regression model. First, we calculated the 30-Day Rolling Standard Deviations, Simple Moving Averages, and Exponentially Weighted Moving Averages:
-
-![Rolling Stats](./Images/Rolling%20Stats.png)
-
-Then, we calculated the Relative Strength Indices:
-
-![RSI](./Images/RSI.png)
-
-And finally, the Moving Average Convergence Divergence:
-
-![MACD](./Images/MACD.png)
-
-We took a years worth of price data for AAPL, MSFT, AMZN, and UBER and used the first 9 months to train the model and the last 3 months to test the model. We scaled the data using sklearn's MinMaxScaler, fit the model, ran the model, plotted our results, and calculated the RMSE:
-
-![Fitting Model](./Images/Fitting%20Model.png)
-
-Here are our results:
-
-#### AAPL
-![AAPL](./Images/AAPL.png)
-
-RMSE = 1.627
-
-#### MSFT
-![MSFT](./Images/MSFT.png)
-
-RMSE = 1.786
-
-#### AMZN
-![AMZN](./Images/AMZN.png)
-
-RMSE = 51.043
-
-#### UBER
-![UBER](./Images/UBER.png)
-
-RMSE = 1.131
+Those original ideas are still reflected in the refreshed notebooks, but the current project now uses public Reddit JSON feeds and Yahoo Finance instead of the older Pushshift / Alpaca path.
 
 ### References:
 
