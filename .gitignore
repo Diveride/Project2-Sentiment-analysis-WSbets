@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea
+
+# Duplicate generated outputs under src/ – canonical location is outputs/latest_wsb_analysis/
+src/wsb_latest/outputs/

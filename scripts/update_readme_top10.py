@@ -6,6 +6,8 @@ from pathlib import Path
 
 import pandas as pd
 
+_PRICE_COLS = {"last_close", "return_21d", "rmse"}
+
 START_MARKER = "<!-- AUTO_TOP10_START -->"
 END_MARKER = "<!-- AUTO_TOP10_END -->"
 ANCHOR_MARKER = "<!-- AUTO_TOP10_ANCHOR -->"
@@ -36,6 +38,17 @@ def build_auto_section(project_root: Path) -> str:
     top_df = pd.read_csv(top10_csv)
     if top_df.empty:
         raise RuntimeError("Top 10 summary CSV exists but has no rows.")
+
+    # If price-analysis columns are absent from the CSV (written by an older run
+    # or a run that crashed before the merge), backfill from the JSON payload,
+    # which always receives the fully-merged symbol records.
+    if top10_json.exists() and not _PRICE_COLS.issubset(top_df.columns):
+        payload = json.loads(top10_json.read_text(encoding="utf-8"))
+        json_df = pd.DataFrame(payload.get("symbols", []))
+        if not json_df.empty and "ticker" in json_df.columns:
+            fill_cols = [c for c in json_df.columns if c not in top_df.columns]
+            if fill_cols:
+                top_df = top_df.merge(json_df[["ticker"] + fill_cols], on="ticker", how="left")
 
     generated_at = "n/a"
     data_source = "n/a"
