@@ -3,14 +3,14 @@
 - Data source: `reddit_public_json`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-05-04T02:59:28.364379+00:00`
+- Generated at (UTC): `2026-05-04T03:47:15.844068+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
 | 1 | POET | 25 | 8 | 0.173 |
-| 2 | INTC | 14 | 8 | 0.412 |
+| 2 | INTC | 15 | 8 | 0.381 |
 | 3 | NVDA | 9 | 9 | 0.238 |
 | 4 | AMD | 13 | 5 | 0.089 |
 | 5 | SNDK | 7 | 5 | -0.007 |

@@ -59,7 +59,7 @@ Recommended notebook run order:
    - writes updated root CSVs (`wsb_reddit_api_data.csv`, `wsb_pushshift_data.csv`)
    - writes current outputs to `outputs/latest_wsb_analysis/`
 2. `WSBets_Sentiment_Analysis.ipynb`
-   - builds a live merged sentiment + market dataset for the latest top ticker
+   - builds a live-merged sentiment + market dataset for the latest top ticker
    - runs a lightweight LSTM notebook workflow
 3. `financial_metrics.ipynb`
    - analyzes the current top WSB tickers with rolling stats, RSI, MACD, and regression RMSE
@@ -108,11 +108,11 @@ For the current runnable project, use the refresh pipeline and notebook workflow
 
 ## Goal
 
-Determine if it is possible to predict stock price action by analyzing comments in the "famous" WallStreetBets (WSB) Subreddit group by applying Natural Language Programing (NLP) and Machine leanring models (including Long Short Term Memory -LSTM). The project was more an investigation of possible approaches than a final production produt. The idea was to asses and compare the value of WSB (unconventional data inputs for trading models) Vs traditional prices and financial indicators.
+Determine if it is possible to predict stock price action by analyzing comments in the "famous" WallStreetBets (WSB) Subreddit group by applying Natural Language Programing (NLP) and Machine learning models (including Long Short-Term Memory — LSTM). The project was more an investigation of possible approaches than a final production product. The idea was to assess and compare the value of WSB (unconventional data inputs for trading models) Vs traditional prices and financial indicators.
 
 ## Rational
 
-WSB was a forum initially created for retail investors to exchange trade ideas. It became "famous" in early 2021 with the GME story and its short squeeze strategy. WSB has over 10 million subscribers and individual investors would share ideas and joint forces in risky bets like the short squeeze where they pick the stocks that have the most short open position and together start to buy them to "squeeze" the Institutions (often large Hedge Funds) being short the stocks and forced to buy it back.
+WSB was a forum initially created for retail investors to exchange trade ideas. It became "famous" in early 2021 with the GME story and its short squeeze strategy. WSB has over 10 million subscribers, and individual investors would share ideas and joint forces in risky bets like the short squeeze where they pick the stocks that have the most short open position and together start to buy them to "squeeze" the Institutions (often large Hedge Funds) being short the stocks and forced to buy it back.
 
 ## Historical 2021 workflow summary
 
@@ -141,12 +141,12 @@ Pushift API : https://psaw.readthedocs.io/en/latest/ and https://pushshift.io
 
 PyTorch : https://pytorch.org/
 
-Stock Price Prediction with PyTorch : https://medium.com/swlh/stock-price-prediction-with-pytorch-37f52ae84632
+Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-prediction-with-pytorch-37f52ae84632
 
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-04T02:59:28.362377+00:00`
+- Generated at (UTC): `2026-05-04T03:47:15.842064+00:00`
 - Data source: `reddit_public_json`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -162,7 +162,7 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1 | POET | 25 | 8 | 0.173 | 7.31 | 30.54% | 0.699 |
-| 2 | INTC | 14 | 8 | 0.412 | 99.62 | 107.41% | 3.989 |
+| 2 | INTC | 15 | 8 | 0.381 | 99.62 | 107.41% | 3.989 |
 | 3 | NVDA | 9 | 9 | 0.238 | 198.45 | 12.92% | 1.730 |
 | 4 | AMD | 13 | 5 | 0.089 | 360.54 | 71.51% | 6.137 |
 | 5 | SNDK | 7 | 5 | -0.007 | 1187.00 | 71.35% | 48.288 |

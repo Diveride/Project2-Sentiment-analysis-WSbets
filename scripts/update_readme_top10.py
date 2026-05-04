@@ -41,7 +41,7 @@ def build_auto_section(project_root: Path) -> str:
 
     # If price-analysis columns are absent from the CSV (written by an older run
     # or a run that crashed before the merge), backfill from the JSON payload,
-    # which always receives the fully-merged symbol records.
+    # which always receives the fully merged symbol records.
     if top10_json.exists() and not _PRICE_COLS.issubset(top_df.columns):
         payload = json.loads(top10_json.read_text(encoding="utf-8"))
         json_df = pd.DataFrame(payload.get("symbols", []))
@@ -79,7 +79,12 @@ def build_auto_section(project_root: Path) -> str:
     lines.append("| Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |")
     lines.append("| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |")
 
-    ordered = top_df.sort_values("rank_score", ascending=False).reset_index(drop=True)
+    # Keep README rank order consistent with pipeline ranking and stable across ties.
+    ordered = top_df.sort_values(
+        ["rank_score", "mention_count", "post_count", "engagement", "ticker"],
+        ascending=[False, False, False, False, True],
+        kind="mergesort",
+    ).reset_index(drop=True)
     for rank, row in ordered.iterrows():
         ticker = str(row.get("ticker", ""))
         lines.append(
