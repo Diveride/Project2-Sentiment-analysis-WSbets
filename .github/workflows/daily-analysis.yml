@@ -28,7 +28,13 @@ jobs:
           python -m pip install -r requirements.txt
           python -m nltk.downloader punkt stopwords wordnet omw-1.4 vader_lexicon
 
+      - name: Run latest WSB analysis pipeline
+        run: |
+          python run_latest_analysis.py --top-n 10 --per-feed 100 --price-period 1y
+
       - name: Execute notebooks
+        env:
+          WSB_REFRESH_DATA: "0"
         run: |
           python -m jupyter nbconvert --to notebook --execute "Reddit_API_Data.ipynb" --output "Reddit_API_Data.executed.ipynb" --ExecutePreprocessor.timeout=1800
           python -m jupyter nbconvert --to notebook --execute "WSBets_Sentiment_Analysis.ipynb" --output "WSBets_Sentiment_Analysis.executed.ipynb" --ExecutePreprocessor.timeout=1800
@@ -36,9 +42,6 @@ jobs:
           python -m jupyter nbconvert --to notebook --execute "word_sentiment_of_reddit_wsb.ipynb" --output "word_sentiment_of_reddit_wsb.executed.ipynb" --ExecutePreprocessor.timeout=1800
           python -m jupyter nbconvert --to notebook --execute "stock_prediction_with_PyTorch.ipynb" --output "stock_prediction_with_PyTorch.executed.ipynb" --ExecutePreprocessor.timeout=1800
 
-      - name: Run latest WSB analysis pipeline
-        run: |
-          python run_latest_analysis.py --top-n 10 --per-feed 100 --price-period 1y
 
       - name: Update README top10 section
         run: |
