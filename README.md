@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-04T05:28:59.960442+00:00`
+- Generated at (UTC): `2026-05-04T05:37:27.088065+00:00`
 - Data source: `fallback:wsb_reddit_api_data.csv`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -161,18 +161,18 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Top 10 Table
 
-| Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return |   RMSE |
-|------|--------|---------:|------:|--------------:|-----------:|-----------:|-------:|
-| 1    | POET   |       25 |     8 |         0.173 |       7.31 |     30.54% |  0.699 |
-| 2    | INTC   |       14 |     8 |         0.412 |      99.62 |    107.41% |  3.989 |
-| 3    | NVDA   |        9 |     9 |         0.238 |     198.45 |     12.92% |  1.730 |
-| 4    | AMD    |       13 |     5 |         0.089 |     360.54 |     71.51% |  6.137 |
-| 5    | SNDK   |        7 |     5 |        -0.007 |    1187.00 |     71.35% | 48.288 |
-| 6    | VITL   |       14 |     3 |         0.771 |      14.18 |      5.82% |  1.320 |
-| 7    | META   |        6 |     5 |         0.593 |     608.75 |      5.10% |  7.175 |
-| 8    | MSFT   |        5 |     5 |        -0.148 |     414.44 |     12.20% |  8.488 |
-| 9    | CAR    |        8 |     4 |        -0.047 |     185.55 |      9.10% | 60.190 |
-| 10   | TSLA   |        6 |     4 |        -0.072 |     390.82 |      2.51% |  3.601 |
+| Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| 1 | POET | 25 | 8 | 0.173 | 7.31 | 30.54% | 0.699 |
+| 2 | INTC | 14 | 8 | 0.412 | 99.62 | 107.41% | 3.989 |
+| 3 | NVDA | 9 | 9 | 0.238 | 198.45 | 12.92% | 1.730 |
+| 4 | AMD | 13 | 5 | 0.089 | 360.54 | 71.51% | 6.137 |
+| 5 | SNDK | 7 | 5 | -0.007 | 1187.00 | 71.35% | 48.288 |
+| 6 | VITL | 14 | 3 | 0.771 | 14.18 | 5.82% | 1.320 |
+| 7 | META | 6 | 5 | 0.593 | 608.75 | 5.10% | 7.175 |
+| 8 | MSFT | 5 | 5 | -0.148 | 414.44 | 12.20% | 8.488 |
+| 9 | CAR | 8 | 4 | -0.047 | 185.55 | 9.10% | 60.190 |
+| 10 | TSLA | 6 | 4 | -0.072 | 390.82 | 2.51% | 3.601 |
 
 ### Aggregate Charts
 
