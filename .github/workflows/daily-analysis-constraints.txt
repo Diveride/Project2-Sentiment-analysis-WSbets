@@ -17,7 +17,7 @@ scikit-learn==1.8.0
 scipy==1.17.1
 seaborn==0.13.2
 tensorflow==2.21.0
-torch==2.11.0
+torch==2.11.0+cpu
 wordcloud==1.9.6
 yfinance==0.2.58
 
