@@ -36,7 +36,6 @@ jobs:
         env:
           WSB_REFRESH_DATA: "0"
         run: |
-          python -m jupyter nbconvert --to notebook --execute "Reddit_API_Data.ipynb" --output "Reddit_API_Data.executed.ipynb" --ExecutePreprocessor.timeout=1800
           python -m jupyter nbconvert --to notebook --execute "WSBets_Sentiment_Analysis.ipynb" --output "WSBets_Sentiment_Analysis.executed.ipynb" --ExecutePreprocessor.timeout=1800
           python -m jupyter nbconvert --to notebook --execute "financial_metrics.ipynb" --output "financial_metrics.executed.ipynb" --ExecutePreprocessor.timeout=1800
           python -m jupyter nbconvert --to notebook --execute "word_sentiment_of_reddit_wsb.ipynb" --output "word_sentiment_of_reddit_wsb.executed.ipynb" --ExecutePreprocessor.timeout=1800
