@@ -3,7 +3,7 @@
 - Data source: `fallback:wsb_reddit_api_data.csv`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-05-04T04:52:32.455391+00:00`
+- Generated at (UTC): `2026-05-04T05:05:48.459537+00:00`
 
 ## Top tickers
 
