@@ -1,24 +1,24 @@
 # Latest WallStreetBets Top 10 Analysis
 
-- Data source: `reddit_public_json`
+- Data source: `fallback:wsb_reddit_api_data.csv`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-05-04T03:47:15.844068+00:00`
+- Generated at (UTC): `2026-05-04T04:52:32.455391+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
-|------|--------|---------:|------:|--------------:|
-| 1    | POET   |       25 |     8 |         0.173 |
-| 2    | INTC   |       15 |     8 |         0.381 |
-| 3    | NVDA   |        9 |     9 |         0.238 |
-| 4    | AMD    |       13 |     5 |         0.089 |
-| 5    | SNDK   |        7 |     5 |        -0.007 |
-| 6    | VITL   |       14 |     3 |         0.771 |
-| 7    | META   |        6 |     5 |         0.593 |
-| 8    | MSFT   |        5 |     5 |        -0.148 |
-| 9    | CAR    |        8 |     4 |        -0.047 |
-| 10   | TSLA   |        6 |     4 |        -0.072 |
+| --- | --- | ---: | ---: | ---: |
+| 1 | POET | 25 | 8 | 0.173 |
+| 2 | INTC | 14 | 8 | 0.412 |
+| 3 | NVDA | 9 | 9 | 0.238 |
+| 4 | AMD | 13 | 5 | 0.089 |
+| 5 | SNDK | 7 | 5 | -0.007 |
+| 6 | VITL | 14 | 3 | 0.771 |
+| 7 | META | 6 | 5 | 0.593 |
+| 8 | MSFT | 5 | 5 | -0.148 |
+| 9 | CAR | 8 | 4 | -0.047 |
+| 10 | TSLA | 6 | 4 | -0.072 |
 
 ## Market snapshot
 
