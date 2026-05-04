@@ -2,11 +2,15 @@ name: Daily WSB Refresh
 
 on:
   schedule:
-    - cron: "20 13 * * *"
+    - cron: "20 22 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: daily-refresh
+  cancel-in-progress: false
 
 jobs:
   refresh:
@@ -27,6 +31,10 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
           python -m nltk.downloader punkt stopwords wordnet omw-1.4 vader_lexicon
+
+      - name: Clean stale outputs
+        run: |
+          rm -rf outputs/latest_wsb_analysis
 
       - name: Run latest WSB analysis pipeline
         run: |
@@ -59,7 +67,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md outputs/latest_wsb_analysis *.executed.ipynb wsb_reddit_api_data.csv wsb_pushshift_data.csv
+          git add README.md outputs/latest_wsb_analysis *.executed.ipynb
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
