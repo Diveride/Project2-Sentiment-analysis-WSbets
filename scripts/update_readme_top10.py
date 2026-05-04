@@ -14,11 +14,10 @@ ANCHOR_MARKER = "<!-- AUTO_TOP10_ANCHOR -->"
 
 
 def _fmt_float(value: object, decimals: int = 3, percent: bool = False) -> str:
-    if value is None or (isinstance(value, float) and pd.isna(value)):
+    if value is None or pd.isna(value):
         return "n/a"
-    try:
-        numeric = float(value)
-    except (TypeError, ValueError):
+    numeric = pd.to_numeric(value, errors="coerce")
+    if pd.isna(numeric):
         return "n/a"
     if percent:
         return f"{numeric * 100:.2f}%"
