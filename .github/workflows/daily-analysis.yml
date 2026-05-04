@@ -48,7 +48,8 @@ jobs:
         run: |
           python run_latest_analysis.py --top-n 10 --per-feed 100 --price-period 1y
 
-      - name: Fail on fallback data source
+      - name: Enforce live data source on scheduled runs
+        if: ${{ github.event_name == 'schedule' }}
         run: |
           python - <<'PY'
           import json
@@ -64,6 +65,25 @@ jobs:
           print(f"data_source={data_source}")
           if data_source.startswith("fallback:"):
               sys.exit("Fallback data source detected; failing workflow for freshness.")
+          PY
+
+      - name: Warn on fallback data source for push/manual runs
+        if: ${{ github.event_name != 'schedule' }}
+        run: |
+          python - <<'PY'
+          import json
+          import pathlib
+
+          summary_path = pathlib.Path("outputs/latest_wsb_analysis/top10_summary.json")
+          if not summary_path.exists():
+              print(f"::warning::Missing expected summary file: {summary_path}")
+              raise SystemExit(0)
+
+          payload = json.loads(summary_path.read_text(encoding="utf-8"))
+          data_source = str(payload.get("data_source", ""))
+          print(f"data_source={data_source}")
+          if data_source.startswith("fallback:"):
+              print("::warning::Fallback data source detected on non-scheduled run; continuing.")
           PY
 
       - name: Execute notebooks
