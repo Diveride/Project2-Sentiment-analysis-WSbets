@@ -47,6 +47,24 @@ jobs:
         run: |
           python run_latest_analysis.py --top-n 10 --per-feed 100 --price-period 1y
 
+      - name: Fail on fallback data source
+        run: |
+          python - <<'PY'
+          import json
+          import pathlib
+          import sys
+
+          summary_path = pathlib.Path("outputs/latest_wsb_analysis/top10_summary.json")
+          if not summary_path.exists():
+              sys.exit(f"Missing expected summary file: {summary_path}")
+
+          payload = json.loads(summary_path.read_text(encoding="utf-8"))
+          data_source = str(payload.get("data_source", ""))
+          print(f"data_source={data_source}")
+          if data_source.startswith("fallback:"):
+              sys.exit("Fallback data source detected; failing workflow for freshness.")
+          PY
+
       - name: Execute notebooks
         env:
           WSB_REFRESH_DATA: "0"
