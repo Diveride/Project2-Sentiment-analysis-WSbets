@@ -3,6 +3,7 @@
 alpaca-trade-api==3.2.0
 emoji==2.15.0
 jupyter==1.1.1
+jupyter-server==2.18.0
 matplotlib==3.10.8
 nbconvert==7.17.1
 nltk==3.9.4
