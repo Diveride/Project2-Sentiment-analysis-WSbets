@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-05T03:01:37.741675+00:00`
+- Generated at (UTC): `2026-05-05T23:14:19.845656+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 10 | 10 | 0.384 | 198.48 | 11.89% | 1.682 |
-| 2 | INTC | 12 | 8 | 0.399 | 95.78 | 90.12% | 4.180 |
-| 3 | AMD | 7 | 6 | 0.242 | 341.54 | 57.03% | 6.215 |
-| 4 | CAR | 8 | 4 | -0.033 | 168.29 | -11.62% | 60.747 |
-| 5 | TSLA | 6 | 4 | -0.072 | 392.51 | 8.85% | 3.509 |
-| 6 | SNDK | 5 | 4 | -0.206 | 1255.86 | 79.00% | 47.312 |
-| 7 | META | 5 | 4 | 0.544 | 610.41 | 6.26% | 4.492 |
-| 8 | VITL | 12 | 2 | 0.830 | 13.00 | 3.26% | 1.467 |
-| 9 | MSFT | 4 | 4 | -0.054 | 413.62 | 10.75% | 6.241 |
-| 10 | PLTR | 4 | 3 | 0.285 | 146.03 | -1.64% | 4.237 |
+| 1 | NVDA | 13 | 13 | 0.302 | 196.50 | 10.62% | 1.571 |
+| 2 | AMD | 11 | 10 | -0.073 | 355.26 | 61.35% | 6.129 |
+| 3 | INTC | 7 | 5 | 0.408 | 108.15 | 112.98% | 4.474 |
+| 4 | MSFT | 5 | 5 | -0.111 | 411.38 | 10.33% | 9.206 |
+| 5 | TSLA | 6 | 4 | -0.072 | 389.37 | 10.36% | 3.266 |
+| 6 | GOOGL | 5 | 4 | 0.443 | 388.43 | 29.48% | 3.161 |
+| 7 | SNDK | 4 | 3 | -0.560 | 1406.32 | 94.07% | 46.926 |
+| 8 | MSTR | 4 | 3 | 0.276 | 186.90 | 46.37% | 7.004 |
+| 9 | QQQ | 4 | 3 | -0.288 | 681.61 | 15.82% | 7.944 |
+| 10 | AMZN | 3 | 3 | 0.436 | 273.55 | 28.55% | 1.683 |
 
 ### Aggregate Charts
 
@@ -186,39 +186,39 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### INTC
-
-![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
-
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### CAR
+#### INTC
 
-![CAR Dashboard](outputs/latest_wsb_analysis/charts/car_dashboard.png)
-
-#### TSLA
-
-![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
-
-#### SNDK
-
-![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
-
-#### META
-
-![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
-
-#### VITL
-
-![VITL Dashboard](outputs/latest_wsb_analysis/charts/vitl_dashboard.png)
+![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
 
 #### MSFT
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### PLTR
+#### TSLA
 
-![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
+![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
+
+#### GOOGL
+
+![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
+
+#### SNDK
+
+![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+
+#### MSTR
+
+![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
+
+#### QQQ
+
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
+
+#### AMZN
+
+![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
 <!-- AUTO_TOP10_END -->

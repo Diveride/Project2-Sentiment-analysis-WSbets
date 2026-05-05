@@ -3,22 +3,22 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-05-05T03:01:37.743669+00:00`
+- Generated at (UTC): `2026-05-05T23:14:19.847827+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
-| 1 | NVDA | 10 | 10 | 0.384 |
-| 2 | INTC | 12 | 8 | 0.399 |
-| 3 | AMD | 7 | 6 | 0.242 |
-| 4 | CAR | 8 | 4 | -0.033 |
+| 1 | NVDA | 13 | 13 | 0.302 |
+| 2 | AMD | 11 | 10 | -0.073 |
+| 3 | INTC | 7 | 5 | 0.408 |
+| 4 | MSFT | 5 | 5 | -0.111 |
 | 5 | TSLA | 6 | 4 | -0.072 |
-| 6 | SNDK | 5 | 4 | -0.206 |
-| 7 | META | 5 | 4 | 0.544 |
-| 8 | VITL | 12 | 2 | 0.830 |
-| 9 | MSFT | 4 | 4 | -0.054 |
-| 10 | PLTR | 4 | 3 | 0.286 |
+| 6 | GOOGL | 5 | 4 | 0.443 |
+| 7 | SNDK | 4 | 3 | -0.560 |
+| 8 | MSTR | 4 | 3 | 0.276 |
+| 9 | QQQ | 4 | 3 | -0.288 |
+| 10 | AMZN | 3 | 3 | 0.436 |
 
 ## Reddit fetch diagnostics
 
@@ -36,13 +36,13 @@
 
 ## Market snapshot
 
-- **NVDA**: close `198.48`, 1M return `11.89%` if available, RSI `53.01` and regression RMSE `1.682`
-- **INTC**: close `95.78`, 1M return `90.12%` if available, RSI `79.85` and regression RMSE `4.180`
-- **AMD**: close `341.54`, 1M return `57.03%` if available, RSI `69.88` and regression RMSE `6.215`
-- **CAR**: close `168.29`, 1M return `-11.62%` if available, RSI `41.59` and regression RMSE `60.747`
-- **TSLA**: close `392.51`, 1M return `8.85%` if available, RSI `56.91` and regression RMSE `3.509`
-- **SNDK**: close `1255.86`, 1M return `79.00%` if available, RSI `76.53` and regression RMSE `47.312`
-- **META**: close `610.41`, 1M return `6.26%` if available, RSI `41.25` and regression RMSE `4.492`
-- **VITL**: close `13.00`, 1M return `3.26%` if available, RSI `44.56` and regression RMSE `1.467`
-- **MSFT**: close `413.62`, 1M return `10.75%` if available, RSI `53.99` and regression RMSE `6.241`
-- **PLTR**: close `146.03`, 1M return `-1.64%` if available, RSI `52.61` and regression RMSE `4.237`
+- **NVDA**: close `196.50`, 1M return `10.62%` if available, RSI `50.82` and regression RMSE `1.571`
+- **AMD**: close `355.26`, 1M return `61.35%` if available, RSI `72.54` and regression RMSE `6.129`
+- **INTC**: close `108.15`, 1M return `112.98%` if available, RSI `84.53` and regression RMSE `4.474`
+- **MSFT**: close `411.38`, 1M return `10.33%` if available, RSI `52.59` and regression RMSE `9.206`
+- **TSLA**: close `389.37`, 1M return `10.36%` if available, RSI `54.99` and regression RMSE `3.266`
+- **GOOGL**: close `388.43`, 1M return `29.48%` if available, RSI `81.33` and regression RMSE `3.161`
+- **SNDK**: close `1406.32`, 1M return `94.07%` if available, RSI `81.13` and regression RMSE `46.926`
+- **MSTR**: close `186.90`, 1M return `46.37%` if available, RSI `68.92` and regression RMSE `7.004`
+- **QQQ**: close `681.61`, 1M return `15.82%` if available, RSI `76.43` and regression RMSE `7.944`
+- **AMZN**: close `273.55`, 1M return `28.55%` if available, RSI `80.51` and regression RMSE `1.683`
