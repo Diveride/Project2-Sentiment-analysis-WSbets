@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-05T02:47:30.808218+00:00`
+- Generated at (UTC): `2026-05-05T03:01:37.741675+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -166,11 +166,11 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 | 1 | NVDA | 10 | 10 | 0.384 | 198.48 | 11.89% | 1.682 |
 | 2 | INTC | 12 | 8 | 0.399 | 95.78 | 90.12% | 4.180 |
 | 3 | AMD | 7 | 6 | 0.242 | 341.54 | 57.03% | 6.215 |
-| 4 | VITL | 14 | 3 | 0.771 | 13.00 | 3.26% | 1.467 |
-| 5 | CAR | 8 | 4 | -0.033 | 168.29 | -11.62% | 60.747 |
-| 6 | TSLA | 6 | 4 | -0.072 | 392.51 | 8.85% | 3.509 |
-| 7 | SNDK | 5 | 4 | -0.206 | 1255.86 | 79.00% | 47.312 |
-| 8 | META | 5 | 4 | 0.544 | 610.41 | 6.26% | 4.492 |
+| 4 | CAR | 8 | 4 | -0.033 | 168.29 | -11.62% | 60.747 |
+| 5 | TSLA | 6 | 4 | -0.072 | 392.51 | 8.85% | 3.509 |
+| 6 | SNDK | 5 | 4 | -0.206 | 1255.86 | 79.00% | 47.312 |
+| 7 | META | 5 | 4 | 0.544 | 610.41 | 6.26% | 4.492 |
+| 8 | VITL | 12 | 2 | 0.830 | 13.00 | 3.26% | 1.467 |
 | 9 | MSFT | 4 | 4 | -0.054 | 413.62 | 10.75% | 6.241 |
 | 10 | PLTR | 4 | 3 | 0.285 | 146.03 | -1.64% | 4.237 |
 
@@ -194,10 +194,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### VITL
-
-![VITL Dashboard](outputs/latest_wsb_analysis/charts/vitl_dashboard.png)
-
 #### CAR
 
 ![CAR Dashboard](outputs/latest_wsb_analysis/charts/car_dashboard.png)
@@ -213,6 +209,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### META
 
 ![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
+
+#### VITL
+
+![VITL Dashboard](outputs/latest_wsb_analysis/charts/vitl_dashboard.png)
 
 #### MSFT
 
