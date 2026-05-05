@@ -5,7 +5,10 @@ import contextlib
 import io
 import json
 import math
+import os
+import random
 import re
+import time
 import warnings
 from collections import Counter
 from dataclasses import dataclass
@@ -22,6 +25,7 @@ import numpy as np
 import pandas as pd
 import requests
 import yfinance as yf
+from dotenv import load_dotenv
 from nltk.sentiment import SentimentIntensityAnalyzer
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
@@ -29,11 +33,17 @@ from sklearn.preprocessing import MinMaxScaler
 
 warnings.filterwarnings("ignore", message="Timestamp.utcnow is deprecated")
 
+load_dotenv()
+
 REDDIT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 WSBLatestAnalysis/1.0"
 }
 REDDIT_TIMEOUT = 30
+REDDIT_AUTH_URL = "https://www.reddit.com/api/v1/access_token"
+REDDIT_PUBLIC_BASE_URL = "https://www.reddit.com"
+REDDIT_OAUTH_BASE_URL = "https://oauth.reddit.com"
+REDDIT_RETRYABLE_STATUS_CODES = {429, 500, 502, 503, 504}
 SUBREDDIT = "wallstreetbets"
 CASHTAG_RE = re.compile(r"\$([A-Za-z]{2,5})\b", re.IGNORECASE)
 UPPER_TOKEN_RE = re.compile(r"\b[A-Z]{2,5}\b")
@@ -98,6 +108,178 @@ class PipelineConfig:
     output_dir: Path = Path("outputs") / "latest_wsb_analysis"
 
 
+@dataclass(frozen=True)
+class RedditCredentials:
+    client_id: str = ""
+    client_secret: str = ""
+    user_agent: str = REDDIT_HEADERS["User-Agent"]
+    custom_user_agent_provided: bool = False
+
+    @property
+    def has_client_credentials(self) -> bool:
+        return bool(self.client_id and self.client_secret)
+
+
+class RedditRequestError(RuntimeError):
+    def __init__(self, message: str, attempts: list[dict]):
+        super().__init__(message)
+        self.attempts = attempts
+
+
+def get_reddit_credentials() -> RedditCredentials:
+    client_id = os.getenv("REDDIT_CLIENT_ID", "").strip()
+    client_secret = (
+        os.getenv("REDDIT_CLIENT_SECRET", "").strip()
+        or os.getenv("REDDIT_SECRET_ID", "").strip()
+        or os.getenv("REDDIT_SECRET", "").strip()
+    )
+    user_agent = os.getenv("REDDIT_USER_AGENT", "").strip()
+    return RedditCredentials(
+        client_id=client_id,
+        client_secret=client_secret,
+        user_agent=user_agent or REDDIT_HEADERS["User-Agent"],
+        custom_user_agent_provided=bool(user_agent),
+    )
+
+
+def get_reddit_auth_mode() -> str:
+    mode = os.getenv("WSB_REDDIT_AUTH_MODE", "auto").strip().lower()
+    return mode if mode in {"auto", "disabled", "required"} else "auto"
+
+
+def get_reddit_retry_count() -> int:
+    raw_value = os.getenv("WSB_REDDIT_MAX_RETRIES", "4").strip()
+    try:
+        return max(int(raw_value), 1)
+    except ValueError:
+        return 4
+
+
+def get_reddit_backoff_base() -> float:
+    raw_value = os.getenv("WSB_REDDIT_BACKOFF_SECONDS", "2.0").strip()
+    try:
+        return max(float(raw_value), 0.0)
+    except ValueError:
+        return 2.0
+
+
+def get_reddit_backoff_cap() -> float:
+    raw_value = os.getenv("WSB_REDDIT_MAX_BACKOFF_SECONDS", "20.0").strip()
+    try:
+        return max(float(raw_value), 0.0)
+    except ValueError:
+        return 20.0
+
+
+def compute_backoff_delay(attempt: int, retry_after: str | None = None) -> float:
+    if retry_after:
+        try:
+            return max(min(float(retry_after), get_reddit_backoff_cap()), 0.0)
+        except ValueError:
+            pass
+
+    base = get_reddit_backoff_base()
+    cap = get_reddit_backoff_cap()
+    delay = base * (2 ** max(attempt - 1, 0))
+    jitter = random.uniform(0.0, min(base, 1.0))
+    return min(delay + jitter, cap)
+
+
+def request_json_with_retries(
+    session: requests.Session,
+    *,
+    method: str,
+    url: str,
+    headers: dict[str, str],
+    params: dict[str, object] | None = None,
+    data: dict[str, object] | None = None,
+    auth: tuple[str, str] | None = None,
+    timeout: int = REDDIT_TIMEOUT,
+    request_label: str,
+) -> tuple[dict, list[dict]]:
+    attempts: list[dict] = []
+    last_error = "Unknown error"
+    max_retries = get_reddit_retry_count()
+
+    for attempt in range(1, max_retries + 1):
+        attempt_info: dict[str, object] = {"attempt": attempt, "request": request_label}
+        response: requests.Response | None = None
+        try:
+            response = session.request(
+                method=method,
+                url=url,
+                headers=headers,
+                params=params,
+                data=data,
+                auth=auth,
+                timeout=timeout,
+            )
+            attempt_info["status_code"] = response.status_code
+            retry_after = response.headers.get("Retry-After")
+            rate_limit_remaining = response.headers.get("x-ratelimit-remaining")
+            rate_limit_reset = response.headers.get("x-ratelimit-reset")
+            if retry_after:
+                attempt_info["retry_after"] = retry_after
+            if rate_limit_remaining is not None:
+                attempt_info["rate_limit_remaining"] = rate_limit_remaining
+            if rate_limit_reset is not None:
+                attempt_info["rate_limit_reset"] = rate_limit_reset
+
+            if response.status_code in REDDIT_RETRYABLE_STATUS_CODES:
+                last_error = f"HTTP {response.status_code}"
+                attempt_info["outcome"] = "retryable_status"
+                attempt_info["error"] = last_error
+                attempts.append(attempt_info)
+                if attempt < max_retries:
+                    delay = compute_backoff_delay(attempt, retry_after=retry_after)
+                    attempt_info["sleep_seconds"] = round(delay, 2)
+                    time.sleep(delay)
+                continue
+
+            response.raise_for_status()
+            payload = response.json()
+            attempt_info["outcome"] = "success"
+            attempts.append(attempt_info)
+            return payload, attempts
+        except (requests.RequestException, ValueError) as exc:
+            last_error = f"{type(exc).__name__}: {exc}"
+            attempt_info["outcome"] = "error"
+            attempt_info["error"] = last_error
+            if response is not None and "status_code" not in attempt_info:
+                attempt_info["status_code"] = response.status_code
+            attempts.append(attempt_info)
+            if attempt < max_retries:
+                delay = compute_backoff_delay(attempt, retry_after=attempt_info.get("retry_after"))
+                attempt_info["sleep_seconds"] = round(delay, 2)
+                time.sleep(delay)
+
+    raise RedditRequestError(f"{request_label} failed after {max_retries} attempts. {last_error}", attempts)
+
+
+def get_reddit_access_token(session: requests.Session, credentials: RedditCredentials) -> tuple[str, dict]:
+    payload, attempts = request_json_with_retries(
+        session,
+        method="POST",
+        url=REDDIT_AUTH_URL,
+        headers={"User-Agent": credentials.user_agent},
+        data={"grant_type": "client_credentials"},
+        auth=(credentials.client_id, credentials.client_secret),
+        request_label="reddit_oauth_token",
+    )
+    access_token = str(payload.get("access_token", "")).strip()
+    if not access_token:
+        raise RedditRequestError("reddit_oauth_token succeeded without returning an access_token.", attempts)
+
+    return access_token, {
+        "attempted": True,
+        "succeeded": True,
+        "token_type": payload.get("token_type"),
+        "scope": payload.get("scope"),
+        "expires_in": payload.get("expires_in"),
+        "attempts": attempts,
+    }
+
+
 def ensure_nltk_resources() -> None:
     for resource in ("vader_lexicon",):
         try:
@@ -106,75 +288,198 @@ def ensure_nltk_resources() -> None:
             nltk.download(resource, quiet=True)
 
 
-def fetch_reddit_feed(feed: str, limit: int, top_time: str = "week") -> list[dict]:
-    url = f"https://www.reddit.com/r/{SUBREDDIT}/{feed}.json"
+def fetch_reddit_feed(
+    feed: str,
+    limit: int,
+    *,
+    session: requests.Session,
+    user_agent: str,
+    oauth_token: str | None = None,
+    top_time: str = "week",
+) -> tuple[list[dict], dict]:
+    base_url = REDDIT_OAUTH_BASE_URL if oauth_token else REDDIT_PUBLIC_BASE_URL
+    url = f"{base_url}/r/{SUBREDDIT}/{feed}.json"
     params: dict[str, object] = {"limit": limit, "raw_json": 1}
     if feed == "top":
         params["t"] = top_time
 
-    response = requests.get(url, headers=REDDIT_HEADERS, params=params, timeout=REDDIT_TIMEOUT)
-    response.raise_for_status()
-    payload = response.json()
-    return payload.get("data", {}).get("children", [])
+    headers = {"User-Agent": user_agent}
+    mode = "oauth" if oauth_token else "public_json"
+    if oauth_token:
+        headers["Authorization"] = f"Bearer {oauth_token}"
+
+    payload, attempts = request_json_with_retries(
+        session,
+        method="GET",
+        url=url,
+        headers=headers,
+        params=params,
+        request_label=f"reddit_feed:{feed}:{mode}",
+    )
+    children = payload.get("data", {}).get("children", [])
+    return children, {
+        "feed": feed,
+        "mode": mode,
+        "status": "success",
+        "items_received": len(children),
+        "attempts": attempts,
+    }
 
 
-def load_recent_posts(per_feed: int) -> tuple[pd.DataFrame, str]:
+def load_recent_posts(per_feed: int) -> tuple[pd.DataFrame, str, dict]:
     feeds = ("hot", "new", "rising", "top")
     collected: list[dict] = []
     failures: list[str] = []
+    credentials = get_reddit_credentials()
+    auth_mode = get_reddit_auth_mode()
+    fetch_diagnostics: dict[str, object] = {
+        "subreddit": SUBREDDIT,
+        "per_feed": per_feed,
+        "auth_mode": auth_mode,
+        "credentials_present": {
+            "client_id": bool(credentials.client_id),
+            "client_secret": bool(credentials.client_secret),
+            "custom_user_agent": credentials.custom_user_agent_provided,
+        },
+        "auth": {
+            "attempted": False,
+            "succeeded": False,
+            "used": False,
+            "error": None,
+            "attempts": [],
+        },
+        "feeds": [],
+        "used_fallback": False,
+        "fallback_source": None,
+        "fallback_reason": None,
+        "selected_mode": None,
+    }
 
-    for feed in feeds:
+    session = requests.Session()
+    oauth_token: str | None = None
+
+    if auth_mode != "disabled" and credentials.has_client_credentials:
+        fetch_diagnostics["auth"]["attempted"] = True
         try:
-            children = fetch_reddit_feed(feed, per_feed)
-            for child in children:
-                post = child.get("data", {})
-                collected.append(
+            oauth_token, auth_details = get_reddit_access_token(session, credentials)
+            fetch_diagnostics["auth"].update(auth_details)
+        except RedditRequestError as exc:
+            fetch_diagnostics["auth"]["attempted"] = True
+            fetch_diagnostics["auth"]["succeeded"] = False
+            fetch_diagnostics["auth"]["error"] = str(exc)
+            fetch_diagnostics["auth"]["attempts"] = exc.attempts
+            failures.append(f"oauth_token: {exc}")
+            if auth_mode == "required":
+                session.close()
+                raise RuntimeError(f"Authenticated Reddit access required, but token acquisition failed. {exc}") from exc
+    elif auth_mode == "required":
+        session.close()
+        raise RuntimeError("Authenticated Reddit access required, but REDDIT_CLIENT_ID / REDDIT_SECRET_ID were not provided.")
+
+    successful_modes: list[str] = []
+
+    try:
+        for feed in feeds:
+            mode_candidates = [
+                ("oauth", oauth_token),
+                ("public_json", None),
+            ] if oauth_token else [("public_json", None)]
+            feed_loaded = False
+
+            for mode_name, mode_token in mode_candidates:
+                try:
+                    children, feed_diag = fetch_reddit_feed(
+                        feed,
+                        per_feed,
+                        session=session,
+                        user_agent=credentials.user_agent,
+                        oauth_token=mode_token,
+                    )
+                    fetch_diagnostics["feeds"].append(feed_diag)
+                    if children:
+                        successful_modes.append(mode_name)
+                    for child in children:
+                        post = child.get("data", {})
+                        collected.append(
+                            {
+                                "id": post.get("id"),
+                                "feed": feed,
+                                "title": post.get("title") or "",
+                                "body": post.get("selftext") or "",
+                                "score": post.get("score", 0),
+                                "num_comments": post.get("num_comments", 0),
+                                "created_utc": post.get("created_utc"),
+                                "permalink": f"https://www.reddit.com{post.get('permalink', '')}",
+                                "url": post.get("url") or "",
+                            }
+                        )
+                    feed_loaded = True
+                    if mode_name == "oauth":
+                        fetch_diagnostics["auth"]["used"] = True
+                    break
+                except RedditRequestError as exc:  # pragma: no cover - network fallback path
+                    fetch_diagnostics["feeds"].append(
+                        {
+                            "feed": feed,
+                            "mode": mode_name,
+                            "status": "error",
+                            "items_received": 0,
+                            "error": str(exc),
+                            "attempts": exc.attempts,
+                        }
+                    )
+                    failures.append(f"{feed}/{mode_name}: {exc}")
+
+            if not feed_loaded:
+                failures.append(f"{feed}: all Reddit fetch modes failed")
+
+        if collected:
+            posts_df = pd.DataFrame(collected).drop_duplicates(subset=["id"]).copy()
+            posts_df["created_utc"] = pd.to_datetime(posts_df["created_utc"], unit="s", utc=True)
+            posts_df["text"] = (posts_df["title"].fillna("") + " " + posts_df["body"].fillna("")).str.strip()
+            successful_mode_set = set(successful_modes)
+            if successful_mode_set == {"oauth"}:
+                source_name = "reddit_authenticated_api"
+            elif "oauth" in successful_mode_set and "public_json" in successful_mode_set:
+                source_name = "reddit_mixed_api"
+            else:
+                source_name = "reddit_public_json"
+            fetch_diagnostics["selected_mode"] = source_name
+            return posts_df.sort_values("created_utc", ascending=False), source_name, fetch_diagnostics
+
+        fallback_paths = [Path("wsb_reddit_api_data.csv"), Path("wsb_pushshift_data.csv")]
+        for fallback in fallback_paths:
+            if fallback.exists():
+                df = pd.read_csv(str(fallback))
+                title_col = "title" if "title" in df.columns else df.columns[0]
+                body_col = "body" if "body" in df.columns else ("selftext" if "selftext" in df.columns else title_col)
+                timestamp_col = "timestamp" if "timestamp" in df.columns else None
+                fallback_df = pd.DataFrame(
                     {
-                        "id": post.get("id"),
-                        "feed": feed,
-                        "title": post.get("title") or "",
-                        "body": post.get("selftext") or "",
-                        "score": post.get("score", 0),
-                        "num_comments": post.get("num_comments", 0),
-                        "created_utc": post.get("created_utc"),
-                        "permalink": f"https://www.reddit.com{post.get('permalink', '')}",
-                        "url": post.get("url") or "",
+                        "id": df.index.astype(str),
+                        "feed": "fallback_csv",
+                        "title": df[title_col].fillna(""),
+                        "body": df[body_col].fillna(""),
+                        "score": df.get("score", pd.Series(0, index=df.index)).fillna(0),
+                        "num_comments": df.get("num_comments", pd.Series(0, index=df.index)).fillna(0),
+                        "created_utc": pd.to_datetime(df[timestamp_col]) if timestamp_col else pd.Timestamp.utcnow(),
+                        "permalink": "",
+                        "url": "",
                     }
                 )
-        except Exception as exc:  # pragma: no cover - network fallback path
-            failures.append(f"{feed}: {exc}")
+                fallback_df["text"] = (fallback_df["title"] + " " + fallback_df["body"]).str.strip()
+                failure_text = "; ".join(failures) if failures else "No posts returned from Reddit"
+                fetch_diagnostics["used_fallback"] = True
+                fetch_diagnostics["fallback_source"] = fallback.name
+                fetch_diagnostics["fallback_reason"] = failure_text
+                fetch_diagnostics["selected_mode"] = "fallback_csv"
+                return fallback_df.sort_values("created_utc", ascending=False), f"fallback:{fallback.name}", fetch_diagnostics
 
-    if collected:
-        posts_df = pd.DataFrame(collected).drop_duplicates(subset=["id"]).copy()
-        posts_df["created_utc"] = pd.to_datetime(posts_df["created_utc"], unit="s", utc=True)
-        posts_df["text"] = (posts_df["title"].fillna("") + " " + posts_df["body"].fillna("")).str.strip()
-        return posts_df.sort_values("created_utc", ascending=False), "reddit_public_json"
-
-    fallback_paths = [Path("wsb_reddit_api_data.csv"), Path("wsb_pushshift_data.csv")]
-    for fallback in fallback_paths:
-        if fallback.exists():
-            df = pd.read_csv(str(fallback))
-            title_col = "title" if "title" in df.columns else df.columns[0]
-            body_col = "body" if "body" in df.columns else ("selftext" if "selftext" in df.columns else title_col)
-            timestamp_col = "timestamp" if "timestamp" in df.columns else None
-            fallback_df = pd.DataFrame(
-                {
-                    "id": df.index.astype(str),
-                    "feed": "fallback_csv",
-                    "title": df[title_col].fillna(""),
-                    "body": df[body_col].fillna(""),
-                    "score": df.get("score", pd.Series(0, index=df.index)).fillna(0),
-                    "num_comments": df.get("num_comments", pd.Series(0, index=df.index)).fillna(0),
-                    "created_utc": pd.to_datetime(df[timestamp_col]) if timestamp_col else pd.Timestamp.utcnow(),
-                    "permalink": "",
-                    "url": "",
-                }
-            )
-            fallback_df["text"] = (fallback_df["title"] + " " + fallback_df["body"]).str.strip()
-            return fallback_df.sort_values("created_utc", ascending=False), f"fallback:{fallback.name}"
-
-    failure_text = "; ".join(failures) if failures else "No posts returned from Reddit"
-    raise RuntimeError(f"Unable to fetch recent WSB posts. {failure_text}")
+        failure_text = "; ".join(failures) if failures else "No posts returned from Reddit"
+        fetch_diagnostics["fallback_reason"] = failure_text
+        raise RuntimeError(f"Unable to fetch recent WSB posts. {failure_text}")
+    finally:
+        session.close()
 
 
 def extract_candidate_tickers(text: str) -> Counter:
@@ -423,6 +728,7 @@ def write_summary_markdown(
     source_name: str,
     summary_df: pd.DataFrame,
     analysis_rows: list[dict],
+    fetch_diagnostics: dict,
     output_path: Path,
 ) -> None:
     lines = [
@@ -442,6 +748,29 @@ def write_summary_markdown(
     for rank, row in enumerate(summary_df.to_dict(orient="records"), start=1):
         lines.append(
             f"| {rank} | {row['ticker']} | {int(row['mention_count'])} | {int(row['post_count'])} | {row['avg_sentiment']:.3f} |"
+        )
+
+    lines.extend(["", "## Reddit fetch diagnostics", ""])
+    lines.append(f"- Auth mode: `{fetch_diagnostics.get('auth_mode', 'auto')}`")
+    lines.append(f"- Selected mode: `{fetch_diagnostics.get('selected_mode', source_name)}`")
+    lines.append(f"- Fallback used: `{fetch_diagnostics.get('used_fallback', False)}`")
+    auth_diag = fetch_diagnostics.get("auth", {})
+    if auth_diag.get("attempted"):
+        lines.append(f"- OAuth token request succeeded: `{auth_diag.get('succeeded', False)}`")
+    if fetch_diagnostics.get("fallback_reason"):
+        lines.append(f"- Fallback reason: `{fetch_diagnostics['fallback_reason']}`")
+    lines.extend(
+        [
+            "",
+            "| Feed | Mode | Status | Items | Notes |",
+            "| --- | --- | --- | ---: | --- |",
+        ]
+    )
+    for feed_diag in fetch_diagnostics.get("feeds", []):
+        note = str(feed_diag.get("error") or "")
+        note = note.replace("|", "/")[:140] if note else ""
+        lines.append(
+            f"| {feed_diag.get('feed', 'n/a')} | {feed_diag.get('mode', 'n/a')} | {feed_diag.get('status', 'n/a')} | {int(feed_diag.get('items_received', 0))} | {note} |"
         )
 
     lines.extend(["", "## Market snapshot", ""])
@@ -497,7 +826,7 @@ def run_pipeline(top_n: int = 10, per_feed: int = 100, price_period: str = "1y",
         for existing_file in prices_dir.glob(pattern):
             existing_file.unlink(missing_ok=True)
 
-    posts_df, source_name = load_recent_posts(config.per_feed)
+    posts_df, source_name, fetch_diagnostics = load_recent_posts(config.per_feed)
     annotated_posts = annotate_posts_with_tickers(posts_df)
     summary_df, mentions_df = build_mentions_table(annotated_posts, config.top_n)
 
@@ -545,13 +874,15 @@ def run_pipeline(top_n: int = 10, per_feed: int = 100, price_period: str = "1y",
         "data_source": source_name,
         "generated_at_utc": pd.Timestamp.utcnow().isoformat(),
         "top_n": config.top_n,
+        "fetch_diagnostics": fetch_diagnostics,
         "symbols": merged_summary.to_dict(orient="records"),
     }
     (config.output_dir / "top10_summary.json").write_text(json.dumps(summary_payload, indent=2, default=str), encoding="utf-8")
-    write_summary_markdown(config, source_name, merged_summary, analysis_rows, config.output_dir / "top10_summary.md")
+    write_summary_markdown(config, source_name, merged_summary, analysis_rows, fetch_diagnostics, config.output_dir / "top10_summary.md")
 
     return {
         "data_source": source_name,
+        "fetch_diagnostics": fetch_diagnostics,
         "posts": int(len(annotated_posts)),
         "tickers": merged_summary["ticker"].tolist(),
         "output_dir": str(config.output_dir.resolve()),

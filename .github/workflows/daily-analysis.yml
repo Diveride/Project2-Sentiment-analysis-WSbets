@@ -22,6 +22,17 @@ jobs:
   refresh:
     if: ${{ github.event_name != 'push' || github.actor != 'github-actions[bot]' }}
     runs-on: ubuntu-latest
+    env:
+      ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
+      ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+      REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+      REDDIT_SECRET_ID: ${{ secrets.REDDIT_SECRET_ID }}
+      REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_SECRET_ID }}
+      REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
+      WSB_REDDIT_AUTH_MODE: auto
+      WSB_REDDIT_MAX_RETRIES: "4"
+      WSB_REDDIT_BACKOFF_SECONDS: "2"
+      WSB_REDDIT_MAX_BACKOFF_SECONDS: "20"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
@@ -65,9 +76,14 @@ jobs:
 
           payload = json.loads(summary_path.read_text(encoding="utf-8"))
           data_source = str(payload.get("data_source", ""))
+          diagnostics = payload.get("fetch_diagnostics", {})
           print(f"data_source={data_source}")
+          if diagnostics:
+              print("fetch_diagnostics=")
+              print(json.dumps(diagnostics, indent=2))
           if data_source.startswith("fallback:"):
-              sys.exit("Fallback data source detected; failing workflow for freshness.")
+              fallback_reason = diagnostics.get("fallback_reason", "No fallback reason recorded.")
+              sys.exit(f"Fallback data source detected; failing workflow for freshness. Reason: {fallback_reason}")
           PY
 
       - name: Warn on fallback data source for push/manual runs
@@ -84,9 +100,14 @@ jobs:
 
           payload = json.loads(summary_path.read_text(encoding="utf-8"))
           data_source = str(payload.get("data_source", ""))
+          diagnostics = payload.get("fetch_diagnostics", {})
           print(f"data_source={data_source}")
+          if diagnostics:
+              print("fetch_diagnostics=")
+              print(json.dumps(diagnostics, indent=2))
           if data_source.startswith("fallback:"):
-              print("::warning::Fallback data source detected on non-scheduled run; continuing.")
+              fallback_reason = diagnostics.get("fallback_reason", "No fallback reason recorded.")
+              print(f"::warning::Fallback data source detected on non-scheduled run; continuing. Reason: {fallback_reason}")
           PY
 
       - name: Execute notebooks
