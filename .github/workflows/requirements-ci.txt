@@ -1,0 +1,16 @@
+# Minimal dependency set for the GitHub Actions daily refresh job.
+# Keep this focused on the pipeline plus the notebooks executed in CI.
+matplotlib
+nbconvert
+ipykernel
+nltk
+numpy
+pandas
+python-dotenv
+requests
+scikit-learn
+seaborn
+torch
+wordcloud
+yfinance
+

@@ -1,23 +1,17 @@
 # Pinned, known-good dependency set for the scheduled refresh workflow.
-# Keep this aligned with the project's working Python 3.12 environment.
-alpaca-trade-api==3.2.0
-emoji==2.15.0
-jupyter==1.1.1
-jupyter-server==2.18.0
+# Keep this aligned with the slimmer CI-only install in `.github/workflows/requirements-ci.txt`.
+ipykernel==7.2.0
 matplotlib==3.10.8
 nbconvert==7.17.1
 nltk==3.9.4
 numpy==2.4.4
 pandas==3.0.2
 Pillow==12.2.0
-praw==7.8.1
-psaw==0.1.0
 python-dotenv==1.2.2
 requests==2.33.1
 scikit-learn==1.8.0
 scipy==1.17.1
 seaborn==0.13.2
-tensorflow==2.21.0
 torch==2.11.0+cpu
 wordcloud==1.9.6
 yfinance==0.2.58
