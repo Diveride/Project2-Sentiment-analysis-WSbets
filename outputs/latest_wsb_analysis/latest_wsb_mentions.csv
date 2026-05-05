@@ -1,57 +1,51 @@
 post_id,ticker,mentions,sentiment,score,num_comments,engagement,created_utc,title,permalink
-2,AMD,1,-0.1027,33,0,3.5263605246161616,2026-05-03 23:32:22,I don't even know why I sold..,
-10,AMD,1,0.0644,111,0,4.718498871295094,2026-05-03 14:33:45,Sell Covered call gone wrong,
-57,AMD,8,0.7581,18,0,2.9444389791664403,2026-05-01 17:32:18,INTC Short-term Options Play - DD,
-69,AMD,2,0.0,5755,0,8.657998068007258,2026-05-01 13:02:06,"+$8,000,000 in April (188%). AMD and TQQQ on margin",
-112,AMD,1,-0.2732,230,0,5.442417710521793,2026-04-29 23:10:51,Just crossed half a million. Thank you Big Techs for buying all the rams.,
-22,CAR,1,-0.9568,2601,0,7.86403565907245,2026-05-02 08:33:33,My attempt to manage an infant and continue day trading options,
-29,CAR,2,-0.8667,86,0,4.465908118654584,2026-05-02 03:46:56,"The $CAR crash was so violent, that the wheels came off.",
-32,CAR,4,0.9997,30,0,3.4339872044851463,2026-05-02 00:35:30,I’ll be at the next $CAR rally,
-76,CAR,1,0.6369,77,0,4.356708826689592,2026-05-01 05:03:55,CAR gains,
-0,INTC,1,0.7906,1,0,0.6931471805599453,2026-05-04 02:57:41,Best Trade EVER,
-28,INTC,2,-0.7845,18,0,2.9444389791664403,2026-05-02 04:44:43,$INTC GUH…,
-32,INTC,2,0.9997,30,0,3.4339872044851463,2026-05-02 00:35:30,I’ll be at the next $CAR rally,
-34,INTC,2,0.4215,595,0,6.39024066706535,2026-05-01 22:59:15,$INTC Working On Retiring With My Nana In Christ,
-49,INTC,1,0.9378,74,0,4.31748811353631,2026-05-01 19:33:39,INTC has broken the $100 mark! This is definitely a moment to remember!,
-57,INTC,4,0.7581,18,0,2.9444389791664403,2026-05-01 17:32:18,INTC Short-term Options Play - DD,
-103,INTC,1,0.7957,225,0,5.420534999272286,2026-04-30 15:44:13,"-36k loss porn ""Sorry Nana, I thought u r a joke""🤡",
-105,INTC,1,-0.6217,390,0,5.968707559985366,2026-04-30 13:17:51,"INTC $27k gains, I am buying even more!",
-33,META,2,0.4404,35,0,3.58351893845611,2026-05-01 23:57:26,Holding META/METU into the weekend hoping for a a turnaround,
-55,META,1,0.8565,20,0,3.044522437723423,2026-05-01 18:07:27,Transferring the profits from META and SNDK into PLTR again! Not bad to give back what you earned the same way you made it,
-63,META,1,0.7887,53,0,3.9889840465642745,2026-05-01 15:32:13,SNDK bet results! Locking in profits and moving on to the next target!,
-102,META,1,0.0,1483,0,7.302496423727326,2026-04-30 16:20:20,Buying the META dip,
-104,META,1,0.8791,237,0,5.472270673671475,2026-04-30 14:46:29,Thanks to the loyal META investors for the profits they delivered! Locked in the put option ga,
-21,MSFT,1,0.0,317,0,5.762051382780177,2026-05-02 09:43:51,"Steve Madden shoes (SHOO) outperformed NVDA, PLTR, AMZN, MSFT and TSLA",
-72,MSFT,1,0.5106,222,0,5.407171771460119,2026-05-01 11:37:58,Top AI Companies Agree to Pentagon Deals for Classified Work,
-88,MSFT,1,-0.5267,129,0,4.867534450455582,2026-04-30 21:16:30,$230K MSFT Micro gone Soft,
-111,MSFT,1,-0.7263,3909,0,8.271292652979412,2026-04-30 00:10:05,MSFT can only be denied for so long….,
-131,MSFT,1,0.0,2662,0,7.887208585813932,2026-04-29 04:11:37,MSFT Earnings,
-8,NVDA,1,0.8997,1330,0,7.193685818395112,2026-05-03 16:34:17,Every Layer of the AI Money Printer Got Front-Run. Except One.,
-21,NVDA,1,0.0,317,0,5.762051382780177,2026-05-02 09:43:51,"Steve Madden shoes (SHOO) outperformed NVDA, PLTR, AMZN, MSFT and TSLA",
-24,NVDA,1,0.0,441,0,6.091309882077698,2026-05-02 06:49:43,PLTR - Finally Sold all but 80k,
-72,NVDA,1,0.5106,222,0,5.407171771460119,2026-05-01 11:37:58,Top AI Companies Agree to Pentagon Deals for Classified Work,
-82,NVDA,1,0.7096,1174,0,7.069023426578259,2026-04-30 23:28:56,$68 -> $5300,
-105,NVDA,1,-0.6217,390,0,5.968707559985366,2026-04-30 13:17:51,"INTC $27k gains, I am buying even more!",
-112,NVDA,1,-0.2732,230,0,5.442417710521793,2026-04-29 23:10:51,Just crossed half a million. Thank you Big Techs for buying all the rams.,
-151,NVDA,1,0.0,242,0,5.493061443340548,2026-04-27 19:20:10,NVDA + time=,
-157,NVDA,1,0.9187,285,0,5.655991810819852,2026-04-27 15:31:47,$RDDT get in before earnings,
-54,POET,8,0.8962,5,0,1.791759469228055,2026-05-01 18:15:12,"POET & I Know It, or POEL & I Go To Hell?",
-143,POET,4,0.9961,898,0,6.80128303447162,2026-04-27 22:42:08,"POET YOLO “fail”, being the top signal, and learning from fellow Regards’ mistakes",
-147,POET,2,0.0,941,0,6.848005274576363,2026-04-27 20:38:52,$POET,
-148,POET,1,-0.5423,225,0,5.420534999272286,2026-04-27 20:36:54,POETry Loss,
-152,POET,1,0.0,1444,0,7.275864600546533,2026-04-27 17:56:27,POET Puts: 6k --> 45k,
-155,POET,1,-0.3182,1210,0,7.099201743553092,2026-04-27 16:52:55,"POET loss, CFO should be in jail",
-156,POET,2,-0.34,505,0,6.226536669287466,2026-04-27 16:19:03,Dead $POET Society,
-160,POET,6,0.6908,1592,0,7.373374309910049,2026-04-27 13:06:23,POET -30% premarket after Marvell cancels Celestial AI purchase orders over alleged confidentiality breach,
-2,SNDK,1,-0.1027,33,0,3.5263605246161616,2026-05-03 23:32:22,I don't even know why I sold..,
-22,SNDK,2,-0.9568,2601,0,7.86403565907245,2026-05-02 08:33:33,My attempt to manage an infant and continue day trading options,
-55,SNDK,1,0.8565,20,0,3.044522437723423,2026-05-01 18:07:27,Transferring the profits from META and SNDK into PLTR again! Not bad to give back what you earned the same way you made it,
-63,SNDK,2,0.7887,53,0,3.9889840465642745,2026-05-01 15:32:13,SNDK bet results! Locking in profits and moving on to the next target!,
-105,SNDK,1,-0.6217,390,0,5.968707559985366,2026-04-30 13:17:51,"INTC $27k gains, I am buying even more!",
-21,TSLA,1,0.0,317,0,5.762051382780177,2026-05-02 09:43:51,"Steve Madden shoes (SHOO) outperformed NVDA, PLTR, AMZN, MSFT and TSLA",
-60,TSLA,2,-0.5267,429,0,6.063785208687608,2026-05-01 15:58:37,Going Full regard 🥦 on TSLA. 🦾🦿Borrowed 300k+,
-72,TSLA,1,0.5106,222,0,5.407171771460119,2026-05-01 11:37:58,Top AI Companies Agree to Pentagon Deals for Classified Work,
-112,TSLA,2,-0.2732,230,0,5.442417710521793,2026-04-29 23:10:51,Just crossed half a million. Thank you Big Techs for buying all the rams.,
-44,VITL,4,0.9209,33,0,3.5263605246161616,2026-05-01 19:59:15,I like eggs 🥚 $VITL,
-56,VITL,2,0.6523,22,0,3.1354942159291497,2026-05-01 17:33:09,10k YOLO in $VITL,
-100,VITL,8,0.7399,214,0,5.3706380281276624,2026-04-30 18:49:18,"I just invested $25,000 in... eggs ($VITL)",
+1t3w1to,AMD,1,0.877,107,48,8.573951525234847,2026-05-04 21:55:33+00:00,1.6k to 20.5k in 3 months,https://www.reddit.com/r/wallstreetbets/comments/1t3w1to/16k_to_205k_in_3_months/
+1t312q5,AMD,1,-0.1027,85,42,8.21554741194707,2026-05-03 23:32:22+00:00,I don't even know why I sold..,https://www.reddit.com/r/wallstreetbets/comments/1t312q5/i_dont_even_know_why_i_sold/
+1t2n35u,AMD,1,0.0644,148,77,9.360655132635051,2026-05-03 14:33:45+00:00,Sell Covered call gone wrong,https://www.reddit.com/r/wallstreetbets/comments/1t2n35u/sell_covered_call_gone_wrong/
+1t0stds,AMD,2,0.0,5843,767,15.316960506018262,2026-05-01 13:02:06+00:00,"+$8,000,000 in April (188%). AMD and TQQQ on margin",https://www.reddit.com/r/wallstreetbets/comments/1t0stds/8000000_in_april_188_amd_and_tqqq_on_margin/
+1szet2e,AMD,1,-0.2732,238,44,9.28312604170183,2026-04-29 23:10:51+00:00,Just crossed half a million. Thank you Big Techs for buying all the rams.,https://www.reddit.com/r/wallstreetbets/comments/1szet2e/just_crossed_half_a_million_thank_you_big_techs/
+1sy1we3,AMD,1,0.8888,205,27,8.660080678964786,2026-04-28 13:45:24+00:00,AMD 2x leverage. $162K profit (+116%),https://www.reddit.com/r/wallstreetbets/comments/1sy1we3/amd_2x_leverage_162k_profit_116/
+1t3ojla,CAR,1,0.6908,16,5,4.624972813284272,2026-05-04 17:30:04+00:00,$46k CAR Gains,https://www.reddit.com/r/wallstreetbets/comments/1t3ojla/46k_car_gains/
+1t1k7jf,CAR,1,-0.9568,2773,666,14.430835646790399,2026-05-02 08:33:33+00:00,My attempt to manage an infant and continue day trading options,https://www.reddit.com/r/wallstreetbets/comments/1t1k7jf/my_attempt_to_manage_an_infant_and_continue_day/
+1t1eyur,CAR,2,-0.8667,91,33,8.048149101665203,2026-05-02 03:46:56+00:00,"The $CAR crash was so violent, that the wheels came off.",https://www.reddit.com/r/wallstreetbets/comments/1t1eyur/the_car_crash_was_so_violent_that_the_wheels_came/
+1t1axmu,CAR,4,0.9997,36,74,7.928406026180534,2026-05-02 00:35:30+00:00,I’ll be at the next $CAR rally,https://www.reddit.com/r/wallstreetbets/comments/1t1axmu/ill_be_at_the_next_car_rally/
+1t3a1gy,INTC,1,0.9044,542,65,10.486764061960361,2026-05-04 06:52:29+00:00,"Another 10,000% gain - INTC",https://www.reddit.com/r/wallstreetbets/comments/1t3a1gy/another_10000_gain_intc/
+1t35lrn,INTC,2,0.5423,1269,119,11.934263922234683,2026-05-04 02:57:41+00:00,Best Trade EVER,https://www.reddit.com/r/wallstreetbets/comments/1t35lrn/best_trade_ever/
+1t1g3sf,INTC,2,-0.7845,19,25,6.253828811575473,2026-05-02 04:44:43+00:00,$INTC GUH…,https://www.reddit.com/r/wallstreetbets/comments/1t1g3sf/intc_guh/
+1t1axmu,INTC,2,0.9997,36,74,7.928406026180534,2026-05-02 00:35:30+00:00,I’ll be at the next $CAR rally,https://www.reddit.com/r/wallstreetbets/comments/1t1axmu/ill_be_at_the_next_car_rally/
+1t18r8t,INTC,2,0.4215,631,63,10.60777247750653,2026-05-01 22:59:15+00:00,$INTC Working On Retiring With My Nana In Christ,https://www.reddit.com/r/wallstreetbets/comments/1t18r8t/intc_working_on_retiring_with_my_nana_in_christ/
+1t13hnu,INTC,1,0.9378,75,19,7.3264656138403215,2026-05-01 19:33:39+00:00,INTC has broken the $100 mark! This is definitely a moment to remember!,https://www.reddit.com/r/wallstreetbets/comments/1t13hnu/intc_has_broken_the_100_mark_this_is_definitely_a/
+1t001ac,INTC,1,0.7957,227,65,9.619000370980867,2026-04-30 15:44:13+00:00,"-36k loss porn ""Sorry Nana, I thought u r a joke""🤡",https://www.reddit.com/r/wallstreetbets/comments/1t001ac/36k_loss_porn_sorry_nana_i_thought_u_r_a_joke/
+1szvuez,INTC,1,-0.6217,392,188,11.215556626928905,2026-04-30 13:17:51+00:00,"INTC $27k gains, I am buying even more!",https://www.reddit.com/r/wallstreetbets/comments/1szvuez/intc_27k_gains_i_am_buying_even_more/
+1t1a3c3,META,2,0.4404,35,37,7.221105098182496,2026-05-01 23:57:26+00:00,Holding META/METU into the weekend hoping for a a turnaround,https://www.reddit.com/r/wallstreetbets/comments/1t1a3c3/holding_metametu_into_the_weekend_hoping_for_a_a/
+1t1141w,META,1,0.8565,22,36,6.746412128573374,2026-05-01 18:07:27+00:00,Transferring the profits from META and SNDK into PLTR again! Not bad to give back what you earned the same way you made it,https://www.reddit.com/r/wallstreetbets/comments/1t1141w/transferring_the_profits_from_meta_and_sndk_into/
+1t0134y,META,1,0.0,1482,334,13.115952873962998,2026-04-30 16:20:20+00:00,Buying the META dip,https://www.reddit.com/r/wallstreetbets/comments/1t0134y/buying_the_meta_dip/
+1szy655,META,1,0.8791,232,56,9.49408972140025,2026-04-30 14:46:29+00:00,Thanks to the loyal META investors for the profits they delivered! Locked in the put option ga,https://www.reddit.com/r/wallstreetbets/comments/1szy655/thanks_to_the_loyal_meta_investors_for_the/
+1t1lf9k,MSFT,1,0.0,361,100,10.50676472866703,2026-05-02 09:43:51+00:00,"Steve Madden shoes (SHOO) outperformed NVDA, PLTR, AMZN, MSFT and TSLA",https://www.reddit.com/r/wallstreetbets/comments/1t1lf9k/steve_madden_shoes_shoo_outperformed_nvda_pltr/
+1t0qx9s,MSFT,1,0.5106,227,45,9.257987025443537,2026-05-01 11:37:58+00:00,Top AI Companies Agree to Pentagon Deals for Classified Work,https://www.reddit.com/r/wallstreetbets/comments/1t0qx9s/top_ai_companies_agree_to_pentagon_deals_for/
+1szg6vo,MSFT,1,-0.7263,3932,129,13.144692222887393,2026-04-30 00:10:05+00:00,MSFT can only be denied for so long….,https://www.reddit.com/r/wallstreetbets/comments/1szg6vo/msft_can_only_be_denied_for_so_long/
+1syo22p,MSFT,1,0.0,2673,228,13.325052761216128,2026-04-29 04:11:37+00:00,MSFT Earnings,https://www.reddit.com/r/wallstreetbets/comments/1syo22p/msft_earnings/
+1t40xmj,NVDA,1,0.8658,18,57,7.004881989712859,2026-05-05 01:18:29+00:00,NVDA $235+ by May 22,https://www.reddit.com/r/wallstreetbets/comments/1t40xmj/nvda_235_by_may_22/
+1t3p544,NVDA,1,0.8449,16,18,5.777652323222656,2026-05-04 17:50:30+00:00,"NVDA and ORCL YOLO - May the Fourth be with you! $10,000 each ending May 8th",https://www.reddit.com/r/wallstreetbets/comments/1t3p544/nvda_and_orcl_yolo_may_the_fourth_be_with_you/
+1t3a1gy,NVDA,1,0.9044,542,65,10.486764061960361,2026-05-04 06:52:29+00:00,"Another 10,000% gain - INTC",https://www.reddit.com/r/wallstreetbets/comments/1t3a1gy/another_10000_gain_intc/
+1t2q994,NVDA,1,0.8997,1986,433,13.667425776652223,2026-05-03 16:34:17+00:00,Every Layer of the AI Money Printer Got Front-Run. Except One.,https://www.reddit.com/r/wallstreetbets/comments/1t2q994/every_layer_of_the_ai_money_printer_got_frontrun/
+1t1lf9k,NVDA,1,0.0,361,100,10.50676472866703,2026-05-02 09:43:51+00:00,"Steve Madden shoes (SHOO) outperformed NVDA, PLTR, AMZN, MSFT and TSLA",https://www.reddit.com/r/wallstreetbets/comments/1t1lf9k/steve_madden_shoes_shoo_outperformed_nvda_pltr/
+1t1iefz,NVDA,1,0.0,471,115,10.910569176691919,2026-05-02 06:49:43+00:00,PLTR - Finally Sold all but 80k,https://www.reddit.com/r/wallstreetbets/comments/1t1iefz/pltr_finally_sold_all_but_80k/
+1t0qx9s,NVDA,1,0.5106,227,45,9.257987025443537,2026-05-01 11:37:58+00:00,Top AI Companies Agree to Pentagon Deals for Classified Work,https://www.reddit.com/r/wallstreetbets/comments/1t0qx9s/top_ai_companies_agree_to_pentagon_deals_for/
+1t0ck2v,NVDA,1,0.7096,1185,136,11.998322505385797,2026-04-30 23:28:56+00:00,$68 -> $5300,https://www.reddit.com/r/wallstreetbets/comments/1t0ck2v/68_5300/
+1szvuez,NVDA,1,-0.6217,392,188,11.215556626928905,2026-04-30 13:17:51+00:00,"INTC $27k gains, I am buying even more!",https://www.reddit.com/r/wallstreetbets/comments/1szvuez/intc_27k_gains_i_am_buying_even_more/
+1szet2e,NVDA,1,-0.2732,238,44,9.28312604170183,2026-04-29 23:10:51+00:00,Just crossed half a million. Thank you Big Techs for buying all the rams.,https://www.reddit.com/r/wallstreetbets/comments/1szet2e/just_crossed_half_a_million_thank_you_big_techs/
+1t1lf9k,PLTR,1,0.0,361,100,10.50676472866703,2026-05-02 09:43:51+00:00,"Steve Madden shoes (SHOO) outperformed NVDA, PLTR, AMZN, MSFT and TSLA",https://www.reddit.com/r/wallstreetbets/comments/1t1lf9k/steve_madden_shoes_shoo_outperformed_nvda_pltr/
+1t1iefz,PLTR,2,0.0,471,115,10.910569176691919,2026-05-02 06:49:43+00:00,PLTR - Finally Sold all but 80k,https://www.reddit.com/r/wallstreetbets/comments/1t1iefz/pltr_finally_sold_all_but_80k/
+1t1141w,PLTR,1,0.8565,22,36,6.746412128573374,2026-05-01 18:07:27+00:00,Transferring the profits from META and SNDK into PLTR again! Not bad to give back what you earned the same way you made it,https://www.reddit.com/r/wallstreetbets/comments/1t1141w/transferring_the_profits_from_meta_and_sndk_into/
+1t312q5,SNDK,1,-0.1027,85,42,8.21554741194707,2026-05-03 23:32:22+00:00,I don't even know why I sold..,https://www.reddit.com/r/wallstreetbets/comments/1t312q5/i_dont_even_know_why_i_sold/
+1t1k7jf,SNDK,2,-0.9568,2773,666,14.430835646790399,2026-05-02 08:33:33+00:00,My attempt to manage an infant and continue day trading options,https://www.reddit.com/r/wallstreetbets/comments/1t1k7jf/my_attempt_to_manage_an_infant_and_continue_day/
+1t1141w,SNDK,1,0.8565,22,36,6.746412128573374,2026-05-01 18:07:27+00:00,Transferring the profits from META and SNDK into PLTR again! Not bad to give back what you earned the same way you made it,https://www.reddit.com/r/wallstreetbets/comments/1t1141w/transferring_the_profits_from_meta_and_sndk_into/
+1szvuez,SNDK,1,-0.6217,392,188,11.215556626928905,2026-04-30 13:17:51+00:00,"INTC $27k gains, I am buying even more!",https://www.reddit.com/r/wallstreetbets/comments/1szvuez/intc_27k_gains_i_am_buying_even_more/
+1t1lf9k,TSLA,1,0.0,361,100,10.50676472866703,2026-05-02 09:43:51+00:00,"Steve Madden shoes (SHOO) outperformed NVDA, PLTR, AMZN, MSFT and TSLA",https://www.reddit.com/r/wallstreetbets/comments/1t1lf9k/steve_madden_shoes_shoo_outperformed_nvda_pltr/
+1t0xhef,TSLA,2,-0.5267,442,311,11.836572957854617,2026-05-01 15:58:37+00:00,Going Full regard 🥦 on TSLA. 🦾🦿Borrowed 300k+,https://www.reddit.com/r/wallstreetbets/comments/1t0xhef/going_full_regard_on_tsla_borrowed_300k/
+1t0qx9s,TSLA,1,0.5106,227,45,9.257987025443537,2026-05-01 11:37:58+00:00,Top AI Companies Agree to Pentagon Deals for Classified Work,https://www.reddit.com/r/wallstreetbets/comments/1t0qx9s/top_ai_companies_agree_to_pentagon_deals_for/
+1szet2e,TSLA,2,-0.2732,238,44,9.28312604170183,2026-04-29 23:10:51+00:00,Just crossed half a million. Thank you Big Techs for buying all the rams.,https://www.reddit.com/r/wallstreetbets/comments/1szet2e/just_crossed_half_a_million_thank_you_big_techs/
+1t146fk,VITL,4,0.9209,35,42,7.344719054149673,2026-05-01 19:59:15+00:00,I like eggs 🥚 $VITL,https://www.reddit.com/r/wallstreetbets/comments/1t146fk/i_like_eggs_vitl/
+1t1052y,VITL,2,0.6523,24,14,5.926926025970411,2026-05-01 17:33:09+00:00,10k YOLO in $VITL,https://www.reddit.com/r/wallstreetbets/comments/1t1052y/10k_yolo_in_vitl/
+1t059at,VITL,8,0.7399,224,118,10.19522389531595,2026-04-30 18:49:18+00:00,"I just invested $25,000 in... eggs ($VITL)",https://www.reddit.com/r/wallstreetbets/comments/1t059at/i_just_invested_25000_in_eggs_vitl/

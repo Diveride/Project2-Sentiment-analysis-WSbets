@@ -148,8 +148,8 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-04T05:37:27.088065+00:00`
-- Data source: `fallback:wsb_reddit_api_data.csv`
+- Generated at (UTC): `2026-05-05T02:47:30.808218+00:00`
+- Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
   - `outputs/latest_wsb_analysis/top10_summary.json`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | POET | 25 | 8 | 0.173 | 7.31 | 30.54% | 0.699 |
-| 2 | INTC | 14 | 8 | 0.412 | 99.62 | 107.41% | 3.989 |
-| 3 | NVDA | 9 | 9 | 0.238 | 198.45 | 12.92% | 1.730 |
-| 4 | AMD | 13 | 5 | 0.089 | 360.54 | 71.51% | 6.137 |
-| 5 | SNDK | 7 | 5 | -0.007 | 1187.00 | 71.35% | 48.288 |
-| 6 | VITL | 14 | 3 | 0.771 | 14.18 | 5.82% | 1.320 |
-| 7 | META | 6 | 5 | 0.593 | 608.75 | 5.10% | 7.175 |
-| 8 | MSFT | 5 | 5 | -0.148 | 414.44 | 12.20% | 8.488 |
-| 9 | CAR | 8 | 4 | -0.047 | 185.55 | 9.10% | 60.190 |
-| 10 | TSLA | 6 | 4 | -0.072 | 390.82 | 2.51% | 3.601 |
+| 1 | NVDA | 10 | 10 | 0.384 | 198.48 | 11.89% | 1.682 |
+| 2 | INTC | 12 | 8 | 0.399 | 95.78 | 90.12% | 4.180 |
+| 3 | AMD | 7 | 6 | 0.242 | 341.54 | 57.03% | 6.215 |
+| 4 | VITL | 14 | 3 | 0.771 | 13.00 | 3.26% | 1.467 |
+| 5 | CAR | 8 | 4 | -0.033 | 168.29 | -11.62% | 60.747 |
+| 6 | TSLA | 6 | 4 | -0.072 | 392.51 | 8.85% | 3.509 |
+| 7 | SNDK | 5 | 4 | -0.206 | 1255.86 | 79.00% | 47.312 |
+| 8 | META | 5 | 4 | 0.544 | 610.41 | 6.26% | 4.492 |
+| 9 | MSFT | 4 | 4 | -0.054 | 413.62 | 10.75% | 6.241 |
+| 10 | PLTR | 4 | 3 | 0.285 | 146.03 | -1.64% | 4.237 |
 
 ### Aggregate Charts
 
@@ -182,29 +182,33 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### POET
+#### NVDA
 
-![POET Dashboard](outputs/latest_wsb_analysis/charts/poet_dashboard.png)
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### INTC
 
 ![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
 
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### SNDK
-
-![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
-
 #### VITL
 
 ![VITL Dashboard](outputs/latest_wsb_analysis/charts/vitl_dashboard.png)
+
+#### CAR
+
+![CAR Dashboard](outputs/latest_wsb_analysis/charts/car_dashboard.png)
+
+#### TSLA
+
+![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
+
+#### SNDK
+
+![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
 
 #### META
 
@@ -214,11 +218,7 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### CAR
+#### PLTR
 
-![CAR Dashboard](outputs/latest_wsb_analysis/charts/car_dashboard.png)
-
-#### TSLA
-
-![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
+![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
 <!-- AUTO_TOP10_END -->
