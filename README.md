@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-05T23:14:19.845656+00:00`
+- Generated at (UTC): `2026-05-06T23:09:00.001607+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 13 | 13 | 0.302 | 196.50 | 10.62% | 1.571 |
-| 2 | AMD | 11 | 10 | -0.073 | 355.26 | 61.35% | 6.129 |
-| 3 | INTC | 7 | 5 | 0.408 | 108.15 | 112.98% | 4.474 |
-| 4 | MSFT | 5 | 5 | -0.111 | 411.38 | 10.33% | 9.206 |
-| 5 | TSLA | 6 | 4 | -0.072 | 389.37 | 10.36% | 3.266 |
-| 6 | GOOGL | 5 | 4 | 0.443 | 388.43 | 29.48% | 3.161 |
-| 7 | SNDK | 4 | 3 | -0.560 | 1406.32 | 94.07% | 46.926 |
-| 8 | MSTR | 4 | 3 | 0.276 | 186.90 | 46.37% | 7.004 |
-| 9 | QQQ | 4 | 3 | -0.288 | 681.61 | 15.82% | 7.944 |
-| 10 | AMZN | 3 | 3 | 0.436 | 273.55 | 28.55% | 1.683 |
+| 1 | AMD | 38 | 27 | 0.442 | 421.39 | 90.22% | 8.141 |
+| 2 | NVDA | 13 | 13 | 0.348 | 207.83 | 16.69% | 1.809 |
+| 3 | INTC | 13 | 9 | 0.445 | 113.01 | 113.59% | 4.830 |
+| 4 | TMC | 39 | 1 | 0.998 | 6.16 | 39.68% | 0.171 |
+| 5 | RDDT | 19 | 2 | 0.942 | 166.56 | 18.01% | 6.120 |
+| 6 | QCOM | 18 | 2 | 0.973 | 192.57 | 55.21% | 2.296 |
+| 7 | AMZN | 8 | 4 | 0.431 | 274.99 | 28.64% | 1.569 |
+| 8 | META | 7 | 4 | 0.711 | 612.88 | 6.58% | 7.464 |
+| 9 | HBM | 7 | 4 | 0.904 | 24.00 | 9.89% | 1.431 |
+| 10 | TSLA | 6 | 4 | -0.072 | 398.73 | 15.02% | 3.437 |
 
 ### Aggregate Charts
 
@@ -182,43 +182,43 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### INTC
 
 ![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
 
-#### MSFT
+#### TMC
 
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
+![TMC Dashboard](outputs/latest_wsb_analysis/charts/tmc_dashboard.png)
 
-#### TSLA
+#### RDDT
 
-![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
+![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
 
-#### GOOGL
+#### QCOM
 
-![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
-
-#### SNDK
-
-![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
-
-#### MSTR
-
-![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
-
-#### QQQ
-
-![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
+![QCOM Dashboard](outputs/latest_wsb_analysis/charts/qcom_dashboard.png)
 
 #### AMZN
 
 ![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
+
+#### META
+
+![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
+
+#### HBM
+
+![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
+
+#### TSLA
+
+![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 <!-- AUTO_TOP10_END -->
