@@ -103,10 +103,10 @@ Those sections still describe the original Pushshift, direct Reddit OAuth, and A
 For the current runnable project, use the refresh pipeline and notebook workflow documented above instead.
 
 **Creators:**
-* Hassan Alam
-* Julian Lopez
-* Jimmy Unelus
-* Ludovic Schneider
+* [Hassan Alam](https://www.linkedin.com/in/hassanalammitstanfordgsb/)
+* [Julian Lopez](https://www.linkedin.com/in/julianlopez21/)
+* [Jimmy Unelus](https://www.linkedin.com/in/jimmy-unelus/)
+* [Ludovic Schneider](https://www.linkedin.com/in/ludovic-schneider-06aa6415/?locale=en)
 
 ## Goal
 
@@ -161,18 +161,18 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Top 10 Table
 
-| Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
-| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | AMD | 38 | 27 | 0.442 | 421.39 | 90.22% | 8.141 |
-| 2 | NVDA | 13 | 13 | 0.348 | 207.83 | 16.69% | 1.809 |
-| 3 | INTC | 13 | 9 | 0.445 | 113.01 | 113.59% | 4.830 |
-| 4 | TMC | 39 | 1 | 0.998 | 6.16 | 39.68% | 0.171 |
-| 5 | RDDT | 19 | 2 | 0.942 | 166.56 | 18.01% | 6.120 |
-| 6 | QCOM | 18 | 2 | 0.973 | 192.57 | 55.21% | 2.296 |
-| 7 | AMZN | 8 | 4 | 0.431 | 274.99 | 28.64% | 1.569 |
-| 8 | META | 7 | 4 | 0.711 | 612.88 | 6.58% | 7.464 |
-| 9 | HBM | 7 | 4 | 0.904 | 24.00 | 9.89% | 1.431 |
-| 10 | TSLA | 6 | 4 | -0.072 | 398.73 | 15.02% | 3.437 |
+| Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return |  RMSE |
+|------|--------|---------:|------:|--------------:|-----------:|-----------:|------:|
+| 1    | AMD    |       38 |    27 |         0.442 |     421.39 |     90.22% | 8.141 |
+| 2    | NVDA   |       13 |    13 |         0.348 |     207.83 |     16.69% | 1.809 |
+| 3    | INTC   |       13 |     9 |         0.445 |     113.01 |    113.59% | 4.830 |
+| 4    | TMC    |       39 |     1 |         0.998 |       6.16 |     39.68% | 0.171 |
+| 5    | RDDT   |       19 |     2 |         0.942 |     166.56 |     18.01% | 6.120 |
+| 6    | QCOM   |       18 |     2 |         0.973 |     192.57 |     55.21% | 2.296 |
+| 7    | AMZN   |        8 |     4 |         0.431 |     274.99 |     28.64% | 1.569 |
+| 8    | META   |        7 |     4 |         0.711 |     612.88 |      6.58% | 7.464 |
+| 9    | HBM    |        7 |     4 |         0.904 |      24.00 |      9.89% | 1.431 |
+| 10   | TSLA   |        6 |     4 |        -0.072 |     398.73 |     15.02% | 3.437 |
 
 ### Aggregate Charts
 
