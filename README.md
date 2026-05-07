@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-06T23:09:00.001607+00:00`
+- Generated at (UTC): `2026-05-07T04:15:59.280871+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -161,18 +161,18 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Top 10 Table
 
-| Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return |  RMSE |
-|------|--------|---------:|------:|--------------:|-----------:|-----------:|------:|
-| 1    | AMD    |       38 |    27 |         0.442 |     421.39 |     90.22% | 8.141 |
-| 2    | NVDA   |       13 |    13 |         0.348 |     207.83 |     16.69% | 1.809 |
-| 3    | INTC   |       13 |     9 |         0.445 |     113.01 |    113.59% | 4.830 |
-| 4    | TMC    |       39 |     1 |         0.998 |       6.16 |     39.68% | 0.171 |
-| 5    | RDDT   |       19 |     2 |         0.942 |     166.56 |     18.01% | 6.120 |
-| 6    | QCOM   |       18 |     2 |         0.973 |     192.57 |     55.21% | 2.296 |
-| 7    | AMZN   |        8 |     4 |         0.431 |     274.99 |     28.64% | 1.569 |
-| 8    | META   |        7 |     4 |         0.711 |     612.88 |      6.58% | 7.464 |
-| 9    | HBM    |        7 |     4 |         0.904 |      24.00 |      9.89% | 1.431 |
-| 10   | TSLA   |        6 |     4 |        -0.072 |     398.73 |     15.02% | 3.437 |
+| Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| 1 | AMD | 36 | 25 | 0.468 | 421.39 | 90.22% | 8.142 |
+| 2 | NVDA | 11 | 11 | 0.349 | 207.83 | 16.69% | 1.809 |
+| 3 | INTC | 13 | 9 | 0.445 | 113.01 | 113.59% | 4.830 |
+| 4 | TMC | 39 | 1 | 0.998 | 6.16 | 39.68% | 0.171 |
+| 5 | RDDT | 20 | 3 | 0.917 | 166.56 | 18.01% | 6.120 |
+| 6 | QCOM | 18 | 2 | 0.973 | 192.57 | 55.21% | 2.294 |
+| 7 | AMZN | 8 | 4 | 0.431 | 274.99 | 28.64% | 1.569 |
+| 8 | META | 7 | 4 | 0.711 | 612.88 | 6.58% | 7.464 |
+| 9 | HBM | 7 | 4 | 0.904 | 24.00 | 9.89% | 1.431 |
+| 10 | TSLA | 6 | 4 | 0.237 | 398.73 | 15.02% | 3.432 |
 
 ### Aggregate Charts
 
