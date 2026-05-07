@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-07T04:15:59.280871+00:00`
+- Generated at (UTC): `2026-05-07T23:13:31.316543+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | AMD | 36 | 25 | 0.468 | 421.39 | 90.22% | 8.142 |
-| 2 | NVDA | 11 | 11 | 0.349 | 207.83 | 16.69% | 1.809 |
-| 3 | INTC | 13 | 9 | 0.445 | 113.01 | 113.59% | 4.830 |
-| 4 | TMC | 39 | 1 | 0.998 | 6.16 | 39.68% | 0.171 |
-| 5 | RDDT | 20 | 3 | 0.917 | 166.56 | 18.01% | 6.120 |
-| 6 | QCOM | 18 | 2 | 0.973 | 192.57 | 55.21% | 2.294 |
-| 7 | AMZN | 8 | 4 | 0.431 | 274.99 | 28.64% | 1.569 |
-| 8 | META | 7 | 4 | 0.711 | 612.88 | 6.58% | 7.464 |
-| 9 | HBM | 7 | 4 | 0.904 | 24.00 | 9.89% | 1.431 |
-| 10 | TSLA | 6 | 4 | 0.237 | 398.73 | 15.02% | 3.432 |
+| 1 | AMD | 33 | 23 | 0.428 | 408.46 | 76.20% | 8.978 |
+| 2 | NVDA | 12 | 11 | 0.496 | 211.50 | 16.16% | 1.986 |
+| 3 | TMC | 39 | 1 | 0.998 | 5.70 | 21.79% | 0.174 |
+| 4 | INTC | 11 | 7 | 0.491 | 109.62 | 85.95% | 5.224 |
+| 5 | RDDT | 20 | 3 | 0.917 | 163.95 | 13.07% | 5.700 |
+| 6 | AMZN | 9 | 5 | 0.543 | 271.17 | 22.56% | 1.487 |
+| 7 | SPY | 6 | 5 | 0.688 | 731.58 | 8.22% | 6.762 |
+| 8 | RKLB | 8 | 4 | 0.737 | 78.58 | 13.75% | 3.445 |
+| 9 | HBM | 7 | 4 | 0.904 | 23.85 | 0.29% | 1.422 |
+| 10 | TSLA | 6 | 4 | 0.237 | 411.79 | 19.97% | 3.828 |
 
 ### Aggregate Charts
 
@@ -190,29 +190,29 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### INTC
-
-![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
-
 #### TMC
 
 ![TMC Dashboard](outputs/latest_wsb_analysis/charts/tmc_dashboard.png)
+
+#### INTC
+
+![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
 
 #### RDDT
 
 ![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
 
-#### QCOM
-
-![QCOM Dashboard](outputs/latest_wsb_analysis/charts/qcom_dashboard.png)
-
 #### AMZN
 
 ![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
 
-#### META
+#### SPY
 
-![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
+#### RKLB
+
+![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
 #### HBM
 
