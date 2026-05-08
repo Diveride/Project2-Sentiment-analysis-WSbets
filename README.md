@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-07T23:13:31.316543+00:00`
+- Generated at (UTC): `2026-05-08T23:12:42.578293+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | AMD | 33 | 23 | 0.428 | 408.46 | 76.20% | 8.978 |
-| 2 | NVDA | 12 | 11 | 0.496 | 211.50 | 16.16% | 1.986 |
-| 3 | TMC | 39 | 1 | 0.998 | 5.70 | 21.79% | 0.174 |
-| 4 | INTC | 11 | 7 | 0.491 | 109.62 | 85.95% | 5.224 |
-| 5 | RDDT | 20 | 3 | 0.917 | 163.95 | 13.07% | 5.700 |
-| 6 | AMZN | 9 | 5 | 0.543 | 271.17 | 22.56% | 1.487 |
-| 7 | SPY | 6 | 5 | 0.688 | 731.58 | 8.22% | 6.762 |
-| 8 | RKLB | 8 | 4 | 0.737 | 78.58 | 13.75% | 3.445 |
-| 9 | HBM | 7 | 4 | 0.904 | 23.85 | 0.29% | 1.422 |
-| 10 | TSLA | 6 | 4 | 0.237 | 411.79 | 19.97% | 3.828 |
+| 1 | AMD | 28 | 16 | 0.398 | 455.19 | 92.36% | 10.863 |
+| 2 | RKLB | 19 | 14 | 0.211 | 105.47 | 58.03% | 4.880 |
+| 3 | INTC | 21 | 11 | 0.329 | 124.92 | 102.40% | 5.890 |
+| 4 | TMC | 39 | 1 | 0.998 | 5.70 | 28.96% | 0.178 |
+| 5 | NVDA | 11 | 8 | 0.189 | 215.20 | 17.01% | 1.766 |
+| 6 | TSLA | 6 | 4 | 0.645 | 428.35 | 23.94% | 4.089 |
+| 7 | AMZN | 7 | 3 | -0.148 | 272.68 | 16.70% | 1.980 |
+| 8 | SNDK | 6 | 3 | -0.186 | 1562.34 | 83.47% | 44.982 |
+| 9 | ASTS | 5 | 3 | 0.781 | 75.05 | -18.08% | 7.073 |
+| 10 | PLTR | 4 | 3 | 0.294 | 137.80 | 5.60% | 1.100 |
 
 ### Aggregate Charts
 
@@ -186,39 +186,39 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### NVDA
+#### RKLB
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
-#### TMC
-
-![TMC Dashboard](outputs/latest_wsb_analysis/charts/tmc_dashboard.png)
+![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
 #### INTC
 
 ![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
 
-#### RDDT
+#### TMC
 
-![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
+![TMC Dashboard](outputs/latest_wsb_analysis/charts/tmc_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+
+#### TSLA
+
+![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 
 #### AMZN
 
 ![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
 
-#### SPY
+#### SNDK
 
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
 
-#### RKLB
+#### ASTS
 
-![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
+![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
 
-#### HBM
+#### PLTR
 
-![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
-
-#### TSLA
-
-![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
+![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
 <!-- AUTO_TOP10_END -->
