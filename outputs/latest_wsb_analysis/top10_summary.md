@@ -3,22 +3,22 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-05-08T23:12:42.580343+00:00`
+- Generated at (UTC): `2026-05-09T23:08:07.851127+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
-| 1 | AMD | 28 | 16 | 0.398 |
-| 2 | RKLB | 19 | 14 | 0.211 |
-| 3 | INTC | 21 | 11 | 0.329 |
+| 1 | AMD | 32 | 18 | 0.384 |
+| 2 | INTC | 27 | 15 | 0.373 |
+| 3 | RKLB | 19 | 15 | 0.148 |
 | 4 | TMC | 39 | 1 | 0.998 |
-| 5 | NVDA | 11 | 8 | 0.189 |
-| 6 | TSLA | 6 | 4 | 0.645 |
-| 7 | AMZN | 7 | 3 | -0.148 |
-| 8 | SNDK | 6 | 3 | -0.186 |
+| 5 | NVDA | 10 | 7 | 0.322 |
+| 6 | DRAM | 5 | 4 | 0.872 |
+| 7 | MU | 4 | 4 | 0.284 |
+| 8 | YOU | 6 | 3 | 0.372 |
 | 9 | ASTS | 5 | 3 | 0.781 |
-| 10 | PLTR | 4 | 3 | 0.294 |
+| 10 | RDDT | 3 | 3 | 0.331 |
 
 ## Reddit fetch diagnostics
 
@@ -37,12 +37,12 @@
 ## Market snapshot
 
 - **AMD**: close `455.19`, 1M return `92.36%` if available, RSI `80.78` and regression RMSE `10.863`
-- **RKLB**: close `105.47`, 1M return `58.03%` if available, RSI `68.75` and regression RMSE `4.880`
-- **INTC**: close `124.92`, 1M return `102.40%` if available, RSI `85.07` and regression RMSE `5.890`
+- **INTC**: close `124.92`, 1M return `102.40%` if available, RSI `85.07` and regression RMSE `5.889`
+- **RKLB**: close `105.47`, 1M return `58.03%` if available, RSI `68.75` and regression RMSE `4.879`
 - **TMC**: close `5.70`, 1M return `28.96%` if available, RSI `55.90` and regression RMSE `0.178`
-- **NVDA**: close `215.20`, 1M return `17.01%` if available, RSI `65.86` and regression RMSE `1.766`
-- **TSLA**: close `428.35`, 1M return `23.94%` if available, RSI `69.88` and regression RMSE `4.089`
-- **AMZN**: close `272.68`, 1M return `16.70%` if available, RSI `75.13` and regression RMSE `1.980`
-- **SNDK**: close `1562.34`, 1M return `83.47%` if available, RSI `80.00` and regression RMSE `44.982`
+- **NVDA**: close `215.20`, 1M return `17.01%` if available, RSI `65.86` and regression RMSE `1.767`
+- **DRAM**: close `52.80`, 1M return `63.06%` if available, RSI `85.83`
+- **MU**: close `746.81`, 1M return `77.17%` if available, RSI `83.77` and regression RMSE `16.471`
+- **YOU**: close `56.81`, 1M return `15.96%` if available, RSI `57.14` and regression RMSE `1.318`
 - **ASTS**: close `75.05`, 1M return `-18.08%` if available, RSI `47.33` and regression RMSE `7.073`
-- **PLTR**: close `137.80`, 1M return `5.60%` if available, RSI `45.69` and regression RMSE `1.100`
+- **RDDT**: close `155.80`, 1M return `12.59%` if available, RSI `50.25` and regression RMSE `5.440`
