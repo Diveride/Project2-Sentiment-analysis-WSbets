@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-09T23:08:07.849029+00:00`
+- Generated at (UTC): `2026-05-10T23:11:59.058362+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | AMD | 32 | 18 | 0.384 | 455.19 | 92.36% | 10.863 |
-| 2 | INTC | 27 | 15 | 0.373 | 124.92 | 102.40% | 5.889 |
-| 3 | RKLB | 19 | 15 | 0.148 | 105.47 | 58.03% | 4.879 |
+| 1 | AMD | 31 | 17 | 0.356 | 455.19 | 92.36% | 10.863 |
+| 2 | INTC | 29 | 16 | 0.356 | 124.92 | 102.40% | 5.889 |
+| 3 | RKLB | 16 | 13 | 0.080 | 105.47 | 58.03% | 4.879 |
 | 4 | TMC | 39 | 1 | 0.998 | 5.70 | 28.96% | 0.178 |
-| 5 | NVDA | 10 | 7 | 0.322 | 215.20 | 17.01% | 1.767 |
-| 6 | DRAM | 5 | 4 | 0.872 | 52.80 | 63.06% | n/a |
+| 5 | NVDA | 9 | 6 | 0.226 | 215.20 | 17.01% | 1.767 |
+| 6 | YOU | 8 | 4 | 0.478 | 56.81 | 15.96% | 1.318 |
 | 7 | MU | 4 | 4 | 0.284 | 746.81 | 77.17% | 16.471 |
-| 8 | YOU | 6 | 3 | 0.372 | 56.81 | 15.96% | 1.318 |
-| 9 | ASTS | 5 | 3 | 0.781 | 75.05 | -18.08% | 7.073 |
-| 10 | RDDT | 3 | 3 | 0.331 | 155.80 | 12.59% | 5.440 |
+| 8 | ASTS | 5 | 3 | 0.781 | 75.05 | -18.08% | 7.073 |
+| 9 | HIVE | 12 | 1 | 0.998 | 2.82 | 36.23% | 0.151 |
+| 10 | NBIS | 3 | 3 | 0.950 | 177.05 | 29.87% | 4.870 |
 
 ### Aggregate Charts
 
@@ -202,23 +202,23 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### DRAM
+#### YOU
 
-![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
+![YOU Dashboard](outputs/latest_wsb_analysis/charts/you_dashboard.png)
 
 #### MU
 
 ![MU Dashboard](outputs/latest_wsb_analysis/charts/mu_dashboard.png)
 
-#### YOU
-
-![YOU Dashboard](outputs/latest_wsb_analysis/charts/you_dashboard.png)
-
 #### ASTS
 
 ![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
 
-#### RDDT
+#### HIVE
 
-![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
+![HIVE Dashboard](outputs/latest_wsb_analysis/charts/hive_dashboard.png)
+
+#### NBIS
+
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 <!-- AUTO_TOP10_END -->
