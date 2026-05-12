@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-11T23:14:23.715540+00:00`
+- Generated at (UTC): `2026-05-12T23:20:59.572783+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | AMD | 27 | 19 | 0.190 | 458.79 | 87.23% | 11.749 |
-| 2 | RKLB | 17 | 11 | 0.110 | 117.35 | 72.45% | 4.872 |
-| 3 | INTC | 17 | 10 | 0.052 | 129.44 | 107.50% | 6.702 |
-| 4 | TMC | 39 | 1 | 0.998 | 5.91 | 36.18% | 0.204 |
-| 5 | YOU | 8 | 4 | 0.525 | 56.89 | 23.22% | 1.222 |
-| 6 | NVDA | 7 | 4 | -0.146 | 219.44 | 16.33% | 1.854 |
-| 7 | HIVE | 12 | 1 | 0.997 | 3.01 | 44.71% | 0.147 |
-| 8 | HUT | 8 | 2 | 0.980 | 102.19 | 54.63% | 2.809 |
-| 9 | ASML | 8 | 2 | 0.537 | 1565.81 | 5.92% | 35.669 |
-| 10 | NBIS | 4 | 3 | 0.944 | 186.10 | 28.37% | 5.430 |
+| 1 | AMD | 30 | 17 | 0.250 | 448.29 | 81.62% | 12.010 |
+| 2 | RKLB | 16 | 10 | 0.087 | 117.56 | 66.47% | 4.821 |
+| 3 | TMC | 39 | 1 | 0.998 | 5.64 | 22.08% | 0.194 |
+| 4 | INTC | 13 | 7 | 0.043 | 120.61 | 85.04% | 7.454 |
+| 5 | NBIS | 5 | 4 | 0.933 | 179.11 | 15.88% | 5.755 |
+| 6 | RDDT | 4 | 4 | 0.342 | 152.35 | 2.01% | 4.907 |
+| 7 | HUT | 8 | 2 | 0.980 | 107.31 | 53.83% | 2.874 |
+| 8 | NVDA | 4 | 3 | -0.259 | 220.78 | 16.62% | 2.006 |
+| 9 | SOXL | 3 | 3 | -0.010 | 172.52 | 114.15% | 6.881 |
+| 10 | AMZN | 6 | 2 | -0.222 | 265.82 | 10.81% | 1.919 |
 
 ### Aggregate Charts
 
@@ -190,35 +190,35 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
-#### INTC
-
-![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
-
 #### TMC
 
 ![TMC Dashboard](outputs/latest_wsb_analysis/charts/tmc_dashboard.png)
 
-#### YOU
+#### INTC
 
-![YOU Dashboard](outputs/latest_wsb_analysis/charts/you_dashboard.png)
+![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
 
-#### NVDA
+#### NBIS
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 
-#### HIVE
+#### RDDT
 
-![HIVE Dashboard](outputs/latest_wsb_analysis/charts/hive_dashboard.png)
+![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
 
 #### HUT
 
 ![HUT Dashboard](outputs/latest_wsb_analysis/charts/hut_dashboard.png)
 
-#### ASML
+#### NVDA
 
-![ASML Dashboard](outputs/latest_wsb_analysis/charts/asml_dashboard.png)
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### NBIS
+#### SOXL
 
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
+
+#### AMZN
+
+![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
 <!-- AUTO_TOP10_END -->
