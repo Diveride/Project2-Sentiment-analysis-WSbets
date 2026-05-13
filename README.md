@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-12T23:20:59.572783+00:00`
+- Generated at (UTC): `2026-05-13T23:33:57.385729+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | AMD | 30 | 17 | 0.250 | 448.29 | 81.62% | 12.010 |
-| 2 | RKLB | 16 | 10 | 0.087 | 117.56 | 66.47% | 4.821 |
-| 3 | TMC | 39 | 1 | 0.998 | 5.64 | 22.08% | 0.194 |
-| 4 | INTC | 13 | 7 | 0.043 | 120.61 | 85.04% | 7.454 |
-| 5 | NBIS | 5 | 4 | 0.933 | 179.11 | 15.88% | 5.755 |
-| 6 | RDDT | 4 | 4 | 0.342 | 152.35 | 2.01% | 4.907 |
-| 7 | HUT | 8 | 2 | 0.980 | 107.31 | 53.83% | 2.874 |
-| 8 | NVDA | 4 | 3 | -0.259 | 220.78 | 16.62% | 2.006 |
-| 9 | SOXL | 3 | 3 | -0.010 | 172.52 | 114.15% | 6.881 |
-| 10 | AMZN | 6 | 2 | -0.222 | 265.82 | 10.81% | 1.919 |
+| 1 | RKLB | 21 | 13 | 0.259 | 124.15 | 71.91% | 4.654 |
+| 2 | NBIS | 12 | 11 | 0.558 | 207.27 | 27.99% | 6.796 |
+| 3 | AMD | 16 | 9 | 0.473 | 445.50 | 74.66% | 14.458 |
+| 4 | INTC | 14 | 7 | 0.007 | 120.29 | 88.51% | 7.192 |
+| 5 | SKM | 31 | 1 | 0.997 | 39.63 | 8.25% | 0.749 |
+| 6 | NVDA | 7 | 5 | 0.294 | 225.83 | 14.92% | 2.403 |
+| 7 | QQQ | 6 | 5 | 0.404 | 714.71 | 13.70% | 7.141 |
+| 8 | DRAM | 6 | 4 | 0.833 | 54.54 | 53.33% | n/a |
+| 9 | RDDT | 4 | 4 | 0.257 | 154.12 | -0.27% | 8.098 |
+| 10 | PSMT | 13 | 1 | 0.996 | 158.11 | 0.89% | 1.374 |
 
 ### Aggregate Charts
 
@@ -182,43 +182,43 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
 #### RKLB
 
 ![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
-
-#### TMC
-
-![TMC Dashboard](outputs/latest_wsb_analysis/charts/tmc_dashboard.png)
-
-#### INTC
-
-![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
 
 #### NBIS
 
 ![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 
-#### RDDT
+#### AMD
 
-![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### HUT
+#### INTC
 
-![HUT Dashboard](outputs/latest_wsb_analysis/charts/hut_dashboard.png)
+![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
+
+#### SKM
+
+![SKM Dashboard](outputs/latest_wsb_analysis/charts/skm_dashboard.png)
 
 #### NVDA
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### SOXL
+#### QQQ
 
-![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
-#### AMZN
+#### DRAM
 
-![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
+![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
+
+#### RDDT
+
+![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
+
+#### PSMT
+
+![PSMT Dashboard](outputs/latest_wsb_analysis/charts/psmt_dashboard.png)
 <!-- AUTO_TOP10_END -->
