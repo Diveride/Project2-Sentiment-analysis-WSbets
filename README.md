@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-13T23:33:57.385729+00:00`
+- Generated at (UTC): `2026-05-14T23:14:58.616626+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | RKLB | 21 | 13 | 0.259 | 124.15 | 71.91% | 4.654 |
-| 2 | NBIS | 12 | 11 | 0.558 | 207.27 | 27.99% | 6.796 |
-| 3 | AMD | 16 | 9 | 0.473 | 445.50 | 74.66% | 14.458 |
-| 4 | INTC | 14 | 7 | 0.007 | 120.29 | 88.51% | 7.192 |
-| 5 | SKM | 31 | 1 | 0.997 | 39.63 | 8.25% | 0.749 |
-| 6 | NVDA | 7 | 5 | 0.294 | 225.83 | 14.92% | 2.403 |
-| 7 | QQQ | 6 | 5 | 0.404 | 714.71 | 13.70% | 7.141 |
-| 8 | DRAM | 6 | 4 | 0.833 | 54.54 | 53.33% | n/a |
-| 9 | RDDT | 4 | 4 | 0.257 | 154.12 | -0.27% | 8.098 |
-| 10 | PSMT | 13 | 1 | 0.996 | 158.11 | 0.89% | 1.374 |
+| 1 | RKLB | 24 | 16 | 0.181 | 132.55 | 80.10% | 4.634 |
+| 2 | LNG | 49 | 1 | 0.998 | 241.08 | -6.10% | 3.977 |
+| 3 | NBIS | 12 | 10 | 0.486 | 221.15 | 32.61% | 6.930 |
+| 4 | NVDA | 12 | 9 | 0.614 | 235.74 | 18.54% | 2.629 |
+| 5 | AMD | 11 | 9 | 0.274 | 449.70 | 74.22% | 13.221 |
+| 6 | INTC | 12 | 6 | -0.106 | 115.93 | 78.52% | 7.255 |
+| 7 | SKM | 31 | 1 | 0.997 | 38.68 | 6.41% | 0.769 |
+| 8 | NOW | 7 | 4 | 0.347 | 90.50 | -3.92% | 1.591 |
+| 9 | PLTR | 7 | 4 | 0.428 | 133.73 | -5.92% | 1.040 |
+| 10 | QQQ | 5 | 4 | 0.335 | 719.79 | 12.93% | 7.621 |
 
 ### Aggregate Charts
 
@@ -186,9 +186,17 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
+#### LNG
+
+![LNG Dashboard](outputs/latest_wsb_analysis/charts/lng_dashboard.png)
+
 #### NBIS
 
 ![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### AMD
 
@@ -202,23 +210,15 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SKM Dashboard](outputs/latest_wsb_analysis/charts/skm_dashboard.png)
 
-#### NVDA
+#### NOW
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+![NOW Dashboard](outputs/latest_wsb_analysis/charts/now_dashboard.png)
+
+#### PLTR
+
+![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
 
 #### QQQ
 
 ![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
-
-#### DRAM
-
-![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
-
-#### RDDT
-
-![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
-
-#### PSMT
-
-![PSMT Dashboard](outputs/latest_wsb_analysis/charts/psmt_dashboard.png)
 <!-- AUTO_TOP10_END -->

@@ -3,22 +3,22 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-05-13T23:33:57.387831+00:00`
+- Generated at (UTC): `2026-05-14T23:14:58.618713+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
-| 1 | RKLB | 21 | 13 | 0.259 |
-| 2 | NBIS | 12 | 11 | 0.558 |
-| 3 | AMD | 16 | 9 | 0.473 |
-| 4 | INTC | 14 | 7 | 0.007 |
-| 5 | SKM | 31 | 1 | 0.997 |
-| 6 | NVDA | 7 | 5 | 0.294 |
-| 7 | QQQ | 6 | 5 | 0.404 |
-| 8 | DRAM | 6 | 4 | 0.833 |
-| 9 | RDDT | 4 | 4 | 0.257 |
-| 10 | PSMT | 13 | 1 | 0.996 |
+| 1 | RKLB | 24 | 16 | 0.181 |
+| 2 | LNG | 49 | 1 | 0.998 |
+| 3 | NBIS | 12 | 10 | 0.486 |
+| 4 | NVDA | 12 | 9 | 0.614 |
+| 5 | AMD | 11 | 9 | 0.274 |
+| 6 | INTC | 12 | 6 | -0.106 |
+| 7 | SKM | 31 | 1 | 0.997 |
+| 8 | NOW | 7 | 4 | 0.347 |
+| 9 | PLTR | 7 | 4 | 0.428 |
+| 10 | QQQ | 5 | 4 | 0.335 |
 
 ## Reddit fetch diagnostics
 
@@ -31,18 +31,18 @@
 | --- | --- | --- | ---: | --- |
 | hot | oauth | success | 100 |  |
 | new | oauth | success | 100 |  |
-| rising | oauth | success | 25 |  |
+| rising | oauth | success | 26 |  |
 | top | oauth | success | 100 |  |
 
 ## Market snapshot
 
-- **RKLB**: close `124.15`, 1M return `71.91%` if available, RSI `75.75` and regression RMSE `4.654`
-- **NBIS**: close `207.27`, 1M return `27.99%` if available, RSI `69.71` and regression RMSE `6.796`
-- **AMD**: close `445.50`, 1M return `74.66%` if available, RSI `76.20` and regression RMSE `14.458`
-- **INTC**: close `120.29`, 1M return `88.51%` if available, RSI `74.77` and regression RMSE `7.192`
-- **SKM**: close `39.63`, 1M return `8.25%` if available, RSI `66.65` and regression RMSE `0.749`
-- **NVDA**: close `225.83`, 1M return `14.92%` if available, RSI `72.13` and regression RMSE `2.403`
-- **QQQ**: close `714.71`, 1M return `13.70%` if available, RSI `79.48` and regression RMSE `7.141`
-- **DRAM**: close `54.54`, 1M return `53.33%` if available, RSI `78.07`
-- **RDDT**: close `154.12`, 1M return `-0.27%` if available, RSI `49.04` and regression RMSE `8.098`
-- **PSMT**: close `158.11`, 1M return `0.89%` if available, RSI `53.14` and regression RMSE `1.374`
+- **RKLB**: close `132.55`, 1M return `80.10%` if available, RSI `78.33` and regression RMSE `4.634`
+- **LNG**: close `241.08`, 1M return `-6.10%` if available, RSI `36.93` and regression RMSE `3.977`
+- **NBIS**: close `221.15`, 1M return `32.61%` if available, RSI `72.84` and regression RMSE `6.930`
+- **NVDA**: close `235.74`, 1M return `18.54%` if available, RSI `76.72` and regression RMSE `2.629`
+- **AMD**: close `449.70`, 1M return `74.22%` if available, RSI `76.70` and regression RMSE `13.221`
+- **INTC**: close `115.93`, 1M return `78.52%` if available, RSI `69.71` and regression RMSE `7.255`
+- **SKM**: close `38.68`, 1M return `6.41%` if available, RSI `60.57` and regression RMSE `0.769`
+- **NOW**: close `90.50`, 1M return `-3.92%` if available, RSI `45.77` and regression RMSE `1.591`
+- **PLTR**: close `133.73`, 1M return `-5.92%` if available, RSI `43.15` and regression RMSE `1.040`
+- **QQQ**: close `719.79`, 1M return `12.93%` if available, RSI `80.64` and regression RMSE `7.621`
