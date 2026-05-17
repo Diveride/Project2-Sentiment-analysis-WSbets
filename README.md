@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-16T23:10:57.665806+00:00`
+- Generated at (UTC): `2026-05-17T23:13:46.888417+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -164,15 +164,15 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1 | LNG | 49 | 1 | 0.998 | 241.84 | -7.95% | 4.035 |
-| 2 | RKLB | 13 | 8 | 0.088 | 124.77 | 50.45% | 4.433 |
-| 3 | NBIS | 9 | 8 | 0.422 | 219.94 | 33.02% | 7.716 |
-| 4 | APLD | 33 | 1 | 0.999 | 42.56 | 41.44% | 0.776 |
-| 5 | NVDA | 8 | 6 | 0.719 | 225.32 | 13.60% | 2.791 |
+| 2 | RKLB | 16 | 7 | 0.111 | 124.77 | 50.45% | 4.433 |
+| 3 | APLD | 33 | 1 | 0.999 | 42.56 | 41.44% | 0.776 |
+| 4 | AMD | 9 | 7 | 0.005 | 424.10 | 52.41% | 15.052 |
+| 5 | NBIS | 8 | 7 | 0.431 | 219.94 | 33.02% | 7.716 |
 | 6 | FRMI | 25 | 1 | 0.999 | 6.51 | -2.40% | 0.485 |
-| 7 | AMD | 6 | 5 | 0.377 | 424.10 | 52.41% | 15.052 |
-| 8 | INTC | 4 | 3 | 0.029 | 108.77 | 58.79% | 7.535 |
-| 9 | ILMN | 9 | 1 | 0.870 | 142.54 | 7.40% | 3.629 |
-| 10 | VG | 9 | 1 | 0.998 | 14.23 | 12.22% | 1.157 |
+| 7 | SPY | 5 | 5 | -0.491 | 739.17 | 5.35% | 5.833 |
+| 8 | NVDA | 5 | 4 | 0.840 | 225.32 | 13.60% | 2.791 |
+| 9 | DRAM | 6 | 3 | 0.350 | 51.10 | 45.83% | n/a |
+| 10 | NOK | 8 | 2 | 0.480 | 13.95 | 35.57% | 0.370 |
 
 ### Aggregate Charts
 
@@ -190,35 +190,35 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
-#### NBIS
-
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
-
 #### APLD
 
 ![APLD Dashboard](outputs/latest_wsb_analysis/charts/apld_dashboard.png)
-
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
-#### FRMI
-
-![FRMI Dashboard](outputs/latest_wsb_analysis/charts/frmi_dashboard.png)
 
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### INTC
+#### NBIS
 
-![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 
-#### ILMN
+#### FRMI
 
-![ILMN Dashboard](outputs/latest_wsb_analysis/charts/ilmn_dashboard.png)
+![FRMI Dashboard](outputs/latest_wsb_analysis/charts/frmi_dashboard.png)
 
-#### VG
+#### SPY
 
-![VG Dashboard](outputs/latest_wsb_analysis/charts/vg_dashboard.png)
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+
+#### DRAM
+
+![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
+
+#### NOK
+
+![NOK Dashboard](outputs/latest_wsb_analysis/charts/nok_dashboard.png)
 <!-- AUTO_TOP10_END -->

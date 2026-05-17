@@ -1,42 +1,331 @@
 created_utc,body,clean_body,body_sentiment,body_label
-2026-05-16 22:21:11+00:00,,nan,0.0,neutral
-2026-05-16 22:02:42+00:00,"State Street's 11 sector ETFs are built to be an exact map to SPY at these weights:
+2026-05-17 23:04:06+00:00,,nan,0.0,neutral
+2026-05-17 22:48:07+00:00,"# 
 
-ETF  | Sector                  | Weight
+Just want to post my DD and see if the community can chime in. TLDR is that this majority of the stock are locked up from restructuring deal. Effective float is significantly smaller than the published share count. Shorts are mostly hedge short. however, the directional short counts are still at >50% of the tradable float, they are way underwater and has no way out. retailer need to turn off the share for lending... these are their only share churning to fight the upward movement.
 
-\-----|-------------------------|-------
+|**Investor Bucket**|**Share Count**|**Tradability**|**Shortability & Lending Profile**|
+|:-|:-|:-|:-|
+||
+|||||
+|**1. Renesas Electronics**|**16,852,372**|**Locked.** Bound by CFIUS restrictions and strategic supply agreements.|**0% Shortable/Lendable.** Permanently parked in corporate escrow.|
+|**2. March Private Placement**|**3,250,030**|**Restricted.** Issued via Rule 144 text on March 26, 2026.|**0% Shortable/Lendable.** Shares are physically frozen at the transfer agent.|
+|**3. Slate Path Capital**|**4,438,156**|**Liquid but Hoarded.** Active long-only activist accumulation.|**0% Lendable.** Maintained in clean cash custody to retain full corporate voting rights.|
+|**4. Legacy Creditors**|**21,362,284**|**Free via Sec. 1145.** No SEC holding blocks, but bound by corporate blackout windows.|**\~98% Leased Out.** These institutions choose to generate yield via custodian lending programs rather than selling.|
+|**5. Scattered Retail Float**|**\~2,436,239**|**Fully Liquid.** General market float trading across public brokerages.|**Variable.** Auto-lent by default if held in standard retail margin accounts.|
 
-XLK  | Technology              | 31%
+the only shares that are trading around the market are number 5, the retails at about 2.4m.
 
-XLF  | Financials              | 14%
+The last finer report April 30 indicate **16m** short shares. if we subtract out the arbitrage short share for those to the 3.5% senior notes (1**2.7m+/-**), that leaves about **3.3m** directional shorts. they are deeply underwater with no way out because the affection flow (#5) is only 2.4 m, there is not enough share for them to get out.
 
-XLV  | Health Care             | 11%
+further more, the delta hedge fund from #4, will as as a accelerator as share price goes not, they have to delta hedge and buy more, there is a shrink pool of share to borrow, driving up the price even more.
 
-XLY  | Consumer Discretionary  | 10%
+also borrow cost increased from 3 to 15% on Friday. more pressure on shorts.
 
-XLC  | Communication Services  | 9%
+TLDR - short % way higher then actual effective float. increase borrow cost, shorts are feeling the pressure.
 
-XLI  | Industrials             | 9%
+feel free to chime in and discuss.",just want to post my dd and see if the community can chime in tldr is that this majority of the stock are locked up from restructuring deal effective float is significantly smaller than the published share count shorts are mostly hedge short however the directional short counts are still at of the tradable float they are way underwater and has no way out retailer need to turn off the share for lending these are their only share churning to fight the upward movement investor bucket share count tradability shortability lending profile renesas electronics locked bound by cfius restrictions and strategic supply agreements shortable lendable permanently parked in corporate escrow march private placement restricted issued via rule text on march shortable lendable shares are physically frozen at the transfer agent slate path capital liquid but hoarded active long only activist accumulation lendable maintained in clean cash custody to retain full corporate voting rights legacy creditors free via sec no sec holding blocks but bound by corporate blackout windows leased out these institutions choose to generate yield via custodian lending programs rather than selling scattered retail float fully liquid general market float trading across public brokerages variable auto lent by default if held in standard retail margin accounts the only shares that are trading around the market are number the retails at about m the last finer report april indicate m short shares if we subtract out the arbitrage short share for those to the senior notes m that leaves about m directional shorts they are deeply underwater with no way out because the affection flow is only m there is not enough share for them to get out further more the delta hedge fund from will as as a accelerator as share price goes not they have to delta hedge and buy more there is a shrink pool of share to borrow driving up the price even more also borrow cost increased from to on friday more pressure on shorts tldr short way higher then actual effective float increase borrow cost shorts are feeling the pressure feel free to chime in and discuss,0.9902,positive
+2026-05-17 22:47:58+00:00,,nan,0.0,neutral
+2026-05-17 22:15:51+00:00,,nan,0.0,neutral
+2026-05-17 21:45:54+00:00,,nan,0.0,neutral
+2026-05-17 20:15:16+00:00,"***Apologies for the Spacex glazing I'm about to do. I'm going to enjoy this even less than you will.***
 
-XLP  | Consumer Staples        | 6%
+I think to understand Spacex's astronomic valuation, you need to look at the story of McCaw Cellular. In short, in the early 1980s Craig McCaw realized that the way the FCC was allocating cell spectrum licenses to anyone who asked would result in decades of spotty, inconsistent cell coverage that would hamper the adoption of cell phones despite obvious consumer demand. His solution? Buy every single chunk of spectrum he could find and build a working nationwide cellular telephone network, as fast as possible, at literally any cost.
 
-XLE  | Energy                  | 4%
+By 1994, McCaw Cellular had cornered nearly the entire American cell market and grown to roughly the same size as Boeing, American Express, and even briefly eclipsed Microsoft in market cap. **WITHOUT EVER TURNING A PROFIT.** Despite the titanic debt load incurred through their ""at any cost"" expansionist strategy, investors were willing to justify exponentially higher prices for the stock because the obvious terminal consumer demand for cell phones (literally everyone) always exceeded the debt required to serve them. In late 1994 McCaw essentially forced a merger with AT&T (which had gigantic cash reserves and the established nationwide infrastructure to be able to profitably maintain the McCaw network) through some financial shenanigans, which resulted in AT&T becoming \*drumroll\* the third largest company on the S&P 500, and creating AT&T Wireless which instantly became the majority of AT&T's business.
 
-XLU  | Utilities               | 3%
+The parallels with Spacex are not exact, but I think they are close enough to be illustrative. If you model Starlink, D2C, and the new data center project as operating under the McCaw principle of ""expand access at any cost"", and you model Spacex's launch business as operating under the 1994 AT&T principle of infrastructural stability, reliability, and monolithic market share, I think the gigantic IPO valuation begins, bizarrely, to justify itself.
 
-XLRE | Real Estate             | 2%
+Much like cell phones in the 1980s, the terminal consumer demand for uninterrupted global cell, internet, and compute access from a single source is functionally infinite, even (especially?) after the impending collapse of the AI bubble. When you consider that unlike McCaw Cellular, Spacex has thus-far built Starlink while also turning a thin profit, I think the case for its enormous valuation strengthens.
 
-XLB  | Materials               | 2%
+\--
 
-That 11-ETF port at those weights is SPY, exactly, 1:1.  SpaceX is likely to land in either XLC or XLI, depending. When it's announced, there will undoubtedly be an XLC or XLI ex-SpaceX created, and it will simply be a matter of swapping that particular sector ETF to the appropriate ex ETF.  But failing that:
+**Postscript:** You might be wondering to yourself ""What became of Craig McCaw and the rest of the McCaw Cellular team after the merger with AT&T?""
 
-If it's XLI:  Drop it, split the weight across XTN (transportation) + a machinery/construction ETF.
+Immediately after the merger, Craig McCaw partnered with Bill Gates to found Teledesic, a company which aimed build the world's first ***global constellation of broadband internet satellites using a modular, flat-pack satellite design with Ka-band phased array antennas.*** The venture ultimately fizzled out due to high launch costs.
 
-If it's XLC:  Alphabet and Meta dominate XLC so SpaceX's contamination is smaller, but still real. Best move is probably holding the big XLC names directly (GOOGL, META, NFLX, DIS, CMCSA) and skipping the ETF entirely for that 9%.
+Several McCaw Cellular executives went on to become early investors and employees at Spacex.",apologies for the spacex glazing i m about to do i m going to enjoy this even less than you will i think to understand spacex s astronomic valuation you need to look at the story of mccaw cellular in short in the early s craig mccaw realized that the way the fcc was allocating cell spectrum licenses to anyone who asked would result in decades of spotty inconsistent cell coverage that would hamper the adoption of cell phones despite obvious consumer demand his solution buy every single chunk of spectrum he could find and build a working nationwide cellular telephone network as fast as possible at literally any cost by mccaw cellular had cornered nearly the entire american cell market and grown to roughly the same size as boeing american express and even briefly eclipsed microsoft in market cap without ever turning a profit despite the titanic debt load incurred through their at any cost expansionist strategy investors were willing to justify exponentially higher prices for the stock because the obvious terminal consumer demand for cell phones literally everyone always exceeded the debt required to serve them in late mccaw essentially forced a merger with at t which had gigantic cash reserves and the established nationwide infrastructure to be able to profitably maintain the mccaw network through some financial shenanigans which resulted in at t becoming drumroll the third largest company on the s p and creating at t wireless which instantly became the majority of at t s business the parallels with spacex are not exact but i think they are close enough to be illustrative if you model starlink d c and the new data center project as operating under the mccaw principle of expand access at any cost and you model spacex s launch business as operating under the at t principle of infrastructural stability reliability and monolithic market share i think the gigantic ipo valuation begins bizarrely to justify itself much like cell phones in the s the terminal consumer demand for uninterrupted global cell internet and compute access from a single source is functionally infinite even especially after the impending collapse of the ai bubble when you consider that unlike mccaw cellular spacex has thus far built starlink while also turning a thin profit i think the case for its enormous valuation strengthens postscript you might be wondering to yourself what became of craig mccaw and the rest of the mccaw cellular team after the merger with at t immediately after the merger craig mccaw partnered with bill gates to found teledesic a company which aimed build the world s first global constellation of broadband internet satellites using a modular flat pack satellite design with ka band phased array antennas the venture ultimately fizzled out due to high launch costs several mccaw cellular executives went on to become early investors and employees at spacex,0.8599,positive
+2026-05-17 20:00:47+00:00,,nan,0.0,neutral
+2026-05-17 19:57:09+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1tg001j),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-05-17 19:52:22+00:00,According to recent articles analyst project this fair value to be 28$. 40% of the current float is short though. What are your thoughts?,according to recent articles analyst project this fair value to be of the current float is short though what are your thoughts,0.6155,positive
+2026-05-17 19:38:51+00:00,"Hi everyone, I have something really important to say to you all. I was just clocking in for my shift behind the Wendy’s dumpster to give out some ""favors"" to cover my blown-up 0DTE SPY puts. Right as I am setting up my cardboard box i watch this overweight pigeon demolish a half-eaten Baconator, take flight, and absolutely carpet bomb some dude who was aggressively checking his AMD calls. The splatter radius was completely unhinged. Seeing retail get literally dumped on in broad daylight is the ultimate contrarian buy signal. The bottom is in. Markets are going green tomorrow. Calls on everything. Either that, or my ""client"" list back here is about to get a lot longer. See you boys out back.",hi everyone i have something really important to say to you all i was just clocking in for my shift behind the wendy s dumpster to give out some favors to cover my blown up dte spy puts right as i am setting up my cardboard box i watch this overweight pigeon demolish a half eaten baconator take flight and absolutely carpet bomb some dude who was aggressively checking his amd calls the splatter radius was completely unhinged seeing retail get literally dumped on in broad daylight is the ultimate contrarian buy signal the bottom is in markets are going green tomorrow calls on everything either that or my client list back here is about to get a lot longer see you boys out back,-0.8343,negative
+2026-05-17 19:05:27+00:00,,nan,0.0,neutral
+2026-05-17 18:59:45+00:00,"Just to clarify all calls were screwed over when my counterpart the gay bear left shoulder was previously hit. As this time it was me that was hit, market should average out at green tomorrow.",just to clarify all calls were screwed over when my counterpart the gay bear left shoulder was previously hit as this time it was me that was hit market should average out at green tomorrow,-0.4939,negative
+2026-05-17 18:38:57+00:00,"It has been a while since I have posted a Due Dilligence post here so buckle in because this is going to be a long one. **No AI in this one either, this is all from the dome.**
 
-Happy investing, everybody!",state street s sector etfs are built to be an exact map to spy at these weights etf sector weight xlk technology xlf financials xlv health care xly consumer discretionary xlc communication services xli industrials xlp consumer staples xle energy xlu utilities xlre real estate xlb materials that etf port at those weights is spy exactly spacex is likely to land in either xlc or xli depending when it s announced there will undoubtedly be an xlc or xli ex spacex created and it will simply be a matter of swapping that particular sector etf to the appropriate ex etf but failing that if it s xli drop it split the weight across xtn transportation a machinery construction etf if it s xlc alphabet and meta dominate xlc so spacex s contamination is smaller but still real best move is probably holding the big xlc names directly googl meta nflx dis cmcsa and skipping the etf entirely for that happy investing everybody,0.8223,positive
-2026-05-16 21:46:44+00:00,,nan,0.0,neutral
-2026-05-16 21:10:59+00:00,Did this boy have a crystal ball?,did this boy have a crystal ball,0.0,neutral
+Here is my [Original DD Post](https://www.reddit.com/r/Nok/comments/m0h2xn/a_comprehensive_guide_to_why_nokia_nok_is_one_of/) from 5 years ago and boy do I feel lucky that I have been able to build my position over time. A lot has changed since then, but some of it is still relevant.
+
+So why has the share price increased and where is it going the rest of the year?
+
+X users have been tracking recent $NOK options activity.
+
+* [Dec 2026 $24 calls worth $4.15M](https://x.com/investmentguru_/status/2055274097521627500?s=46)
+* [Jan 2027 $27 calls worth $1.5M](https://x.com/bullflowio/status/2054625402925056081?s=46)
+* [Sep 2026 $19 calls worth $3.4M](https://x.com/fl0wg0d/status/2050232355839733985?s=46)
+* [June 2026 $17 calls worth $700K](https://x.com/remzztrades/status/2050962596895830096?s=46)
+
+Calls have always been a dangerous game with $NOK, but these definitely caught my attention. There have been numerous examples of ""unusual"" options activity in the last 5 years, but I cannot remember a time when it was this big and this bullish.
+
+These buyers could all be wrong. But big money players tends to know what they are doing.
+
+So why are these calls being purchased? **To frame this post, I wanted to address 5 rumors that have been circling Nokia recently and share my opinions.**
+
+# Nvidia is Going to Buy More
+
+If you are on this sub, you likely know that Nvidia bought $1B worth of Nokia shares in October of 2025. This is nearly a 3% stake in the company.
+
+However, there are 2 things about this that have always struck me as odd.
+
+First is that all of Nvidia's recent investments/partnerships (Marvell, Coherent, CoreWeave, Synopsys, Lumentum, and Nebius) have been $2B stakes. Why is Nokia's only $1b?
+
+* There could be geopolitical reseasons (more on this later). Perhaps Nokia or the Finnish Government/Solidium wanted to limit outside control/ownership.
+
+If you watch this [Interview of Jensen Huang and Justin Hotard](https://www.youtube.com/watch?v=egdwwfTyfyU), you will notice it starts mid-interview now as do all of the other clips I can now find it.
+
+Originally in this interview, Jensen started by saying that ""no body knows communications better than Nokia"" and that **""he wishes the investment could have been $2B.""**
+
+* If anyone can find the video let me know, but I think it has been scrubbed from the internet. Only proof I have is this [Comment](https://www.reddit.com/r/Nok/comments/1okwytz/comment/nmdycwx/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) of mine referencing it 7 months ago.
+
+So maybe Nokia negotiated a staggered buy in. This would not be out of character for the organization. They have treated buybacks similarly in the last few years.
+
+* Instead of buying back shares all at once as many organizations do, they have bough back small tranches of shares over time.
+
+**Conclusion:** These calls could be coming from Nvidia insiders.
+
+# The US Federal Goverment is Going to Buy a Stake
+
+This may sound ridiculous at first, but this has been a rumor since early 2020.
+
+[Attorney General William Barr Publically Stated This](https://www.pbs.org/newshour/economy/barrs-call-for-u-s-control-of-5g-providers-quickly-rebuked) years ago and it was a big part of why I originally entered a position in Nokia. This is why the Rip and Replace program exisits.
+
+* The current administration has been hot on foreign tech in US telecommunications since their first term in power and nothing has changed.
+
+If you watch the Interview of Jensen Huang above, he is asked about the current administration and he reiterates that current US telecom is built on ""foreign tech.""
+
+* That phrase is somewhat funny to me because even though the CEO is now an American, Nokia of course is a foreign company based out of Finalnd.
+
+This is also the reason why most think the US gov will never buy a stake in Nokia. They will not buy a stake in a non-US company.
+
+* I do tend to agree. It could be a way to better align with the EU whichFinland is now a part of, but this administration does not seem too keen on the EU.
+
+It has also been rumored that Nokia may move their HQ to the US. Not sure that is likely, but [Nokia Pledging $4B in US Investment](https://www.nokia.com/newsroom/nokia-plans-to-expand-us-investment-by-4-billion-in-rd-and-manufacturing-for-ai-ready-network-connectivity/) and [Nokia Bell Labs Opening New HQ in New Jersey in 2028](https://spectrum.ieee.org/nokia-bell-labs-new-headquarters) could both be signs that this may eventually happen.
+
+* Nokia owns what used to be Lucent Technologies which was a a massive spin-off of AT&T’s systems and Bell Labs in order to to sell hardware to telecom carriers.
+
+This could also explain why Nvidia did not buy all $2B at once. **They are waiting for the US gov to buy their shares before investing the other $1B.**
+
+* [Nvidia Purchased their $5B stake in Intel](https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products) a month after [Trump bought $9B.](https://www.intc.com/news-events/press-releases/detail/1748/intel-and-trump-administration-reach-historic-agreement-to)
+
+The thesis behind this rumor is that Nvidia + Nokia create a true competitor to Huawei in the aggregate. This timing of these calls with Trump's trip to China intrigue me.
+
+Trump has a strong relationship with Finnish Prime Minister Alexander Stubb. [This Article calls Stubb Trump's closest European confidant](https://www.politico.eu/article/donald-trump-alexander-stubb-nato-alliance-future/).
+
+* [Nokia was also a hot topic during Stubb's 2025 October visit to the White House](https://www.linkedin.com/posts/nokia_trump-and-finnish-president-alexander-stubb-activity-7382382999851466752-39kK?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy). That visit led to a deal in which the US agreed to buy 11 icebreaker ships from Finland.
+
+**Conclusion:** These calls could be coming from US Government insiders.
+
+# Nokia is Closing a Massive Deal with Google
+
+If you missed [u/Mustathmir](https://www.reddit.com/user/Mustathmir/) post in r/NOK from a couple days ago, he referenced [Here](https://www.reddit.com/r/Nok/comments/1tdvoj8/deutsche_bank_raises_nokias_target_price_69/) that Deutsche Bank raised their Price Target on Nokia and referenced the **""strong likelihood that this development has been driven by a significant deal with Google.""**
+
+* In their recent earnings call, Google did say that thei [Capital Expenditures will hit $190B in 2026 and Expects even more in 2027](https://finance.yahoo.com/video/alphabet-2026-capex-hits-190b-expects-even-more-spend-in-2027-223804412.html).
+
+That money has to go somewhere, perhaps it is going to Nokia. Nokia has a solid history with the hyperscaler. They [First Partnered with Google Cloud in 2020](https://www.googlecloudpresscorner.com/2020-10-14-Nokia-and-Google-Cloud-Sign-Strategic-Collaboration-toTransform-Nokias-Digital-Infrastructure).
+
+* They have expanded that partnership many times over the years including partnering on [AI-Powered Network Automation in 2025](https://www.sdxcentral.com/news/nokia-google-cloud-partnership-targets-ai-powered-network-automation/) and [APIs earlier this year](https://www.nokia.com/newsroom/nokia-expands-network-as-code-ecosystem-advances-api-based-agentic-ai-with-google-cloud-mwc26/).
+
+**Conclusion:** These calls could be coming from Google insiders.
+
+# Nokia is Closing a Massive Deal with Microsoft
+
+This is a post about rumors, so this one is pretty light on details.
+
+This post on X stating that [Microsoft is investing $100B in Infrastructure and Hosting Services](https://x.com/firstsquawk/status/2054604569590865973?s=46) has gained some traction.
+
+* I have seen a few users post they believe Nokia could be a benefactor of this. Again, not a ton to back this one up. **Obviously Nokia is a big Infrastructure player.**
+
+Nokia and Microsoft obviously have a long history with Microsoft buying Nokia's phone division back in 2014.
+
+* A lot has changed since then, but Nokia is still working with the hyperscaler. [In 2021, they partnered on Cloud Solutions for Enterprises](https://www.nokia.com/newsroom/nokia-partners-with-microsoft-on-cloud-solutions-for-enterprise/).
+
+**Conclusion:** These calls could be coming from Microsoft insiders.
+
+# Leopold Aschenbrenner is Buying a Stake
+
+And finally the rumor I care least about and think matters the least short & long term.
+
+Aschenbrenner is a German AI researcher and investor. He was part of OpenAI's ""Superalignment"" team before he was fired in April 2024 over an alleged information leak.
+
+He then founded Situational Awareness LP, a hedge fund investing in companies involved in the development of AI technology and turned $225M into $5.5B.
+
+* His 13F was supposed to come out last week, but never did. Some think he either got permission to file late or confidentiality, but not sure either way.
+* His holdings over the last year have performed well (Intel, Sandisk, Bloom Energy, Lumentum, CoreWeave, Coherent, Applied Digital).
+
+**Conclusion:** These calls could be coming from Leopold Aschenbrenner.
+
+All in all, exciting times currently and ahead with Nokia. Whether multiple or none of these rumors come to fruition, I am excited to see where the company goes in the coming years.
+
+It has been quite the roller-coaster these last 5 years and I am sure there will be more highs and lows in the next 5. I look forward to experiencing them.
+
+My general thesis from 5 years ago still remains accurate in my eyes - **Nokia is undervalued and ""one of the most captivating investment opportunities in the market today.""**",it has been a while since i have posted a due dilligence post here so buckle in because this is going to be a long one no ai in this one either this is all from the dome here is my original dd post from years ago and boy do i feel lucky that i have been able to build my position over time a lot has changed since then but some of it is still relevant so why has the share price increased and where is it going the rest of the year x users have been tracking recent nok options activity dec calls worth m jan calls worth m sep calls worth m june calls worth k calls have always been a dangerous game with nok but these definitely caught my attention there have been numerous examples of unusual options activity in the last years but i cannot remember a time when it was this big and this bullish these buyers could all be wrong but big money players tends to know what they are doing so why are these calls being purchased to frame this post i wanted to address rumors that have been circling nokia recently and share my opinions nvidia is going to buy more if you are on this sub you likely know that nvidia bought b worth of nokia shares in october of this is nearly a stake in the company however there are things about this that have always struck me as odd first is that all of nvidia s recent investments partnerships marvell coherent coreweave synopsys lumentum and nebius have been b stakes why is nokia s only b there could be geopolitical reseasons more on this later perhaps nokia or the finnish government solidium wanted to limit outside control ownership if you watch this interview of jensen huang and justin hotard you will notice it starts mid interview now as do all of the other clips i can now find it originally in this interview jensen started by saying that no body knows communications better than nokia and that he wishes the investment could have been b if anyone can find the video let me know but i think it has been scrubbed from the internet only proof i have is this comment of mine referencing it months ago so maybe nokia negotiated a staggered buy in this would not be out of character for the organization they have treated buybacks similarly in the last few years instead of buying back shares all at once as many organizations do they have bough back small tranches of shares over time conclusion these calls could be coming from nvidia insiders the us federal goverment is going to buy a stake this may sound ridiculous at first but this has been a rumor since early attorney general william barr publically stated this years ago and it was a big part of why i originally entered a position in nokia this is why the rip and replace program exisits the current administration has been hot on foreign tech in us telecommunications since their first term in power and nothing has changed if you watch the interview of jensen huang above he is asked about the current administration and he reiterates that current us telecom is built on foreign tech that phrase is somewhat funny to me because even though the ceo is now an american nokia of course is a foreign company based out of finalnd this is also the reason why most think the us gov will never buy a stake in nokia they will not buy a stake in a non us company i do tend to agree it could be a way to better align with the eu whichfinland is now a part of but this administration does not seem too keen on the eu it has also been rumored that nokia may move their hq to the us not sure that is likely but nokia pledging b in us investment and nokia bell labs opening new hq in new jersey in could both be signs that this may eventually happen nokia owns what used to be lucent technologies which was a a massive spin off of at t s systems and bell labs in order to to sell hardware to telecom carriers this could also explain why nvidia did not buy all b at once they are waiting for the us gov to buy their shares before investing the other b nvidia purchased their b stake in intel a month after trump bought b the thesis behind this rumor is that nvidia nokia create a true competitor to huawei in the aggregate this timing of these calls with trump s trip to china intrigue me trump has a strong relationship with finnish prime minister alexander stubb this article calls stubb trump s closest european confidant nokia was also a hot topic during stubb s october visit to the white house that visit led to a deal in which the us agreed to buy icebreaker ships from finland conclusion these calls could be coming from us government insiders nokia is closing a massive deal with google if you missed u mustathmir post in r nok from a couple days ago he referenced here that deutsche bank raised their price target on nokia and referenced the strong likelihood that this development has been driven by a significant deal with google in their recent earnings call google did say that thei capital expenditures will hit b in and expects even more in that money has to go somewhere perhaps it is going to nokia nokia has a solid history with the hyperscaler they first partnered with google cloud in they have expanded that partnership many times over the years including partnering on ai powered network automation in and apis earlier this year conclusion these calls could be coming from google insiders nokia is closing a massive deal with microsoft this is a post about rumors so this one is pretty light on details this post on x stating that microsoft is investing b in infrastructure and hosting services has gained some traction i have seen a few users post they believe nokia could be a benefactor of this again not a ton to back this one up obviously nokia is a big infrastructure player nokia and microsoft obviously have a long history with microsoft buying nokia s phone division back in a lot has changed since then but nokia is still working with the hyperscaler in they partnered on cloud solutions for enterprises conclusion these calls could be coming from microsoft insiders leopold aschenbrenner is buying a stake and finally the rumor i care least about and think matters the least short long term aschenbrenner is a german ai researcher and investor he was part of openai s superalignment team before he was fired in april over an alleged information leak he then founded situational awareness lp a hedge fund investing in companies involved in the development of ai technology and turned m into b his f was supposed to come out last week but never did some think he either got permission to file late or confidentiality but not sure either way his holdings over the last year have performed well intel sandisk bloom energy lumentum coreweave coherent applied digital conclusion these calls could be coming from leopold aschenbrenner all in all exciting times currently and ahead with nokia whether multiple or none of these rumors come to fruition i am excited to see where the company goes in the coming years it has been quite the roller coaster these last years and i am sure there will be more highs and lows in the next i look forward to experiencing them my general thesis from years ago still remains accurate in my eyes nokia is undervalued and one of the most captivating investment opportunities in the market today,0.9957,positive
+2026-05-17 17:24:28+00:00,"The schizo who got shatted on was totally in the wrong as when the fecal matter exits the bird, the area below is classified as a ""Natural Toilet"".
+
+There's a toilet in your bathroom. Do you hang out in the bowl?
+
+If the shit did hit, you must acquit.
+
+Also SPY 800 EoW.",the schizo who got shatted on was totally in the wrong as when the fecal matter exits the bird the area below is classified as a natural toilet there s a toilet in your bathroom do you hang out in the bowl if the shit did hit you must acquit also spy eow,0.617,positive
+2026-05-17 17:18:46+00:00,"I am the director of Aerial Operations at Pigeons Incorporated and I would like to formally deny involvement in today’s shoulder strike.
+
+First off, we pigeons do not waste premium aerial ammunition on a man already trapped in an AMD 200/215 call spread during peak IV confusion. That’s excessive. We have ethics.
+
+Second, your interpretation system is completely backwards. Red days are caused by dumb bears saying “this can’t possibly go lower” before a major announcement or market event. We are merely observers.
+
+For the record:
+
+\- 2019 shoulder hit = random stimulus checks
+
+\- 2021 shoulder hit = meme stock gamma apocalypse
+
+\- 2024 shoulder hit = AI bubble phase 7
+
+\- Today = unrelated digestive event from an amateur juvenile pigeon named Carl
+
+Also, the “drone pigeon” accusations are hurtful and frankly outdated. If we were federally operated, do you really think we’d still be eating cigarette butts outside Walgreens?
+
+Anyway, based on rooftop sentiment analysis and stale french fry liquidity indicators, tomorrow will open green, rug by noon, then somehow AMD closes exactly where maximum pain hurts everyone equally.
+
+As always,
+
+Coo coo.",i am the director of aerial operations at pigeons incorporated and i would like to formally deny involvement in today s shoulder strike first off we pigeons do not waste premium aerial ammunition on a man already trapped in an amd call spread during peak iv confusion that s excessive we have ethics second your interpretation system is completely backwards red days are caused by dumb bears saying this can t possibly go lower before a major announcement or market event we are merely observers for the record shoulder hit random stimulus checks shoulder hit meme stock gamma apocalypse shoulder hit ai bubble phase today unrelated digestive event from an amateur juvenile pigeon named carl also the drone pigeon accusations are hurtful and frankly outdated if we were federally operated do you really think we d still be eating cigarette butts outside walgreens anyway based on rooftop sentiment analysis and stale french fry liquidity indicators tomorrow will open green rug by noon then somehow amd closes exactly where maximum pain hurts everyone equally as always coo coo,-0.9651,negative
+2026-05-17 16:36:05+00:00,"*I'm pretty new to reading charts not gonna lie, to me it seems like it jumped off a cliff for a multi-year free fall, took a fresh sip from the lake of 200ma, but rather than faceplanting, it did a front flip in and now with that momentum and AI catalyst it seems like going to shoot for past the sun and unto another universe?* **​Unusual options activity also is visible though not a guarantee.** ",i m pretty new to reading charts not gonna lie to me it seems like it jumped off a cliff for a multi year free fall took a fresh sip from the lake of ma but rather than faceplanting it did a front flip in and now with that momentum and ai catalyst it seems like going to shoot for past the sun and unto another universe unusual options activity also is visible though not a guarantee,0.5705,positive
+2026-05-17 16:14:39+00:00,"Hi,
+
+I'm birdpoop that flies out of this one pigeon straight onto a crackheads shoulder.
+
+Markets will go sideways tmrw, fuck your puts, fuck your calls, theta gang all year round.",hi i m birdpoop that flies out of this one pigeon straight onto a crackheads shoulder markets will go sideways tmrw fuck your puts fuck your calls theta gang all year round,-0.7269,negative
+2026-05-17 16:10:13+00:00,"I just shit on some guys shoulder again now and I’m straight cawing right now.   I’ve been doing this since this crackhead thinks that by me shitting on his shoulder it’s gonna result in a little red day for his stocks.  Well fuck him stocks only go up, Green Day tomorrow.  ",i just shit on some guys shoulder again now and i m straight cawing right now i ve been doing this since this crackhead thinks that by me shitting on his shoulder it s gonna result in a little red day for his stocks well fuck him stocks only go up green day tomorrow,-0.7845,negative
+2026-05-17 15:51:05+00:00,"Only 5 times in my life a pigeon pooped on my right shoulder.  
+Today I went out with my bro and I got s\*\*t on. I have 6 Amd long calls at 200$ and short calls at 215(edited). So I am stuck unless the market goes down so I can slowly pay back my short calls.
+
+Every time a pigeon s\*\*t on my shoulder for the last 15 years, I made more money than needed and from somewhere unexpected. Hence I believe the short term bull market is coming. Tomorrow will be a red day.  
+Either this or the drone pigeon market me to be “fixed”for not paying my debt.",only times in my life a pigeon pooped on my right shoulder today i went out with my bro and i got s t on i have amd long calls at and short calls at edited so i am stuck unless the market goes down so i can slowly pay back my short calls every time a pigeon s t on my shoulder for the last years i made more money than needed and from somewhere unexpected hence i believe the short term bull market is coming tomorrow will be a red day either this or the drone pigeon market me to be fixed for not paying my debt,-0.21,negative
+2026-05-17 15:40:46+00:00,"Back in 2022 I made some really stupid gambles. Not even going to call them trades... but for 4 years I had at one point a -106K loss on my account overall. At the time (2022) it was nearly 1/3'rd of my entire net worth. 35%, gone. Mostly over one bad trade with $LULU. I got cocky and put $80k into an option that expired shortly, and some nerd downgraded it on a random Wednesday (not even around earnings) and it dropped 9% in a day.
+
+It took me 3 months this year to get it all back. I started trading again after a 3 year break. Came back really just before the Iran war started.
+
+I set a goal that by the end of the year I would breakeven from my loss, but with a little grit and 1,000,000 mistakes along the way. (paper hands, selling too early, panic selling, panic buying, chasing etc...) And the historic bull recovery + luck timing. I got it all back.
+
+I can't tell you how relieved I am of making it work. Half of my money is in a safe ""managed"" portfolio from Schwab but I am smoking that portfolio by nearly 20% YTD.
+
+Let the good times roll!
+
+**Biggest plays: $LLY / $AMZN / $USO**  
+**Biggest change:** **Don't fight the tape. Being a contrarian trader is not worth it. Also, concentration builds wealth, diversification protects it.**
+
+I'm still in $LLY",back in i made some really stupid gambles not even going to call them trades but for years i had at one point a k loss on my account overall at the time it was nearly rd of my entire net worth gone mostly over one bad trade with lulu i got cocky and put k into an option that expired shortly and some nerd downgraded it on a random wednesday not even around earnings and it dropped in a day it took me months this year to get it all back i started trading again after a year break came back really just before the iran war started i set a goal that by the end of the year i would breakeven from my loss but with a little grit and mistakes along the way paper hands selling too early panic selling panic buying chasing etc and the historic bull recovery luck timing i got it all back i can t tell you how relieved i am of making it work half of my money is in a safe managed portfolio from schwab but i am smoking that portfolio by nearly ytd let the good times roll biggest plays lly amzn uso biggest change don t fight the tape being a contrarian trader is not worth it also concentration builds wealth diversification protects it i m still in lly,-0.8591,negative
+2026-05-17 14:08:09+00:00,"Looking to get some brutal, honest feedback. I know the golden rule in investing is diversification via SPY or full-port in 0DTE calls on QQQ, but I’ve taken a drastically different path. As you can see from the attached image, I am currently concentrated almost entirely in traditional energy, offshore drilling, and commodities/infrastructure. 
+
+It has worked out incredibly well due in large part to the war between the US and Iran and thus I am fully aware of the massive peace-risk I am running, but in my view, this conflict isn't ending anytime soon.
+
+My current market exposure is \~224k USD 
+
+( \^ yes I'm still poor \^ )
+
+YTD Performance: +91.63%
+
+5 Year CAGR: +27.73%",looking to get some brutal honest feedback i know the golden rule in investing is diversification via spy or full port in dte calls on qqq but i ve taken a drastically different path as you can see from the attached image i am currently concentrated almost entirely in traditional energy offshore drilling and commodities infrastructure it has worked out incredibly well due in large part to the war between the us and iran and thus i am fully aware of the massive peace risk i am running but in my view this conflict isn t ending anytime soon my current market exposure is k usd yes i m still poor ytd performance year cagr,-0.3721,negative
+2026-05-17 12:05:59+00:00,"Note:
+
+* 50k workers is 40% of Samsung's South Korean workforce
+* [$DRAM](https://www.roundhillinvestments.com/etf/dram/) holdings = 20% Samsung, 27% SK Hynix
+
+Discuss:
+
+* Bullish or bearish for MU, SNDK, WDC, STX?
+* Supply squeeze or demand slowdown for memory prices?
+* Short-term shock or longer-term pricing catalyst?
+
+\--
+
+Source 1: [https://www.investing.com/news/stock-market-news/samsung-strike-looms-why-analysts-say-to-watch-mu-as-memory-fabs-warm-down-4692589](https://www.investing.com/news/stock-market-news/samsung-strike-looms-why-analysts-say-to-watch-mu-as-memory-fabs-warm-down-4692589)
+
+Samsung Electronics has entered emergency management mode as up to 50,000 employees prepare to strike for 18 days starting May 21, according to Mizuho TMT Sector Specialist Jordan Klein. The company has begun a ""warm down"" of its memory fabs at the Pyeongtaek facility to prevent equipment damage during a potential stoppage.
+
+Samsung management and its union remain far apart on negotiations, with the union demanding a 15% share of operating profits and removal of bonus caps. The company’s stock dropped 8.6% on Friday.
+
+\--
+
+Source 2: [https://www.tomshardware.com/tech-industry/samsung-starts-winding-down-chip-producton-six-days-before-planned-18-day-strike](https://www.tomshardware.com/tech-industry/samsung-starts-winding-down-chip-producton-six-days-before-planned-18-day-strike)
+
+According to the Seoul Economic Daily, daily losses could approach 3 trillion won ($2 billion) if fabrication lines are paused entirely. Professor Kwon Seok-joon at Sungkyunkwan University previously estimated that the 18-day walkout alone would cause 10 trillion to 17 trillion won ($17 billion) in direct losses, while JPMorgan has projected total losses of up to 43 trillion won ($28 billion) when factoring in labor costs and extended production disruption.
+
+https://preview.redd.it/0v7difz13p1h1.png?width=1594&format=png&auto=webp&s=2381d62cc48e775706cf6c61547c424944885a6a
+
+https://preview.redd.it/os7g9o043p1h1.png?width=1583&format=png&auto=webp&s=5f7583831bb7eb16dbcec10e6392f8b2a588eaed",note k workers is of samsung s south korean workforce dram holdings samsung sk hynix discuss bullish or bearish for mu sndk wdc stx supply squeeze or demand slowdown for memory prices short term shock or longer term pricing catalyst source samsung electronics has entered emergency management mode as up to employees prepare to strike for days starting may according to mizuho tmt sector specialist jordan klein the company has begun a warm down of its memory fabs at the pyeongtaek facility to prevent equipment damage during a potential stoppage samsung management and its union remain far apart on negotiations with the union demanding a share of operating profits and removal of bonus caps the company s stock dropped on friday source according to the seoul economic daily daily losses could approach trillion won billion if fabrication lines are paused entirely professor kwon seok joon at sungkyunkwan university previously estimated that the day walkout alone would cause trillion to trillion won billion in direct losses while jpmorgan has projected total losses of up to trillion won billion when factoring in labor costs and extended production disruption,-0.3612,negative
+2026-05-17 10:22:55+00:00,"Chevron CEO throwing around words like shortage
+
+Gas is up 50%
+
+The war doesn't seem to have an end in sight
+
+I'm just tryna get to work and dump my salary into  SPY puts",chevron ceo throwing around words like shortage gas is up the war doesn t seem to have an end in sight i m just tryna get to work and dump my salary into spy puts,-0.7184,negative
+2026-05-17 06:45:57+00:00,"My take on GCT Semiconductor: I got in thinking it’s just a small semiconductor play maybe they land some contracts, clean up revenue, and grind their way up. Then they drop a satellite partnership and suddenly I’m imagining them personally flying up there to install chips mid-orbit. Fast forward a bit and somehow every device on Earth is running GCTS silicon, they’re hosting earnings calls from space, and analysts are still asking if $2 is “strong resistance.” Then they casually announce “Phase 2,” which apparently means building infrastructure on the moon because Earth latency is “suboptimal.” Revenue goes vertical, they’ve got lunar WiFi in beta, and the stock still dips because guidance didn’t explicitly mention Jupiter.
+
+Next thing you know, they pivot into biotech by accident because their chips got so advanced they started fixing human cells, and now they’re out here low-key curing cancer between firmware updates. Wall Street’s reaction? “We’d like more clarity on margins.” By Phase 3 they’ve rebranded into a multi-planetary infrastructure company, installed something in the sun for “energy optimization,” and are basically running Mars’ financial system. Meanwhile I’m just sitting here holding shares like yeah… I bought this at $1.67 because I liked the setup, didn’t realize I was investing in the future rulers of the solar system. Anyway that’s how I imagine them taking over and being bigger than nvidia and realistically a low shot for price target is 4590.
+
+All jokes aside i bought like 15390 shares at 1.67 hopefully it goes up. Also they look promising with revenue increase in future and partnerships and they finally confirmed there order of a bunch of chips for 23 bil Korean won. Headquarters in Cali, production in Korea at Samsung I believe.
+
+Did I get this wrong?",my take on gct semiconductor i got in thinking it s just a small semiconductor play maybe they land some contracts clean up revenue and grind their way up then they drop a satellite partnership and suddenly i m imagining them personally flying up there to install chips mid orbit fast forward a bit and somehow every device on earth is running gcts silicon they re hosting earnings calls from space and analysts are still asking if is strong resistance then they casually announce phase which apparently means building infrastructure on the moon because earth latency is suboptimal revenue goes vertical they ve got lunar wifi in beta and the stock still dips because guidance didn t explicitly mention jupiter next thing you know they pivot into biotech by accident because their chips got so advanced they started fixing human cells and now they re out here low key curing cancer between firmware updates wall street s reaction we d like more clarity on margins by phase they ve rebranded into a multi planetary infrastructure company installed something in the sun for energy optimization and are basically running mars financial system meanwhile i m just sitting here holding shares like yeah i bought this at because i liked the setup didn t realize i was investing in the future rulers of the solar system anyway that s how i imagine them taking over and being bigger than nvidia and realistically a low shot for price target is all jokes aside i bought like shares at hopefully it goes up also they look promising with revenue increase in future and partnerships and they finally confirmed there order of a bunch of chips for bil korean won headquarters in cali production in korea at samsung i believe did i get this wrong,0.9804,positive
+2026-05-17 06:22:30+00:00,"I’ve been following the SpaceX IPO for over 10 years and plan to put a significant amount in and hold for 10–15 years.
+
+That said the current implied valuation already looks very high, and I amm struggling to reconcile it with realistic forward returns. I’m confident in the long-term story, but I’m questioning whether the risk-adjusted upside still justifies the entry price, or if returns are more likely to be solid but not extraordinary (e.g., lower IRR than a typical “home run” outcome).
+
+Curious how you’d think about underwriting it at IPO day market cap. Should we jump on from Day 1 or see 1M-6M performance?
+
+  
+Here is some examples of highest Market Cap stocks, their markets and their performances over time. 
+
+|Rank|Company|IPO Year|Exchange|IPO Day Mkt Cap|IPO Price|1W|1W %|1M|1M %|1Y|1Y %|Today|Today %|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1|Saudi Aramco|2019|Tadawul|\~$1.70T|$8.53|$9.40|\+10.2%|$9.33|\+9.4%|$9.35|\+9.6%|\~$7.2|\-15%|
+|2|Alibaba|2014|NYSE|\~$168B|$68|$89.89|\+32.2%|$102.94|\+51.4%|$79.50|\+16.9%|\~$130|\+91%|
+|3|SoftBank Corp.|2018|Tokyo|\~$72B|¥1,500|¥1,282|\-14.5%|¥1,250|\-16.7%|¥1,465|\-2.3%|\~¥220|\-85%|
+|4|Meta Platforms|2012|NASDAQ|\~$104B|$38|$31|\-18.4%|$27.72|\-27.1%|$24.31|\-36%|\~$640|\+1,580%|
+|5|Visa|2008|NYSE|\~$44B|$44|$66|\+50%|$62|\+40.9%|$85|\+93.2%|\~$390|\+786%|
+|6|General Motors|2010|NYSE|\~$50B|$33|$35.50|\+7.6%|$36.25|\+9.8%|$24.50|\-25.8%|\~$52|\+58%|
+|7|Uber|2019|NYSE|\~$82B|$45|$41.60|\-7.6%|$43.75|\-2.8%|$32.79|\-27.1%|\~$102|\+127%|
+|8|Rivian|2021|NASDAQ|\~$77B|$78|$122.99|\+57.7%|$104.67|\+34.2%|$32.80|\-57.9%|\~$15|\-81%|
+|9|Airbnb|2020|NASDAQ|\~$86B|$68|$139.25|\+104.8%|$146|\+114.7%|$165|\+142.6%|\~$171|\+152%|
+|10|Snowflake|2020|NYSE|\~$70B|$120|$253.93|\+111.6%|$390|\+225%|$315|\+162.5%|\~$210|\+75%|
+|11|Coinbase|2021|NASDAQ|\~$86B|$250|$342|\+36.8%|$298|\+19.2%|$53.7|\-78.5%|\~$295|\+18%|
+|12|Robinhood|2021|NASDAQ|\~$32B|$38|$55|\+44.7%|$44.5|\+17.1%|$13.7|\-63.9%|\~$61|\+61%|
+|13|DoorDash|2020|NYSE|\~$39B|$102|$189.5|\+85.8%|$175|\+71.6%|$131|\+28.6%|\~$198|\+94%|
+|14|Arm Holdings|2023|NASDAQ|\~$54B|$51|$63.6|\+24.7%|$54.7|\+7.2%|$124|\+143.1%|\~$148|\+190%|
+|15|NTT DoCoMo|1998|Tokyo|\~$75B|¥3.9M|¥4.5M|\+15.4%|¥4.3M|\+10.3%|¥2.8M|\-28.2%|Delisted|—|
+
+  
+",i ve been following the spacex ipo for over years and plan to put a significant amount in and hold for years that said the current implied valuation already looks very high and i amm struggling to reconcile it with realistic forward returns i m confident in the long term story but i m questioning whether the risk adjusted upside still justifies the entry price or if returns are more likely to be solid but not extraordinary e g lower irr than a typical home run outcome curious how you d think about underwriting it at ipo day market cap should we jump on from day or see m m performance here is some examples of highest market cap stocks their markets and their performances over time rank company ipo year exchange ipo day mkt cap ipo price w w m m y y today today saudi aramco tadawul t alibaba nyse b softbank corp tokyo b meta platforms nasdaq b visa nyse b general motors nyse b uber nyse b rivian nasdaq b airbnb nasdaq b snowflake nyse b coinbase nasdaq b robinhood nasdaq b doordash nyse b arm holdings nasdaq b ntt docomo tokyo b m m m m delisted,0.5472,positive
+2026-05-17 05:20:12+00:00,"With the US government talking about UAP disclosures and more information expected to be released this year, does this audience believe that the SpaceX IPO is rushed because all of its technologies will become obsolete when UAP technologies become mainstream visible in a few months from now? Or, conversely, is SpaceX in the best possible position to benefit from disclosure? How valuable will old fossil fuel propulsion technologies be, when new ones could be infinitely more efficient?
+
+Edit: UAP stands for Unidentified Anomalous Phenomena, a broader official term for UFOs (unidentified flying objects).",with the us government talking about uap disclosures and more information expected to be released this year does this audience believe that the spacex ipo is rushed because all of its technologies will become obsolete when uap technologies become mainstream visible in a few months from now or conversely is spacex in the best possible position to benefit from disclosure how valuable will old fossil fuel propulsion technologies be when new ones could be infinitely more efficient edit uap stands for unidentified anomalous phenomena a broader official term for ufos unidentified flying objects,0.9041,positive
+2026-05-17 01:17:26+00:00,"Bought May 5. Sold when the stock was hovering around $19.50
+
+Regretted the sale after market close on Thursday, as it shot up to $25 in after hours. But with how Friday went, I am glad I sold when I did.",bought may sold when the stock was hovering around regretted the sale after market close on thursday as it shot up to in after hours but with how friday went i am glad i sold when i did,0.4939,positive
+2026-05-16 23:23:19+00:00,"https://preview.redd.it/v2uj255zzk1h1.png?width=1170&format=png&auto=webp&s=ba927abcdaff81df1fda421a93c29c82468ad3e3
+
+***Disclaimer:*** I consider Rocket Lab to be a long-term, fundamental holding for my portfolio. Although my initial position was small, it will be something that I continue to add to when market sentiment causes dips. I am not providing investment advice and solely sharing my personal opinions on a company that I own. 
+
+***Discussion & Thoughts:*** With the SpaceX IPO on the horizon, I wanted to share some of my thoughts on Rocket Lab as an investment. As someone who was watching the initial liftoff in the commercial space economy (ASTS, PL, MDA, etc.), I always viewed Rocket Lab as a winner. For starters, Peter Beck is exactly what I look for in a founder and CEO. Curiosity, detail-oriented, absence of ego, consistent presence. In an industry where you have to get everything right, Peter Beck has seemingly cracked the code of consistently (If you haven't watched *Wild Wild Space*, I highly encourage you to do so). Supporting Peter Beck is Adam Spice as CFO, someone I have spoken to on more than one occasion and come away impressed. Level-headed, goal-oriented, pragmatic. 
+
+In addition to quality leadership and management, Rocket Lab has seemingly cornered the small payload launch vehicle market. Electron has been shockingly consistent and the rollout of Neutron will allow RKLB to garner end-customers with higher payload requirements (think Falcon-9). While Neutron development has taken longer than initially anticipated, I think that the attention to detail that RKLB requires will ensure that when it is available, it is completely ready to go. Neutron will allow them to service almost all customers in the commercial launch space regardless of payload capacity (minus maybe ASTS). 
+
+RKLB also has satellite and satellite component manufacturing capacity. Through strategic acquisitions, management has acquired valuable assets for pennies on the dollar. Whether it is manufacturing NASA satellites or working with companies like Varda, RKLB can play at every point in the Space economy. In other words, they seem to be a truly end-to-end company. 
+
+***In terms of valuation, it has certainly risen to new highs. However, when you consider that SpaceX is looking at 1.75T and assume conservatively that launch is roughly 25-30% of this value, RKLB still looks like a bargain. Do they still need to be profitable? Yes. Do I think they can do it? Yes.*** 
+
+  
+",disclaimer i consider rocket lab to be a long term fundamental holding for my portfolio although my initial position was small it will be something that i continue to add to when market sentiment causes dips i am not providing investment advice and solely sharing my personal opinions on a company that i own discussion thoughts with the spacex ipo on the horizon i wanted to share some of my thoughts on rocket lab as an investment as someone who was watching the initial liftoff in the commercial space economy asts pl mda etc i always viewed rocket lab as a winner for starters peter beck is exactly what i look for in a founder and ceo curiosity detail oriented absence of ego consistent presence in an industry where you have to get everything right peter beck has seemingly cracked the code of consistently if you haven t watched wild wild space i highly encourage you to do so supporting peter beck is adam spice as cfo someone i have spoken to on more than one occasion and come away impressed level headed goal oriented pragmatic in addition to quality leadership and management rocket lab has seemingly cornered the small payload launch vehicle market electron has been shockingly consistent and the rollout of neutron will allow rklb to garner end customers with higher payload requirements think falcon while neutron development has taken longer than initially anticipated i think that the attention to detail that rklb requires will ensure that when it is available it is completely ready to go neutron will allow them to service almost all customers in the commercial launch space regardless of payload capacity minus maybe asts rklb also has satellite and satellite component manufacturing capacity through strategic acquisitions management has acquired valuable assets for pennies on the dollar whether it is manufacturing nasa satellites or working with companies like varda rklb can play at every point in the space economy in other words they seem to be a truly end to end company in terms of valuation it has certainly risen to new highs however when you consider that spacex is looking at t and assume conservatively that launch is roughly of this value rklb still looks like a bargain do they still need to be profitable yes do i think they can do it yes,0.9939,positive
 2026-05-16 21:02:57+00:00,"Was having dinner at a Mexican restaurant and the waiter who turned out to be the owner’s son asked if I trade stocks because he’s “just getting into it.”
 
 I gave him the standard response: “Be careful.”
@@ -47,7 +336,6 @@ Top confirmed.
 
 EDIT: First time meeting him & within 5 minutes brought it up. My family owns a business in the same town so i related to him on that.  ",was having dinner at a mexican restaurant and the waiter who turned out to be the owner s son asked if i trade stocks because he s just getting into it i gave him the standard response be careful every time a random person with no market background starts asking about stocks my recession indicator goes off top confirmed edit first time meeting him within minutes brought it up my family owns a business in the same town so i related to him on that,-0.3818,negative
 2026-05-16 20:57:23+00:00,,nan,0.0,neutral
-2026-05-16 20:53:00+00:00,,nan,0.0,neutral
 2026-05-16 20:36:45+00:00,"So SEGG partnered with Polymarket and plans to go live before the 2026 FIFA World Cup! This was huge news and there has been a bit of a run here that I think will continue.
 
 SEGG’s long term stock price history is abysmal with reverse splits but you can see volume entering at this low point. This could be the start of some real revenue… World Cup starts in less than a month. Timing is right for a yolo play.
@@ -66,11 +354,7 @@ Sports Entertainment Gaming Global (NASDAQ: SEGG) recently signed an exclusive t
 2026-05-16 20:27:45+00:00,">Brian Emes manages a retail store in Lethbridge, Alberta, a small city on the Canadian prairie about a two-hour drive from the US border. On the morning of May 11, before opening the shop, the 43-year-old launched his brokerage app and bought 55 shares of an exchange-traded fund \[DRAM\] that hadn’t existed until early April.
 
 That's the type of article I used to read months before the dotcom bubble deflated.",brian emes manages a retail store in lethbridge alberta a small city on the canadian prairie about a two hour drive from the us border on the morning of may before opening the shop the year old launched his brokerage app and bought shares of an exchange traded fund dram that hadn t existed until early april that s the type of article i used to read months before the dotcom bubble deflated,0.4019,positive
-2026-05-16 20:04:02+00:00,"Destiny Tech 100 top ten holdings as of March 31, 2026",destiny tech top ten holdings as of march,0.2023,positive
-2026-05-16 19:57:09+00:00,"You can try explaining AI to them but I don’t think they’ll listen.   
-They’re more receptive to discussion about Iran, inflation, and interest rates. ",you can try explaining ai to them but i don t think they ll listen they re more receptive to discussion about iran inflation and interest rates,0.6124,positive
 2026-05-16 19:27:56+00:00,,nan,0.0,neutral
-2026-05-16 16:06:44+00:00,,nan,0.0,neutral
 2026-05-16 16:00:07+00:00,Mind you it’s social media so take it with a grain of salt and a shot of penicillin. I see no less than a dozen posts a day about how SOFI is so undervalued and how it deserves to be $50 a share and how its gonna be the next (insert xyz) company to the moon. Is it just a marketing push or an elaborate scheme?,mind you it s social media so take it with a grain of salt and a shot of penicillin i see no less than a dozen posts a day about how sofi is so undervalued and how it deserves to be a share and how its gonna be the next insert xyz company to the moon is it just a marketing push or an elaborate scheme,0.0,neutral
 2026-05-16 15:54:48+00:00,"I was told covering my calls meant i can’t lose money.
 
@@ -627,43 +911,6 @@ BFLO-Retail",this cvna put trade is positive ytd and has room to run technicals 
 2026-05-15 11:01:09+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1tdswoi),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-05-15 09:19:43+00:00,,nan,0.0,neutral
 2026-05-15 09:14:49+00:00,Chinese Amazon just got a PUMP!,chinese amazon just got a pump,0.1779,positive
-2026-05-15 09:09:27+00:00,"The Trump/Xi summit failed to accomplish anything, the US wanted China to pressure Iran to open the SoH, China claimed they already did and yet it remains closed, furthermore China expressed a need for talks about Taiwan if further involvement from them were to happen in the US/Iran conflict, this is obviously a clear non-negotiable for the US as that would jeopardize the US chips industry, much of which would then be controlled by China. In a apparent showing of frustration, after meetings wrapped, Trump once again wrote on Truth Social ""WE DON'T NEED THE STRAIT OF HORMUZ OPEN"" Oil markets are responding this morning (in Europe) by sending Brent Crude Oil higher by slightly over 3%. With global stockpiles of Crude and refined products starting to fall precipitously, no apparent end to hostilities, allowing for resumption of flows through Hormuz and insufficient demand destruction to close the gap created between supply and demand, I remain extremely bullish on crude oil and reiterating my $200/bbl price target. My bullishness on crude is expressed via a large exposure to offshore oil services and exploration and production stocks. 
-
-I also hold a thermal coal position for substitution driven demand increases in Asia and a fertilizer position for shortage driven price increases.
-
-All stock positions disclosure:
-
-Name - Ticker - Weight % - P/L %
-
-Valaris - VAL - 10.69% - +137.13%
-
-Seadrill - SDRL - 10.19% - +110.19%
-
-Noble - NE - 10.09% - +107.30%
-
-Chord Energy - CHRD - 8.08% - +67.44%
-
-SM Energy - SM - 8.02% - +74.67%
-
-Matador - MTDR - 7.82% - +44.99%
-
-Murphy Oil - MUR - 6.89% - +27.50%
-
-Crescent Energy - CRGY - 6.56% - +55.49%
-
-Kosmos Energy - KOS - 6.36% - +54.21%
-
-Peabody Energy - BTU - 5.60% - +1.51%
-
-SunCoke Energy - SXC - 5.12% - +22.26%
-
-Comstock Resources - CRK - 5.07% - (17.79%)
-
-GeoPark Ltd - GPRK - 5.00% - +63.26%
-
-Mosaic - MOS - 4.84% - +0.04%
-
-FTAI Infra LLC - FIP - 3.21% - +12.83%",the trump xi summit failed to accomplish anything the us wanted china to pressure iran to open the soh china claimed they already did and yet it remains closed furthermore china expressed a need for talks about taiwan if further involvement from them were to happen in the us iran conflict this is obviously a clear non negotiable for the us as that would jeopardize the us chips industry much of which would then be controlled by china in a apparent showing of frustration after meetings wrapped trump once again wrote on truth social we don t need the strait of hormuz open oil markets are responding this morning in europe by sending brent crude oil higher by slightly over with global stockpiles of crude and refined products starting to fall precipitously no apparent end to hostilities allowing for resumption of flows through hormuz and insufficient demand destruction to close the gap created between supply and demand i remain extremely bullish on crude oil and reiterating my bbl price target my bullishness on crude is expressed via a large exposure to offshore oil services and exploration and production stocks i also hold a thermal coal position for substitution driven demand increases in asia and a fertilizer position for shortage driven price increases all stock positions disclosure name ticker weight p l valaris val seadrill sdrl noble ne chord energy chrd sm energy sm matador mtdr murphy oil mur crescent energy crgy kosmos energy kos peabody energy btu suncoke energy sxc comstock resources crk geopark ltd gprk mosaic mos ftai infra llc fip,-0.9432,negative
 2026-05-15 07:10:37+00:00,,nan,0.0,neutral
 2026-05-15 05:52:22+00:00,"Pray, had a dream of a plane crash landing safely in water, when POET was like $10 a few days back I saw a comment by a user called swimming plane that said POET to $20, took it as a sign, worked out well 
 
@@ -699,79 +946,15 @@ hey hey hey! finally in the green ",hey hey hey finally in the green,0.0,neutral
    The chart also shows a smaller head, but it just hit 1.54 due to the clarity act, but the clarity act hasn't even been signed into law yet. I don't know. Institutions have been loading up the past few weeks though...",i use head and shoulders daily oh and speaking of head and shoulders you other humans just like my self just a ordinary human and definitely not an alien think this will turn itself into a perfect example i know the heads pretty small but it s not the size that matters it s the motion besides my retired super model wife with big breasts says the head is the perfect size for her she s definitely not a crude face that i drew on my hand and used real lipstick the chart also shows a smaller head but it just hit due to the clarity act but the clarity act hasn t even been signed into law yet i don t know institutions have been loading up the past few weeks though,0.9895,positive
 2026-05-14 22:51:34+00:00,,nan,0.0,neutral
 2026-05-14 22:21:14+00:00,,nan,0.0,neutral
-2026-05-14 22:16:39+00:00,"The ominous W pattern has emerged. We all know what this means. Who’s on the wagon??
-
-I always thought container batteries were hype. Imagine the cargo powering the vessel… by land, sea, or sky. This Ford Energy subsidiary is just what the company needed when you consider regulatory hurdles, tarriffs, aluminum shortage, and their overinvestment (?) in battery technology. Might as well be Ford Lemonade stand.
-
-And damn this lemonade is good. 
-
-Position: long \~3000 contracts 11-20$ range
-
-Who’s with me this time? ",the ominous w pattern has emerged we all know what this means who s on the wagon i always thought container batteries were hype imagine the cargo powering the vessel by land sea or sky this ford energy subsidiary is just what the company needed when you consider regulatory hurdles tarriffs aluminum shortage and their overinvestment in battery technology might as well be ford lemonade stand and damn this lemonade is good position long contracts range who s with me this time,0.0,neutral
-2026-05-14 22:12:00+00:00,,nan,0.0,neutral
-2026-05-14 21:10:24+00:00,"Investment firm Irth Capital is working with Papa John's International's [(PZZA.O), opens new tab](https://www.reuters.com/markets/companies/PZZA.O) largest U.S. franchisee, who controls ​around 10% of the pizza chain's domestic restaurants, to take the company private, three sources told Reuters.",investment firm irth capital is working with papa john s international s pzza o opens new tab largest u s franchisee who controls around of the pizza chain s domestic restaurants to take the company private three sources told reuters,0.0,neutral
-2026-05-14 21:05:35+00:00,"I’m considering rolling them out to mid 2027, at least for GOOG and NVDA.",i m considering rolling them out to mid at least for goog and nvda,0.0,neutral
 2026-05-14 20:52:06+00:00,"In Dec peak I was at 1.3 M , but after the stella Reddit Q4 earnings that tanked the stock 40% my port dipped hard to 440k
 
 Made it all back 1.25 m today with 10k shares RkLB at $4.71 cost basis ( sold 25% today) and lots of 0DTE spx spread.
 
 Don’t give up and keep on fighting. This is life changing money so going to scale back my trading .",in dec peak i was at m but after the stella reddit q earnings that tanked the stock my port dipped hard to k made it all back m today with k shares rklb at cost basis sold today and lots of dte spx spread don t give up and keep on fighting this is life changing money so going to scale back my trading,-0.2617,negative
 2026-05-14 20:48:29+00:00,Who has a lower cost average? Am I the king?,who has a lower cost average am i the king,-0.296,negative
-2026-05-14 20:48:08+00:00,I’m just not going to. ,i m just not going to,0.0,neutral
-2026-05-14 20:29:42+00:00,Just trying momentum trade $25k to a mil,just trying momentum trade k to a mil,0.0,neutral
-2026-05-14 20:29:31+00:00,"I'm about 80,000 EUR into this. Gambling on a positive supreme court verdict in June to put an end to the Monsanto bs. 
-
-",i m about eur into this gambling on a positive supreme court verdict in june to put an end to the monsanto bs,0.8316,positive
 2026-05-14 20:27:43+00:00,,nan,0.0,neutral
-2026-05-14 20:25:01+00:00,Bought in yesterday at 1 pm seeing a massive jump decided I might partake in this gamble,bought in yesterday at pm seeing a massive jump decided i might partake in this gamble,0.0,neutral
-2026-05-14 20:21:42+00:00,"Costco trades at \~42x forward earnings, priced for perfection in a softening macro environment. My bearish tilt into earnings rests on three quantitative flags:
-
-First, gross margin compression. Despite net sales growth, core merchandise margins have contracted sequentially for three quarters. SG&A leverage has masked this, but inflationary stickiness in labor and logistics is real. The high margin ancillary revenue stream aka membership fees faces comp headwinds. With retail sales data showing durable goods deflation and big ticket pullback, average transaction value growth is stalling.
-
-Second, membership income, the earnings backbone, is maturing. Executive penetration growth has decelerated. A fee increase remains speculative, yet already priced in. If guidance disappoints, the multiple contracts fast.
-
-Third, options market dynamics. Implied volatility rank is elevated above 90th percentile, but realized moves have underperformed IV post-earnings in three of the last four prints. I'm buying outright puts for convexity, capturing skew and positioning for a sharp vol crush if they merely meet consensus.
-
-Valuation is the killer. At this multiple, any earnings-per-share beat must come from buybacks or cost cutting, not top line strength. The risk/reward entering the print is asymmetric to the downside. Hard catalyst: membership income miss and tepid comp guidance.
-
-Position: 29 May 26 COST $1000 Put x 20 contracts. Defined capital at risk, targeting IV crush and multiple compression. Earnings are May 28th after the bell.
-
-Cheers, Regards! 🥂 ",costco trades at x forward earnings priced for perfection in a softening macro environment my bearish tilt into earnings rests on three quantitative flags first gross margin compression despite net sales growth core merchandise margins have contracted sequentially for three quarters sg a leverage has masked this but inflationary stickiness in labor and logistics is real the high margin ancillary revenue stream aka membership fees faces comp headwinds with retail sales data showing durable goods deflation and big ticket pullback average transaction value growth is stalling second membership income the earnings backbone is maturing executive penetration growth has decelerated a fee increase remains speculative yet already priced in if guidance disappoints the multiple contracts fast third options market dynamics implied volatility rank is elevated above th percentile but realized moves have underperformed iv post earnings in three of the last four prints i m buying outright puts for convexity capturing skew and positioning for a sharp vol crush if they merely meet consensus valuation is the killer at this multiple any earnings per share beat must come from buybacks or cost cutting not top line strength the risk reward entering the print is asymmetric to the downside hard catalyst membership income miss and tepid comp guidance position may cost put x contracts defined capital at risk targeting iv crush and multiple compression earnings are may th after the bell cheers regards,-0.9228,negative
-2026-05-14 20:09:34+00:00,,nan,0.0,neutral
-2026-05-14 20:07:19+00:00,"Anyone else getting involved in WOLF? Starting to look like extremely bullish set-up with 80% short float.  
-Transitioning from EV to AI data centers. Their AI revenue is up 50% then 30% QoQ. Still small. But growing fast.  
-They already have the infrastructure. Fab is built and mostly empty. At full utilization (1-2 yrs) management guides $3B rev, >40% EBITDA. Current market cap: $3B. Nothing is priced in.
-
-Shorts paying $1.60/share/day to stay in. 933% APR to borrow. The short thesis gets more expensive every day AI bull run holds up.
-
-risks: yield issues unresolved. revenue still declining. onsemi building a competing fab. $84M/qtr cash burn. up 210% YTD already.
-
-Obviously, it’s popped quite a bit on the Citrini report. But it still looks like a 2-3x in the next year, and might have some short-term pop left to it as well.  
-Thoughts?",anyone else getting involved in wolf starting to look like extremely bullish set up with short float transitioning from ev to ai data centers their ai revenue is up then qoq still small but growing fast they already have the infrastructure fab is built and mostly empty at full utilization yrs management guides b rev ebitda current market cap b nothing is priced in shorts paying share day to stay in apr to borrow the short thesis gets more expensive every day ai bull run holds up risks yield issues unresolved revenue still declining onsemi building a competing fab m qtr cash burn up ytd already obviously it s popped quite a bit on the citrini report but it still looks like a x in the next year and might have some short term pop left to it as well thoughts,0.9398,positive
 2026-05-14 19:57:10+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1td9dup),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-05-14 19:42:15+00:00,,nan,0.0,neutral
-2026-05-14 19:25:43+00:00,"Been holding since $6. Thought I’d collect some premium, sold 2 calls at $95 strike last week for $388. Felt smart at the time and was happy to sell at $95. 
-
-Then earnings dropped and this thing went on a run I was not expecting at all. 
-
-200 shares getting called away at $95 Friday while the stock is around $130 trending up. Still walking away with really good profit on those so I guess I shouldn’t complain. But man it stings knowing the money I’m leaving on the table. Feels like someone is driving your car away
-
-I still have more shares uncovered so at least those are along for the ride.
-
-Should I roll out and up to September @ $115 for a small credit?",been holding since thought i d collect some premium sold calls at strike last week for felt smart at the time and was happy to sell at then earnings dropped and this thing went on a run i was not expecting at all shares getting called away at friday while the stock is around trending up still walking away with really good profit on those so i guess i shouldn t complain but man it stings knowing the money i m leaving on the table feels like someone is driving your car away i still have more shares uncovered so at least those are along for the ride should i roll out and up to september for a small credit,0.9361,positive
 2026-05-14 19:15:20+00:00,,nan,0.0,neutral
-2026-05-14 19:11:33+00:00,"I bought in to some of the top 2026 stock recs that was posted a few months ago / some of last year recs and here’s how they are doing. Just want to say thanks WSB 😉
-
-Two others not shown is SMCI & NVDA. Both up as well
-
-However, my positions for all of these are small and like everyone else.. wish i went all in. Debating if I should hold or sell since they are all popping off rn
-
-My two new ones that I just got in to is NOK & AMPX.. small positions as well. Hope they do just as good",i bought in to some of the top stock recs that was posted a few months ago some of last year recs and here s how they are doing just want to say thanks wsb two others not shown is smci nvda both up as well however my positions for all of these are small and like everyone else wish i went all in debating if i should hold or sell since they are all popping off rn my two new ones that i just got in to is nok ampx small positions as well hope they do just as good,0.9531,positive
-2026-05-14 18:37:57+00:00,"Picked up around 57 shares of service now($5000). I’ll continue to buy like $200 weekly at these levels. This is a longterm investment I won’t be selling anytime soon. Curious what people think about service now and the future of the company. I’m pretty heavy into tech stocks but thought this fit in my portfolio quite well.
-
-I now only have about $10,000 in cash. I’m going to get that to $20,000 by the end of the year.
-
-What do you think about my portfolio? If you have an opinion please back it up with financials or facts Thankyou!",picked up around shares of service now i ll continue to buy like weekly at these levels this is a longterm investment i won t be selling anytime soon curious what people think about service now and the future of the company i m pretty heavy into tech stocks but thought this fit in my portfolio quite well i now only have about in cash i m going to get that to by the end of the year what do you think about my portfolio if you have an opinion please back it up with financials or facts thankyou,0.946,positive
 2026-05-14 17:55:59+00:00,"Everyone is looking for the next big downstream impact of AI after energy, memory, chips etc. I’m betting it will be batteries/electricity to handle ebbs and flows of demand. Wins over the last 3 months - Google leaps, NBIS stock, Apple leaps. Loss trade was only the one - Snapchat into earnings.
 
 EDIT: Got into Ford yesterday at 13.5 - so I didn’t see it coming. Just believe in it for a quick jump at the very least and I don’t think it’s gone up enough yet.
@@ -779,7 +962,6 @@ EDIT: Got into Ford yesterday at 13.5 - so I didn’t see it coming. Just believ
 EDIT 2: Yes, two different fidelity accounts, one is a Roth IRA and one is normal.",everyone is looking for the next big downstream impact of ai after energy memory chips etc i m betting it will be batteries electricity to handle ebbs and flows of demand wins over the last months google leaps nbis stock apple leaps loss trade was only the one snapchat into earnings edit got into ford yesterday at so i didn t see it coming just believe in it for a quick jump at the very least and i don t think it s gone up enough yet edit yes two different fidelity accounts one is a roth ira and one is normal,0.6908,positive
 2026-05-14 17:33:39+00:00,,nan,0.0,neutral
 2026-05-14 17:32:57+00:00,"Bought these as a levered directional play for the earnings run up, closed all today. May buy a few options to actually play earnings too. Probably my best trades return % wise ever ",bought these as a levered directional play for the earnings run up closed all today may buy a few options to actually play earnings too probably my best trades return wise ever,0.9022,positive
-2026-05-14 17:01:59+00:00,,nan,0.0,neutral
 2026-05-14 16:21:24+00:00,"Upstart could 4x in a matter of weeks
 
 If momentum gets going, UPST could be 100 within a week from the naked shorting crowdedness.
@@ -798,13 +980,6 @@ Position: 4700 shares 10x 30 calls expiring next week. 3 30 C 2028 leaps
 
 Update: What does upstart do? Upstart goes UP! +10% day  
 Day 2: From down 4% in morning to blasting +2% in afternoon!? Shorts doubled down with shares shortable from 800k to 400k. But 100+ is inevitable. Shorts are trapped. ",upstart could x in a matter of weeks if momentum gets going upst could be within a week from the naked shorting crowdedness the intrinsic value of this company is around yet trades at current and former ceo have bought over million in shares altogether despite their net worths being upstart essentially already the former ceo bought last week at current ceo doubled down and bought even more million yesterday at bought m at before thats x what anthony noto is buying from sofi in comparison guidance is cagr for years straight with ebitda the company will literally print money as an automated ai loan marketplace using other s capital they get all the reward with none of the risk from lending by routing loans to others balance sheets using ai on top of that they ll be opening upstart bank in a year to further reduce their operational costs there s only employees mostly engineers so they ll be swimming in money forward agreements provide locked in capital and they ve raised b and gotten renewed and raised partner capital agreements their guidance and bank operations makes this a stock in a few years at minimum i see this company at b next year as the first ai bank sofi is b there s only million shares and the stock appears to be a top shorted stock with utilization on ibkr and only k shares left to short the stock appears to be one of the most naked shorted names in the entire market in the past years the stock has bounced up to about different times if momentum catches this stock this could easily be gamma hedged over in a few trading sessions from low float almost shares to borrow cheap share price and calls tldr the stock has great fundamentals and projections yet is getting crushed by short sellers atm stock could x in a few years from fundamentals alone but shorts are beyond greedy position shares x calls expiring next week c leaps update what does upstart do upstart goes up day day from down in morning to blasting in afternoon shorts doubled down with shares shortable from k to k but is inevitable shorts are trapped,0.8484,positive
-2026-05-14 16:07:28+00:00,Riding to the 🌙 ,riding to the,0.0,neutral
-2026-05-14 15:47:18+00:00,"**Because one can never go broke taking profits.**
-
-https://preview.redd.it/7qyiy9xzi41h1.png?width=1080&format=png&auto=webp&s=0eb8d7bc2c5c05844cd6676c772d29db105f34ce
-
-",because one can never go broke taking profits,0.6407,positive
-2026-05-14 14:59:34+00:00,,nan,0.0,neutral
 2026-05-14 13:47:09+00:00,"Thought this move was genius, but it was in fact retarded. ",thought this move was genius but it was in fact retarded,-0.7227,negative
 2026-05-14 11:08:46+00:00,"**Feel free to scroll past the less important background information until you get to ""WHY VENTURE GLOBAL IS THE PLAY."" TL;DR at end.**
 
@@ -1096,11 +1271,6 @@ This is the best returning specific lot, on a Jan 2027 380C purchased on April 4
 Realized about 900k of the gains including the above position to derisk (hurt to do), but holding onto about 500k of the longest dated positions (Dec 2027 365C) as I still strongly believe in the company.
 
 Also because it pisses off people here, putting some of the gains into more GLD LEAP puts because gold is more speculative than BTC at this point.",i bought a ton of different leaps before and after s tariff adventure totaling k cost basis ending up worth m this is the best returning specific lot on a jan c purchased on april last year when googl hit realized about k of the gains including the above position to derisk hurt to do but holding onto about k of the longest dated positions dec c as i still strongly believe in the company also because it pisses off people here putting some of the gains into more gld leap puts because gold is more speculative than btc at this point,0.7839,positive
-2026-05-13 19:20:36+00:00,"Buying QQQ puts has been a never ending money pit, so I've decided to jump onboard the AI gravy train.
-
-This can only mean one thing - the bubble will pop tonight and I'll be living in mummys basement forever 
-
-Update: They crushed it! My recklessness might actually pay off for once. All hail our AI overlords 🫪 ",buying qqq puts has been a never ending money pit so i ve decided to jump onboard the ai gravy train this can only mean one thing the bubble will pop tonight and i ll be living in mummys basement forever update they crushed it my recklessness might actually pay off for once all hail our ai overlords,-0.4404,negative
 2026-05-13 19:13:16+00:00,Less than 10 trades. Turned 3k to 140k in 3 years. ,less than trades turned k to k in years,0.0,neutral
 2026-05-13 19:05:23+00:00,,nan,0.0,neutral
 2026-05-13 17:36:28+00:00,"Mods bubble popped my first post so let me lay out the positions:
@@ -1227,7 +1397,6 @@ Tack on the fact that the US is significantly ahead in AI technology/buildout an
 This one I put in the name of you degens. The other one will go out in the name of my Mom in honor of Mother's Day. I stand by my valuation numbers. DCF has this at a 2.5x gain from here, and, not that it's always accurate, SimplyWallSt has this valued 7x higher than current share price, while separately Ai/Chat/Grok has this valued at 7x to 14x when accounting for the $27 Billion positive bioequivalence study that got announced last year getting an approved ANDA sometime in the next 6 to 12 months. ",although i still stand by the original timeline the ceo gave for this company to announce a sale or be uplisted by aug i did make a bet as to why i thought it would happen earlier vesting of c suite shares etc see past posts and dd on valuation at exit i promised that if it didn t have the announcement by the end of the quarter i would make k donations to the top two charities voted on by commenters another k will be going out to tunnels to towers for st responders this one i put in the name of you degens the other one will go out in the name of my mom in honor of mother s day i stand by my valuation numbers dcf has this at a x gain from here and not that it s always accurate simplywallst has this valued x higher than current share price while separately ai chat grok has this valued at x to x when accounting for the billion positive bioequivalence study that got announced last year getting an approved anda sometime in the next to months,0.9848,positive
 2026-05-11 20:06:06+00:00,Never in my wildest dreams did think I’ll get here this fast.,never in my wildest dreams did think i ll get here this fast,0.4019,positive
 2026-05-11 19:58:38+00:00,,nan,0.0,neutral
-2026-05-11 19:57:09+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1taeixu),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-05-11 19:03:13+00:00,"Bought these shares back in 2015 when the stock was trading for pennies from my student loan. Decided to just buy, hold, and ignore the noise. Rode it through every single dip, crash, and earnings call over the last nine years.
 
 Good luck out there, everyone! 🚀",bought these shares back in when the stock was trading for pennies from my student loan decided to just buy hold and ignore the noise rode it through every single dip crash and earnings call over the last nine years good luck out there everyone,0.4404,positive
@@ -1244,23 +1413,3 @@ Position: long. Aggressively long. Embarrassingly long. Clinically long.
 2026-05-11 00:02:19+00:00,"Accumulated throughout February buying 5-10k at a time.
 
 Timing the market > Time in the market … JK pure luck ",accumulated throughout february buying k at a time timing the market time in the market jk pure luck,0.5994,positive
-2026-05-10 21:02:43+00:00,,nan,0.0,neutral
-2026-05-10 20:47:08+00:00,,nan,0.0,neutral
-2026-05-10 19:57:12+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1t9h6cr),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-05-10 18:42:40+00:00,,nan,0.0,neutral
-2026-05-10 15:59:56+00:00,,nan,0.0,neutral
-2026-05-10 14:56:11+00:00,"If you’re middle aged like me you get the reference.  The 80’s PSA ad where the dad catches the kid smoking pot and says, “who taught you how to do this stuff?!”  The teen yells back, “I learned it by watching you!”  Well, I learned how to print tendies here at WSB.  From the gain and loss porn.  What to do and not to do.  Thank you degens.
-
-This is all house money.  Took out my initial deposit.  Up $1.16M.  This is just my first page.",if you re middle aged like me you get the reference the s psa ad where the dad catches the kid smoking pot and says who taught you how to do this stuff the teen yells back i learned it by watching you well i learned how to print tendies here at wsb from the gain and loss porn what to do and not to do thank you degens this is all house money took out my initial deposit up m this is just my first page,0.5559,positive
-2026-05-10 14:09:05+00:00,,nan,0.0,neutral
-2026-05-10 14:00:48+00:00,">tldr: Rate cuts by the Federal Reserve would be “counter-productive” and the US central bank may even need to lift borrowing costs as policymakers contend with the fallout of Donald Trump’s war in Iran, Pimco warned. 
-
-",tldr rate cuts by the federal reserve would be counter productive and the us central bank may even need to lift borrowing costs as policymakers contend with the fallout of donald trump s war in iran pimco warned,-0.7906,negative
-2026-05-10 12:15:18+00:00,Source: [https://finance.yahoo.com/markets/article/the-nasdaqs-top-winners-are-now-running-hotter-than-in-2000-chart-of-the-day-122715863.html](https://finance.yahoo.com/markets/article/the-nasdaqs-top-winners-are-now-running-hotter-than-in-2000-chart-of-the-day-122715863.html),source,0.0,neutral
-2026-05-10 00:59:52+00:00,"Looks like NASDAQ can see into the future! 
-
-I remember it even been shown in the UK on a documentary during the dot com bubble. Was junior schooler at the time, got me interested in the stock market.
-
-Congratulations Team America - from a fellow UK poor.
-
-https://youtu.be/gCBLFZJolgs?si=8HhcLICXgnHbYggg",looks like nasdaq can see into the future i remember it even been shown in the uk on a documentary during the dot com bubble was junior schooler at the time got me interested in the stock market congratulations team america from a fellow uk poor,0.7184,positive
