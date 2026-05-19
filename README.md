@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-18T23:21:37.004171+00:00`
+- Generated at (UTC): `2026-05-19T23:35:23.786870+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | LNG | 49 | 1 | 0.998 | 247.74 | -1.33% | 4.178 |
-| 2 | NBIS | 6 | 6 | 0.511 | 199.86 | 27.19% | 7.307 |
-| 3 | NVDA | 8 | 5 | 0.854 | 222.32 | 10.23% | 3.013 |
-| 4 | POET | 15 | 3 | 0.786 | 14.21 | 95.73% | 1.197 |
-| 5 | INTC | 6 | 4 | -0.023 | 108.17 | 57.91% | 7.408 |
-| 6 | OMER | 17 | 1 | 0.995 | 11.70 | -12.95% | 0.442 |
-| 7 | AMD | 5 | 4 | -0.135 | 420.99 | 51.22% | 14.606 |
-| 8 | SPY | 5 | 4 | -0.513 | 738.65 | 4.01% | 4.517 |
-| 9 | RKLB | 8 | 3 | 0.403 | 131.16 | 54.67% | 4.458 |
-| 10 | DRAM | 6 | 3 | 0.367 | 49.32 | 38.58% | n/a |
+| 1 | LNG | 49 | 1 | 0.998 | 246.77 | -2.21% | 4.076 |
+| 2 | NVDA | 11 | 7 | 0.639 | 220.61 | 9.18% | 3.084 |
+| 3 | RKLB | 10 | 5 | 0.306 | 127.31 | 42.31% | 4.595 |
+| 4 | NBIS | 6 | 6 | 0.511 | 197.73 | 24.23% | 7.553 |
+| 5 | POET | 15 | 3 | 0.786 | 13.07 | 52.15% | 1.302 |
+| 6 | DRAM | 8 | 4 | 0.503 | 49.77 | 41.92% | n/a |
+| 7 | INTC | 6 | 4 | -0.023 | 110.80 | 68.65% | 7.614 |
+| 8 | OMER | 17 | 1 | 0.995 | 11.97 | -11.14% | 0.426 |
+| 9 | AMD | 5 | 4 | -0.135 | 414.05 | 50.59% | 14.738 |
+| 10 | SPY | 5 | 4 | -0.513 | 733.73 | 3.53% | 4.779 |
 
 ### Aggregate Charts
 
@@ -186,17 +186,25 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![LNG Dashboard](outputs/latest_wsb_analysis/charts/lng_dashboard.png)
 
-#### NBIS
-
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
-
 #### NVDA
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
+#### RKLB
+
+![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
+
+#### NBIS
+
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+
 #### POET
 
 ![POET Dashboard](outputs/latest_wsb_analysis/charts/poet_dashboard.png)
+
+#### DRAM
+
+![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
 
 #### INTC
 
@@ -213,12 +221,4 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
-#### RKLB
-
-![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
-
-#### DRAM
-
-![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
 <!-- AUTO_TOP10_END -->
