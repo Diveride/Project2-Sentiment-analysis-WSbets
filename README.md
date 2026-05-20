@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-19T23:35:23.786870+00:00`
+- Generated at (UTC): `2026-05-20T23:41:49.027750+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | LNG | 49 | 1 | 0.998 | 246.77 | -2.21% | 4.076 |
-| 2 | NVDA | 11 | 7 | 0.639 | 220.61 | 9.18% | 3.084 |
-| 3 | RKLB | 10 | 5 | 0.306 | 127.31 | 42.31% | 4.595 |
-| 4 | NBIS | 6 | 6 | 0.511 | 197.73 | 24.23% | 7.553 |
-| 5 | POET | 15 | 3 | 0.786 | 13.07 | 52.15% | 1.302 |
-| 6 | DRAM | 8 | 4 | 0.503 | 49.77 | 41.92% | n/a |
-| 7 | INTC | 6 | 4 | -0.023 | 110.80 | 68.65% | 7.614 |
-| 8 | OMER | 17 | 1 | 0.995 | 11.97 | -11.14% | 0.426 |
-| 9 | AMD | 5 | 4 | -0.135 | 414.05 | 50.59% | 14.738 |
-| 10 | SPY | 5 | 4 | -0.513 | 733.73 | 3.53% | 4.779 |
+| 1 | NVDA | 17 | 10 | 0.478 | 223.47 | 11.80% | 2.763 |
+| 2 | LNG | 49 | 1 | 0.998 | 243.66 | -5.48% | 4.174 |
+| 3 | INTC | 9 | 5 | 0.208 | 118.96 | 79.54% | 7.411 |
+| 4 | RKLB | 6 | 5 | 0.186 | 134.28 | 54.99% | 4.583 |
+| 5 | POET | 14 | 2 | 0.861 | 14.78 | 44.20% | 1.206 |
+| 6 | USO | 6 | 4 | -0.540 | 144.27 | 12.49% | 3.538 |
+| 7 | OMER | 17 | 1 | 0.995 | 12.38 | -6.64% | 0.516 |
+| 8 | NBIS | 5 | 4 | 0.286 | 191.82 | 22.53% | 7.732 |
+| 9 | SPY | 5 | 4 | -0.078 | 741.25 | 5.28% | 6.583 |
+| 10 | NOW | 6 | 3 | 0.684 | 103.30 | 3.16% | 2.461 |
 
 ### Aggregate Charts
 
@@ -182,43 +182,43 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### LNG
-
-![LNG Dashboard](outputs/latest_wsb_analysis/charts/lng_dashboard.png)
-
 #### NVDA
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### RKLB
+#### LNG
 
-![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
-
-#### NBIS
-
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
-
-#### POET
-
-![POET Dashboard](outputs/latest_wsb_analysis/charts/poet_dashboard.png)
-
-#### DRAM
-
-![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
+![LNG Dashboard](outputs/latest_wsb_analysis/charts/lng_dashboard.png)
 
 #### INTC
 
 ![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
 
+#### RKLB
+
+![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
+
+#### POET
+
+![POET Dashboard](outputs/latest_wsb_analysis/charts/poet_dashboard.png)
+
+#### USO
+
+![USO Dashboard](outputs/latest_wsb_analysis/charts/uso_dashboard.png)
+
 #### OMER
 
 ![OMER Dashboard](outputs/latest_wsb_analysis/charts/omer_dashboard.png)
 
-#### AMD
+#### NBIS
 
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
+#### NOW
+
+![NOW Dashboard](outputs/latest_wsb_analysis/charts/now_dashboard.png)
 <!-- AUTO_TOP10_END -->
