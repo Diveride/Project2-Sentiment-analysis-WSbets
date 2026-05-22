@@ -1,9 +1,371 @@
 created_utc,body,clean_body,body_sentiment,body_label
+2026-05-22 22:59:41+00:00,"Just wanted to say thank you for the $17.5k.
+
+I was able to buy my wife’s boyfriend a new Kia. Now he doesn’t have to ride his bmx with pegs to our house.
+
+Thank you!!
+
+P.S. the boyfriend asked for a trip to Cancun. Can you buy more MU 1000C for next week?",just wanted to say thank you for the k i was able to buy my wife s boyfriend a new kia now he doesn t have to ride his bmx with pegs to our house thank you p s the boyfriend asked for a trip to cancun can you buy more mu c for next week,-0.0516,negative
+2026-05-22 22:52:18+00:00,"Been holding 2 of these through the recent run up , bought a few more for the space x ipo and of course it tanks right after…. Just seeing what yall think I am a newbie ! ",been holding of these through the recent run up bought a few more for the space x ipo and of course it tanks right after just seeing what yall think i am a newbie,0.0,neutral
+2026-05-22 22:49:39+00:00,,nan,0.0,neutral
+2026-05-22 22:10:14+00:00,,nan,0.0,neutral
+2026-05-22 21:50:20+00:00,"I recently sat down and did a cold, hard quantitative audit of my trading history across robinhood/webull since 2019.
+
+The math: I’ve deposited \~$34k over the years. My account is currently sitting at $23k. If I had just blindly bought SPY on those deposit dates, I’d have $55k. That’s 92% of under performance
+
+Obvious issues : over-leveraging 0–14 DTE options, eating IV crush around earnings, and terrible position sizing . No real stop-loss strategy , lot of revenge trading and angering “hoping” to recover the loss
+
+Has anyone successfully dug out of a multi-year hole like this?
+
+Here is my new framework:  
+\* Allocation: 60% core equities, 20% swings, max 20% options.  
+\* Options Guardrails: Strictly 45–180 DTE, 0.50–0.70 delta, and avoiding high-IV environments.  
+\* The Reset: Slowly injecting $20k–$30k in fresh capital so I have a real compounding base and don't feel forced to use leverage.  
+\* Risk Limit: Hard -15% max portfolio drawdown.
+
+Need honest feedback , and steps to improve
+
+Words : ChatpGPT  
+Emotions : Human",i recently sat down and did a cold hard quantitative audit of my trading history across robinhood webull since the math i ve deposited k over the years my account is currently sitting at k if i had just blindly bought spy on those deposit dates i d have k that s of under performance obvious issues over leveraging dte options eating iv crush around earnings and terrible position sizing no real stop loss strategy lot of revenge trading and angering hoping to recover the loss has anyone successfully dug out of a multi year hole like this here is my new framework allocation core equities swings max options options guardrails strictly dte delta and avoiding high iv environments the reset slowly injecting k k in fresh capital so i have a real compounding base and don t feel forced to use leverage risk limit hard max portfolio drawdown need honest feedback and steps to improve words chatpgpt emotions human,-0.8625,negative
+2026-05-22 21:12:54+00:00,"After averaging down and holding hyln since 2020, I’m finally in the green 🥲",after averaging down and holding hyln since i m finally in the green,0.0,neutral
+2026-05-22 21:03:05+00:00,"https://preview.redd.it/ascv6u1o6r2h1.jpg?width=900&format=pjpg&auto=webp&s=ebdc28140990960a3feedd76b796cff2bbc0c41b
+
+do you?",do you,0.0,neutral
+2026-05-22 20:33:13+00:00,"I should have lost it all a few times by now, we carry on though.  I've taken some money out (maybe \~$15k, not exactly sure) so the low in my port isn't exactly accurate in the screenshot, but it was $150 in December after losing nearly my entire initial investment to 0dte.  My realized gains are also closer to $130k.  I've attached my last week of PnL as well as my biggest winners since my last post.",i should have lost it all a few times by now we carry on though i ve taken some money out maybe k not exactly sure so the low in my port isn t exactly accurate in the screenshot but it was in december after losing nearly my entire initial investment to dte my realized gains are also closer to k i ve attached my last week of pnl as well as my biggest winners since my last post,0.569,positive
+2026-05-22 20:30:43+00:00,"Finally did it bois. At my low I had nearly 5k in credit card debt, down 10k in the Hood and down 5-7k on Schwab. 
+
+Today I finally payed off my car and students debt. I am essentially debt free. 
+
+Don’t forget about tax monies regards. Happy Friday, Donny Out. ",finally did it bois at my low i had nearly k in credit card debt down k in the hood and down k on schwab today i finally payed off my car and students debt i am essentially debt free don t forget about tax monies regards happy friday donny out,0.0258,neutral
+2026-05-22 20:20:09+00:00,,nan,0.0,neutral
+2026-05-22 20:02:12+00:00,"Who else is on this roller coaster?? This is $F’in awesome!! The early tremors of this volitility reverberate through my inner core. This is what I live for!!!
+
+Whenever I have this feeling something really good or really bad is about to happen. I’m looking forward for the next several months. Action!  
+   
+That’s my 100k 2 cents for today.
+
+Jawaiian!",who else is on this roller coaster this is f in awesome the early tremors of this volitility reverberate through my inner core this is what i live for whenever i have this feeling something really good or really bad is about to happen i m looking forward for the next several months action that s my k cents for today jawaiian,0.628,positive
+2026-05-22 20:01:15+00:00,Holding til 20-25$ EOY,holding til eoy,0.0,neutral
+2026-05-22 19:57:56+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1tku3ci),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-05-22 19:37:44+00:00,"Hi all,  
+This is my first DD and intended to provide some insider perspective of a segment of the IT market which is currently rather undervalued compared to other areas. This here is only useful for degenerates who buy leaps or stock and shall help for whoever is looking for the next 5-10x potential. I'm just a Europoor and using LLMs to support the writing process in the message below to ensure that you degenerates can understand it. The ideas are coming from my own regard brain so blame me instead of AI if you consider it slop or a shitty DD.  
+  
+  
+**TL;DR: The market is obsessed with AI ""brains"" (chips and data centers) but is ignoring the ""nervous system"" (network and 5G/6G infrastructure) required to make those brains work in the real world.**
+
+* **The Thesis:** AI software and robotics require near-zero latency to function to the level we expect. This creates a massive, non-discretionary demand for high-reliability 5G networks.
+* **The Shift:** We are moving from ""consumer-driven"" to ""industrial-driven"" (autonomous factories, robotics, and smart rail) market needs. This is a multi-decade, high-margin growth cycle.
+* **The Moat:** Due to ""Digital Sovereignty"" and national security concerns, Western governments (especially in Europe) are effectively locking out foreign competitors, leaving **Nokia ($NOK)** and **Ericsson ($ERIC)** as the only two trusted, large-scale providers (no Huawei e.g.).
+* **The Catalyst:** Massive, government-mandated infrastructure projects:
+   * Railway transition from 2G to the FRMCS
+   * Growth of private 5G networks for industrial use provide a steady, reliable revenue floor in the close future.
+* **The Bottom Line:** While the market chases overvalued software and compute plays, $NOK and $ERIC represent a ""deep-value"" bet on the essential physical backbone of the next industrial era.
+
+\-------------------------------------------
+
+While the market obsesses over GPU clusters and software multiples, it is currently still missing the most critical bottleneck of the coming years: **the physical network layer.**
+
+AI is useless if it cannot interact with the real world in real-time. You can build the most powerful AI in the world, but if the ""nervous system"" (the network) has high latency, the AI loop breaks. This network is being built by many players with some known brands such as for example NVIDIA with it's acquisition [Mellanox](https://www.calcalistech.com/ctechnews/article/bkddbq2jme) or [Cisco](https://www.sdxcentral.com/analysis/cisco-touts-networking-as-central-to-success-key-for-platform-growth/) where networking business is gaining even more importance and the market reacts accordingly.  
+
+
+Besides of the typical network we also have the need to bring the connection to the very edge, to all the devices that are supposed to be connected to the internet. There we have **Nokia ($NOK)** and **Ericsson ($ERIC)** who are the main western 5G companies and are still rather unloved by investors. They are building and will continue expanding heavily over the next years to ensure the **infrastructure for Robotics** in the AI era as well as the key **railway infrastructure**.
+
+We ALL need 5G (or in the future 6G etc) to make use of AI to the level we expect and desire. This WILL be a major change in making it real in other industries besides of making memes or pron. 
+
+
+
+# 1. The Paradigm Shift: Consumer vs. Industrial
+
+We are entering the **Machine-to-Machine (M2M) and Industrial-driven era.**
+
+Autonomous factories, robotic supply chains, and high-speed rail do not care about ""data caps""— they care about **latency.** This is non-discretionary, mission-critical infrastructure that requires the reliability only Nokia and Ericsson can provide.
+
+
+
+# 2. The ""Private Network"" Moat
+
+Nokia is aggressively pivoting toward **Private 5G Networks.** Instead of relying solely on public carrier spending, they are selling directly to mines, factories, and logistics hubs. This bypasses the debt-heavy telecom operators and creates a high-margin, sticky revenue stream. They are building the ""internal internet"" for the world’s most critical OT heavy industries.
+
+
+
+# 3. The Geopolitical Fortress
+
+Digital sovereignty is the new national security mandate. Western governments will not trust critical infrastructure to high-risk foreign entities (e.g. Huawei). Nokia and Ericsson are the only two Western players capable of scaling to this level, effectively creating a government-protected duopoly.
+
+
+
+# 4. The Evidence: Real-World Traction in Railway
+
+The transition to 5G is not speculative; it is happening via massive, multi-year government and industrial mandates. There have been numerous major projects with both $NOK and $ERIC in recent time. There are major ongoing public tenders where they are trying to win multi-decade contracts with governments and railway companies in different countries. The railway system is currently still on 2G technology and it's causing accidents and there is a End-of-Life of this expected and known for years. Now it's becoming real and changes will happen fast. They must move to 5G technology and there are only these two companies available as viable partners in the West.  
+
+
+**Railway Transformation (FRMCS):**
+
+* **Germany:** [Deutsche Bahn & Nokia (Test Track)](https://www.nokia.com/newsroom/nokia-deploys-worlds-first-1900-mhz-5g-radio-network-on-deutsche-bahn-test-track-supporting-frmcs/) | [Background Info](https://www.ip-insider.de/deutsche-bahn-und-nokia-treiben-5g-ausbau-im-schienenverkehr-voran-a-68a8c4cf5a5a0189aaba53ac6f0c7fad/)
+* **France:** [SNCF & Nokia 5G Lab](https://www.railjournal.com/infrastructure/sncf-and-nokia-to-develop-5g-lab-to-prepare-for-frmcs/)
+* **Italy:** [Trenitalia & Nokia](https://www.nokia.com/newsroom/nokia-wins-landmark-5g-deal-with-telecom-italia/)
+
+**Strategic Collaboration & Scale:**
+
+* **Industry Synergy:** [Ericsson & Nokia collaborating on Autonomous Networks](https://www.ericsson.com/en/press-releases/2026/3/ericsson-and-nokia-strengthen-cooperation-to-accelerate-towards-autonomous-networks)
+* **Proven Scale:** [Ericsson & Swisscom (96% coverage)](https://www.ericsson.com/en/cases/2021/swisscom-5g-story)
+
+
+
+**Recent Catalysts:**
+
+* **US-Sweden Partnership:** The White House and Sweden have officially prioritized 5G/6G infrastructure in their [Technology Prosperity Deal](https://www.whitehouse.gov/releases/2026/05/technology-prosperity-deal-between-the-united-states-and-sweden/), cementing these companies as strategic national assets for the US.
+* **The ""Wake-Up Call"":** The recent [GSM-R (2G) meltdown in the UK](https://www.policytracker.com/blog/weekly-wrap-gsm-r-meltdown-shows-need-for-upgrade/) (READ THIS ARTICLE for technical details) proves that our current infrastructure is a liability. Relying on legacy 2G systems for critical transport is a recipe for catastrophic shutdowns. This has turned the transition to 5G-based **FRMCS** from a ""nice-to-have"" into a **non-discretionary, multi-billion dollar safety mandate.**
+
+# The Bottom Line
+
+The market is pricing these stocks still like ""boring legacy hardware."" They are actually the **foundational layer of the AI/Robotics revolution.** As the global infrastructure market scales toward **USD 153B+ by 2035** (from currently 50B), these companies are the only ones with the keys to the kingdom.
+
+
+
+# Positions
+
+While both stocks have seen some momentum over the last year, especially $NOK is currently on a hike which I don't expect to stop and $ERIC will have a steep run in the future. Don't laugh at my Europoor positions as it's all I can afford:
+
+$NOK - 15x January 2028 10$ Calls  |  $ERIC: 300 shares",hi all this is my first dd and intended to provide some insider perspective of a segment of the it market which is currently rather undervalued compared to other areas this here is only useful for degenerates who buy leaps or stock and shall help for whoever is looking for the next x potential i m just a europoor and using llms to support the writing process in the message below to ensure that you degenerates can understand it the ideas are coming from my own regard brain so blame me instead of ai if you consider it slop or a shitty dd tl dr the market is obsessed with ai brains chips and data centers but is ignoring the nervous system network and g g infrastructure required to make those brains work in the real world the thesis ai software and robotics require near zero latency to function to the level we expect this creates a massive non discretionary demand for high reliability g networks the shift we are moving from consumer driven to industrial driven autonomous factories robotics and smart rail market needs this is a multi decade high margin growth cycle the moat due to digital sovereignty and national security concerns western governments especially in europe are effectively locking out foreign competitors leaving nokia nok and ericsson eric as the only two trusted large scale providers no huawei e g the catalyst massive government mandated infrastructure projects railway transition from g to the frmcs growth of private g networks for industrial use provide a steady reliable revenue floor in the close future the bottom line while the market chases overvalued software and compute plays nok and eric represent a deep value bet on the essential physical backbone of the next industrial era while the market obsesses over gpu clusters and software multiples it is currently still missing the most critical bottleneck of the coming years the physical network layer ai is useless if it cannot interact with the real world in real time you can build the most powerful ai in the world but if the nervous system the network has high latency the ai loop breaks this network is being built by many players with some known brands such as for example nvidia with it s acquisition mellanox or cisco where networking business is gaining even more importance and the market reacts accordingly besides of the typical network we also have the need to bring the connection to the very edge to all the devices that are supposed to be connected to the internet there we have nokia nok and ericsson eric who are the main western g companies and are still rather unloved by investors they are building and will continue expanding heavily over the next years to ensure the infrastructure for robotics in the ai era as well as the key railway infrastructure we all need g or in the future g etc to make use of ai to the level we expect and desire this will be a major change in making it real in other industries besides of making memes or pron the paradigm shift consumer vs industrial we are entering the machine to machine m m and industrial driven era autonomous factories robotic supply chains and high speed rail do not care about data caps they care about latency this is non discretionary mission critical infrastructure that requires the reliability only nokia and ericsson can provide the private network moat nokia is aggressively pivoting toward private g networks instead of relying solely on public carrier spending they are selling directly to mines factories and logistics hubs this bypasses the debt heavy telecom operators and creates a high margin sticky revenue stream they are building the internal internet for the world s most critical ot heavy industries the geopolitical fortress digital sovereignty is the new national security mandate western governments will not trust critical infrastructure to high risk foreign entities e g huawei nokia and ericsson are the only two western players capable of scaling to this level effectively creating a government protected duopoly the evidence real world traction in railway the transition to g is not speculative it is happening via massive multi year government and industrial mandates there have been numerous major projects with both nok and eric in recent time there are major ongoing public tenders where they are trying to win multi decade contracts with governments and railway companies in different countries the railway system is currently still on g technology and it s causing accidents and there is a end of life of this expected and known for years now it s becoming real and changes will happen fast they must move to g technology and there are only these two companies available as viable partners in the west railway transformation frmcs germany deutsche bahn nokia test track background info france sncf nokia g lab italy trenitalia nokia strategic collaboration scale industry synergy ericsson nokia collaborating on autonomous networks proven scale ericsson swisscom coverage recent catalysts us sweden partnership the white house and sweden have officially prioritized g g infrastructure in their technology prosperity deal cementing these companies as strategic national assets for the us the wake up call the recent gsm r g meltdown in the uk read this article for technical details proves that our current infrastructure is a liability relying on legacy g systems for critical transport is a recipe for catastrophic shutdowns this has turned the transition to g based frmcs from a nice to have into a non discretionary multi billion dollar safety mandate the bottom line the market is pricing these stocks still like boring legacy hardware they are actually the foundational layer of the ai robotics revolution as the global infrastructure market scales toward usd b by from currently b these companies are the only ones with the keys to the kingdom positions while both stocks have seen some momentum over the last year especially nok is currently on a hike which i don t expect to stop and eric will have a steep run in the future don t laugh at my europoor positions as it s all i can afford nok x january calls eric shares,0.9762,positive
+2026-05-22 19:37:40+00:00,"Now I know the 1 year track looks deceptive but its just because the graph looked better I promise. I'm a college student that got a little too into stocks the past year. After this crazy week I thought I would share my lessons learned and progress since I'm fairly proud of it! 
+
+I like to do a mix of degenerate pump and dump timing and actually not regarded value investments, though its rare to tell the difference. I started out intelligent, with ETF and big company stock investments, but I learned about companies like reddit, rocket lab, and gradually got more degenerate from there. I was getting into bullshit penny stocks like castellum and was sitting sideways at \~$3000 for months before I decided to sell to get into better stocks. Around the start of last summer I decided I was responsible enough to start messing with options, right around the time the big $OPEN craze happened.
+
+The first big jump is the money I made from the $OPEN shit, I sold just after my calls went from $20k to $14k, and I near shit myself. The 2nd jump was an insane run from a combo of $UNH, $RDDT $GOOG value plays, if I remember correctly. I was sitting at around $27,500 and decided to stop investing for a while. A week later I wanted to jump on another pump and dump, beyond meat. I thought it would play out like OPEN but needless to say it didn't work. I was down to about $19k.
+
+After that I was burned from options for a while on top of dealing with a hellish semester. I was going into a few rare earth mineral and nuclear investments like CCJ, USAR, UUUU, LYSDY, but were largely canceled out by some bad holdover investments like GRAB and OKLO.  I also put much of the cash I was willing to risk into RKLB but mostly tried to make sure I didn't dip below $20k in account value again.
+
+I missed out on many of the SSD, Memory, and AMD stocks as a result of school and being wary of the entire AI sector, I hate everything associated with that industry but alas AMD and MU. You would've been so fun to participate in. I'm not going to buy into that area now though, I have a feeling the only reason it's done so well is because of my abstinence. Don't ever invest for FOMO. 
+
+I did get to hop into the giant bubble that was CAR. I have never seen so many billions erased so quickly in my meager 21 years, and I got a cool $5k out of puts outta that. Looking back I would've purchased closer to expiration puts because while I like to believe in long term holdings, it's really not something I'm good at. This brought me back into options but I'm being slightly less stupid. 
+
+I'm trying to attempt fewer earnings plays, and when I do they HAVE to be in the money. I've made about $11k in ITM RKLB options expiring this December and another $8k in RKLB shares. I fucking love that company. Currently looking into long term options for TMC, currently have $7500 set aside for 2028 calls for $10. It is risky but I think there's far worse investments to be made. I think I'm going to stick to space and raw materials for a while, I may get into semiconductors but I've been late to too many AI hype stocks for me to feel comfortable investing, and I'm doing well enough as it is. 
+
+The lessons I've learned is to take the L when the market gives it to you. The amount of calls that have gone straight to 0 because I hopiumed myself into believing it would go up is embarrassing. As for taking profits I'm not sure I've learned anything very useful outside of sell enough to break even, then let the rest ride as long as you feel confident in its growth. I plan to sell my RKLB calls once I think the market has hit peak euphoria after the SpaceX IPO. I tend to make very short term investments that last shorter than 3 months. For example, one of my first investments was RKLB back when it was $11.30 a share. I know time in the market beats timing the market long term, but at the same time, Im a college student. I didn't have money for that kind of patience. Now that I have this much money I may consider cooling things off with the majority of it, and keep options a fun side gig instead my main strategy, I don't know yet. The most important lesson for me that I've learned is don't do this shit as your main strategy for being successful. It's important yes, but don't make this your entire existence. That kind of hyperfocus makes you irrational and kind of insane with the pressure you put on yourself to be a millionaire next month. Try to have fun and don't expect more than a 50% gain at any given time. You're a lot better at playing the game when you're having fun. And yes I say game because that's what it is to me, its not a life line. Am I worried about being addicted to gambling? Somewhat. I've never going to bet on any polymarket or outcomes gambling, so thankfully I'm not going off the deep end. I'm a little more risk tolerant than what I probably should be, but I've learned to take the fucking L. It will save you so much grief and shame. 
+
+The market is dumb, but don't blame it on your losses. I like to believe the market is 80% psychology, some random percentage fundamentals. But that random percentage determines how much of a bull/bear market it is. This isn't financial advice, and don't take anything I say seriously. I just wanted to share with folks who share my interests and hear about how batshit insane my decisions are, because I'm not gonna deny any of that lmao.
+
+Current positions in post. ",now i know the year track looks deceptive but its just because the graph looked better i promise i m a college student that got a little too into stocks the past year after this crazy week i thought i would share my lessons learned and progress since i m fairly proud of it i like to do a mix of degenerate pump and dump timing and actually not regarded value investments though its rare to tell the difference i started out intelligent with etf and big company stock investments but i learned about companies like reddit rocket lab and gradually got more degenerate from there i was getting into bullshit penny stocks like castellum and was sitting sideways at for months before i decided to sell to get into better stocks around the start of last summer i decided i was responsible enough to start messing with options right around the time the big open craze happened the first big jump is the money i made from the open shit i sold just after my calls went from k to k and i near shit myself the nd jump was an insane run from a combo of unh rddt goog value plays if i remember correctly i was sitting at around and decided to stop investing for a while a week later i wanted to jump on another pump and dump beyond meat i thought it would play out like open but needless to say it didn t work i was down to about k after that i was burned from options for a while on top of dealing with a hellish semester i was going into a few rare earth mineral and nuclear investments like ccj usar uuuu lysdy but were largely canceled out by some bad holdover investments like grab and oklo i also put much of the cash i was willing to risk into rklb but mostly tried to make sure i didn t dip below k in account value again i missed out on many of the ssd memory and amd stocks as a result of school and being wary of the entire ai sector i hate everything associated with that industry but alas amd and mu you would ve been so fun to participate in i m not going to buy into that area now though i have a feeling the only reason it s done so well is because of my abstinence don t ever invest for fomo i did get to hop into the giant bubble that was car i have never seen so many billions erased so quickly in my meager years and i got a cool k out of puts outta that looking back i would ve purchased closer to expiration puts because while i like to believe in long term holdings it s really not something i m good at this brought me back into options but i m being slightly less stupid i m trying to attempt fewer earnings plays and when i do they have to be in the money i ve made about k in itm rklb options expiring this december and another k in rklb shares i fucking love that company currently looking into long term options for tmc currently have set aside for calls for it is risky but i think there s far worse investments to be made i think i m going to stick to space and raw materials for a while i may get into semiconductors but i ve been late to too many ai hype stocks for me to feel comfortable investing and i m doing well enough as it is the lessons i ve learned is to take the l when the market gives it to you the amount of calls that have gone straight to because i hopiumed myself into believing it would go up is embarrassing as for taking profits i m not sure i ve learned anything very useful outside of sell enough to break even then let the rest ride as long as you feel confident in its growth i plan to sell my rklb calls once i think the market has hit peak euphoria after the spacex ipo i tend to make very short term investments that last shorter than months for example one of my first investments was rklb back when it was a share i know time in the market beats timing the market long term but at the same time im a college student i didn t have money for that kind of patience now that i have this much money i may consider cooling things off with the majority of it and keep options a fun side gig instead my main strategy i don t know yet the most important lesson for me that i ve learned is don t do this shit as your main strategy for being successful it s important yes but don t make this your entire existence that kind of hyperfocus makes you irrational and kind of insane with the pressure you put on yourself to be a millionaire next month try to have fun and don t expect more than a gain at any given time you re a lot better at playing the game when you re having fun and yes i say game because that s what it is to me its not a life line am i worried about being addicted to gambling somewhat i ve never going to bet on any polymarket or outcomes gambling so thankfully i m not going off the deep end i m a little more risk tolerant than what i probably should be but i ve learned to take the fucking l it will save you so much grief and shame the market is dumb but don t blame it on your losses i like to believe the market is psychology some random percentage fundamentals but that random percentage determines how much of a bull bear market it is this isn t financial advice and don t take anything i say seriously i just wanted to share with folks who share my interests and hear about how batshit insane my decisions are because i m not gonna deny any of that lmao current positions in post,0.9976,positive
+2026-05-22 19:30:19+00:00,"Ubiquiti has been on a slow but silent run this year, with a modest run up of about 110% YTD, starting from around $400 and reaching up to nearly $1,100. 
+
+1) Low volume stock(\~100k average).
+
+2) Extremely high ownership rate by management and employees (86% out of 96%).
+
+3) Solid and sustainable track record of YoY revenue growth and income, typically always performs as expected or better than expected. 
+
+4) Sudden 50% spike in short float positions from about 8% to 12% that aren’t held for long. 
+
+TE dipped 50% from $8 to $4 off of geopolitical noise and bounced back within the month, earning me a 2.5x, and now I’m hoping to do the same with UI. 
+
+Dropped from $1,100 down to $580 over a single trading week, which I suspect, may be because of the sudden spike in short float positions that opened around the same time. 
+
+Nothing has changed about Ubiquiti’s finances, guidance, and operating thesis, so I’m confident that they’ll eventually top back up to $900-$1,000 once the influx of shorts close out their positions. 
+
+Averaging 400k shares short and a sudden influx of 150k shares short for a total of 550k. If those extra 150k shorts are closing out as quickly as I suspect they are, then that’s more than double their daily average trading volume. 
+
+Anyway, you regards definitely don’t care about any of this and want to know my positions and my price target. 
+
+TL;DR: Ubiquiti went from $400 to $1,100 a share in a year and suddenly dipped 50% to $580 with no change in financials, guidance, or thesis. Sudden influx of short positions that have opened and are closing just as fast. Expecting Ubiquiti’s recovery back to $900-$1,000. 
+
+Positions: 
+
+$11,972 @ $598.60/share (20 shares) in ROTH IRA
+
+$10,033 @ $668.92/share (15 shares) in Individual Brokerage. 
+
+Price Target: $900-$1,100 or the MOOOOON!",ubiquiti has been on a slow but silent run this year with a modest run up of about ytd starting from around and reaching up to nearly low volume stock k average extremely high ownership rate by management and employees out of solid and sustainable track record of yoy revenue growth and income typically always performs as expected or better than expected sudden spike in short float positions from about to that aren t held for long te dipped from to off of geopolitical noise and bounced back within the month earning me a x and now i m hoping to do the same with ui dropped from down to over a single trading week which i suspect may be because of the sudden spike in short float positions that opened around the same time nothing has changed about ubiquiti s finances guidance and operating thesis so i m confident that they ll eventually top back up to once the influx of shorts close out their positions averaging k shares short and a sudden influx of k shares short for a total of k if those extra k shorts are closing out as quickly as i suspect they are then that s more than double their daily average trading volume anyway you regards definitely don t care about any of this and want to know my positions and my price target tl dr ubiquiti went from to a share in a year and suddenly dipped to with no change in financials guidance or thesis sudden influx of short positions that have opened and are closing just as fast expecting ubiquiti s recovery back to positions share shares in roth ira share shares in individual brokerage price target or the mooooon,0.9904,positive
+2026-05-22 18:56:00+00:00,Waiting for Hive to reach $25 🤫😬,waiting for hive to reach,0.0258,neutral
+2026-05-22 18:39:24+00:00,,nan,0.0,neutral
+2026-05-22 18:28:54+00:00,,nan,0.0,neutral
+2026-05-22 17:33:23+00:00,"Yes that other regard who called the top was right. Although he had a dumb reason with hookers n shit but he was right on the conclusion.
+
+As I am typing this, all the other bears have already been margin called and divorced a month ago. That intel revenge trade bear guy who shorted at $90 dollars 2 weeks ago is probably no longer with us today. You only see gain porns from everyone. And most importantly, I had a major FOMO feeling today and wanted to buy a 30dte call spread on NVDA today. That is peak euphoria regarded vibe energy- which is why I fapped and decided to inverse myself, this sub, and everyone. I have come out of the closet and converted from a bull to a bear.
+
+Underneath the surface, hedge funds went from heavily under positioning in late February to massive fomo chasing which pumped the market in the last 2 months. Semis have had an insane run due to the market pricing in insane demand for chips and market has reprices semis to their fair value (not calling them expensive yet). Well, now that institutions have sized up and CTO purchases are no longer the SPX catalyst , the market has lost its momentum. And the market is pricing in tons and tons a great news.
+
+Let’s see what the market has priced in recently: the end of the war, NVDA growing 80%, AI CAPEX triple by 2028, 10-year yield dropping. Does that make you think we will head to 7800-8000 from here? That’s what they want retail regards to think.  On the other hand market tops on good news just like market bottoms from good news. When you think everything is clear and we going up - that’s when we dump.
+
+Price wise, we saw 7500 last Thursday, it was rejected heavily the next day, and we saw the 7500 handle with a gap up candle again today, with weaker momentum. That is the last pump from the market and the drop is inevitable. The bears will wake up soon and bulls will get fucked royally
+
+I am so short and gay and I am not afraid to share.
+
+Position:  
+SPX Jun 18 7250 Put  
+VIX Jun 17 25/35 call spread  
+SOXX Jul 17 480/400 put spread  
+MTUM Nov 20 290 put",yes that other regard who called the top was right although he had a dumb reason with hookers n shit but he was right on the conclusion as i am typing this all the other bears have already been margin called and divorced a month ago that intel revenge trade bear guy who shorted at dollars weeks ago is probably no longer with us today you only see gain porns from everyone and most importantly i had a major fomo feeling today and wanted to buy a dte call spread on nvda today that is peak euphoria regarded vibe energy which is why i fapped and decided to inverse myself this sub and everyone i have come out of the closet and converted from a bull to a bear underneath the surface hedge funds went from heavily under positioning in late february to massive fomo chasing which pumped the market in the last months semis have had an insane run due to the market pricing in insane demand for chips and market has reprices semis to their fair value not calling them expensive yet well now that institutions have sized up and cto purchases are no longer the spx catalyst the market has lost its momentum and the market is pricing in tons and tons a great news let s see what the market has priced in recently the end of the war nvda growing ai capex triple by year yield dropping does that make you think we will head to from here that s what they want retail regards to think on the other hand market tops on good news just like market bottoms from good news when you think everything is clear and we going up that s when we dump price wise we saw last thursday it was rejected heavily the next day and we saw the handle with a gap up candle again today with weaker momentum that is the last pump from the market and the drop is inevitable the bears will wake up soon and bulls will get fucked royally i am so short and gay and i am not afraid to share position spx jun put vix jun call spread soxx jul put spread mtum nov put,0.9023,positive
+2026-05-22 17:29:12+00:00,,nan,0.0,neutral
+2026-05-22 16:58:28+00:00,"Hey folks,
+
+I come before you as a broke engineering student who is 100% convinced space is the future in the short and long term. If I had money I'd have a ''diverse'' portfolio of space companies like (redacted), RKLB, MDA and a bunch of others as well as the UFO ETF.
+
+Problem is that I don't have enough money to make diversification worthwhile. So I was looking for a cheap space play. Luckily, SpaceX IPO is due mid June, and I think I may have a decent play.
+
+Remember VIX? I haven't seen a peep about it since god knows when. Here's where its at right now
+
+[As of May 22, 2026](https://preview.redd.it/wkgcp0ksup2h1.png?width=1203&format=png&auto=webp&s=ae7f4d0a503ee345f047595dbe5b1f9929f6c0f5)
+
+It being this low is actually surprising, because i would have thought the wars in ukraine and Iran would have it at least in the twenties. I reckon the SpaceX IPO is going to be like snorting a line of coke the length of an elephants dick. I think the entire space sector will be impacted and people will throw themselves on this stock like coked up monkeys on meth. Not just people like you and me, but companies and pension funds and ETFs as well. All this to say I think the movement of this IPO alone will make VIX will go up hard, and thats without considering the anticipation for it. Am I missing something here?
+
+How do I play this? I'm thinking straight up options on VIX, but when would be a good time to buy them? I dont wanna get IV crushed or get theta gang banged. I might just buy VIXY shares and options before close, if I do i'll update with my positions. What say you?",hey folks i come before you as a broke engineering student who is convinced space is the future in the short and long term if i had money i d have a diverse portfolio of space companies like redacted rklb mda and a bunch of others as well as the ufo etf problem is that i don t have enough money to make diversification worthwhile so i was looking for a cheap space play luckily spacex ipo is due mid june and i think i may have a decent play remember vix i haven t seen a peep about it since god knows when here s where its at right now as of may it being this low is actually surprising because i would have thought the wars in ukraine and iran would have it at least in the twenties i reckon the spacex ipo is going to be like snorting a line of coke the length of an elephants dick i think the entire space sector will be impacted and people will throw themselves on this stock like coked up monkeys on meth not just people like you and me but companies and pension funds and etfs as well all this to say i think the movement of this ipo alone will make vix will go up hard and thats without considering the anticipation for it am i missing something here how do i play this i m thinking straight up options on vix but when would be a good time to buy them i dont wanna get iv crushed or get theta gang banged i might just buy vixy shares and options before close if i do i ll update with my positions what say you,0.8614,positive
+2026-05-22 16:34:33+00:00,"I know we all have many stories like this but sometimes those “could have” hurt more than looking at my negative portfolio. 
+
+I had 6,600 shares of rklb at CA of less than 4$… I told myself I was going to hold long term because I’m a huge space nerd , always wanted to invest in spaceX and saw them as a heart play. Well; i ended up selling on the way up, and while I did make like 20K, if I just held for another 2 years, I’d be up 900K. 
+
+Oh well. How it always goes and how they lure me back haha. ",i know we all have many stories like this but sometimes those could have hurt more than looking at my negative portfolio i had shares of rklb at ca of less than i told myself i was going to hold long term because i m a huge space nerd always wanted to invest in spacex and saw them as a heart play well i ended up selling on the way up and while i did make like k if i just held for another years i d be up k oh well how it always goes and how they lure me back haha,0.8271,positive
+2026-05-22 16:34:16+00:00,"We all know what happened.
+
+[https://www.reddit.com/r/wallstreetbets/comments/1tkeh1f/china\_securities\_regulatory\_commission\_will/](https://www.reddit.com/r/wallstreetbets/comments/1tkeh1f/china_securities_regulatory_commission_will/)
+
+CSRC is fining $FUTU for allowing existing (accounts prior to 2023) mainland Chinese investors trade US stocks. Those profits are going to be gone and some fine.
+
+But here's the thing. CSRC is not randomly punishing. $FUTU was warned back in 2022. And CSRC is NOT punishing $FUTU for all the other practice. It's just for the fact the money can LEAVE China. China does NOT want Chinese people to invest in US stocks with Chinese money. It's all logical.
+
+Well here's the thing. $FUTU by fundamentals is an amazing company.
+
+|Financials|Futu|Robinhood|
+|:-|:-|:-|
+|PE Ratio|12.03|36.72|
+|Market Cap|12.73 B|67.17 B|
+|Dividends|(One time Dividend this Year) 2.87%|None|
+|Growth Rate 2025|\+76.14%|\+51.6%|
+|Net Income Growth 2025|\+108%|\+115%|
+|Net Margin 2025|49.5%|40%|
+|Trading Volume Growth In Equity 2025 (About)|\+89.4%|\+68%|
+
+$FUTU is the go to degen app for well regarded ""investors"" in Hong Kong, Singapore, Malaysia, etc. And basically those who are ethnically Chinese.
+
+Here's the thing. $FUTU revenue growth is outside mainland China as $FUTU was banned back in 2023 in mainland China.
+
+All that growth and degen work is basically from outside China. That money and growth is real.
+
+Remember UNH? That thing is already recovering slowly over time from the over reaction.
+
+https://preview.redd.it/tqm20r5fwp2h1.png?width=1776&format=png&auto=webp&s=ab53baeb647fcc52ccfb9bd6cea3b79e0ce56696
+
+Well, what am I getting at? The market is over reacting. This is just something that CSRC made clear to $FUTU back in 2022 with a warning but $FUTU ignored. CSRC is not going after $FUTU to remove the company. It's been common sense even to westerners that China does NOT want mainland Chinese to invest in US stocks. It's completely rational take.
+
+But CHYNA! Well, you guys remember the fraud of Luckin Coffee? That was an actual financial fraud. $FUTU isn't.
+
+Luckin Coffee turned out to be a BUY the dip of a lifetime.
+
+https://preview.redd.it/mfdfbsofwp2h1.png?width=1988&format=png&auto=webp&s=ff1e99aee5c37b6edc8204b26a7957abdac60a10
+
+Here, we have a brokerage firm with insane growth and insane financial metrics. Even does one time dividends from time to time. And the growth is not even relevant to mainland China because this app has not accepted any new mainland Chinese investor since 2023.
+
+Clearly over reaction and buy the dip of a lifetime.
+
+Also, why the heck are all Chinese tech stocks affected by this incident? This has absolutely nothing to do with companies like Alibaba. Ant Financial isn't even in this case as Ant Financial actually followed the rules and offboarded back in 2023 the mainland Chinese investing on US stocks.
+
+Also, if anything, this whole thing is bullish. CSRC is following known clear rules. Gives warning back in 2022 and gives 4 years (basically grace period) for companies to adapt. Ignore? Then take those profits. Nothing else. Firms like Ant Financial which abided by the rules don't get punished at all. China just does not want money to LEAVE China for US stocks. This makes perfect sense to me. China wants to encourage Chinese people to invest only in Chinese stocks. Why wouldn't it?
+
+People tend to just sell everything out of irrationality when it comes to anything on China. Use your brain. This one is a 1 time completely fair decision given the laws in China. Let alone all that real growth and revenue doesn't even come from mainland China.
+
+https://preview.redd.it/zuyhacm0xp2h1.png?width=2048&format=png&auto=webp&s=9d8163e4dc119c8e4a0f028d6b09100679ddc30a
+
+",we all know what happened csrc is fining futu for allowing existing accounts prior to mainland chinese investors trade us stocks those profits are going to be gone and some fine but here s the thing csrc is not randomly punishing futu was warned back in and csrc is not punishing futu for all the other practice it s just for the fact the money can leave china china does not want chinese people to invest in us stocks with chinese money it s all logical well here s the thing futu by fundamentals is an amazing company financials futu robinhood pe ratio market cap b b dividends one time dividend this year none growth rate net income growth net margin trading volume growth in equity about futu is the go to degen app for well regarded investors in hong kong singapore malaysia etc and basically those who are ethnically chinese here s the thing futu revenue growth is outside mainland china as futu was banned back in in mainland china all that growth and degen work is basically from outside china that money and growth is real remember unh that thing is already recovering slowly over time from the over reaction well what am i getting at the market is over reacting this is just something that csrc made clear to futu back in with a warning but futu ignored csrc is not going after futu to remove the company it s been common sense even to westerners that china does not want mainland chinese to invest in us stocks it s completely rational take but chyna well you guys remember the fraud of luckin coffee that was an actual financial fraud futu isn t luckin coffee turned out to be a buy the dip of a lifetime here we have a brokerage firm with insane growth and insane financial metrics even does one time dividends from time to time and the growth is not even relevant to mainland china because this app has not accepted any new mainland chinese investor since clearly over reaction and buy the dip of a lifetime also why the heck are all chinese tech stocks affected by this incident this has absolutely nothing to do with companies like alibaba ant financial isn t even in this case as ant financial actually followed the rules and offboarded back in the mainland chinese investing on us stocks also if anything this whole thing is bullish csrc is following known clear rules gives warning back in and gives years basically grace period for companies to adapt ignore then take those profits nothing else firms like ant financial which abided by the rules don t get punished at all china just does not want money to leave china for us stocks this makes perfect sense to me china wants to encourage chinese people to invest only in chinese stocks why wouldn t it people tend to just sell everything out of irrationality when it comes to anything on china use your brain this one is a time completely fair decision given the laws in china let alone all that real growth and revenue doesn t even come from mainland china,-0.902,negative
+2026-05-22 16:27:00+00:00,,nan,0.0,neutral
+2026-05-22 16:15:06+00:00,,nan,0.0,neutral
+2026-05-22 16:13:15+00:00,"As we're all looking at the incoming SpaceX IPO, I can't convince myself to buy into DXYZ or VCX due to the fact that they are trading so far from their NAV.
+
+I found XOVR, an etf with about 23% SpaceX exposure and who's trading currently at about its NAV. On top of that, they are offering options. 
+
+Not sure if it's for wsb as it's not a degen trade. 
+
+Currently long 4k shares, + 15 calls, + 10x short put",as we re all looking at the incoming spacex ipo i can t convince myself to buy into dxyz or vcx due to the fact that they are trading so far from their nav i found xovr an etf with about spacex exposure and who s trading currently at about its nav on top of that they are offering options not sure if it s for wsb as it s not a degen trade currently long k shares calls x short put,0.4657,positive
+2026-05-22 16:12:29+00:00,https://www.youtube.com/live/QVU9AJNANoU?si=jF6QOiuch74XkYUM,,0.0,neutral
+2026-05-22 16:04:44+00:00,,nan,0.0,neutral
+2026-05-22 15:59:25+00:00,"Probably has some room left to run, but I’m balls deep in RKLB already so taking some profit here on my side piece 
+
+Give me another Space stock to degen into in the meantime ",probably has some room left to run but i m balls deep in rklb already so taking some profit here on my side piece give me another space stock to degen into in the meantime,0.6423,positive
+2026-05-22 15:47:35+00:00,"I read few weeks ago that computer / hardware stocks could be the next to pump. DELL alrdy had a massive run up so I went all in on $HPQ instead. Holding through earnings next week. AI PC upgrade cycle story. 
+
+Lenovo just went +20% on their earnings last night. 
+
+Evercore ISI said it believes ""AI infrastructure and networking demand remain among the most durable areas of spend,"" supported by higher capital expenditure from hyperscalers and neoclouds alongside continued enterprise investment in campus networking refreshes and data center modernization.
+
+Cherry on top, they also make space printers apparently. What the fuck is a space printer? IDK. Sounds bullish though. ",i read few weeks ago that computer hardware stocks could be the next to pump dell alrdy had a massive run up so i went all in on hpq instead holding through earnings next week ai pc upgrade cycle story lenovo just went on their earnings last night evercore isi said it believes ai infrastructure and networking demand remain among the most durable areas of spend supported by higher capital expenditure from hyperscalers and neoclouds alongside continued enterprise investment in campus networking refreshes and data center modernization cherry on top they also make space printers apparently what the fuck is a space printer idk sounds bullish though,-0.3182,negative
+2026-05-22 15:38:47+00:00,"Going long on TTM Technologies ($TTMI) 
+
+Nvidia put out their new Bill of Goods for the Blackwell and updated costs their next Vera Rubin GPU rack. 
+
+You can see the breakdown of the various components in the article or table here. 
+
+You will see the huge increases in cost really accrue to memory (all the memory names already ran up like 1000% this year, Micron, Sandisk, Seagate, Samsung). 
+
+PCB (Printed Circuit Boards) is going to massively increase in the overall spend, up 233%. 
+
+There is pretty much one PCB public company in the US (TTM Technologies). $TTMI
+
+All the other publicly traded PCB companies are out of Taiwan. This makes sense, as proximity to TSM where all the manufacturing takes place. 
+
+If interested, the second photo is the other PCB Taiwan companies. I don’t spend too much time playing the Asian listed companies…
+
+$TTMI should be a huge winner as Nvidia’s Vera Rubin GPU ramps starting Q3 2026",going long on ttm technologies ttmi nvidia put out their new bill of goods for the blackwell and updated costs their next vera rubin gpu rack you can see the breakdown of the various components in the article or table here you will see the huge increases in cost really accrue to memory all the memory names already ran up like this year micron sandisk seagate samsung pcb printed circuit boards is going to massively increase in the overall spend up there is pretty much one pcb public company in the us ttm technologies ttmi all the other publicly traded pcb companies are out of taiwan this makes sense as proximity to tsm where all the manufacturing takes place if interested the second photo is the other pcb taiwan companies i don t spend too much time playing the asian listed companies ttmi should be a huge winner as nvidia s vera rubin gpu ramps starting q,0.9578,positive
+2026-05-22 15:11:42+00:00,Hit some nice throttle poppers ,hit some nice throttle poppers,0.4215,positive
+2026-05-22 14:39:30+00:00,"I’ve been into the space sector since 2024 and it changed my life. Started off with stocks then learned options. The SpaceX IPO should lift space stocks a bit more. But I’m looking to trim all options on space stocks before the IPO because I think the market will tank.
+
+Once things settle from the IPO, I’ll jump back in to space options. Mostly RKLB, ASTS, and LUNR since they’re all well positioned for continued growth.
+
+AI is also still in full play, with NBIS and DRAM looking great for the rest of 2026. 
+
+Biotech also has some great bets with SLS being my main play. Their current trial should have readout in the next few months with 78 of 80 events being reached recently. I expect very positive results and hopefully a buyout within the next year.
+
+To the haters from previous posts saying these are meme stocks… I guess I’m going to retire thanks to memes!",i ve been into the space sector since and it changed my life started off with stocks then learned options the spacex ipo should lift space stocks a bit more but i m looking to trim all options on space stocks before the ipo because i think the market will tank once things settle from the ipo i ll jump back in to space options mostly rklb asts and lunr since they re all well positioned for continued growth ai is also still in full play with nbis and dram looking great for the rest of biotech also has some great bets with sls being my main play their current trial should have readout in the next few months with of events being reached recently i expect very positive results and hopefully a buyout within the next year to the haters from previous posts saying these are meme stocks i guess i m going to retire thanks to memes,0.9878,positive
+2026-05-22 14:30:37+00:00,"I made over 100% on RGTI but I could’ve made so much more if I held for 10 more minutes. 🤡 Overtaken by regret, should I fomo back? 🫣",i made over on rgti but i could ve made so much more if i held for more minutes overtaken by regret should i fomo back,-0.5719,negative
+2026-05-22 14:24:45+00:00,"Sold @5k profit
+
+May be little for some of you guys but it's my first big win for me, new to trading (19) w/ a relatively small port of now almost 36k
+
+And yes its shares, still getting the hang of options but will never go full regard",sold k profit may be little for some of you guys but it s my first big win for me new to trading w a relatively small port of now almost k and yes its shares still getting the hang of options but will never go full regard,0.9199,positive
+2026-05-22 13:37:40+00:00,Sold quickly! Gonna be a good Memorial weekend!! ,sold quickly gonna be a good memorial weekend,0.4404,positive
+2026-05-22 11:01:03+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1tkflmu),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-05-22 10:04:14+00:00,China Securities regulatory commission had just decided that they shall confiscated the income of Futu and Longbridge securities due to the fact that provide stocks and options trading services outside of China.,china securities regulatory commission had just decided that they shall confiscated the income of futu and longbridge securities due to the fact that provide stocks and options trading services outside of china,0.5267,positive
+2026-05-22 09:48:29+00:00,"DD: i am a wealthy American living in asia. During the pandemic i swear i was banging like 50 chicks on rotation . All the other white meat was gone and they left it all for me.
+
+Obvious side effect besides the STDs was these chicks asked for money all the time - their jobs were gone, their sugar daddy was gone, the tourist income was gone. The bar or gogo was closed, etc. 
+
+Then things started opening up and requests were infrequent..some found their way to onlyfans. Some found a geezer to support them. Maybe only a couple times a year some random from the past would show up and ask for $100.
+
+But this week is different. Three different exs hit me up - one in Manila, one in Ho Chi Minh, one in Thailand. They were all in a bad situation and needed help. Cant afford rent anymore, costs are going up, cant find a job, jeepneys stopped driving and getting to work costs more. They have no one else to ask. 
+
+The signs of weakness are starting to show up again. Trumps Hormuz has done too much damage. AI is eroding economies. Corporations are abandoning entry level workforce/markets like its Detroit in the 80s.
+
+The top is almost in boys. 
+
+DD: my harem of women.
+
+Position : 2500 shares of WSE due to increased international remittance to support these failing economies.
+
+Position 2: All in on SOXD when SOXL hits $200
+",dd i am a wealthy american living in asia during the pandemic i swear i was banging like chicks on rotation all the other white meat was gone and they left it all for me obvious side effect besides the stds was these chicks asked for money all the time their jobs were gone their sugar daddy was gone the tourist income was gone the bar or gogo was closed etc then things started opening up and requests were infrequent some found their way to onlyfans some found a geezer to support them maybe only a couple times a year some random from the past would show up and ask for but this week is different three different exs hit me up one in manila one in ho chi minh one in thailand they were all in a bad situation and needed help cant afford rent anymore costs are going up cant find a job jeepneys stopped driving and getting to work costs more they have no one else to ask the signs of weakness are starting to show up again trumps hormuz has done too much damage ai is eroding economies corporations are abandoning entry level workforce markets like its detroit in the s the top is almost in boys dd my harem of women position shares of wse due to increased international remittance to support these failing economies position all in on soxd when soxl hits,-0.7843,negative
+2026-05-22 08:26:35+00:00,"I am a total regard just bumbling about but kind of struck gold in the last year. I mostly hold stocks - AMZN, AMD, RKLB, ASTS.
+
+Everything is up so much and still it keeps going. Every day I itch to sell it all but dont do it because of greed. Also I made the mistake of selling MU at $490  after already having made 200% on it.
+
+HOW MUCH LONGER CAN THIS GO ON???
+
+I fear that I will regret it to have held.
+
+And I fear I will regret it if I sell now.
+
+What the fuck do I do? How do you guys handle this situation?
+
+Is it an anomaly or is this the new normal?",i am a total regard just bumbling about but kind of struck gold in the last year i mostly hold stocks amzn amd rklb asts everything is up so much and still it keeps going every day i itch to sell it all but dont do it because of greed also i made the mistake of selling mu at after already having made on it how much longer can this go on i fear that i will regret it to have held and i fear i will regret it if i sell now what the fuck do i do how do you guys handle this situation is it an anomaly or is this the new normal,-0.9853,negative
+2026-05-22 05:14:37+00:00,,nan,0.0,neutral
+2026-05-22 04:37:40+00:00,"300 shares on margin
+
+Wanted to post this a few days back but not enough karma ",shares on margin wanted to post this a few days back but not enough karma,0.1531,positive
+2026-05-22 03:53:51+00:00,Thinking about buying more contacts before space x IPO ,thinking about buying more contacts before space x ipo,0.0,neutral
+2026-05-22 02:44:57+00:00,I want to see a big green dildo in the morning! So does my wife’s BF. ,i want to see a big green dildo in the morning so does my wife s bf,0.0772,positive
+2026-05-22 02:36:02+00:00,"This is your reminder to take profits. Hands were a little too diamond today. Purchased SPY 0dte 745c at .08cents right as the Iran negotiations news dropped. Was lucky, up $21k in 30 minutes and rode all the way down to $2k for the day before being able to close all 360 contracts from a combo of fomo, revenge trades, and being too dumb to sell. DONT BE A DUMB FUCK LIKE ME",this is your reminder to take profits hands were a little too diamond today purchased spy dte c at cents right as the iran negotiations news dropped was lucky up k in minutes and rode all the way down to k for the day before being able to close all contracts from a combo of fomo revenge trades and being too dumb to sell dont be a dumb fuck like me,0.2896,positive
+2026-05-21 23:52:24+00:00,,nan,0.0,neutral
+2026-05-21 23:48:29+00:00,"Strictly traded spy 0-1DTEs and Sandisk options this week. Got really lucky holding puts overnight a couple times, and got extremely lucky with calls on SNDK and spy calls today with the God candles.  Was holding 11x740c and 5x741c 0DTEs when it hit. Was down like 2k on em throughout the day and BAM ended up +1.5k for the day.  
+\*Fun fact I was dead broke last week and down to my last 100$ until payday on Friday and way behind on bills.  This week I’ve paid all my bills off for the month.",strictly traded spy dtes and sandisk options this week got really lucky holding puts overnight a couple times and got extremely lucky with calls on sndk and spy calls today with the god candles was holding x c and x c dtes when it hit was down like k on em throughout the day and bam ended up k for the day fun fact i was dead broke last week and down to my last until payday on friday and way behind on bills this week i ve paid all my bills off for the month,0.7172,positive
 2026-05-21 22:46:31+00:00,,nan,0.0,neutral
-2026-05-21 22:36:11+00:00,,nan,0.0,neutral
-2026-05-21 22:32:35+00:00,,nan,0.0,neutral
 2026-05-21 22:30:34+00:00,,nan,0.0,neutral
-2026-05-21 22:20:10+00:00,,nan,0.0,neutral
 2026-05-21 22:03:31+00:00,,nan,0.0,neutral
 2026-05-21 21:49:58+00:00,"It is the biggest moneymaker in theatres right now. Already +12% during afterhours. Imagine if Netflix goes out and buys it with all the mullah they saved by stepping away from Warner Bros. acquisition.
 
@@ -86,7 +448,7 @@ But if I held for some reason, would have been 200k+.
 
 Ended up making $2600 realized on 0dtes in the end. What a day.
 
-Update: Wanted an even $3k, went for more calls right before the crazy EOD drop, averaged down again for 500 contracts, was down 32k, then sold for -7k (coulda broke even after 3 more minutes). overall down 4.5k now today.",averaged down dtes in the morning into what you see here lowest was k ended up selling for a k loss scaling some out for profit but selling the rest at a loss made it back in more calls later today on the hulk candle but if i held for some reason would have been k ended up making realized on dtes in the end what a day update wanted an even k went for more calls right before the crazy eod drop averaged down again for contracts was down k then sold for k coulda broke even after more minutes overall down k now today,-0.9169,negative
+Update: Wanted an even $3k, went for more calls right before the crazy EOD drop, averaged down again for 500 contracts, was down 32k, then sold for -7k (coulda broke even after 3 more minutes). overall down 4.4k now today.",averaged down dtes in the morning into what you see here lowest was k ended up selling for a k loss scaling some out for profit but selling the rest at a loss made it back in more calls later today on the hulk candle but if i held for some reason would have been k ended up making realized on dtes in the end what a day update wanted an even k went for more calls right before the crazy eod drop averaged down again for contracts was down k then sold for k coulda broke even after more minutes overall down k now today,-0.9169,negative
 2026-05-21 18:19:55+00:00,"It is 3:47am.
 
 I have not slept since Tuesday. Not because I don't want to. Not because I'm not tired. I am extremely tired. My body is tired. My soul is tired. My psychiatrist is tired of me showing up and telling her that Gerald is still there.
@@ -806,7 +1168,6 @@ Godspeed, regards.",boys the finra pdt rule is basically dead that s right the a
 2026-05-21 16:40:02+00:00,,nan,0.0,neutral
 2026-05-21 16:29:09+00:00,"I bought some puts a few days ago, why the 🦆 is my luck like this 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ ",i bought some puts a few days ago why the is my luck like this,0.6705,positive
 2026-05-21 15:35:22+00:00,,nan,0.0,neutral
-2026-05-21 15:02:56+00:00,I’m keeping it simple Microsoft and ServiceNow are going to be AI winners and are oversold right now. NOW will work with AI in tandem and their 98% retention should tell you everything u need to know about how much the customers love their product. I’m betting 2 months from now these 2 will be up significantly as their prices correct. And ask yourself how is MSFT not gonna make bank off of OpenAi ipo?,i m keeping it simple microsoft and servicenow are going to be ai winners and are oversold right now now will work with ai in tandem and their retention should tell you everything u need to know about how much the customers love their product i m betting months from now these will be up significantly as their prices correct and ask yourself how is msft not gonna make bank off of openai ipo,0.8074,positive
 2026-05-21 15:02:36+00:00,"I’m genuinely trying to understand the bull case, not argue.
 
 At a potential $1.5T+ valuation, what is the actual revenue and profit path that gets SpaceX there?
@@ -882,7 +1243,6 @@ Bull case is an enterprise AI SaaS play trading near cash value despite 80%+ mar
 Risk side ongoing dilution from the Avondale deal is the biggest threat, plus Nasdaq compliance pressure, weak past revenue, and heavy competition—if these don’t improve, downside is real.",has been looking more and more like its bout to pop before i start do your own due diligence and this is not financial advice also showing positions bull case is an enterprise ai saas play trading near cash value despite margins fortune traction and real validation gartner google if dilution slows and revenue rebounds even a minimal saas valuation could mean a quick x they also have to reach dollar by september or they will get delisted and in the earnings call the company seemed very positive towards not being delisted they also sit on a fat cash stack m cash they burn m in cash per quarter dilution is unlikely as of right now as also the more they dilute the deal they have put themselves in causes them to lose more money do you own reaseach this guy did a great deep dive i ll link his name risk side ongoing dilution from the avondale deal is the biggest threat plus nasdaq compliance pressure weak past revenue and heavy competition if these don t improve downside is real,0.6757,positive
 2026-05-21 03:14:54+00:00,,nan,0.0,neutral
 2026-05-21 02:33:09+00:00,,nan,0.0,neutral
-2026-05-21 02:00:42+00:00,,nan,0.0,neutral
 2026-05-21 01:40:00+00:00,"Source: [https://finance.yahoo.com/sectors/technology/articles/samsung-reaches-tentative-union-deal-143042907.html](https://finance.yahoo.com/sectors/technology/articles/samsung-reaches-tentative-union-deal-143042907.html)
 
 In a last-minute reversal, Samsung Electronics Co. reached a tentative deal with its labor union, averting a potentially crippling strike that had been scheduled to start Thursday at the world’s largest memory chipmaker.
@@ -983,7 +1343,6 @@ BFLO-Retail",barrels brent for july dte financially settled barrels wti for july
 2026-05-20 21:08:49+00:00,"Hi God, it’s me again…  
 Bull has had major recent catalyst, from ending 1b dilution deal with Yorkshire (one of biggest things that has kept it suppressed), to instead doing a 100m buyback (both of these announced early April) as well as the PDT rule being removed in a few weeks. BULL’s earnings have continued to show major growth consistently, and with the yorkshire deal ended, as well as switching to a buyback, a lot of room to assume profit is swinging up hard, and with PDT it’ll be another huge jump in the future earnings.",hi god it s me again bull has had major recent catalyst from ending b dilution deal with yorkshire one of biggest things that has kept it suppressed to instead doing a m buyback both of these announced early april as well as the pdt rule being removed in a few weeks bull s earnings have continued to show major growth consistently and with the yorkshire deal ended as well as switching to a buyback a lot of room to assume profit is swinging up hard and with pdt it ll be another huge jump in the future earnings,0.8934,positive
 2026-05-20 20:54:03+00:00,[https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm#id286866c4c474ba490d6531a57db9e93\_57](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm#id286866c4c474ba490d6531a57db9e93_57),,0.0,neutral
-2026-05-20 20:49:59+00:00,At least it's Canadian money so it's not real.,at least it s canadian money so it s not real,0.0,neutral
 2026-05-20 20:26:42+00:00,,nan,0.0,neutral
 2026-05-20 20:21:24+00:00,"Adjusted EPS $1.87
 
@@ -1020,63 +1379,11 @@ No shipments of data center hopper products to China
 Press release: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027
 
 Unrelated: Anthropic expects a 130% revenue surge to $10.9 billion in the June quarter and **its first operating profit** - WSJ.",adjusted eps revenue b est b qoq yoy sees q revenue b est b adjusted gross margin sees q adjusted gross margin sees q adjusted operating expenses b est b data center revenue b est b qoq yoy edge computing revenue b qoq yoy hyperscale revenue of data center revenue hyperscale revenue increased sequentially in q boosts quarterly cash dividend to share vs share prior reports additional b share buyback authorization moving to a new reporting framework with two platforms q revenue outlook topped estimates no shipments of data center hopper products to china press release unrelated anthropic expects a revenue surge to billion in the june quarter and its first operating profit wsj,0.5423,positive
-2026-05-20 20:16:46+00:00,,nan,0.0,neutral
-2026-05-20 20:09:54+00:00,"A few WSB classics and a few new ones for you regards.  Happy to share thoughts on any of these.  Mix of time in each (MU since Dec, LAM since 2022, RKLB since Oct, DFTX since 2024, etc) but have all performed well.",a few wsb classics and a few new ones for you regards happy to share thoughts on any of these mix of time in each mu since dec lam since rklb since oct dftx since etc but have all performed well,0.6808,positive
-2026-05-20 20:03:11+00:00,"https://preview.redd.it/0b77c684mc2h1.jpg?width=1080&format=pjpg&auto=webp&s=bc9086a16bfc61bde27cf714c9e6ae91d6029dcc
-
-Gains hit $21,000, then dropped to $0, then I hit $9,500 today. One big trade and I'll be back to $21,000 or $0.
-
-there is a little voice in my head telling me DONT DO IT, but there is a chance and I know it! ",gains hit then dropped to then i hit today one big trade and i ll be back to or there is a little voice in my head telling me dont do it but there is a chance and i know it,0.4939,positive
 2026-05-20 19:59:33+00:00,,nan,0.0,neutral
 2026-05-20 19:57:11+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1tix0yi),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-05-20 19:17:00+00:00,,nan,0.0,neutral
-2026-05-20 18:47:13+00:00,"You may recall I had posted 5 days ago that I am selling all my INTC and getting out.
-
-Well just as I pressed the post button I got a call from my boss about an urgent situation.
-
-Spent the whole day trying to fix that and ended up forgetting about closing my INTC.
-
-Just got a notification that my INTC position is up 5% today and I realized that I never closed my position.
-
-Wow my boss saved me from making regarded moves!
-
-Taking her to lunch at a nice place on Friday, but not going to tell her what happened.
-
-https://preview.redd.it/ulmj2wdp8c2h1.png?width=1416&format=png&auto=webp&s=722f51dd2953c287e1ce98f19d364cbcb3a9a5a5
-
-",you may recall i had posted days ago that i am selling all my intc and getting out well just as i pressed the post button i got a call from my boss about an urgent situation spent the whole day trying to fix that and ended up forgetting about closing my intc just got a notification that my intc position is up today and i realized that i never closed my position wow my boss saved me from making regarded moves taking her to lunch at a nice place on friday but not going to tell her what happened,0.7311,positive
-2026-05-20 18:22:15+00:00,I said I would quit but ya know….. I’m full cash now good luck today friends :) ,i said i would quit but ya know i m full cash now good luck today friends,0.9186,positive
-2026-05-20 18:09:45+00:00,"Had some cash I was sitting on in case the market went down. You know be smart and hold 30% cash at all times or whatever gay shit.
-
-FIG is just going to keep smashing earnings, and eventually people will realize AI tokens are more expensive than their current software. Return of SaaS. My electrical engineer friend told me all about it, and he’s pretty smart",had some cash i was sitting on in case the market went down you know be smart and hold cash at all times or whatever gay shit fig is just going to keep smashing earnings and eventually people will realize ai tokens are more expensive than their current software return of saas my electrical engineer friend told me all about it and he s pretty smart,0.802,positive
 2026-05-20 17:51:53+00:00,,nan,0.0,neutral
-2026-05-20 17:27:15+00:00,Hold or buy more? ,hold or buy more,0.0,neutral
 2026-05-20 16:27:18+00:00,,nan,0.0,neutral
-2026-05-20 15:51:56+00:00,"**Position:** 1900 shares
-
-Alright regards, gather round. While you apes are gambling on $BOT and buying $MU calls at ATHs, I've been quietly stacking META <$600. So listen up if you want to make some money.
-
-**WHY HEDGE FUNDS WON'T BET ON ZUCK (AND WHY YOU SHOULD)**
-
-Here's the part your financial advisor won't tell you because he's busy losing your IRA in covered calls: **Zuck has ABSOLUTE VOTING CONTROL.** He is the only Big Tech CEO who literally cannot be fired. Not Pichai. Not Cook. Not Nadella. Just Zuck and his dual-class share structure.
-
-Hedge funds HATE this. They can't activist-investor him. They can't threaten the board. They can't cry on CNBC about ""shareholder value."" so they underweight the stock. That's why META traded at a huge discount when Zuck was burning cash on the metaverse, remember the stock at $90 and wished you got in?
-
-I'll be real, the metaverse did fail and that's because Zuck is just an autistic lizard king, he's not a visionary that can build new products. 
-
-**BUT he is the GOAT of corporate plagiarism.** This man saw Snapchat Stories in 2016 and cloned it into Instagram Stories so hard that Evan Spiegel is still crying to this day. Then TikTok showed up and started eating everyone's lunch, so Zuck whipped out Reels, jammed it into all his apps and now your aunt watches AI slop for 4 hours a day. Now apply this to AI. OpenAI and Anthropic are out there doing the HARD part: frontier research, RLHF, alignment, figuring out which architectures actually scale. **The race is not won by whoever has the best AI model first. It's won by whoever DISTRIBUTES it to the most humans.**
-
-**THE AI CAPEX TRADE: HEADS I WIN, TAILS YOU REGARDS LOSE**
-
-Capex now $125-145B for 2026. Market shat itself and dropped META 7% AH because big number bad and anyone CAN tweet ""OvErSpEnDiNg.""
-
-**Scenario 1 Meta builds a SOTA model.** They jam it into the ad stack. Existing AI tools already boosted conversion rates 6%. Imagine what frontier-level intelligence does to ad targeting across 3.56B users. Revenue growth doesn't just continue, it ACCELERATES. Print machine goes brrr. it's a brand new business segment overnight.
-
-**Scenario 2 The model is mid but AI Infra is valuable.** Cool. They have $145B of GPUs and data centers. You know what those are worth on the secondary market? Ask $IREN, $NBIS, $CRWV, the companies you regards are buying that are built on RENTING compute. Meta could pivot to being a neocloud and the assets still print. It's like buying Manhattan real estate and worst case you become a landlord. 
-
-There is NO universe where BILLIONS of frontier compute is worthless. The bear case is ""Meta builds a multi-billion dollar infrastructure business on the side."" 
-
-*Not financial advice.*",position shares alright regards gather round while you apes are gambling on bot and buying mu calls at aths i ve been quietly stacking meta so listen up if you want to make some money why hedge funds won t bet on zuck and why you should here s the part your financial advisor won t tell you because he s busy losing your ira in covered calls zuck has absolute voting control he is the only big tech ceo who literally cannot be fired not pichai not cook not nadella just zuck and his dual class share structure hedge funds hate this they can t activist investor him they can t threaten the board they can t cry on cnbc about shareholder value so they underweight the stock that s why meta traded at a huge discount when zuck was burning cash on the metaverse remember the stock at and wished you got in i ll be real the metaverse did fail and that s because zuck is just an autistic lizard king he s not a visionary that can build new products but he is the goat of corporate plagiarism this man saw snapchat stories in and cloned it into instagram stories so hard that evan spiegel is still crying to this day then tiktok showed up and started eating everyone s lunch so zuck whipped out reels jammed it into all his apps and now your aunt watches ai slop for hours a day now apply this to ai openai and anthropic are out there doing the hard part frontier research rlhf alignment figuring out which architectures actually scale the race is not won by whoever has the best ai model first it s won by whoever distributes it to the most humans the ai capex trade heads i win tails you regards lose capex now b for market shat itself and dropped meta ah because big number bad and anyone can tweet overspending scenario meta builds a sota model they jam it into the ad stack existing ai tools already boosted conversion rates imagine what frontier level intelligence does to ad targeting across b users revenue growth doesn t just continue it accelerates print machine goes brrr it s a brand new business segment overnight scenario the model is mid but ai infra is valuable cool they have b of gpus and data centers you know what those are worth on the secondary market ask iren nbis crwv the companies you regards are buying that are built on renting compute meta could pivot to being a neocloud and the assets still print it s like buying manhattan real estate and worst case you become a landlord there is no universe where billions of frontier compute is worthless the bear case is meta builds a multi billion dollar infrastructure business on the side not financial advice,0.966,positive
 2026-05-20 15:48:02+00:00,"Calls on RKT is my play. Was down massively on higher yields yesterday, and it's already up 6% today.
 
   
@@ -1089,33 +1396,6 @@ Either way here are my positions and I'm full port on this. Used to have leaps b
 https://preview.redd.it/twkob5xs6b2h1.png?width=1080&format=png&auto=webp&s=ea334fe543a3d28ccc2b67d7fa3083cdf36e872d
 
 ",sls has been ripping recently because of their regal trial ending soon they got a drug called gps meant to treat a type of leukemia their trial is at events meaning we re waiting for the last two people to finish the trial this is gonna be a huge binary event they a previous phase cr aml trial which showed median overall survival of months vs months of the control arm so i reckon the regal trial outta follow the same and perform very well either way here are my positions and i m full port on this used to have leaps but as you can see i started buying closer dated positions cuz i m a greedy pig don t ask me about what any of the stats mean or what we re really looking for trial ending soon stock goes very up or very down but probably very up me thinks if this blows up in my face i m gonna and invest in google or something,0.4491,positive
-2026-05-20 14:43:02+00:00,"Called this out about a month ago. 
-
-TE was trending upward and trading at around $8-$9 before Trump’s March Madness War. 
-
-At the same time, ya boy had to sell off and realize $10,000 worth of losses on ACHR at -30% or else I would’ve gotten margin called when ACHR dipped another 15% the following week. That shit sucked. 
-
-Anyway, I’m lucky that TE dumped from $8 to $4 over a single weekend because that was a buying opportunity if I ever saw one. 
-
-1) 2000 shares x $4.28    
-2) 20 x $5 Call 4/24     
-3) 15 x $5 Call 5/15    
-4) 10 x $6 Call 6/18    
-5) 36 x $5 Call 6/18 
-
-Total Cost: $10,785
-
-My graph has been swinging by 10-15% every other day. I wake up to RobinHood telling me that I blew past my margin maintenance requirement and now at risk of being margin called, just for my shit to recover by market close. 
-
-If I were to put a number on it, I’d say I was at risk of being margin called for maybe 40% of the month? 
-
-Feels good to finally get a conviction play right. Sold most of my position, and now I’m just riding 1000 shares and 20 option contracts with free house money. 
-
-Turned my $10,000 loss into a $20,000+ swing. ",called this out about a month ago te was trending upward and trading at around before trump s march madness war at the same time ya boy had to sell off and realize worth of losses on achr at or else i would ve gotten margin called when achr dipped another the following week that shit sucked anyway i m lucky that te dumped from to over a single weekend because that was a buying opportunity if i ever saw one shares x x call x call x call x call total cost my graph has been swinging by every other day i wake up to robinhood telling me that i blew past my margin maintenance requirement and now at risk of being margin called just for my shit to recover by market close if i were to put a number on it i d say i was at risk of being margin called for maybe of the month feels good to finally get a conviction play right sold most of my position and now i m just riding shares and option contracts with free house money turned my loss into a swing,-0.8442,negative
-2026-05-20 14:34:44+00:00,"Today is the classic bullish day that I have been waiting for 0DTE. Attached the proof of 0DTE, but total gains are more than $7500 (multiple 0DTEs trade).
-
-  
-Good Luck, Good day to you all !",today is the classic bullish day that i have been waiting for dte attached the proof of dte but total gains are more than multiple dtes trade good luck good day to you all,0.9413,positive
 2026-05-20 12:19:39+00:00,"Serious question.
 
 Index keeps grinding up, AI narrative everywhere, but when you actually look under the surface, a few mega caps doing all the heavy lifting, everything else either chops or fades.
@@ -1136,35 +1416,6 @@ So what’s the play here, ride the leaders and ignore everything else or start 
 2026-05-20 11:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1tii82d),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-05-20 09:54:35+00:00,All the gains were made by trading 0 dte on SPY and QQQ. Someone give me a play to 10x this in the next 5 years pls,all the gains were made by trading dte on spy and qqq someone give me a play to x this in the next years pls,0.6249,positive
 2026-05-20 09:48:30+00:00,,nan,0.0,neutral
-2026-05-20 07:08:07+00:00,"The last few posts were super long, so imma keep this short. 
-
-Also, i’m semi drunk so ignore the sentence structure and wording (no, i’m not going to fix this with chatgpt because i dont wanna sound like a bot)
-
-========  
-Intuit has 4 main products
-
-QuickBooks (accounting)
-
-TurboTax (tax filing)
-
-Credit Karma (free credit scores)
-
-Mailchimp (email marketing)
-
-=============  
-Honestly, Mailchimp can go to 0, I wouldnt care. Terrible waste of $12B, but whatever. Ignore this.
-
-Credit karma wont really change in this market. It’s main factor of change is interest rates on the macro level (because they make money through referrals on credit cards and loans, etc.)
-
-TurboTax. People are saying that AI makes filing taxes easier and you dont need turbotax. Which is true, but trust is important when it comes to taxes. AI Assisted, is the way to go. Intuit has been ALL IN on getting claude in its chatbots, as well as plugins into claude itself. This is a company that’s always saying “AI AI AI”, so obv there SHOULD be an AI premium.
-
-Quickbooks. Really? You think a company with 100 employees on the payroll using quickbooks, generating invoices, incomes and expenses tracked, auto categorization, now ai assisted chat in built into quickbooks, and plugins to claude for quickbooks, and an existing workflow, and accountants being able to access into these accounts, is all gonna go away because ‘AI’? Like, what?? AI will make things easier, it may make competitors come up with good products, but it will NOT EASILY remove the stickiness of quickbooks (yes, i’m aware quickbooks overcharges every year, but its not worth the risk to be changing to a software that isnt mature yet). 
-
-Quickbooks is the majority of the revenue, and i’m certain that revenue wont be affected much with AI, and in fact, I think they’re going to beat estimates, with all these new partnerships, and simply by saying ‘AI’ more in public.
-
-TLDR: Earnings call CEO Sasan K. GOODarzi gonna make a GOOD speech saying AI so many times that the algorithms going to pump the stock to 450+ easy.
-
-positions: 300 shares and a duckload of options that making me broke",the last few posts were super long so imma keep this short also i m semi drunk so ignore the sentence structure and wording no i m not going to fix this with chatgpt because i dont wanna sound like a bot intuit has main products quickbooks accounting turbotax tax filing credit karma free credit scores mailchimp email marketing honestly mailchimp can go to i wouldnt care terrible waste of b but whatever ignore this credit karma wont really change in this market it s main factor of change is interest rates on the macro level because they make money through referrals on credit cards and loans etc turbotax people are saying that ai makes filing taxes easier and you dont need turbotax which is true but trust is important when it comes to taxes ai assisted is the way to go intuit has been all in on getting claude in its chatbots as well as plugins into claude itself this is a company that s always saying ai ai ai so obv there should be an ai premium quickbooks really you think a company with employees on the payroll using quickbooks generating invoices incomes and expenses tracked auto categorization now ai assisted chat in built into quickbooks and plugins to claude for quickbooks and an existing workflow and accountants being able to access into these accounts is all gonna go away because ai like what ai will make things easier it may make competitors come up with good products but it will not easily remove the stickiness of quickbooks yes i m aware quickbooks overcharges every year but its not worth the risk to be changing to a software that isnt mature yet quickbooks is the majority of the revenue and i m certain that revenue wont be affected much with ai and in fact i think they re going to beat estimates with all these new partnerships and simply by saying ai more in public tldr earnings call ceo sasan k goodarzi gonna make a good speech saying ai so many times that the algorithms going to pump the stock to easy positions shares and a duckload of options that making me broke,0.9915,positive
 2026-05-20 06:35:25+00:00,"Been lurking on this sub for a few years now, but this is my first post. And I promise this wasn't written with a shred of AI, but sometimes I do just sound like a damn bot - forgive me.
 
 **Forewarning:** We're jumping into rabbit holes on this one. This is not trading advice nor a bull/bear case. As many of you were, I was also tracking the pullback on the semi-conductor industry closely and couldn't help notice some bizarre movement on another stock I hold a position in - Microsoft. I didn't find anything particularly weird about the broad pullback on semis, but Microsoft's rally made absolutely no sense to me given the current timing, since it seemingly broke completely from how the market was broadly moving. I couldn't shake the feeling that it was somehow related to the semi pullback, and the more I thought about it the more it actually wrapped up into one neat little conspiracy theory about massive market manipulation going on at an industry-wide level on semiconductors. So it's tin-foil hat time.
@@ -1201,19 +1452,6 @@ Happy trading tomorrow, everyone.",been lurking on this sub for a few years now 
 2026-05-20 04:33:26+00:00,"What is the actual hurdle rate for Jensen to make the stock go up in the  morning?
 
 ​Wall Street is expecting roughly $79 Billion in revenue (only about a casual 79% YoY growth, no big deal). But after the last three quarters, I have severe post-traumatic earnings disorder. Nvidia could literally announce they’ve successfully built a conscious Skynet that runs exclusively on Blackwell chips, and the market will still find a reason to tank it 4% because forward guidance on the Rubin architecture didn't account for a solar flare.",what is the actual hurdle rate for jensen to make the stock go up in the morning wall street is expecting roughly billion in revenue only about a casual yoy growth no big deal but after the last three quarters i have severe post traumatic earnings disorder nvidia could literally announce they ve successfully built a conscious skynet that runs exclusively on blackwell chips and the market will still find a reason to tank it because forward guidance on the rubin architecture didn t account for a solar flare,-0.7964,negative
-2026-05-20 04:29:40+00:00,"Forget semiconductors, AI and all that crap. The next moon is oil and it’s here to stay.  
-Everyone is drawing down on inventories and Asia is already going bananas.  
-Us refinieries hit capacity which means they cannot refine more even if they wanted , it’s coming.
-
-As sure as a pebble comes down after being thrown in the air, reality of the supply shock will hit the market once the cushion is exhaust and it will be exhausted soon.  
-Price is kept down by inventories and those will not last long.  
-Did I mention that there is no off ramp?
-
-Anyway, long oil.  
-YOLO",forget semiconductors ai and all that crap the next moon is oil and it s here to stay everyone is drawing down on inventories and asia is already going bananas us refinieries hit capacity which means they cannot refine more even if they wanted it s coming as sure as a pebble comes down after being thrown in the air reality of the supply shock will hit the market once the cushion is exhaust and it will be exhausted soon price is kept down by inventories and those will not last long did i mention that there is no off ramp anyway long oil yolo,-0.8225,negative
-2026-05-20 03:56:31+00:00,"On their recent earnings call the company stated they intend that the stock price will be over $11.50 by September 9 for their warrants to expire ITM. The company really wants it to be over $18 30 trading days before this and remain above $18 for 20 of those 30 days so a forced redemption can occur. The company wants this to happen because it will provide them funding. 30 trading days before Sept 9th is July 28th. I own a bunch of warrants already. All options between Jun 18 and Aug 21 have dog shit open interest. This call option can't get any more cheap, any move upward will briefly profit. This can just be a low stakes bet that the company will announce anything in the next month to spike the price. If they do, I will sell 400 contracts at 0.25 to almost break even and hold the rest. If they expire worthless that's fine. Probably a low chance of success here folks, DYOR. 
-
-Position 200 contracts at like $0.35, and 800 contracts at $0.05 purchased today. Will purchase more in the next week only if I can get a $0.02 bid to fill.",on their recent earnings call the company stated they intend that the stock price will be over by september for their warrants to expire itm the company really wants it to be over trading days before this and remain above for of those days so a forced redemption can occur the company wants this to happen because it will provide them funding trading days before sept th is july th i own a bunch of warrants already all options between jun and aug have dog shit open interest this call option can t get any more cheap any move upward will briefly profit this can just be a low stakes bet that the company will announce anything in the next month to spike the price if they do i will sell contracts at to almost break even and hold the rest if they expire worthless that s fine probably a low chance of success here folks dyor position contracts at like and contracts at purchased today will purchase more in the next week only if i can get a bid to fill,0.0859,positive
 2026-05-20 03:09:03+00:00,Here we go baby,here we go baby,0.0,neutral
 2026-05-20 00:27:32+00:00,"Oil was $69 in fucking January. Only reason it's at $150 is because of our regard POTUS.
 
@@ -1224,11 +1462,6 @@ The trade is simple, war ~~ends~~ eventually and big head Trump tacos. Worst cas
 Fuck Iran, fuck Israel, fuck OPEC, fuck $5 gas, and fuck you for not calling Trumps bluff.
 
 Thank you for your attention to this matter.",oil was in fucking january only reason it s at is because of our regard potus every oil spike in history has retraced gulf war iraq war even the russia ukraine spike big money s been positioning short into leaps because its kind of fucking obvious the trade is simple war ends eventually and big head trump tacos worst case i lose k and we re all in a recession anyways base case imo i make k because oil has to come down or we re all going to starve fuck iran fuck israel fuck opec fuck gas and fuck you for not calling trumps bluff thank you for your attention to this matter,-0.9906,negative
-2026-05-20 00:09:00+00:00,,nan,0.0,neutral
-2026-05-19 23:35:05+00:00,"I first bought RKLB at $4.35 and have held on to a good chunk of my shares. Wish I had more conviction (and cash) early on. Bought 15 more shares on the way up but it grew into a big position (for me) so never really went big.
-
-Small fish in a big pond but long Rocketlab🚀",i first bought rklb at and have held on to a good chunk of my shares wish i had more conviction and cash early on bought more shares on the way up but it grew into a big position for me so never really went big small fish in a big pond but long rocketlab,0.6124,positive
-2026-05-19 21:06:13+00:00,Made about 10k over the last 2 weeks and decided to yolo 1\\3 of it on calls.,made about k over the last weeks and decided to yolo of it on calls,0.2732,positive
 2026-05-19 21:02:26+00:00,"I don't know who needs to hear this, but the market will LITERALLY never go down again.
 
 Stonks go up is no longer a meme, it is a law, like gravity, only in reverse with money.
@@ -1243,53 +1476,7 @@ This is why you see any ""crash"" instantly recover within half a trading day. T
 
 These are not famous last words. This is the new law of the land.",i don t know who needs to hear this but the market will literally never go down again stonks go up is no longer a meme it is a law like gravity only in reverse with money let me explain why we owe trillion in debt our interest payments are about to exceed our gdp this means that the only way to make our interest payments alone is to print enough money to cover the interest this will cause hyper inflation but who cares if you own pltr or tesla stock those will inflate proportionally you see it s actually mathematically impossible for stocks to go down at this point if they do then the entire world economy will collapse this is why you see any crash instantly recover within half a trading day the stock market can literally not go down these are not famous last words this is the new law of the land,0.5927,positive
 2026-05-19 20:52:55+00:00,,nan,0.0,neutral
-2026-05-19 19:57:09+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1thye89),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-05-19 19:55:58+00:00,"the tickers have a cool sound to it so why not  
-  
-see you at wendy's
-
-**Core positions**
-
-$DOCN -> 900k  
-$NOW -> 200k  
-$PANW -> 84k  
-$DDOG -> 82k   
-$MDB -> 72k
-
-Screenshots:
-
-[DOCN](https://preview.redd.it/y2un7r3se52h1.png?width=2802&format=png&auto=webp&s=091cc097c0f5c70390caee4435831abff82186b5)
-
-[NOW](https://preview.redd.it/9omvj80ze52h1.png?width=2826&format=png&auto=webp&s=fedc7e84f580e69e3ee7875695146ae1f40c04dc)
-
-
-
-[MDB](https://preview.redd.it/xnm85miqf52h1.png?width=2810&format=png&auto=webp&s=a790b15c1de5190b0f95132a4dc946e17be15112)
-
-[PANW](https://preview.redd.it/j6hev3ytf52h1.png?width=2816&format=png&auto=webp&s=8488fa3847b57d573e6a6c838bc63346db3f7038)
-
-  
-
-
-[DDOG](https://preview.redd.it/wf31byn7f52h1.png?width=2832&format=png&auto=webp&s=c8da16ad13908b7475d0fa2c5f1699bfafbe5f67)
-
-  
-",the tickers have a cool sound to it so why not see you at wendy s core positions docn k now k panw k ddog k mdb k screenshots docn now mdb panw ddog,0.3182,positive
-2026-05-19 19:46:36+00:00,"**She smeared bird poop all over the table until it formed a haiku:**
-
-**WAR**nings sweep the port  
-**A**cross black tides, the bell tolls twice  
-**R**ough waves rake the docks 
-
-Decided to take her advice, no idea what I'm doing though.",she smeared bird poop all over the table until it formed a haiku war nings sweep the port a cross black tides the bell tolls twice r ough waves rake the docks decided to take her advice no idea what i m doing though,-0.7269,negative
 2026-05-19 18:54:30+00:00,,nan,0.0,neutral
-2026-05-19 18:51:36+00:00,"$IGV (SAAS) went from +1.66% to -0.76%.
-
-$SOXL (Semiconductor) went from -10% to +3%
-
-All this happened in a SINGLE DAY. People were screaming to buy SAAS bcz of “rotation”. This should show u that u should not go against trend and just follow the money.",igv saas went from to soxl semiconductor went from to all this happened in a single day people were screaming to buy saas bcz of rotation this should show u that u should not go against trend and just follow the money,-0.3818,negative
-2026-05-19 18:01:02+00:00,"Tried to post yesterday but the pictures wouldn’t upload properly. YoY revenue is increasing, negative EPS at the moment but seems the right mix of risk I’m willing to take for a small cap company, at just about 1B valuation as of today. Also bonus Frieren pic for vibes 🏄 ",tried to post yesterday but the pictures wouldn t upload properly yoy revenue is increasing negative eps at the moment but seems the right mix of risk i m willing to take for a small cap company at just about b valuation as of today also bonus frieren pic for vibes,-0.4497,negative
-2026-05-19 17:23:38+00:00,Not selling until 6 figure gains 🤑,not selling until figure gains,0.34,positive
 2026-05-19 16:21:02+00:00,Looking back I would have done things very different 😭 If Sofi is above $27 at the end of the year I’ll at least be back to my break even 🙏,looking back i would have done things very different if sofi is above at the end of the year i ll at least be back to my break even,0.0,neutral
 2026-05-19 16:04:00+00:00,"It says I can sell it at 19000 dollars when I move the slider but when I go to the trade button it says a different price for it.
 
@@ -1344,6 +1531,7 @@ Nvda touched ATH last week with the china trip, TSLA ripped to 450, one good new
 This is impossible to trade, I am open to suggestions on what to do but pretty sure I’m done with options for the near foreseeable future. 
 
 DD - now that I am out, watch NVDA and TSLA rip all week and go to all time highs 🫡 you’re welcome. ",not written with ai i m lost and at a loss closed out all my options positions deleted the app the initial losses kept chasing me to break even by doubling down but resulted in this absolute nightmare thought process in each month was as follows january surely the market is so overbought it has to come down more right kept waiting made k in quick puts for hood february oh robinhood came down from to it has to bounce from here no doubt about it went in heavy with calls it kept coming down i kept buying more weeklies it will go back to anytime now march april clawed back in selling premium slowly recovered k from the bottom slow and steady bought calls on oracle after the downtrend nvda coreweave timed the bottom perfectly on grabbing some calls got more confident may fomo pushed me to play both side of calls and puts on intc tsla nvda and the list you see everytime the market would prove me wrong i went ahead and adjusted my strikes just to watch it go completely the opposite and kept losing one after the other which brings us to today the thought process being nvda touched ath last week with the china trip tsla ripped to one good news and we would reverse the friday selloff especially given the nvda earnings coming up this wednesday went all in just these positions trying to recover the losses from intc and crwv then as fate would have it sold my calls at the absolute bottom today of in tsla and in nvda just to watch them bounce from it minutes later this is impossible to trade i am open to suggestions on what to do but pretty sure i m done with options for the near foreseeable future dd now that i am out watch nvda and tsla rip all week and go to all time highs you re welcome,0.9009,positive
+2026-05-18 19:37:43+00:00,,nan,0.0,neutral
 2026-05-18 19:17:45+00:00,I had an order for 7380 calls on SPX if ES took out overnight lows. I was 100% gambling on the low possibility of a close around 7400 on SPX. I got super lucky with an instant 50 point candle right after that hit my limit order of 20.,i had an order for calls on spx if es took out overnight lows i was gambling on the low possibility of a close around on spx i got super lucky with an instant point candle right after that hit my limit order of,0.5859,positive
 2026-05-18 17:25:54+00:00,"New rules from Nasdaq remove the 10% minimum requirement. 
 
@@ -1405,6 +1593,123 @@ Mastercard: $1.3 million",walmart million coca cola million mcdonald s million h
 2026-05-17 21:45:54+00:00,,nan,0.0,neutral
 2026-05-17 20:00:47+00:00,,nan,0.0,neutral
 2026-05-17 19:57:09+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1tg001j),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-05-17 18:38:57+00:00,"It has been a while since I have posted a Due Dilligence post here so buckle in because this is going to be a long one. **No AI in this one either, this is all from the dome.**
+
+Here is my [Original DD Post](https://www.reddit.com/r/Nok/comments/m0h2xn/a_comprehensive_guide_to_why_nokia_nok_is_one_of/) from 5 years ago and boy do I feel lucky that I have been able to build my position over time. A lot has changed since then, but some of it is still relevant.
+
+So why has the share price increased and where is it going the rest of the year?
+
+X users have been tracking recent $NOK options activity.
+
+* [Dec 2026 $24 calls worth $4.15M](https://x.com/investmentguru_/status/2055274097521627500?s=46)
+* [Jan 2027 $27 calls worth $1.5M](https://x.com/bullflowio/status/2054625402925056081?s=46)
+* [Sep 2026 $19 calls worth $3.4M](https://x.com/fl0wg0d/status/2050232355839733985?s=46)
+* [June 2026 $17 calls worth $700K](https://x.com/remzztrades/status/2050962596895830096?s=46)
+
+Calls have always been a dangerous game with $NOK, but these definitely caught my attention. There have been numerous examples of ""unusual"" options activity in the last 5 years, but I cannot remember a time when it was this big and this bullish.
+
+These buyers could all be wrong. But big money players tends to know what they are doing.
+
+So why are these calls being purchased? **To frame this post, I wanted to address 5 rumors that have been circling Nokia recently and share my opinions.**
+
+# Nvidia is Going to Buy More
+
+If you are on this sub, you likely know that Nvidia bought $1B worth of Nokia shares in October of 2025. This is nearly a 3% stake in the company.
+
+However, there are 2 things about this that have always struck me as odd.
+
+First is that all of Nvidia's recent investments/partnerships (Marvell, Coherent, CoreWeave, Synopsys, Lumentum, and Nebius) have been $2B stakes. Why is Nokia's only $1b?
+
+* There could be geopolitical reseasons (more on this later). Perhaps Nokia or the Finnish Government/Solidium wanted to limit outside control/ownership.
+
+If you watch this [Interview of Jensen Huang and Justin Hotard](https://www.youtube.com/watch?v=egdwwfTyfyU), you will notice it starts mid-interview now as do all of the other clips I can now find it.
+
+Originally in this interview, Jensen started by saying that ""no body knows communications better than Nokia"" and that **""he wishes the investment could have been $2B.""**
+
+* If anyone can find the video let me know, but I think it has been scrubbed from the internet. Only proof I have is this [Comment](https://www.reddit.com/r/Nok/comments/1okwytz/comment/nmdycwx/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) of mine referencing it 7 months ago.
+
+So maybe Nokia negotiated a staggered buy in. This would not be out of character for the organization. They have treated buybacks similarly in the last few years.
+
+* Instead of buying back shares all at once as many organizations do, they have bough back small tranches of shares over time.
+
+**Conclusion:** These calls could be coming from Nvidia insiders.
+
+# The US Federal Goverment is Going to Buy a Stake
+
+This may sound ridiculous at first, but this has been a rumor since early 2020.
+
+[Attorney General William Barr Publically Stated This](https://www.pbs.org/newshour/economy/barrs-call-for-u-s-control-of-5g-providers-quickly-rebuked) years ago and it was a big part of why I originally entered a position in Nokia. This is why the Rip and Replace program exisits.
+
+* The current administration has been hot on foreign tech in US telecommunications since their first term in power and nothing has changed.
+
+If you watch the Interview of Jensen Huang above, he is asked about the current administration and he reiterates that current US telecom is built on ""foreign tech.""
+
+* That phrase is somewhat funny to me because even though the CEO is now an American, Nokia of course is a foreign company based out of Finalnd.
+
+This is also the reason why most think the US gov will never buy a stake in Nokia. They will not buy a stake in a non-US company.
+
+* I do tend to agree. It could be a way to better align with the EU whichFinland is now a part of, but this administration does not seem too keen on the EU.
+
+It has also been rumored that Nokia may move their HQ to the US. Not sure that is likely, but [Nokia Pledging $4B in US Investment](https://www.nokia.com/newsroom/nokia-plans-to-expand-us-investment-by-4-billion-in-rd-and-manufacturing-for-ai-ready-network-connectivity/) and [Nokia Bell Labs Opening New HQ in New Jersey in 2028](https://spectrum.ieee.org/nokia-bell-labs-new-headquarters) could both be signs that this may eventually happen.
+
+* Nokia owns what used to be Lucent Technologies which was a a massive spin-off of AT&T’s systems and Bell Labs in order to to sell hardware to telecom carriers.
+
+This could also explain why Nvidia did not buy all $2B at once. **They are waiting for the US gov to buy their shares before investing the other $1B.**
+
+* [Nvidia Purchased their $5B stake in Intel](https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products) a month after [Trump bought $9B.](https://www.intc.com/news-events/press-releases/detail/1748/intel-and-trump-administration-reach-historic-agreement-to)
+
+The thesis behind this rumor is that Nvidia + Nokia create a true competitor to Huawei in the aggregate. This timing of these calls with Trump's trip to China intrigue me.
+
+Trump has a strong relationship with Finnish Prime Minister Alexander Stubb. [This Article calls Stubb Trump's closest European confidant](https://www.politico.eu/article/donald-trump-alexander-stubb-nato-alliance-future/).
+
+* [Nokia was also a hot topic during Stubb's 2025 October visit to the White House](https://www.linkedin.com/posts/nokia_trump-and-finnish-president-alexander-stubb-activity-7382382999851466752-39kK?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy). That visit led to a deal in which the US agreed to buy 11 icebreaker ships from Finland.
+
+**Conclusion:** These calls could be coming from US Government insiders.
+
+# Nokia is Closing a Massive Deal with Google
+
+If you missed [u/Mustathmir](https://www.reddit.com/user/Mustathmir/) post in r/NOK from a couple days ago, he referenced [Here](https://www.reddit.com/r/Nok/comments/1tdvoj8/deutsche_bank_raises_nokias_target_price_69/) that Deutsche Bank raised their Price Target on Nokia and referenced the **""strong likelihood that this development has been driven by a significant deal with Google.""**
+
+* In their recent earnings call, Google did say that thei [Capital Expenditures will hit $190B in 2026 and Expects even more in 2027](https://finance.yahoo.com/video/alphabet-2026-capex-hits-190b-expects-even-more-spend-in-2027-223804412.html).
+
+That money has to go somewhere, perhaps it is going to Nokia. Nokia has a solid history with the hyperscaler. They [First Partnered with Google Cloud in 2020](https://www.googlecloudpresscorner.com/2020-10-14-Nokia-and-Google-Cloud-Sign-Strategic-Collaboration-toTransform-Nokias-Digital-Infrastructure).
+
+* They have expanded that partnership many times over the years including partnering on [AI-Powered Network Automation in 2025](https://www.sdxcentral.com/news/nokia-google-cloud-partnership-targets-ai-powered-network-automation/) and [APIs earlier this year](https://www.nokia.com/newsroom/nokia-expands-network-as-code-ecosystem-advances-api-based-agentic-ai-with-google-cloud-mwc26/).
+
+**Conclusion:** These calls could be coming from Google insiders.
+
+# Nokia is Closing a Massive Deal with Microsoft
+
+This is a post about rumors, so this one is pretty light on details.
+
+This post on X stating that [Microsoft is investing $100B in Infrastructure and Hosting Services](https://x.com/firstsquawk/status/2054604569590865973?s=46) has gained some traction.
+
+* I have seen a few users post they believe Nokia could be a benefactor of this. Again, not a ton to back this one up. **Obviously Nokia is a big Infrastructure player.**
+
+Nokia and Microsoft obviously have a long history with Microsoft buying Nokia's phone division back in 2014.
+
+* A lot has changed since then, but Nokia is still working with the hyperscaler. [In 2021, they partnered on Cloud Solutions for Enterprises](https://www.nokia.com/newsroom/nokia-partners-with-microsoft-on-cloud-solutions-for-enterprise/).
+
+**Conclusion:** These calls could be coming from Microsoft insiders.
+
+# Leopold Aschenbrenner is Buying a Stake
+
+And finally the rumor I care least about and think matters the least short & long term.
+
+Aschenbrenner is a German AI researcher and investor. He was part of OpenAI's ""Superalignment"" team before he was fired in April 2024 over an alleged information leak.
+
+He then founded Situational Awareness LP, a hedge fund investing in companies involved in the development of AI technology and turned $225M into $5.5B.
+
+* His 13F was supposed to come out last week, but never did. Some think he either got permission to file late or confidentiality, but not sure either way.
+* His holdings over the last year have performed well (Intel, Sandisk, Bloom Energy, Lumentum, CoreWeave, Coherent, Applied Digital).
+
+**Conclusion:** These calls could be coming from Leopold Aschenbrenner.
+
+All in all, exciting times currently and ahead with Nokia. Whether multiple or none of these rumors come to fruition, I am excited to see where the company goes in the coming years.
+
+It has been quite the roller-coaster these last 5 years and I am sure there will be more highs and lows in the next 5. I look forward to experiencing them.
+
+My general thesis from 5 years ago still remains accurate in my eyes - **Nokia is undervalued and ""one of the most captivating investment opportunities in the market today.""**",it has been a while since i have posted a due dilligence post here so buckle in because this is going to be a long one no ai in this one either this is all from the dome here is my original dd post from years ago and boy do i feel lucky that i have been able to build my position over time a lot has changed since then but some of it is still relevant so why has the share price increased and where is it going the rest of the year x users have been tracking recent nok options activity dec calls worth m jan calls worth m sep calls worth m june calls worth k calls have always been a dangerous game with nok but these definitely caught my attention there have been numerous examples of unusual options activity in the last years but i cannot remember a time when it was this big and this bullish these buyers could all be wrong but big money players tends to know what they are doing so why are these calls being purchased to frame this post i wanted to address rumors that have been circling nokia recently and share my opinions nvidia is going to buy more if you are on this sub you likely know that nvidia bought b worth of nokia shares in october of this is nearly a stake in the company however there are things about this that have always struck me as odd first is that all of nvidia s recent investments partnerships marvell coherent coreweave synopsys lumentum and nebius have been b stakes why is nokia s only b there could be geopolitical reseasons more on this later perhaps nokia or the finnish government solidium wanted to limit outside control ownership if you watch this interview of jensen huang and justin hotard you will notice it starts mid interview now as do all of the other clips i can now find it originally in this interview jensen started by saying that no body knows communications better than nokia and that he wishes the investment could have been b if anyone can find the video let me know but i think it has been scrubbed from the internet only proof i have is this comment of mine referencing it months ago so maybe nokia negotiated a staggered buy in this would not be out of character for the organization they have treated buybacks similarly in the last few years instead of buying back shares all at once as many organizations do they have bough back small tranches of shares over time conclusion these calls could be coming from nvidia insiders the us federal goverment is going to buy a stake this may sound ridiculous at first but this has been a rumor since early attorney general william barr publically stated this years ago and it was a big part of why i originally entered a position in nokia this is why the rip and replace program exisits the current administration has been hot on foreign tech in us telecommunications since their first term in power and nothing has changed if you watch the interview of jensen huang above he is asked about the current administration and he reiterates that current us telecom is built on foreign tech that phrase is somewhat funny to me because even though the ceo is now an american nokia of course is a foreign company based out of finalnd this is also the reason why most think the us gov will never buy a stake in nokia they will not buy a stake in a non us company i do tend to agree it could be a way to better align with the eu whichfinland is now a part of but this administration does not seem too keen on the eu it has also been rumored that nokia may move their hq to the us not sure that is likely but nokia pledging b in us investment and nokia bell labs opening new hq in new jersey in could both be signs that this may eventually happen nokia owns what used to be lucent technologies which was a a massive spin off of at t s systems and bell labs in order to to sell hardware to telecom carriers this could also explain why nvidia did not buy all b at once they are waiting for the us gov to buy their shares before investing the other b nvidia purchased their b stake in intel a month after trump bought b the thesis behind this rumor is that nvidia nokia create a true competitor to huawei in the aggregate this timing of these calls with trump s trip to china intrigue me trump has a strong relationship with finnish prime minister alexander stubb this article calls stubb trump s closest european confidant nokia was also a hot topic during stubb s october visit to the white house that visit led to a deal in which the us agreed to buy icebreaker ships from finland conclusion these calls could be coming from us government insiders nokia is closing a massive deal with google if you missed u mustathmir post in r nok from a couple days ago he referenced here that deutsche bank raised their price target on nokia and referenced the strong likelihood that this development has been driven by a significant deal with google in their recent earnings call google did say that thei capital expenditures will hit b in and expects even more in that money has to go somewhere perhaps it is going to nokia nokia has a solid history with the hyperscaler they first partnered with google cloud in they have expanded that partnership many times over the years including partnering on ai powered network automation in and apis earlier this year conclusion these calls could be coming from google insiders nokia is closing a massive deal with microsoft this is a post about rumors so this one is pretty light on details this post on x stating that microsoft is investing b in infrastructure and hosting services has gained some traction i have seen a few users post they believe nokia could be a benefactor of this again not a ton to back this one up obviously nokia is a big infrastructure player nokia and microsoft obviously have a long history with microsoft buying nokia s phone division back in a lot has changed since then but nokia is still working with the hyperscaler in they partnered on cloud solutions for enterprises conclusion these calls could be coming from microsoft insiders leopold aschenbrenner is buying a stake and finally the rumor i care least about and think matters the least short long term aschenbrenner is a german ai researcher and investor he was part of openai s superalignment team before he was fired in april over an alleged information leak he then founded situational awareness lp a hedge fund investing in companies involved in the development of ai technology and turned m into b his f was supposed to come out last week but never did some think he either got permission to file late or confidentiality but not sure either way his holdings over the last year have performed well intel sandisk bloom energy lumentum coreweave coherent applied digital conclusion these calls could be coming from leopold aschenbrenner all in all exciting times currently and ahead with nokia whether multiple or none of these rumors come to fruition i am excited to see where the company goes in the coming years it has been quite the roller coaster these last years and i am sure there will be more highs and lows in the next i look forward to experiencing them my general thesis from years ago still remains accurate in my eyes nokia is undervalued and one of the most captivating investment opportunities in the market today,0.9957,positive
 2026-05-17 17:24:28+00:00,"The schizo who got shatted on was totally in the wrong as when the fecal matter exits the bird, the area below is classified as a ""Natural Toilet"".
 
 There's a toilet in your bathroom. Do you hang out in the bowl?
@@ -1562,46 +1867,3 @@ Ban bet record: 23 wins, 5 losses.",i recommended slv may c because it had k vol
 
 I felt like a loser; I wasn’t even shorting the market.",i felt like a loser i wasn t even shorting the market,-0.2263,negative
 2026-05-15 23:46:13+00:00,SpaceX said to plan public IPO filing as soon as Wednesday  $SPCX,spacex said to plan public ipo filing as soon as wednesday spcx,0.0,neutral
-2026-05-15 23:10:06+00:00,"Interesting mix of stocks. No ASTS, NBIS, RKLB? What do you all think? ",interesting mix of stocks no asts nbis rklb what do you all think,0.128,positive
-2026-05-15 21:01:44+00:00,Farewell to the Chair!,farewell to the chair,0.0,neutral
-2026-05-15 20:33:16+00:00,,nan,0.0,neutral
-2026-05-15 20:22:07+00:00,,nan,0.0,neutral
-2026-05-15 20:08:25+00:00,,nan,0.0,neutral
-2026-05-15 19:19:19+00:00,,nan,0.0,neutral
-2026-05-15 17:50:48+00:00,"https://preview.redd.it/zo0x6qu69c1h1.jpg?width=938&format=pjpg&auto=webp&s=093e34ae7aa0c162cd235fbbadb53eedd26dbe24
-
-started watching this stock on april 24th and bought 10 shares for a degenerate post on WSB - thanks to that guy, i should have YOLO'd a FULL PORT at the time but didnt have the balls like him. when i saw earnings report was yesterday i said fuck it and went all in for a quick gain. Happy Friday y'all. and the rich get richer.
-
-for those of you about to say must be nice to have mom and dads money, see my previous [RYCEY YOLO GAINS](https://www.reddit.com/r/wallstreetbets/comments/1s2gfry/2019_to_2026_investing_196785827_in_realized/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) from 2 months ago. ive been sitting on cash since then and got fomo from all the gains porn ive been seeing so went in for a quick flip.
-
-those who will ask why i didnt do options - i have a gambling addiction so i cancelled my ability to do options or have margin in my brokerage account to prevent me from being a true regard.",started watching this stock on april th and bought shares for a degenerate post on wsb thanks to that guy i should have yolo d a full port at the time but didnt have the balls like him when i saw earnings report was yesterday i said fuck it and went all in for a quick gain happy friday y all and the rich get richer for those of you about to say must be nice to have mom and dads money see my previous rycey yolo gains from months ago ive been sitting on cash since then and got fomo from all the gains porn ive been seeing so went in for a quick flip those who will ask why i didnt do options i have a gambling addiction so i cancelled my ability to do options or have margin in my brokerage account to prevent me from being a true regard,0.9899,positive
-2026-05-15 16:40:21+00:00,"https://preview.redd.it/g13a6vhdxb1h1.png?width=1434&format=png&auto=webp&s=30501d6d8ab21bb32b821aeeac59a623a535228e
-
-Fuck this shit, its only going down from here.
-
-Selling all my stocks and deleting the app.
-
-See you next year boys.",fuck this shit its only going down from here selling all my stocks and deleting the app see you next year boys,-0.7964,negative
-2026-05-15 16:19:44+00:00,,nan,0.0,neutral
-2026-05-15 14:12:35+00:00,,nan,0.0,neutral
-2026-05-15 13:44:31+00:00,,nan,0.0,neutral
-2026-05-15 12:40:42+00:00,,nan,0.0,neutral
-2026-05-15 12:27:21+00:00,Everytime i see you guys i think i can do the same. My heart sank trying out my 1st full port 0dte spy call. This was on may 1 and the markets were going up… how do i still lose money :(( i ended up losing a lot more that day but this trade was my all time worst,everytime i see you guys i think i can do the same my heart sank trying out my st full port dte spy call this was on may and the markets were going up how do i still lose money i ended up losing a lot more that day but this trade was my all time worst,-0.8519,negative
-2026-05-15 09:14:49+00:00,Chinese Amazon just got a PUMP!,chinese amazon just got a pump,0.1779,positive
-2026-05-15 07:10:37+00:00,,nan,0.0,neutral
-2026-05-15 05:52:22+00:00,"Pray, had a dream of a plane crash landing safely in water, when POET was like $10 a few days back I saw a comment by a user called swimming plane that said POET to $20, took it as a sign, worked out well 
-
-Comments and ban bet to prove it
-
-Going to see if I can turn the initial $500 or so into $100,000 with this methodology 🙏",pray had a dream of a plane crash landing safely in water when poet was like a few days back i saw a comment by a user called swimming plane that said poet to took it as a sign worked out well comments and ban bet to prove it going to see if i can turn the initial or so into with this methodology,0.5859,positive
-2026-05-14 23:59:51+00:00,"Figma reported today and beat eps by 66% (0.10 vs 0.06) beat revenue by 6% (333.5mil vs 315) 46% yoy growth. Increased revenue guidance 4% (projecting 35% yoy growth) and increased operating income guidance by 25%. They’re currently up 13% after hours after getting crushed -46% ytd with all the scare around claude design and google stitch. Are we seeing the first signs that the scare was overblown and it’s no so easy to just copy cat someone else’s product? 
-
-Crowsdstrike is already back to ath after being down 37% a couple months ago. 
-
-Salesforce reports later this month down 34% ytd, expectations are low, the opportunity seems primed for a good beat to change the narrative around software.
-
-Semis are crowded, is software back on the menu?
-
-Poor person positions: 
-
-14 shares crwd, 21 shares crm, 1 crm $165C 1/21/28",figma reported today and beat eps by vs beat revenue by mil vs yoy growth increased revenue guidance projecting yoy growth and increased operating income guidance by they re currently up after hours after getting crushed ytd with all the scare around claude design and google stitch are we seeing the first signs that the scare was overblown and it s no so easy to just copy cat someone else s product crowsdstrike is already back to ath after being down a couple months ago salesforce reports later this month down ytd expectations are low the opportunity seems primed for a good beat to change the narrative around software semis are crowded is software back on the menu poor person positions shares crwd shares crm crm c,0.685,positive

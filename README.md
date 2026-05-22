@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-21T23:19:58.371787+00:00`
+- Generated at (UTC): `2026-05-22T23:22:40.416245+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 17 | 10 | 0.286 | 219.51 | 8.40% | 2.882 |
-| 2 | RKLB | 12 | 5 | 0.698 | 125.45 | 39.33% | 4.505 |
-| 3 | INTC | 9 | 5 | 0.568 | 118.50 | 81.55% | 7.639 |
-| 4 | AMD | 8 | 5 | 0.240 | 449.59 | 48.15% | 14.758 |
-| 5 | YOU | 14 | 3 | -0.266 | 61.10 | 7.21% | 2.151 |
-| 6 | SPY | 5 | 5 | -0.057 | 742.72 | 4.43% | 4.515 |
-| 7 | USO | 6 | 4 | -0.540 | 142.54 | 10.15% | 3.840 |
-| 8 | NOW | 8 | 3 | 0.645 | 99.69 | -3.28% | 3.996 |
-| 9 | SKM | 15 | 1 | 0.999 | 39.08 | 0.67% | 0.736 |
-| 10 | SKT | 15 | 1 | 0.999 | 35.80 | -2.16% | 0.131 |
+| 1 | NVDA | 17 | 10 | 0.357 | 215.33 | 7.86% | 2.638 |
+| 2 | RKLB | 18 | 8 | 0.671 | 135.76 | 60.47% | 4.195 |
+| 3 | AMD | 12 | 8 | 0.171 | 467.51 | 53.12% | 14.186 |
+| 4 | SPY | 6 | 6 | 0.166 | 745.64 | 5.25% | 9.956 |
+| 5 | NOK | 21 | 2 | 0.978 | 15.47 | 49.76% | 0.415 |
+| 6 | FUTU | 24 | 1 | 0.993 | 89.76 | -41.78% | 4.108 |
+| 7 | USO | 6 | 4 | -0.540 | 140.92 | 4.60% | 3.819 |
+| 8 | AMZN | 5 | 4 | 0.063 | 266.32 | 4.41% | 1.917 |
+| 9 | ASTS | 5 | 4 | 0.484 | 105.86 | 34.43% | 5.933 |
+| 10 | YOU | 12 | 2 | -0.083 | 60.06 | 11.74% | 0.994 |
 
 ### Aggregate Charts
 
@@ -190,35 +190,35 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
-#### INTC
-
-![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
-
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
-#### YOU
-
-![YOU Dashboard](outputs/latest_wsb_analysis/charts/you_dashboard.png)
 
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
+#### NOK
+
+![NOK Dashboard](outputs/latest_wsb_analysis/charts/nok_dashboard.png)
+
+#### FUTU
+
+![FUTU Dashboard](outputs/latest_wsb_analysis/charts/futu_dashboard.png)
+
 #### USO
 
 ![USO Dashboard](outputs/latest_wsb_analysis/charts/uso_dashboard.png)
 
-#### NOW
+#### AMZN
 
-![NOW Dashboard](outputs/latest_wsb_analysis/charts/now_dashboard.png)
+![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
 
-#### SKM
+#### ASTS
 
-![SKM Dashboard](outputs/latest_wsb_analysis/charts/skm_dashboard.png)
+![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
 
-#### SKT
+#### YOU
 
-![SKT Dashboard](outputs/latest_wsb_analysis/charts/skt_dashboard.png)
+![YOU Dashboard](outputs/latest_wsb_analysis/charts/you_dashboard.png)
 <!-- AUTO_TOP10_END -->
