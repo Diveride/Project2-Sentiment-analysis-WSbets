@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-22T23:22:40.416245+00:00`
+- Generated at (UTC): `2026-05-23T23:13:56.701046+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 17 | 10 | 0.357 | 215.33 | 7.86% | 2.638 |
-| 2 | RKLB | 18 | 8 | 0.671 | 135.76 | 60.47% | 4.195 |
-| 3 | AMD | 12 | 8 | 0.171 | 467.51 | 53.12% | 14.186 |
-| 4 | SPY | 6 | 6 | 0.166 | 745.64 | 5.25% | 9.956 |
-| 5 | NOK | 21 | 2 | 0.978 | 15.47 | 49.76% | 0.415 |
-| 6 | FUTU | 24 | 1 | 0.993 | 89.76 | -41.78% | 4.108 |
-| 7 | USO | 6 | 4 | -0.540 | 140.92 | 4.60% | 3.819 |
-| 8 | AMZN | 5 | 4 | 0.063 | 266.32 | 4.41% | 1.917 |
-| 9 | ASTS | 5 | 4 | 0.484 | 105.86 | 34.43% | 5.933 |
-| 10 | YOU | 12 | 2 | -0.083 | 60.06 | 11.74% | 0.994 |
+| 1 | NVDA | 19 | 10 | 0.372 | 215.33 | 7.86% | 2.638 |
+| 2 | RKLB | 20 | 9 | 0.639 | 135.76 | 60.47% | 4.195 |
+| 3 | AMD | 11 | 9 | -0.076 | 467.51 | 53.12% | 14.186 |
+| 4 | ASTS | 7 | 6 | 0.526 | 105.86 | 34.43% | 5.933 |
+| 5 | SPY | 6 | 6 | 0.166 | 745.64 | 5.25% | 9.953 |
+| 6 | FUTU | 24 | 1 | 0.993 | 89.76 | -41.78% | 4.109 |
+| 7 | HAS | 6 | 3 | -0.384 | 88.10 | -8.78% | 2.271 |
+| 8 | NOK | 9 | 2 | 0.472 | 15.47 | 49.76% | 0.415 |
+| 9 | USO | 5 | 3 | -0.866 | 140.92 | 4.60% | 3.819 |
+| 10 | IMAX | 12 | 1 | 0.982 | 39.12 | 6.86% | 0.637 |
 
 ### Aggregate Charts
 
@@ -194,31 +194,31 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
+#### ASTS
+
+![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
+
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
-#### NOK
-
-![NOK Dashboard](outputs/latest_wsb_analysis/charts/nok_dashboard.png)
 
 #### FUTU
 
 ![FUTU Dashboard](outputs/latest_wsb_analysis/charts/futu_dashboard.png)
 
+#### HAS
+
+![HAS Dashboard](outputs/latest_wsb_analysis/charts/has_dashboard.png)
+
+#### NOK
+
+![NOK Dashboard](outputs/latest_wsb_analysis/charts/nok_dashboard.png)
+
 #### USO
 
 ![USO Dashboard](outputs/latest_wsb_analysis/charts/uso_dashboard.png)
 
-#### AMZN
+#### IMAX
 
-![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
-
-#### ASTS
-
-![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
-
-#### YOU
-
-![YOU Dashboard](outputs/latest_wsb_analysis/charts/you_dashboard.png)
+![IMAX Dashboard](outputs/latest_wsb_analysis/charts/imax_dashboard.png)
 <!-- AUTO_TOP10_END -->
