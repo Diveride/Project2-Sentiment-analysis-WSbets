@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-24T23:17:46.717698+00:00`
+- Generated at (UTC): `2026-05-25T23:34:49.038267+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 27 | 12 | 0.410 | 215.33 | 7.86% | 2.638 |
-| 2 | AMD | 13 | 10 | 0.115 | 467.51 | 53.12% | 14.186 |
+| 1 | ASTS | 72 | 5 | 0.045 | 105.86 | 34.43% | 5.933 |
+| 2 | NVDA | 25 | 12 | 0.398 | 215.33 | 7.86% | 2.638 |
 | 3 | RKLB | 14 | 8 | 0.595 | 135.76 | 60.47% | 4.195 |
-| 4 | SPY | 7 | 7 | 0.057 | 745.64 | 5.25% | 9.953 |
-| 5 | FUTU | 24 | 1 | 0.993 | 89.76 | -41.78% | 4.109 |
-| 6 | ASTS | 5 | 5 | 0.433 | 105.86 | 34.43% | 5.933 |
-| 7 | MSFT | 8 | 3 | 0.984 | 418.57 | 0.68% | 9.380 |
-| 8 | AMZN | 4 | 4 | 0.490 | 266.32 | 4.41% | 1.917 |
-| 9 | NBIS | 7 | 3 | 0.797 | 214.77 | 36.73% | 7.327 |
-| 10 | TSLA | 6 | 3 | 0.636 | 426.01 | 13.99% | 5.659 |
+| 4 | AMD | 11 | 8 | 0.078 | 467.51 | 53.12% | 14.186 |
+| 5 | SPY | 7 | 7 | 0.057 | 745.64 | 5.25% | 9.953 |
+| 6 | FUTU | 24 | 1 | 0.993 | 89.76 | -41.78% | 4.109 |
+| 7 | MSFT | 10 | 4 | 0.980 | 418.57 | 0.68% | 9.380 |
+| 8 | SPCX | 11 | 3 | -0.304 | 22.40 | 1.20% | 0.214 |
+| 9 | AMZN | 4 | 4 | 0.490 | 266.32 | 4.41% | 1.917 |
+| 10 | NBIS | 7 | 3 | 0.797 | 214.77 | 36.73% | 7.327 |
 
 ### Aggregate Charts
 
@@ -182,17 +182,21 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
+#### ASTS
+
+![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
+
 #### NVDA
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
 #### RKLB
 
 ![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
+
+#### AMD
+
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
 #### SPY
 
@@ -202,13 +206,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![FUTU Dashboard](outputs/latest_wsb_analysis/charts/futu_dashboard.png)
 
-#### ASTS
-
-![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
-
 #### MSFT
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
+
+#### SPCX
+
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
 #### AMZN
 
@@ -217,8 +221,4 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### NBIS
 
 ![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
-
-#### TSLA
-
-![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 <!-- AUTO_TOP10_END -->

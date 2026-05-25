@@ -1,6 +1,6 @@
 {
   "data_source": "reddit_authenticated_api",
-  "generated_at_utc": "2026-05-24T23:17:46.717698+00:00",
+  "generated_at_utc": "2026-05-25T23:34:49.038267+00:00",
   "top_n": 10,
   "fetch_diagnostics": {
     "subreddit": "wallstreetbets",
@@ -40,7 +40,7 @@
             "request": "reddit_feed:hot:oauth",
             "status_code": 200,
             "rate_limit_remaining": "999.0",
-            "rate_limit_reset": "195",
+            "rate_limit_reset": "359",
             "outcome": "success"
           }
         ]
@@ -56,7 +56,7 @@
             "request": "reddit_feed:new:oauth",
             "status_code": 200,
             "rate_limit_remaining": "998.0",
-            "rate_limit_reset": "193",
+            "rate_limit_reset": "358",
             "outcome": "success"
           }
         ]
@@ -72,7 +72,7 @@
             "request": "reddit_feed:rising:oauth",
             "status_code": 200,
             "rate_limit_remaining": "997.0",
-            "rate_limit_reset": "192",
+            "rate_limit_reset": "357",
             "outcome": "success"
           }
         ]
@@ -88,7 +88,7 @@
             "request": "reddit_feed:top:oauth",
             "status_code": 200,
             "rate_limit_remaining": "996.0",
-            "rate_limit_reset": "192",
+            "rate_limit_reset": "357",
             "outcome": "success"
           }
         ]
@@ -101,47 +101,47 @@
   },
   "symbols": [
     {
+      "ticker": "ASTS",
+      "mention_count": 72,
+      "post_count": 5,
+      "avg_sentiment": 0.04516,
+      "total_score": 4022,
+      "total_comments": 1557,
+      "engagement": 59.03555390365825,
+      "latest_mention": "2026-05-25 19:05:22+00:00",
+      "rank_score": 92,
+      "last_close": 105.86000061035156,
+      "latest_rsi": 67.94070400472802,
+      "latest_macd": 3.591561041788779,
+      "return_5d": 0.26520859241087225,
+      "return_21d": 0.3442539760044643,
+      "rmse": 5.933122318902559
+    },
+    {
       "ticker": "NVDA",
-      "mention_count": 27,
+      "mention_count": 25,
       "post_count": 12,
-      "avg_sentiment": 0.4100166666666667,
-      "total_score": 12823,
-      "total_comments": 4010,
-      "engagement": 132.30763479303184,
-      "latest_mention": "2026-05-24 15:01:38+00:00",
-      "rank_score": 75,
+      "avg_sentiment": 0.3980666666666666,
+      "total_score": 21872,
+      "total_comments": 3914,
+      "engagement": 129.9343069074148,
+      "latest_mention": "2026-05-25 15:55:02+00:00",
+      "rank_score": 73,
       "last_close": 215.3300018310547,
       "latest_rsi": 53.713625243228456,
       "latest_macd": 6.9059525894038245,
       "return_5d": -0.044336965952558205,
       "return_21d": 0.0785914771056635,
-      "rmse": 2.6378980436288955
-    },
-    {
-      "ticker": "AMD",
-      "mention_count": 13,
-      "post_count": 10,
-      "avg_sentiment": 0.11538000000000001,
-      "total_score": 5478,
-      "total_comments": 2121,
-      "engagement": 94.90333790999604,
-      "latest_mention": "2026-05-24 17:02:00+00:00",
-      "rank_score": 53,
-      "last_close": 467.510009765625,
-      "latest_rsi": 72.59251878947217,
-      "latest_macd": 43.33497524408284,
-      "return_5d": 0.10235794161133249,
-      "return_21d": 0.5311631032839106,
-      "rmse": 14.186203115818174
+      "rmse": 2.637898043628907
     },
     {
       "ticker": "RKLB",
       "mention_count": 14,
       "post_count": 8,
       "avg_sentiment": 0.5951625,
-      "total_score": 5696,
-      "total_comments": 1297,
-      "engagement": 73.11096441732775,
+      "total_score": 5815,
+      "total_comments": 1336,
+      "engagement": 73.27126019605795,
       "latest_mention": "2026-05-23 04:39:04+00:00",
       "rank_score": 46,
       "last_close": 135.75999450683594,
@@ -149,16 +149,33 @@
       "latest_macd": 14.7701500996302,
       "return_5d": 0.08808205625915799,
       "return_21d": 0.6047280964001973,
-      "rmse": 4.195021631399886
+      "rmse": 4.1950216313998805
+    },
+    {
+      "ticker": "AMD",
+      "mention_count": 11,
+      "post_count": 8,
+      "avg_sentiment": 0.07761250000000001,
+      "total_score": 3051,
+      "total_comments": 1300,
+      "engagement": 76.29249396502495,
+      "latest_mention": "2026-05-24 17:02:00+00:00",
+      "rank_score": 43,
+      "last_close": 467.510009765625,
+      "latest_rsi": 72.59251878947217,
+      "latest_macd": 43.33497524408284,
+      "return_5d": 0.10235794161133249,
+      "return_21d": 0.5311631032839106,
+      "rmse": 14.186203115818246
     },
     {
       "ticker": "SPY",
       "mention_count": 7,
       "post_count": 7,
       "avg_sentiment": 0.0570142857142857,
-      "total_score": 5314,
-      "total_comments": 967,
-      "engagement": 72.40773452164325,
+      "total_score": 5542,
+      "total_comments": 1038,
+      "engagement": 74.46372968163826,
       "latest_mention": "2026-05-24 17:28:27+00:00",
       "rank_score": 35,
       "last_close": 745.6400146484375,
@@ -166,7 +183,7 @@
       "latest_macd": 12.353276633824862,
       "return_5d": 0.008753104005669199,
       "return_21d": 0.05249488573731331,
-      "rmse": 9.95316255316167
+      "rmse": 9.953162553161642
     },
     {
       "ticker": "FUTU",
@@ -174,8 +191,8 @@
       "post_count": 1,
       "avg_sentiment": 0.9928,
       "total_score": 0,
-      "total_comments": 26,
-      "engagement": 3.295836866004329,
+      "total_comments": 27,
+      "engagement": 3.332204510175204,
       "latest_mention": "2026-05-22 16:34:16+00:00",
       "rank_score": 28,
       "last_close": 89.76000213623047,
@@ -183,50 +200,50 @@
       "latest_macd": -10.341972061032891,
       "return_5d": -0.33333331444495307,
       "return_21d": -0.41782328187689644,
-      "rmse": 4.108824892718546
-    },
-    {
-      "ticker": "ASTS",
-      "mention_count": 5,
-      "post_count": 5,
-      "avg_sentiment": 0.43292,
-      "total_score": 2561,
-      "total_comments": 1071,
-      "engagement": 51.39394713095214,
-      "latest_mention": "2026-05-23 17:43:12+00:00",
-      "rank_score": 25,
-      "last_close": 105.86000061035156,
-      "latest_rsi": 67.94070400472802,
-      "latest_macd": 3.591561041788779,
-      "return_5d": 0.26520859241087225,
-      "return_21d": 0.3442539760044643,
-      "rmse": 5.933122318902564
+      "rmse": 4.108824892718553
     },
     {
       "ticker": "MSFT",
-      "mention_count": 8,
-      "post_count": 3,
-      "avg_sentiment": 0.9837000000000001,
-      "total_score": 941,
-      "total_comments": 460,
-      "engagement": 32.140639815351136,
-      "latest_mention": "2026-05-24 17:02:00+00:00",
-      "rank_score": 20,
+      "mention_count": 10,
+      "post_count": 4,
+      "avg_sentiment": 0.979525,
+      "total_score": 1384,
+      "total_comments": 707,
+      "engagement": 38.514043707337784,
+      "latest_mention": "2026-05-25 15:55:02+00:00",
+      "rank_score": 26,
       "last_close": 418.57000732421875,
       "latest_rsi": 54.41728138037529,
       "latest_macd": 3.771845216197107,
       "return_5d": -0.00793990803209288,
       "return_21d": 0.006782940046226704,
-      "rmse": 9.379928154290779
+      "rmse": 9.379928154290793
+    },
+    {
+      "ticker": "SPCX",
+      "mention_count": 11,
+      "post_count": 3,
+      "avg_sentiment": -0.3042666666666667,
+      "total_score": 2360,
+      "total_comments": 707,
+      "engagement": 34.98298207548993,
+      "latest_mention": "2026-05-25 19:05:22+00:00",
+      "rank_score": 23,
+      "last_close": 22.399999618530273,
+      "latest_rsi": 65.11325070286553,
+      "latest_macd": 0.055938769921635156,
+      "return_5d": 0.017950487290539385,
+      "return_21d": 0.01197196236314757,
+      "rmse": 0.21443916314571634
     },
     {
       "ticker": "AMZN",
       "mention_count": 4,
       "post_count": 4,
       "avg_sentiment": 0.489625,
-      "total_score": 1689,
-      "total_comments": 839,
-      "engagement": 41.2768148608684,
+      "total_score": 1886,
+      "total_comments": 914,
+      "engagement": 43.13590037622474,
       "latest_mention": "2026-05-24 18:23:18+00:00",
       "rank_score": 20,
       "last_close": 266.32000732421875,
@@ -234,16 +251,16 @@
       "latest_macd": 5.723921790081874,
       "return_5d": 0.008253170874858773,
       "return_21d": 0.04406462840081282,
-      "rmse": 1.9166845924266518
+      "rmse": 1.9166845924266296
     },
     {
       "ticker": "NBIS",
       "mention_count": 7,
       "post_count": 3,
       "avg_sentiment": 0.7971,
-      "total_score": 905,
-      "total_comments": 278,
-      "engagement": 27.422317248768632,
+      "total_score": 1459,
+      "total_comments": 325,
+      "engagement": 29.492117379195413,
       "latest_mention": "2026-05-24 18:05:17+00:00",
       "rank_score": 19,
       "last_close": 214.77000427246094,
@@ -251,24 +268,7 @@
       "latest_macd": 18.17998353102189,
       "return_5d": -0.023506402253144598,
       "return_21d": 0.36726509911461536,
-      "rmse": 7.32693899112667
-    },
-    {
-      "ticker": "TSLA",
-      "mention_count": 6,
-      "post_count": 3,
-      "avg_sentiment": 0.6359333333333334,
-      "total_score": 1746,
-      "total_comments": 967,
-      "engagement": 35.29633847395472,
-      "latest_mention": "2026-05-24 17:02:00+00:00",
-      "rank_score": 18,
-      "last_close": 426.010009765625,
-      "latest_rsi": 58.299398546513636,
-      "latest_macd": 10.17080441138097,
-      "return_5d": 0.008928617891349688,
-      "return_21d": 0.13991760776550355,
-      "rmse": 5.659425225839296
+      "rmse": 7.3269389911266805
     }
   ]
 }
