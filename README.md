@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-25T23:34:49.038267+00:00`
+- Generated at (UTC): `2026-05-26T23:35:55.802089+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | ASTS | 72 | 5 | 0.045 | 105.86 | 34.43% | 5.933 |
-| 2 | NVDA | 25 | 12 | 0.398 | 215.33 | 7.86% | 2.638 |
-| 3 | RKLB | 14 | 8 | 0.595 | 135.76 | 60.47% | 4.195 |
-| 4 | AMD | 11 | 8 | 0.078 | 467.51 | 53.12% | 14.186 |
-| 5 | SPY | 7 | 7 | 0.057 | 745.64 | 5.25% | 9.953 |
-| 6 | FUTU | 24 | 1 | 0.993 | 89.76 | -41.78% | 4.109 |
-| 7 | MSFT | 10 | 4 | 0.980 | 418.57 | 0.68% | 9.380 |
-| 8 | SPCX | 11 | 3 | -0.304 | 22.40 | 1.20% | 0.214 |
-| 9 | AMZN | 4 | 4 | 0.490 | 266.32 | 4.41% | 1.917 |
-| 10 | NBIS | 7 | 3 | 0.797 | 214.77 | 36.73% | 7.327 |
+| 1 | ASTS | 79 | 7 | 0.227 | 119.70 | 56.68% | 5.605 |
+| 2 | NVDA | 27 | 14 | 0.256 | 214.86 | 3.16% | 2.670 |
+| 3 | RKLB | 11 | 8 | 0.385 | 143.20 | 79.72% | 4.449 |
+| 4 | LUNR | 17 | 6 | 0.616 | 34.86 | 36.55% | 1.375 |
+| 5 | MSFT | 12 | 6 | 0.611 | 416.03 | -2.02% | 6.374 |
+| 6 | AMD | 7 | 7 | 0.117 | 503.89 | 44.88% | 17.334 |
+| 7 | SNDK | 8 | 6 | 0.589 | 1589.55 | 60.58% | 58.864 |
+| 8 | SPY | 6 | 6 | 0.183 | 750.59 | 5.13% | 4.660 |
+| 9 | AMZN | 5 | 5 | 0.392 | 265.29 | 0.49% | 1.108 |
+| 10 | SPCX | 9 | 3 | -0.250 | 22.40 | 1.20% | 0.232 |
 
 ### Aggregate Charts
 
@@ -194,31 +194,31 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
-#### AMD
+#### LUNR
 
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
-#### SPY
-
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
-#### FUTU
-
-![FUTU Dashboard](outputs/latest_wsb_analysis/charts/futu_dashboard.png)
+![LUNR Dashboard](outputs/latest_wsb_analysis/charts/lunr_dashboard.png)
 
 #### MSFT
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### SPCX
+#### AMD
 
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+
+#### SNDK
+
+![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+
+#### SPY
+
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
 #### AMZN
 
 ![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
 
-#### NBIS
+#### SPCX
 
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 <!-- AUTO_TOP10_END -->
