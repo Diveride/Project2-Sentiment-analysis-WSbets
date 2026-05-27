@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-26T23:35:55.802089+00:00`
+- Generated at (UTC): `2026-05-27T23:40:25.381318+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | ASTS | 79 | 7 | 0.227 | 119.70 | 56.68% | 5.605 |
-| 2 | NVDA | 27 | 14 | 0.256 | 214.86 | 3.16% | 2.670 |
-| 3 | RKLB | 11 | 8 | 0.385 | 143.20 | 79.72% | 4.449 |
-| 4 | LUNR | 17 | 6 | 0.616 | 34.86 | 36.55% | 1.375 |
-| 5 | MSFT | 12 | 6 | 0.611 | 416.03 | -2.02% | 6.374 |
-| 6 | AMD | 7 | 7 | 0.117 | 503.89 | 44.88% | 17.334 |
-| 7 | SNDK | 8 | 6 | 0.589 | 1589.55 | 60.58% | 58.864 |
-| 8 | SPY | 6 | 6 | 0.183 | 750.59 | 5.13% | 4.660 |
-| 9 | AMZN | 5 | 5 | 0.392 | 265.29 | 0.49% | 1.108 |
-| 10 | SPCX | 9 | 3 | -0.250 | 22.40 | 1.20% | 0.232 |
+| 1 | ASTS | 79 | 7 | 0.380 | 129.60 | 67.88% | 5.355 |
+| 2 | NVDA | 21 | 11 | 0.121 | 212.60 | -1.85% | 2.733 |
+| 3 | RKLB | 15 | 9 | 0.325 | 150.23 | 82.56% | 5.447 |
+| 4 | AMD | 9 | 9 | 0.300 | 495.54 | 48.09% | 16.536 |
+| 5 | LUNR | 18 | 6 | 0.616 | 40.34 | 53.97% | 1.410 |
+| 6 | MSFT | 9 | 8 | 0.372 | 412.67 | -2.86% | 8.839 |
+| 7 | MU | 10 | 6 | 0.598 | 928.41 | 76.99% | 24.815 |
+| 8 | SNDK | 8 | 6 | 0.654 | 1589.94 | 48.56% | 56.631 |
+| 9 | CRSR | 8 | 5 | 0.522 | 9.82 | 45.91% | 0.282 |
+| 10 | TSLA | 7 | 5 | 0.278 | 440.36 | 16.29% | 5.861 |
 
 ### Aggregate Charts
 
@@ -194,6 +194,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
+#### AMD
+
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+
 #### LUNR
 
 ![LUNR Dashboard](outputs/latest_wsb_analysis/charts/lunr_dashboard.png)
@@ -202,23 +206,19 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### AMD
+#### MU
 
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+![MU Dashboard](outputs/latest_wsb_analysis/charts/mu_dashboard.png)
 
 #### SNDK
 
 ![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
 
-#### SPY
+#### CRSR
 
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+![CRSR Dashboard](outputs/latest_wsb_analysis/charts/crsr_dashboard.png)
 
-#### AMZN
+#### TSLA
 
-![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
-
-#### SPCX
-
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 <!-- AUTO_TOP10_END -->
