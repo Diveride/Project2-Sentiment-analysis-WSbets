@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-27T23:40:25.381318+00:00`
+- Generated at (UTC): `2026-05-28T23:45:04.899882+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | ASTS | 79 | 7 | 0.380 | 129.60 | 67.88% | 5.355 |
-| 2 | NVDA | 21 | 11 | 0.121 | 212.60 | -1.85% | 2.733 |
-| 3 | RKLB | 15 | 9 | 0.325 | 150.23 | 82.56% | 5.447 |
-| 4 | AMD | 9 | 9 | 0.300 | 495.54 | 48.09% | 16.536 |
-| 5 | LUNR | 18 | 6 | 0.616 | 40.34 | 53.97% | 1.410 |
-| 6 | MSFT | 9 | 8 | 0.372 | 412.67 | -2.86% | 8.839 |
-| 7 | MU | 10 | 6 | 0.598 | 928.41 | 76.99% | 24.815 |
-| 8 | SNDK | 8 | 6 | 0.654 | 1589.94 | 48.56% | 56.631 |
-| 9 | CRSR | 8 | 5 | 0.522 | 9.82 | 45.91% | 0.282 |
-| 10 | TSLA | 7 | 5 | 0.278 | 440.36 | 16.29% | 5.861 |
+| 1 | ASTS | 78 | 7 | 0.053 | 133.09 | 85.16% | 5.285 |
+| 2 | RKLB | 15 | 9 | 0.334 | 148.03 | 88.36% | 5.002 |
+| 3 | CRSR | 12 | 9 | 0.335 | 11.95 | 78.62% | 0.366 |
+| 4 | NVDA | 15 | 8 | 0.550 | 214.25 | 0.51% | 2.636 |
+| 5 | AMD | 9 | 8 | 0.286 | 518.09 | 60.30% | 19.227 |
+| 6 | LUNR | 11 | 4 | 0.921 | 45.70 | 85.92% | 1.649 |
+| 7 | MSFT | 6 | 5 | 0.839 | 426.99 | -0.53% | 9.144 |
+| 8 | SPY | 5 | 5 | 0.360 | 754.60 | 6.03% | 6.896 |
+| 9 | RDDT | 8 | 4 | 0.539 | 167.69 | 13.36% | 4.394 |
+| 10 | SPCX | 8 | 3 | -0.329 | 22.38 | 1.59% | 0.177 |
 
 ### Aggregate Charts
 
@@ -186,13 +186,17 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
 
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
 #### RKLB
 
 ![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
+
+#### CRSR
+
+![CRSR Dashboard](outputs/latest_wsb_analysis/charts/crsr_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### AMD
 
@@ -206,19 +210,15 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### MU
+#### SPY
 
-![MU Dashboard](outputs/latest_wsb_analysis/charts/mu_dashboard.png)
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### SNDK
+#### RDDT
 
-![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
 
-#### CRSR
+#### SPCX
 
-![CRSR Dashboard](outputs/latest_wsb_analysis/charts/crsr_dashboard.png)
-
-#### TSLA
-
-![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 <!-- AUTO_TOP10_END -->
