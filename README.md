@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-28T23:45:04.899882+00:00`
+- Generated at (UTC): `2026-05-29T23:43:57.888857+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | ASTS | 78 | 7 | 0.053 | 133.09 | 85.16% | 5.285 |
-| 2 | RKLB | 15 | 9 | 0.334 | 148.03 | 88.36% | 5.002 |
-| 3 | CRSR | 12 | 9 | 0.335 | 11.95 | 78.62% | 0.366 |
-| 4 | NVDA | 15 | 8 | 0.550 | 214.25 | 0.51% | 2.636 |
-| 5 | AMD | 9 | 8 | 0.286 | 518.09 | 60.30% | 19.227 |
-| 6 | LUNR | 11 | 4 | 0.921 | 45.70 | 85.92% | 1.649 |
-| 7 | MSFT | 6 | 5 | 0.839 | 426.99 | -0.53% | 9.144 |
-| 8 | SPY | 5 | 5 | 0.360 | 754.60 | 6.03% | 6.896 |
-| 9 | RDDT | 8 | 4 | 0.539 | 167.69 | 13.36% | 4.394 |
-| 10 | SPCX | 8 | 3 | -0.329 | 22.38 | 1.59% | 0.177 |
+| 1 | ASTS | 71 | 3 | 0.172 | 113.41 | 62.36% | 5.577 |
+| 2 | DELL | 17 | 11 | 0.528 | 420.91 | 104.66% | 19.123 |
+| 3 | AMD | 23 | 9 | 0.599 | 516.10 | 53.10% | 16.968 |
+| 4 | MSFT | 16 | 9 | 0.446 | 450.24 | 6.07% | 9.813 |
+| 5 | NVDA | 19 | 8 | 0.810 | 211.14 | 0.90% | 2.916 |
+| 6 | CRSR | 9 | 6 | 0.669 | 12.14 | 78.01% | 0.606 |
+| 7 | TSM | 19 | 1 | 0.815 | 418.45 | 6.25% | 5.050 |
+| 8 | GOOG | 6 | 4 | 0.474 | 376.43 | 8.38% | 5.051 |
+| 9 | ORCL | 7 | 3 | 0.050 | 225.78 | 37.81% | 5.277 |
+| 10 | YOU | 6 | 3 | -0.979 | 55.45 | 3.98% | 1.095 |
 
 ### Aggregate Charts
 
@@ -186,39 +186,39 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
 
-#### RKLB
+#### DELL
 
-![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
-
-#### CRSR
-
-![CRSR Dashboard](outputs/latest_wsb_analysis/charts/crsr_dashboard.png)
-
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+![DELL Dashboard](outputs/latest_wsb_analysis/charts/dell_dashboard.png)
 
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### LUNR
-
-![LUNR Dashboard](outputs/latest_wsb_analysis/charts/lunr_dashboard.png)
-
 #### MSFT
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### SPY
+#### NVDA
 
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### RDDT
+#### CRSR
 
-![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
+![CRSR Dashboard](outputs/latest_wsb_analysis/charts/crsr_dashboard.png)
 
-#### SPCX
+#### TSM
 
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+![TSM Dashboard](outputs/latest_wsb_analysis/charts/tsm_dashboard.png)
+
+#### GOOG
+
+![GOOG Dashboard](outputs/latest_wsb_analysis/charts/goog_dashboard.png)
+
+#### ORCL
+
+![ORCL Dashboard](outputs/latest_wsb_analysis/charts/orcl_dashboard.png)
+
+#### YOU
+
+![YOU Dashboard](outputs/latest_wsb_analysis/charts/you_dashboard.png)
 <!-- AUTO_TOP10_END -->
