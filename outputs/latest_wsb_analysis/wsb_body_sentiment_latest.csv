@@ -1,95 +1,117 @@
 created_utc,body,clean_body,body_sentiment,body_label
-2026-05-29 23:41:45+00:00,I got my SpaceX early access shares a while ago and the last week they have been on a rocket to the moon.,i got my spacex early access shares a while ago and the last week they have been on a rocket to the moon,0.296,positive
-2026-05-29 23:33:24+00:00,My wife's boyfriend is convinced he's gonna get rich on Rivian. I see they had a fire day today.  Where's this headed? ,my wife s boyfriend is convinced he s gonna get rich on rivian i see they had a fire day today where s this headed,0.5994,positive
-2026-05-29 23:30:12+00:00,"Monday, what a day it will be. If I lose this isn't even in the top 10 of my losses, so fuck it.",monday what a day it will be if i lose this isn t even in the top of my losses so fuck it,-0.8439,negative
-2026-05-29 23:28:20+00:00,"The regards will type SPX into their apps.
+2026-05-30 23:04:43+00:00,"I’m upvoting all the posts I see this is hilarious. Anyone know if it’s spreading to tik tok, x, etc? I don’t have other socials so I’m not sure but it’s all over here!
 
-They’re either gonna type it in too early in the day and only see one ticker that ISN’T Space X, but is there another ticker with the SAME letters in its ticker:
+Edit: holy the views are crazy I think the bots are trying to spam my post lol",i m upvoting all the posts i see this is hilarious anyone know if it s spreading to tik tok x etc i don t have other socials so i m not sure but it s all over here edit holy the views are crazy i think the bots are trying to spam my post lol,-0.3443,negative
+2026-05-30 19:45:53+00:00,,nan,0.0,neutral
+2026-05-30 19:16:29+00:00,,nan,0.0,neutral
+2026-05-30 17:41:27+00:00,"When you all get bored of pumping SPCE garbage here is some actual DD.
 
-SP(X)
+Everyone knows that power and grid connections are the most important problem right now for new data centre builds. (see literally any turbine co or bloom energy stock) That's because the people who run the electrical grids are not down to let data centres connect and are making them wait years. Data centres are terrible customers because they fuck everyone else's shit up with variable demands because GPUs can turn on and off in milliseconds. So, grids are like ""hell nah, go get your own electricity"" and leave our grid alone.
 
-Or they see both:
+This is only going to get worse as each new generation of chip requires exponentially higher levels of wattage. There are a couple of ways to solve this problem (one is by using 800VDC, and one is by using SSTs) Why 800V, you ask? Because big daddy Jensen, in his infinite wisdom, knows there is an entire industry that overbuilt capacity to manufacture specific electrical components for EVs and the demand never came. Now those components are ripe for the buying. You have probably seen power semis start to run.
 
-SP(X)
+Once upon a time there was a shit company who ran on the hopes of everlasting EV demand. It all came crashing down to earth last year and the company went bankrupt. That company is Wolfspeed. They own the only SiC fab in the US that they built for the EV gold mine that never materialized. Well, guess what? Now data centers need those exact same components and there is only one place in the US that makes them.
 
-SPCX
+The part that solves the grid connection problem is called a solid state transformer. It replaces ancient transformer tech and can be programmed to ""absorb"" some of the variable demands of data centers. i.e. the grids will let you play ball and all of a sudden you can plug your GPUs in.
 
-Get your 2 brain cells churning here, do you REALLY think no one is gonna accidentally bid up that other ticker thinking it’s Space X?
+Now let's make a brief science lesson segue so you can at least understand what you're gonna ape your port into on Monday. A couple of months ago, Wolfspeed announced the market's first commercially available 10kV MOSFET. This essentially makes the SST \~3x simpler and cheaper. It's what unlocks true commercial viability. The best news of all is that one day it will replace the millions of 30+ year old transformers that are already past their lifespan. It's a national security problem as of a couple of weeks ago.
 
-There’s precedent for this: when Zoom IPO’d during the pandemic (ticker: ZM), another company with the ticker ZOOM blew up 1,800%…",the regards will type spx into their apps they re either gonna type it in too early in the day and only see one ticker that isn t space x but is there another ticker with the same letters in its ticker sp x or they see both sp x spcx get your brain cells churning here do you really think no one is gonna accidentally bid up that other ticker thinking it s space x there s precedent for this when zoom ipo d during the pandemic ticker zm another company with the ticker zoom blew up,-0.7444,negative
-2026-05-29 23:21:32+00:00,"They’re either gonna type it in too early in the day and only see one ticker that ISN’T Space X, but is there another ticker with the SAME letters in its ticker:
+A couple of DAYS ago, they announced a partnership with the #2 SST manufacturer in the world, Amperesand. SemiAnalysis has this TAM at $13B by 2030.
 
-SPXC
-
-Get your 2 brain cells churning here, do you REALLY think no one is gonna accidentally bid up that other ticker thinking it’s Space X?
-
-There’s precedent for this: when Zoom IPO’d during the pandemic (ticker: ZM), another company with the ticker ZOOM blew up 1,800%…",they re either gonna type it in too early in the day and only see one ticker that isn t space x but is there another ticker with the same letters in its ticker spxc get your brain cells churning here do you really think no one is gonna accidentally bid up that other ticker thinking it s space x there s precedent for this when zoom ipo d during the pandemic ticker zm another company with the ticker zoom blew up,-0.7444,negative
-2026-05-29 23:16:53+00:00,,nan,0.0,neutral
-2026-05-29 23:16:02+00:00,,nan,0.0,neutral
-2026-05-29 22:39:19+00:00,Waiting for Elon to take me to the moon ,waiting for elon to take me to the moon,0.0,neutral
-2026-05-29 22:35:46+00:00,"**🚀 URANIUM IS THE AI + ENERGY CRISIS TRADE NOBODY IS PRICING IN. CCJ / DNN / UUUU DD 🚀**
-
-TL;DR: Strait of Hormuz is closed, SPR is bleeding 10M barrels a week, gas can't scale, and Sam Altman needs 10 gigawatts yesterday. The only molecule that solves this equation is U-235. Yellowcake szn.
-
-**The Macro Just Got Spicier**
-
-Iran war kicked off in late February. Operation Epic Fury is ongoing. Roughly 16 million barrels per day of global oil flow through Hormuz got choked. The SPR has shed about 50 million barrels (12% of inventory) since the war started and sits at a two-year low of \~374M. At current drawdown rates, we hit the legal minimum (252M) in 3-5 months. Commercial crude inventories just erased their entire 2026 build in five weeks.
-
-In English: the energy buffer that lets the US absorb a Middle East shock is running out. The Treasury is not refilling it. Spot oil is in geopolitical risk premium hell.
-
-**Why This Pumps Uranium**
-
-When gas-fired generation gets squeezed, nuclear's cost curve wins. When the SPR is empty and the next shock has no buffer, every utility CEO in America is calling their federal nuclear regulator. The hyperscalers already saw the writing on the wall:
-
-* MSFT un-retired Three Mile Island
-* AMZN bought a datacenter bolted to Talen's nuclear plant
-* GOOG signed with Kairos for small modular reactors
-* META and ORCL hunting for nuclear power purchase agreements
-
-This was happening BEFORE the Iran war. Now nuclear is not optional. It is national security.
-
-**Supply Is Cooked**
-
-* Kazatomprom (40% of global supply) guiding production DOWN citing sulfuric acid shortages
-* Russia controls \~44% of global enrichment. Russian uranium import ban is law.
-* Secondary supply (down-blended weapons material) ran out years ago
-* New mines take 10-15 years from discovery to production. No cavalry.
-* Tier 1 supply still below pre-Fukushima levels
-
-**Demand Is Unhinged**
-
-* 60+ reactors under construction globally
-* China building reactors like Starbucks
-* Small modular reactor pipeline (NuScale, Kairos, X-energy, Oklo) needs fuel by 2028-2030
-* US fleet getting 80-year license extensions
-* Japan restarting reactors
-* Datacenter demand alone: 10+ GW of new nuclear by 2030
-
-**The Trade**
-
-* $CCJ. Cameco. Tier 1 producer, Westinghouse stake, integrated fuel cycle. Blue chip.
-* $DNN. Denison. Wheeler River permitted, leveraged in-situ play in the Athabasca. Pure beta to spot.
-* $UUUU. Energy Fuels. Only operational conventional US mill (White Mesa). Rare earths optionality. America First trade.
-* $URA / $URNM if you can't pick
-
-**Why Now**
-
-Spot uranium consolidating after the run from $20 to $100. Utilities under-contracted relative to historical norms. Long-term contract prices catching up to spot. Every ""uranium is dead"" boomer on CNBC about to learn what a structural deficit plus an energy crisis looks like.
-
-**Risks (because mods)**
-
-* Sentiment-driven sector, drawdowns are violent
-* Hormuz reopens, oil sells off, risk-off bleeds uranium short term
-* Kazatomprom surprises to the upside on production
-* This is not financial advice, I eat crayons
-
-**Positions**
-
-20 CCJ, 1000 DNN, 50 UUUU
+What happens when a company left for dead all of a sudden pivots to providing one of the most important components for AI power infrastructure, grid modernization and NATIONAL SECURITY? I don't have to tell you.
 
   
-Edit:  Updated positions",uranium is the ai energy crisis trade nobody is pricing in ccj dnn uuuu dd tl dr strait of hormuz is closed spr is bleeding m barrels a week gas can t scale and sam altman needs gigawatts yesterday the only molecule that solves this equation is u yellowcake szn the macro just got spicier iran war kicked off in late february operation epic fury is ongoing roughly million barrels per day of global oil flow through hormuz got choked the spr has shed about million barrels of inventory since the war started and sits at a two year low of m at current drawdown rates we hit the legal minimum m in months commercial crude inventories just erased their entire build in five weeks in english the energy buffer that lets the us absorb a middle east shock is running out the treasury is not refilling it spot oil is in geopolitical risk premium hell why this pumps uranium when gas fired generation gets squeezed nuclear s cost curve wins when the spr is empty and the next shock has no buffer every utility ceo in america is calling their federal nuclear regulator the hyperscalers already saw the writing on the wall msft un retired three mile island amzn bought a datacenter bolted to talen s nuclear plant goog signed with kairos for small modular reactors meta and orcl hunting for nuclear power purchase agreements this was happening before the iran war now nuclear is not optional it is national security supply is cooked kazatomprom of global supply guiding production down citing sulfuric acid shortages russia controls of global enrichment russian uranium import ban is law secondary supply down blended weapons material ran out years ago new mines take years from discovery to production no cavalry tier supply still below pre fukushima levels demand is unhinged reactors under construction globally china building reactors like starbucks small modular reactor pipeline nuscale kairos x energy oklo needs fuel by us fleet getting year license extensions japan restarting reactors datacenter demand alone gw of new nuclear by the trade ccj cameco tier producer westinghouse stake integrated fuel cycle blue chip dnn denison wheeler river permitted leveraged in situ play in the athabasca pure beta to spot uuuu energy fuels only operational conventional us mill white mesa rare earths optionality america first trade ura urnm if you can t pick why now spot uranium consolidating after the run from to utilities under contracted relative to historical norms long term contract prices catching up to spot every uranium is dead boomer on cnbc about to learn what a structural deficit plus an energy crisis looks like risks because mods sentiment driven sector drawdowns are violent hormuz reopens oil sells off risk off bleeds uranium short term kazatomprom surprises to the upside on production this is not financial advice i eat crayons positions ccj dnn uuuu edit updated positions,-0.9943,negative
-2026-05-29 22:29:39+00:00,,nan,0.0,neutral
+I could also talk about 300m SiC interposers that Wolfspeed will probably make for logic but you probably don't have the attention span for that given the state of this sub in the last couple of days. There is also the same setup via executive order that happened with MP and rare earths last year. Go look it up.
+
+This is a $200 stock EOY. And before you go complaining that the stock is up I tried posting this a couple of weeks ago but was taken down by mods.
+
+  
+Position: 1000 shares and about 50 calls spread out among strikes/months.
+
+  
+",when you all get bored of pumping spce garbage here is some actual dd everyone knows that power and grid connections are the most important problem right now for new data centre builds see literally any turbine co or bloom energy stock that s because the people who run the electrical grids are not down to let data centres connect and are making them wait years data centres are terrible customers because they fuck everyone else s shit up with variable demands because gpus can turn on and off in milliseconds so grids are like hell nah go get your own electricity and leave our grid alone this is only going to get worse as each new generation of chip requires exponentially higher levels of wattage there are a couple of ways to solve this problem one is by using vdc and one is by using ssts why v you ask because big daddy jensen in his infinite wisdom knows there is an entire industry that overbuilt capacity to manufacture specific electrical components for evs and the demand never came now those components are ripe for the buying you have probably seen power semis start to run once upon a time there was a shit company who ran on the hopes of everlasting ev demand it all came crashing down to earth last year and the company went bankrupt that company is wolfspeed they own the only sic fab in the us that they built for the ev gold mine that never materialized well guess what now data centers need those exact same components and there is only one place in the us that makes them the part that solves the grid connection problem is called a solid state transformer it replaces ancient transformer tech and can be programmed to absorb some of the variable demands of data centers i e the grids will let you play ball and all of a sudden you can plug your gpus in now let s make a brief science lesson segue so you can at least understand what you re gonna ape your port into on monday a couple of months ago wolfspeed announced the market s first commercially available kv mosfet this essentially makes the sst x simpler and cheaper it s what unlocks true commercial viability the best news of all is that one day it will replace the millions of year old transformers that are already past their lifespan it s a national security problem as of a couple of weeks ago a couple of days ago they announced a partnership with the sst manufacturer in the world amperesand semianalysis has this tam at b by what happens when a company left for dead all of a sudden pivots to providing one of the most important components for ai power infrastructure grid modernization and national security i don t have to tell you i could also talk about m sic interposers that wolfspeed will probably make for logic but you probably don t have the attention span for that given the state of this sub in the last couple of days there is also the same setup via executive order that happened with mp and rare earths last year go look it up this is a stock eoy and before you go complaining that the stock is up i tried posting this a couple of weeks ago but was taken down by mods position shares and about calls spread out among strikes months,-0.8776,negative
+2026-05-30 16:53:02+00:00,saw a post on X that convinced me this was oversold. FULL PORT,saw a post on x that convinced me this was oversold full port,0.4019,positive
+2026-05-30 16:49:59+00:00,Everything is fine...,everything is fine,0.2023,positive
+2026-05-30 16:42:01+00:00,"Where did the running joke about ""my wifes boyfriend"" come from? ",where did the running joke about my wifes boyfriend come from,0.296,positive
+2026-05-30 16:28:50+00:00,"**Here’s my embarrassing story:**
+
+I bought SPCE in 2021 at $8 ($160 reverse split)
+
+When Branson flew to space the shares hit $62 ($1,240 reverse split) and my shares went from $5000 to $35,000
+
+The next day Branson dumped his shares and I being the genius I am, I kept on buying.  My gains vanished and as of Jan 2026 my position was down $35,000 + 😵‍💫
+
+At the beginning of the year I decided to harvest a tax loss.  I bought 5 x $1 July 26 Calls in Feb and sold my last remaining shares in April to avoid wash sale rules.
+
+And now I just need SPCE(X) to hit $70 for my 5 yr ROI to hit 0%
+
+Richard Musk please take me back to the Moon 🌙😁
+
+BFLO-Retail",here s my embarrassing story i bought spce in at reverse split when branson flew to space the shares hit reverse split and my shares went from to the next day branson dumped his shares and i being the genius i am i kept on buying my gains vanished and as of jan my position was down at the beginning of the year i decided to harvest a tax loss i bought x july calls in feb and sold my last remaining shares in april to avoid wash sale rules and now i just need spce x to hit for my yr roi to hit richard musk please take me back to the moon bflo retail,0.4019,positive
+2026-05-30 16:03:18+00:00,"Genuinely not trying to make a bear market case or predict any type of collapse…. But I saw this the other day and just wanted to see what my fellow regards think. I haven’t really seen anyone else talking about this, and it doesn’t seem like markets are letting reality sink in currently. I have very little skin in the game, so I don’t care one way or the other. 
+
+U.S. gas prices have stayed pretty stable over the last 4-5 weeks in large part due to promises of a quick end (16 announcements to date) and us ripping through our reserves at a record pace. We are 2-3ish weeks away from tapping out our reserves. Even if a deal is made with Iran, we are still weeks away from oil tankers getting to their destinations. If prices hit $140-150 a barrel soon, what type of correction is anyone anticipating and for how long??? Or is this all just a blip on the radar? 
+
+If you need me I’ll be out back in my dumpster…..💎🤲🏼",genuinely not trying to make a bear market case or predict any type of collapse but i saw this the other day and just wanted to see what my fellow regards think i haven t really seen anyone else talking about this and it doesn t seem like markets are letting reality sink in currently i have very little skin in the game so i don t care one way or the other u s gas prices have stayed pretty stable over the last weeks in large part due to promises of a quick end announcements to date and us ripping through our reserves at a record pace we are ish weeks away from tapping out our reserves even if a deal is made with iran we are still weeks away from oil tankers getting to their destinations if prices hit a barrel soon what type of correction is anyone anticipating and for how long or is this all just a blip on the radar if you need me i ll be out back in my dumpster,0.9474,positive
+2026-05-30 15:56:26+00:00,"Initial pump is getting in early on the gold rush in March 2025. Felt like a genius. Peak is when I sold. Big fall off is turning full regarded bear at the tariff tantrum and getting blown out by the god candle from the OG TACO. Slow drip down is doubling down on QQD while the market melted up and watching my account bleed to death.
+
+[](https://preview.redd.it/my-portfolio-evolved-from-bear-to-bull-v0-17466ykrma4h1.png?width=2528&format=png&auto=webp&s=8d19a755400939f212eb150788609d2ab40b245a)
+
+Low is when I finally capitulated in November 2025. Rebound is going all in on ASTX. Downfall is holding from the December 2025 lows to ATHs, not taking profit and watching it all evaporate and then some. DCA all the way down to the very bottom with lowest buy at $21.50.
+
+[](https://preview.redd.it/my-portfolio-evolved-from-bear-to-bull-v0-ifoz282rma4h1.png?width=2512&format=png&auto=webp&s=1c094f99cebffc58ea8b74af886f3b1a07aa62bc)
+
+Comeback is ASTS finally taking off recently. Didn't want to repeat my mistake and sold everything this Thursday at new ATHs avoiding the Friday massacre caused by Bezos and his BONG.
+
+[](https://preview.redd.it/my-portfolio-evolved-from-bear-to-bull-v0-dx2w2juxma4h1.png?width=2516&format=png&auto=webp&s=89f36edd3db9d40e5d73175be00e5ba24253efd1)
+
+Take off fuelled by picking up ORCL calls after the ER sell off in march in the 150s.
+
+[](https://preview.redd.it/my-portfolio-evolved-from-bear-to-bull-v0-wtxq74x9na4h1.png?width=2504&format=png&auto=webp&s=fa00b0eee95efd8fa254c2f167ba2d2ff0b7f192)
+
+Bought ONDS calls on Friday and finally got to experience mango pumping my bags instead of blowing it up.
+
+[](https://preview.redd.it/my-portfolio-evolved-from-bear-to-bull-v0-3q6j16wbna4h1.png?width=2496&format=png&auto=webp&s=e71c1c80fdaf774d0ac7546287353b2478adfe1a)
+
+GLD is a new position taken on Thursday. I think it's ready to make a major move after digesting the last big blow out. Sold some short dated NVDA calls for a minor gain (don't use short dated normally anymore) and bought longer dated just before close this Friday. Jensen is not so subtly signally a pump job at Computex.
+
+[](https://preview.redd.it/my-portfolio-evolved-from-bear-to-bull-v0-ku0h4gjdna4h1.png?width=1550&format=png&auto=webp&s=71755e0d4788f1497e88160f29563dc57af4db6d)
+
+ASTX was my biggest realized win taken this Thursday. SPY puts were my one minor win during the tariff tantrum. GLDU should've been a much bigger win but I sold way too soon and went regarded bear. I don't do leveraged ETFs anymore. Long dated OTM calls are the play.
+
+[](https://preview.redd.it/my-portfolio-evolved-from-bear-to-bull-v0-jfz4011ena4h1.png?width=1626&format=png&auto=webp&s=ab926c4f6b29457500b44a932f8dbf40f088bb38)
+
+Dumb bear losses and one call loss I bought on the OG TACO god candle that was a gain but I stupidly held. RKLX was a big miss, got stopped out and would've like 4x if I had held, that was just before it went parabolic recently. All of these positions besides QQD are deep in the green now.
+
+**Tl;dr was a stupid bear, lost money during a melt up bull run. Capitulated and finally started making money again. Always BUY TIME. Looking for a possible pullback in June. Bullish on the year itself.**",initial pump is getting in early on the gold rush in march felt like a genius peak is when i sold big fall off is turning full regarded bear at the tariff tantrum and getting blown out by the god candle from the og taco slow drip down is doubling down on qqd while the market melted up and watching my account bleed to death low is when i finally capitulated in november rebound is going all in on astx downfall is holding from the december lows to aths not taking profit and watching it all evaporate and then some dca all the way down to the very bottom with lowest buy at comeback is asts finally taking off recently didn t want to repeat my mistake and sold everything this thursday at new aths avoiding the friday massacre caused by bezos and his bong take off fuelled by picking up orcl calls after the er sell off in march in the s bought onds calls on friday and finally got to experience mango pumping my bags instead of blowing it up gld is a new position taken on thursday i think it s ready to make a major move after digesting the last big blow out sold some short dated nvda calls for a minor gain don t use short dated normally anymore and bought longer dated just before close this friday jensen is not so subtly signally a pump job at computex astx was my biggest realized win taken this thursday spy puts were my one minor win during the tariff tantrum gldu should ve been a much bigger win but i sold way too soon and went regarded bear i don t do leveraged etfs anymore long dated otm calls are the play dumb bear losses and one call loss i bought on the og taco god candle that was a gain but i stupidly held rklx was a big miss got stopped out and would ve like x if i had held that was just before it went parabolic recently all of these positions besides qqd are deep in the green now tl dr was a stupid bear lost money during a melt up bull run capitulated and finally started making money again always buy time looking for a possible pullback in june bullish on the year itself,-0.915,negative
+2026-05-30 13:26:54+00:00,Am I regard? The Charts show that it closed below 450 but I get assigned at 450.24? ,am i regard the charts show that it closed below but i get assigned at,0.0,neutral
+2026-05-30 10:16:41+00:00,"I know better, I should have known better. I knew the steep correction was coming, but entered too soo and got squeezed. Now lost half of my account.
+
+I feel so stupid, but at least you guys can have a laugh.",i know better i should have known better i knew the steep correction was coming but entered too soo and got squeezed now lost half of my account i feel so stupid but at least you guys can have a laugh,-0.2958,negative
+2026-05-30 09:24:58+00:00,,nan,0.0,neutral
+2026-05-30 08:50:48+00:00,Just dumped my life’s savings into this IPO 🙏,just dumped my life s savings into this ipo,-0.4019,negative
+2026-05-30 07:47:30+00:00,,nan,0.0,neutral
+2026-05-30 07:23:44+00:00,"Down so bad, hold or let it go. ",down so bad hold or let it go,-0.5849,negative
+2026-05-30 07:04:17+00:00,"Sold off my portfolio and purchased call options on $Jack with strike price of $15 and $17.5. It is currently trading at $12.5. 
+
+$Jack currently has a 50% short float. And if you look at the fundamentals, it makes no sense for the company to have a market cap of $220m. Ebitda in for instance 2023 was $334m. So I believe the price is artifically deflated",sold off my portfolio and purchased call options on jack with strike price of and it is currently trading at jack currently has a short float and if you look at the fundamentals it makes no sense for the company to have a market cap of m ebitda in for instance was m so i believe the price is artifically deflated,-0.4019,negative
+2026-05-30 05:35:39+00:00,,nan,0.0,neutral
+2026-05-30 05:14:09+00:00,,nan,0.0,neutral
+2026-05-30 03:07:13+00:00,,nan,0.0,neutral
+2026-05-30 02:23:07+00:00,My NQ short got squeezed open and went for a home run.  Strike out.  ,my nq short got squeezed open and went for a home run strike out,-0.128,negative
+2026-05-30 02:16:34+00:00,"**Snowflake (SNOW)** just staged a massive comeback, surging **36% in a single day** to single-handedly ease the market's ""SaaSpocalypse"" anxiety. 
+
+The data cloud giant shattered fears that generative AI would destroy traditional software by proving that AI is actually accelerating its business. The blowout Q1 fiscal 2027 earnings report and a massive cloud partnership triggered the stock's best day on record.  
+ 😒",snowflake snow just staged a massive comeback surging in a single day to single handedly ease the market s saaspocalypse anxiety the data cloud giant shattered fears that generative ai would destroy traditional software by proving that ai is actually accelerating its business the blowout q fiscal earnings report and a massive cloud partnership triggered the stock s best day on record,-0.5267,negative
+2026-05-30 01:02:41+00:00,CoreWeave weak hands are already shaken off. It’s CRWV’s turn to run up following NBIS and IREN. ,coreweave weak hands are already shaken off it s crwv s turn to run up following nbis and iren,-0.4939,negative
+2026-05-30 01:01:29+00:00,I heard SPCE(X) is supposed to trade at $105 per share on 6/12,i heard spce x is supposed to trade at per share on,0.296,positive
+2026-05-30 00:50:13+00:00,no DD other than Trump said to go out and buy a Dell and I had a feeling that was code for calls ,no dd other than trump said to go out and buy a dell and i had a feeling that was code for calls,-0.1779,negative
+2026-05-30 00:30:44+00:00,,nan,0.0,neutral
+2026-05-29 23:54:27+00:00,"I can’t wait to lose this all next week, probably",i can t wait to lose this all next week probably,-0.4019,negative
+2026-05-29 23:50:14+00:00,,nan,0.0,neutral
+2026-05-29 23:41:45+00:00,I got my SpaceX early access shares a while ago and the last week they have been on a rocket to the moon.,i got my spacex early access shares a while ago and the last week they have been on a rocket to the moon,0.296,positive
+2026-05-29 23:16:02+00:00,,nan,0.0,neutral
+2026-05-29 22:39:19+00:00,Waiting for Elon to take me to the moon ,waiting for elon to take me to the moon,0.0,neutral
 2026-05-29 22:26:58+00:00,"Questions for my fellow regards and SpaceX IPO holders (I'm in for 30 calls and 100 shares). Should make this regarded play viral over the next two weeks the way GameStp went viral? (missed that 🚀sadly) We are banking that next level regards will confuse tickers on IPO day and send us to the moon.
 
 But here's a possible dilemma. Can we really maintain this run for another two weeks and cash in on the ticker confusion? The more exposure of our play, the less next level regards will confuse the tickers.
@@ -102,132 +124,8 @@ https://preview.redd.it/8tijast2k54h1.png?width=1080&format=png&auto=webp&s=ce58
 ",questions for my fellow regards and spacex ipo holders i m in for calls and shares should make this regarded play viral over the next two weeks the way gamestp went viral missed that sadly we are banking that next level regards will confuse tickers on ipo day and send us to the moon but here s a possible dilemma can we really maintain this run for another two weeks and cash in on the ticker confusion the more exposure of our play the less next level regards will confuse the tickers tldr do we buy more stock next week,-0.5789,negative
 2026-05-29 22:23:56+00:00,Should I be greedy and let this ride all the way to IPO?,should i be greedy and let this ride all the way to ipo,-0.3182,negative
 2026-05-29 22:08:34+00:00,"Here’s my 79 (7,900) virgins.  Holding til June 12th.  💎 🙌🏻",here s my virgins holding til june th,0.0,neutral
-2026-05-29 22:05:49+00:00,"# Thesis
-
-There has been a lot of debate about how realistic orbital data centers are due to issues with thermal management and launch costs. However, as terrestrial data centers continue to experience delays due to construction complexity and growing political backlash, the money has to flow somewhere.
-
-My stance is that is doesn't matter how realistic orbital data centers are.
-
-This market is consistently pricing in narratives before they ever materialize, and AI data centers in space is very likely the next one. Even if an orbital data center never comes online, the market will pump a lot of money in trying to make it a thing to keep the music going once terrestrial data centers are not able to be built fast enough to meet the demand. Just look at recent interviews from the likes of Elon Musk, Jensen Huang, Jeff Bezos, etc. They are all telling you what the next wave is going to be ahead of time. Space AI just sounds way too sexy to ignore for the average investor.
-
-This is your chance to get in on that wave before the hype.
-
-# Where I'm investing
-
-Between their ROSA and ELSA product lines, Redwire (RDW) produces the best-in-class solar power and thermal management systems on the market today and is already investing heavily in research for the orbital data center buildout.
-
-[Here's a link to an engineering whitepaper they just released on it.](https://rdw.com/newsroom/orbital-data-centers-power-and-thermal-management-for-scalable-architectures-2/)
-
-The best part is this isn't a pure play lottery ticket where the company's fate is tied to this single tailwind. They also make high performance drones already being used in Ukraine and by the US military, quantum secure satellites, and tons of lunar infrastructure to capture the increased NASA spending to build out a lunar base there.
-
-All of these other revenue streams give you a solid foundation while the orbital data center narrative gives you a free lottery ticket.
-
-# TL;DR
-
-One of the next AI hype waves is going to be AI data centers in space. Redwire (RDW) is already positioning to be the premier picks-and-shovels play for that wave.
-
-# Positions
-
-Long 17,000 shares + 150 Jan 15 2027 $35 calls. Already up >140% in under a month.
-
-https://preview.redd.it/a9zzaziee54h1.png?width=1375&format=png&auto=webp&s=08efaef622c1c64d2b07731b827a3465d18ab1c4",thesis there has been a lot of debate about how realistic orbital data centers are due to issues with thermal management and launch costs however as terrestrial data centers continue to experience delays due to construction complexity and growing political backlash the money has to flow somewhere my stance is that is doesn t matter how realistic orbital data centers are this market is consistently pricing in narratives before they ever materialize and ai data centers in space is very likely the next one even if an orbital data center never comes online the market will pump a lot of money in trying to make it a thing to keep the music going once terrestrial data centers are not able to be built fast enough to meet the demand just look at recent interviews from the likes of elon musk jensen huang jeff bezos etc they are all telling you what the next wave is going to be ahead of time space ai just sounds way too sexy to ignore for the average investor this is your chance to get in on that wave before the hype where i m investing between their rosa and elsa product lines redwire rdw produces the best in class solar power and thermal management systems on the market today and is already investing heavily in research for the orbital data center buildout here s a link to an engineering whitepaper they just released on it the best part is this isn t a pure play lottery ticket where the company s fate is tied to this single tailwind they also make high performance drones already being used in ukraine and by the us military quantum secure satellites and tons of lunar infrastructure to capture the increased nasa spending to build out a lunar base there all of these other revenue streams give you a solid foundation while the orbital data center narrative gives you a free lottery ticket tl dr one of the next ai hype waves is going to be ai data centers in space redwire rdw is already positioning to be the premier picks and shovels play for that wave positions long shares jan calls already up in under a month,0.9814,positive
 2026-05-29 21:50:34+00:00,,nan,0.0,neutral
-2026-05-29 21:43:39+00:00,"Microsoft is so powerful all of your tiny midget brains cannot even comprehend!
-
-From the shitty little PowerPoint you need to create for your 4th grade social studies presentation, to some smart fuck banker building an autonomous agent with copilot to replace all the interns making pitch decks, to some pretentious idiot who make a dumb B to B sales post on LinkedIn - MSFT is everywhere in our lives.
-
-But that isn’t what this dd is based on. Being everywhere is nice, they are seen and that’s a moat. But that’s not enough to be the greatest business on earth.
-
-Tldr thesis: MICROSOFT OWNS YOU ALL LIKE THEY OWN SLAVES BUT CHEAPER.
-
-To comprehend this level of dominance from a societal level, you need to have a clear mind so I suggest yall take a quick fap and come back first.
-
-Think about it: you are all cheaper version of slaves. You sell your time working at some cubical or some Wendy’s in exchange for some pocket change that allow you to get around 10-20 hours of disposable life during work days. To big corporate America, yall are a cheaper version of slaves - they don’t have to pay for your dwelling , and they don’t care if you get sick and die. Instead of amortization, they can just expense you all RETARDS! That’s why we have a wonder thing call capitalism!
-
-If you understand that! You understand Microsoft! They own corporate America! And they ARE CAPITALISM! If you are a corporation, big or small, you need Microsoft. Need cloud computing? Microsoft got you covered! Need to set up a call to hire the next hot secretary? You gotta do it on teams! Wanna vibe code something at work? YOU GOTTA USE COPILOT CUZ CLAUDE IS BANNED AT WORK!
-
-And if you think MSFT is slowing down, think again cuz azure (the main thing that drives growth and margin expansion) is growing at an insane pace and accelerated into 40% growth rate - that’s not the mid teens topline boomer growth every idiot was worried about. And the big worry on CAPEX? Barely caused a dent in the fortress of a balance sheet MSFT is in.
-
-And sell side analysts and dumb retail investors- EVERY SINGLE ONE OF THEM HAS GOTTEN IT WRONG IN THE PAST 2 decades! MSFT blasted their mother’s tits away being the best performing stock for the longest duration.
-
-And today, we finally saw some rotation back to mega caps and MSFT broke through a key level! This dd is selling you fire insurance on a burning house better than Ryan gosling.
-
-SO FUCK THE SPACE STOCK INVESTORS AND FUCK THE SEMIS RETARDS AND COME MAKE SOME REAL SOFTWARE MONEY!
-
-Position:  
-2 LEAPS around 14k picked up when MSFT traded 19x earnings  
-18k in shares - vibe dca’d",microsoft is so powerful all of your tiny midget brains cannot even comprehend from the shitty little powerpoint you need to create for your th grade social studies presentation to some smart fuck banker building an autonomous agent with copilot to replace all the interns making pitch decks to some pretentious idiot who make a dumb b to b sales post on linkedin msft is everywhere in our lives but that isn t what this dd is based on being everywhere is nice they are seen and that s a moat but that s not enough to be the greatest business on earth tldr thesis microsoft owns you all like they own slaves but cheaper to comprehend this level of dominance from a societal level you need to have a clear mind so i suggest yall take a quick fap and come back first think about it you are all cheaper version of slaves you sell your time working at some cubical or some wendy s in exchange for some pocket change that allow you to get around hours of disposable life during work days to big corporate america yall are a cheaper version of slaves they don t have to pay for your dwelling and they don t care if you get sick and die instead of amortization they can just expense you all retards that s why we have a wonder thing call capitalism if you understand that you understand microsoft they own corporate america and they are capitalism if you are a corporation big or small you need microsoft need cloud computing microsoft got you covered need to set up a call to hire the next hot secretary you gotta do it on teams wanna vibe code something at work you gotta use copilot cuz claude is banned at work and if you think msft is slowing down think again cuz azure the main thing that drives growth and margin expansion is growing at an insane pace and accelerated into growth rate that s not the mid teens topline boomer growth every idiot was worried about and the big worry on capex barely caused a dent in the fortress of a balance sheet msft is in and sell side analysts and dumb retail investors every single one of them has gotten it wrong in the past decades msft blasted their mother s tits away being the best performing stock for the longest duration and today we finally saw some rotation back to mega caps and msft broke through a key level this dd is selling you fire insurance on a burning house better than ryan gosling so fuck the space stock investors and fuck the semis retards and come make some real software money position leaps around k picked up when msft traded x earnings k in shares vibe dca d,-0.8932,negative
-2026-05-29 21:36:55+00:00,"A lot of people aren't ready to hear this, but $FIG stock has a lot of room to run and can pick up some unexpected (for some) momentum down the line. I'll try to be brief, but I'm terrible with words - I didn't pay attention in english class.
-
-First, let me address the bears. Each bearish take I read on Figma is **maximum regarded** and it's the same boring regurgitated takes over and over again which somehow all - and lazily - conflate what Figma and any new LLM providers do as a core business. ""*AI RISK DISRUPTION, SEAT-BASED MODEL BREAKING, -X% OFF ITS IPO HIGH, ITS GOING TO ZERO, I DO WITH CLAUDE DESIGN WHAT I USED TO IN FIGMA HA HA HA""*. Alright squirt, take a sit while daddy lays it out for you while you don't have a novel thought in your head.
-
-Yes, Figma is down a lot. Yes, anyone with a brain knew there was going to be a boom bust IPO cycle. No, its not because they're failing as a business. If you bought at the highs of the IPO or have gotten shaken out of your shares, feel sorry for you bro - there is still money to be made. The truth is the market has some shares to digest as they've become public this past year.
-
-Alright, now that I've put the bears in their place, let me explain why Figma is going to blow some heads in the coming future. I expect this company to become irrationally valued once this thesis catches on (if it doesn't my wife is going to kill me).
-
-It's important to understand that Figma, with Dylan Field at the helm, has done - at least - two incredibly impressive things:
-
-1. **Built a highly performant multiplayer collaboration web tool**
-2. **Built digital design software on top of this stack that was/is leagues ahead of any competitor (then and now) that everyone loves and uses.**
-
-Figma is objectively the gold standard of widespread collaborative digital design software outside of niche areas which competitors like Adobe still dominate in. They are everywhere and if you're in a company producing software, you *probably* use them.
-
-So, let me summarize so far:
-
-* **They are everywhere**
-* **They are the undisputed champions of general digital creation on top of a highly performant tech stack**
-* **They've been building this great software for a little over a decade**
-* **Financials are good. The company has $1.6B on hand, is debt free, is growing 40% YoY, has a strategic investment arm (Figma ventures). There is some stock based compensation being digested, but that will pass. They haven't even entertained ""cutting costs"" yet (its literally not a priority)**
-
-Now, let me do you the favor - so you don't have to think - of laying out the grand vision of Dylan Field for Figma that is going to 🚀🚀🚀 the company into tendieland.
-
-But before that, a quick note on Dylan Field. If you aren't aware of Dylan, he is nothing short of a generational leader. His vision, tenacity, ambition, etc, to succeed with Figma are what we call ***rare***. To put it bluntly, this guy basically wants to be another Steve Jobs while being a humble nice guy who is incredibly smart. He's by all measures a rare leader and better than you or I will ever be. He's the type of leader you believe in, not doubt. So much so, he believed in himself and dropped out of Brown to start Figma after receiving a grant from Peter Thiel who also believed in him (look how that turned out so far).
-
-Ok, so, Dylan Field good guy, built a great company, where does it go from here? (🚀)
-
-Have you guys heard of LLM's/AI? Like the ones Anthropic (and others) build? The ones where companies scraped the internet of information and code and ran it through some fancy algorithm to give us some nice slop that generally works well when you use your brain a little bit? Not going to make the gardener a brain surgeon, but generally a net positive for access to information - much better than google searching.
-
-Ok, cool, you have. So, you must also be aware that the algorithms that train these things basically summarize its training data (can be any data - public or proprietary) as outputs.
-
-When looking at digital creation and especially software, it's general consensus that these tools will help the software creation process by moving it up an abstraction layer. As a software engineer, instead of laboriously writing all of the code for a software project, things are a lot faster now because you can describe what you want in plain english and get really good momentum quicker. As any software engineer knows by now, it still requires you in the loop for a lot of reasons. After all, they're stochastic algorithms. The worlds banking infrastructure isn't going to be probably guessed to be correct, its going to be verified and help accountable to be correct by someone.
-
-But, at the end of the day, the infra to bring cost downs on training and inference is going up, which should bring costs down, and its really only a matter of time before coding agents become a bit commoditized. Sure SOTA will be there, but local or cheaper models will be good enough - this is basically general consensus at this point. So, over time, its probably not a great business to solely be in if you're a company IMO. As a company, you probably *have to* move to the app-layer over time.
-
-So, coding agents:
-
-* Becoming commoditized
-* Are fungible
-* You still need humans
-* The creation aspect of software has to a large extent moved up an abstraction level - to design rather than strict labor
-* Companies creating these things are building their own single player ""design tools"" to utilize the agents.
-
-Now, let me ask you something. *What company is the best at collaborative digital design software and has* ***a lot of experience*** *in the field?*
-
-A company which:
-
-* Has recently begun integrating source code access into their tool
-* Creating their own proprietary design agents with a decade of usage data of the best design tool available
-* Can plug in any fungible coding agent
-* Can *probably* create a killer coding UI
-* Already can bring engineers, designers, PMs, or any stakeholders together digitally easily to work on a software product in a multiplayer environment
-* Has a great leader with a vision to execute on this (and not to mention an ***ABSURD*** stock based compensation package based on stock price milestones)
-
-**It's Figma**. The grand vision is for the Figma web/desktop app to be the epicenter of digital creation. They are playing a little catch up now on the coding integration, but once they get there - and they already have begun - they are going to steamroll the competition with experience in collaborative multiplayer digital creation.
-
-Do not bet against Dylan to bring this vision to life, he is seriously autistic and has a bigger package literally and figuratively than you or I.
-
-In for Figma 50K shares.",a lot of people aren t ready to hear this but fig stock has a lot of room to run and can pick up some unexpected for some momentum down the line i ll try to be brief but i m terrible with words i didn t pay attention in english class first let me address the bears each bearish take i read on figma is maximum regarded and it s the same boring regurgitated takes over and over again which somehow all and lazily conflate what figma and any new llm providers do as a core business ai risk disruption seat based model breaking x off its ipo high its going to zero i do with claude design what i used to in figma ha ha ha alright squirt take a sit while daddy lays it out for you while you don t have a novel thought in your head yes figma is down a lot yes anyone with a brain knew there was going to be a boom bust ipo cycle no its not because they re failing as a business if you bought at the highs of the ipo or have gotten shaken out of your shares feel sorry for you bro there is still money to be made the truth is the market has some shares to digest as they ve become public this past year alright now that i ve put the bears in their place let me explain why figma is going to blow some heads in the coming future i expect this company to become irrationally valued once this thesis catches on if it doesn t my wife is going to kill me it s important to understand that figma with dylan field at the helm has done at least two incredibly impressive things built a highly performant multiplayer collaboration web tool built digital design software on top of this stack that was is leagues ahead of any competitor then and now that everyone loves and uses figma is objectively the gold standard of widespread collaborative digital design software outside of niche areas which competitors like adobe still dominate in they are everywhere and if you re in a company producing software you probably use them so let me summarize so far they are everywhere they are the undisputed champions of general digital creation on top of a highly performant tech stack they ve been building this great software for a little over a decade financials are good the company has b on hand is debt free is growing yoy has a strategic investment arm figma ventures there is some stock based compensation being digested but that will pass they haven t even entertained cutting costs yet its literally not a priority now let me do you the favor so you don t have to think of laying out the grand vision of dylan field for figma that is going to the company into tendieland but before that a quick note on dylan field if you aren t aware of dylan he is nothing short of a generational leader his vision tenacity ambition etc to succeed with figma are what we call rare to put it bluntly this guy basically wants to be another steve jobs while being a humble nice guy who is incredibly smart he s by all measures a rare leader and better than you or i will ever be he s the type of leader you believe in not doubt so much so he believed in himself and dropped out of brown to start figma after receiving a grant from peter thiel who also believed in him look how that turned out so far ok so dylan field good guy built a great company where does it go from here have you guys heard of llm s ai like the ones anthropic and others build the ones where companies scraped the internet of information and code and ran it through some fancy algorithm to give us some nice slop that generally works well when you use your brain a little bit not going to make the gardener a brain surgeon but generally a net positive for access to information much better than google searching ok cool you have so you must also be aware that the algorithms that train these things basically summarize its training data can be any data public or proprietary as outputs when looking at digital creation and especially software it s general consensus that these tools will help the software creation process by moving it up an abstraction layer as a software engineer instead of laboriously writing all of the code for a software project things are a lot faster now because you can describe what you want in plain english and get really good momentum quicker as any software engineer knows by now it still requires you in the loop for a lot of reasons after all they re stochastic algorithms the worlds banking infrastructure isn t going to be probably guessed to be correct its going to be verified and help accountable to be correct by someone but at the end of the day the infra to bring cost downs on training and inference is going up which should bring costs down and its really only a matter of time before coding agents become a bit commoditized sure sota will be there but local or cheaper models will be good enough this is basically general consensus at this point so over time its probably not a great business to solely be in if you re a company imo as a company you probably have to move to the app layer over time so coding agents becoming commoditized are fungible you still need humans the creation aspect of software has to a large extent moved up an abstraction level to design rather than strict labor companies creating these things are building their own single player design tools to utilize the agents now let me ask you something what company is the best at collaborative digital design software and has a lot of experience in the field a company which has recently begun integrating source code access into their tool creating their own proprietary design agents with a decade of usage data of the best design tool available can plug in any fungible coding agent can probably create a killer coding ui already can bring engineers designers pms or any stakeholders together digitally easily to work on a software product in a multiplayer environment has a great leader with a vision to execute on this and not to mention an absurd stock based compensation package based on stock price milestones it s figma the grand vision is for the figma web desktop app to be the epicenter of digital creation they are playing a little catch up now on the coding integration but once they get there and they already have begun they are going to steamroll the competition with experience in collaborative multiplayer digital creation do not bet against dylan to bring this vision to life he is seriously autistic and has a bigger package literally and figuratively than you or i in for figma k shares,0.9996,positive
 2026-05-29 21:18:51+00:00,Bought 245 strike price calls expiring after ORCL earnings today. I think with AI in focus they will pop and try to reach ATH. What is your opinion on this? ,bought strike price calls expiring after orcl earnings today i think with ai in focus they will pop and try to reach ath what is your opinion on this,-0.1027,negative
-2026-05-29 20:55:55+00:00,"1 year of options : +$168K (+38.25%)
-
-Not going to pretend every week was clean. You can see the drawdowns in the chart
-
-But stayed disciplined, kept position sizing in check, and let the good setups play out.
-
-Options Win rate: 75-78% YoY  
-Overall P&L Win rate: \~82–85% YoY
-
-Still learning. Still improving. ",year of options k not going to pretend every week was clean you can see the drawdowns in the chart but stayed disciplined kept position sizing in check and let the good setups play out options win rate yoy overall p l win rate yoy still learning still improving,0.9752,positive
 2026-05-29 20:53:29+00:00,"Is the real AI trade actually nuclear power?
 
 Everyone is focused on chips, memory, and software, but AI seems to be turning into an electricity problem. If AI adoption keeps accelerating, data centers will need enormous amounts of power 24/7. Solar and wind help, but they’re intermittent. Natural gas has limits too.
@@ -246,16 +144,12 @@ Curious what people think? ( I'm talking about nuclear power, not nuclear bombs,
 
 The primary risk is geopolitical. However, as TSM becomes more globally integrated, the cost of Chinese interference rises for everyone including China itself,  who also relies on TSM's chips. A Chinese move on Taiwan crashes the entire global stock market, not just TSM. This is closer to mutually assured economic destruction than a targeted risk. Relatedly, while the US has increased spending for global chip manufacturing, they are arguably a decade behind, and any movement from China in the near-term is offset by global interests from world superpowers, including the USA. 
 
-The secondary risk is an AI capex slowdown from hyperscalers. Given that Microsoft, Google, Meta and Amazon have all raised 2026 capex guidance significantly, and inference demand is growing independently of training, I believe the AI buildout has sufficient runway over my 3-5 year horizon.",today i moved of my portfolio to taiwan semiconductor and i plan to hold it for years i am convinced this stock is under priced relative to other megacap stocks for a few key reasons first and most importantly the geopolitical risk from china is overweighted and currently suppresses tsm s valuation in a meaningful way tsm is the hormuz strait of semiconductors china has postured about taiwan since the s for years now they ve done nothing i am not convinced china can mess with tsm taiwan more generally in a way that could force the stock to drop a significant amount tsm s global integration means that a lot of players are relying on taiwan it would be geopolitical suicide for china who also rely on tsm s chips tsm is also diversifying locations with plants in arizona and europe which are expected to be completed in the next years second tsm s moat is greater than any other company in the world tsm manufactures around of the world s advanced nodes they have decades of accumulated process knowledge that even well funded competitors with government backing have been unable to replicate such as intel who is generations behind tsm on top of what they ve already achieved they are also investing billion in annual capital expenditure with approximately billion dedicated to r d what this has led to is generating a higher portion of usable wafers which no other manufacturer is capable of with so much invested in rd and their partnerships working with nvda and google to create these chips they will continue to be at the bleeding edge for years to come third and related to the second point tsm is the backbone of the ai industry nvidia google amd and most major competitors are all paying tsm to produce their chips there may be winners and losers but tsm owns the sport apple alone generates of tsm s revenue they re not going back to intel they can t go in house and apple itself is more dominant than ever after moving to their m chips apple s thesis paid off extraordinarily i wouldn t be surprised if other players follow fourth relative to other mega cap stocks msft apple nvda the potential upside for tsm is still huge they have the th largest market cap at around trillion with nvda worth trillion it s easier to see tscm x than it is to see nvda go to trillion the ttm pe of x dropping to a forward pe of x implies analysts expect earnings growth in the next year alone for a trillion company that s extraordinary fifth tsm has not yet attracted significant retail investor attention relative to its fundamental quality while dell and sandisk have gone parabolic tsm has a lot of room to go vertical in the short term and while it s up x in the last year this treatment hasn t happened yet the primary risk is geopolitical however as tsm becomes more globally integrated the cost of chinese interference rises for everyone including china itself who also relies on tsm s chips a chinese move on taiwan crashes the entire global stock market not just tsm this is closer to mutually assured economic destruction than a targeted risk relatedly while the us has increased spending for global chip manufacturing they are arguably a decade behind and any movement from china in the near term is offset by global interests from world superpowers including the usa the secondary risk is an ai capex slowdown from hyperscalers given that microsoft google meta and amazon have all raised capex guidance significantly and inference demand is growing independently of training i believe the ai buildout has sufficient runway over my year horizon,0.8401,positive
-2026-05-29 20:42:13+00:00,"It only took 11 years of trading. Was at a -66% unrealized drawdown earlier this year due to owning dumb stocks on margin trying to make money off covered calls. I’ve learned many things over the years, and taken many breaks after previous 30-50% drawdowns.
+The secondary risk is an AI capex slowdown from hyperscalers. Given that Microsoft, Google, Meta and Amazon have all raised 2026 capex guidance significantly, and inference demand is growing independently of training, I believe the AI buildout has sufficient runway over my 3-5 year horizon.
 
-Then pivoted to 6-month+ options and slowly worked my way up before going majorly in on MU and rolling up for further gains. Technically a 10x from the lows but only 5x YTD.
+  
+\-----
 
-Have some leftover positions and shares in various names but just closed most and sitting in 80% cash as of market close today.  I plan to pivot to MU Leaps 18 months out so I can sell for LTCG instead of short. hopefully I’ll find a good entry in the next couple of weeks. Still believe in MU strongly but at this point future gains are better at LTCG rate and I want to diversify a little bit out of one name. I still think semis/memory will have some of the best returns but companies who use Agentic systems well could scale massively, only problem is many of the best returns outside of the AI infrastructure itself will be in private companies rather than public ones.
-
-(Who needs public capital if you’re building a brand new agentic first business that doesn’t need as many humans?
-
-I also think World Models are the real path to AGI/close enough to it. However LLMs will help us find the breakthroughs that actually make them work, so the infrastructure won’t go to waste either way. Will be trying to figure out a way to invest in those labs / get exposure by proxy. If anyone has ideas lmk!",it only took years of trading was at a unrealized drawdown earlier this year due to owning dumb stocks on margin trying to make money off covered calls i ve learned many things over the years and taken many breaks after previous drawdowns then pivoted to month options and slowly worked my way up before going majorly in on mu and rolling up for further gains technically a x from the lows but only x ytd have some leftover positions and shares in various names but just closed most and sitting in cash as of market close today i plan to pivot to mu leaps months out so i can sell for ltcg instead of short hopefully i ll find a good entry in the next couple of weeks still believe in mu strongly but at this point future gains are better at ltcg rate and i want to diversify a little bit out of one name i still think semis memory will have some of the best returns but companies who use agentic systems well could scale massively only problem is many of the best returns outside of the ai infrastructure itself will be in private companies rather than public ones who needs public capital if you re building a brand new agentic first business that doesn t need as many humans i also think world models are the real path to agi close enough to it however llms will help us find the breakthroughs that actually make them work so the infrastructure won t go to waste either way will be trying to figure out a way to invest in those labs get exposure by proxy if anyone has ideas lmk,0.9894,positive
+EDIT: 5/30/2026: Space is a genuine emerging demand driver for advanced chips, but it's not yet a significant TSMC revenue line in the way AI is. Space industry's move toward commercial scale (Starlink, Amazon Kuiper, the EU's Iris 2) represents an entirely new category of chip demand that didn't exist meaningfully five years ago. As those constellations scale and require more sophisticated onboard compute, they'll eventually need leading-edge nodes, which is TSM's category. Space X has spoken about making a fab plant in Austin, TX, but I find it unlikely they'll have much success ramping it up to speed in time (such was the case with Intel). This represents a possible tailwind near the 3-5 year point of my thesis. ",today i moved of my portfolio to taiwan semiconductor and i plan to hold it for years i am convinced this stock is under priced relative to other megacap stocks for a few key reasons first and most importantly the geopolitical risk from china is overweighted and currently suppresses tsm s valuation in a meaningful way tsm is the hormuz strait of semiconductors china has postured about taiwan since the s for years now they ve done nothing i am not convinced china can mess with tsm taiwan more generally in a way that could force the stock to drop a significant amount tsm s global integration means that a lot of players are relying on taiwan it would be geopolitical suicide for china who also rely on tsm s chips tsm is also diversifying locations with plants in arizona and europe which are expected to be completed in the next years second tsm s moat is greater than any other company in the world tsm manufactures around of the world s advanced nodes they have decades of accumulated process knowledge that even well funded competitors with government backing have been unable to replicate such as intel who is generations behind tsm on top of what they ve already achieved they are also investing billion in annual capital expenditure with approximately billion dedicated to r d what this has led to is generating a higher portion of usable wafers which no other manufacturer is capable of with so much invested in rd and their partnerships working with nvda and google to create these chips they will continue to be at the bleeding edge for years to come third and related to the second point tsm is the backbone of the ai industry nvidia google amd and most major competitors are all paying tsm to produce their chips there may be winners and losers but tsm owns the sport apple alone generates of tsm s revenue they re not going back to intel they can t go in house and apple itself is more dominant than ever after moving to their m chips apple s thesis paid off extraordinarily i wouldn t be surprised if other players follow fourth relative to other mega cap stocks msft apple nvda the potential upside for tsm is still huge they have the th largest market cap at around trillion with nvda worth trillion it s easier to see tscm x than it is to see nvda go to trillion the ttm pe of x dropping to a forward pe of x implies analysts expect earnings growth in the next year alone for a trillion company that s extraordinary fifth tsm has not yet attracted significant retail investor attention relative to its fundamental quality while dell and sandisk have gone parabolic tsm has a lot of room to go vertical in the short term and while it s up x in the last year this treatment hasn t happened yet the primary risk is geopolitical however as tsm becomes more globally integrated the cost of chinese interference rises for everyone including china itself who also relies on tsm s chips a chinese move on taiwan crashes the entire global stock market not just tsm this is closer to mutually assured economic destruction than a targeted risk relatedly while the us has increased spending for global chip manufacturing they are arguably a decade behind and any movement from china in the near term is offset by global interests from world superpowers including the usa the secondary risk is an ai capex slowdown from hyperscalers given that microsoft google meta and amazon have all raised capex guidance significantly and inference demand is growing independently of training i believe the ai buildout has sufficient runway over my year horizon edit space is a genuine emerging demand driver for advanced chips but it s not yet a significant tsmc revenue line in the way ai is space industry s move toward commercial scale starlink amazon kuiper the eu s iris represents an entirely new category of chip demand that didn t exist meaningfully five years ago as those constellations scale and require more sophisticated onboard compute they ll eventually need leading edge nodes which is tsm s category space x has spoken about making a fab plant in austin tx but i find it unlikely they ll have much success ramping it up to speed in time such was the case with intel this represents a possible tailwind near the year point of my thesis,0.9847,positive
 2026-05-29 20:39:00+00:00,"This is what I get for panic-selling my winners three months ago, hoping I could buy them back cheaper.
 
 Then I started betting on options tied to war, oil, inflation, and eventually seeing the market pumping like crazy moved into riskier and riskier OTM calls trying to win it all back. They didn't hit.
@@ -428,7 +322,6 @@ The market is pricing Autodesk as a mature enterprise software company that grow
 2026-05-29 20:18:07+00:00,"You see this 0dte that I held to expiry today? Yeah that shows my iron balls. I never close, I let that shit go to zero. And my software stocks will destroy all of your buttholes. FUCK MARK ZUCKERBERG BTW
 
 And next week, I will use all my profits from vibe trading to short all of the stupid space related shit stocks starting with the fake space x company! I already did the magic with the ast mobile shit phone company (can’t believe u retards think it’s rocket ship space n shit) anyways have a good weekend I will go home and research more ways to short the space stocks.",you see this dte that i held to expiry today yeah that shows my iron balls i never close i let that shit go to zero and my software stocks will destroy all of your buttholes fuck mark zuckerberg btw and next week i will use all my profits from vibe trading to short all of the stupid space related shit stocks starting with the fake space x company i already did the magic with the ast mobile shit phone company can t believe u retards think it s rocket ship space n shit anyways have a good weekend i will go home and research more ways to short the space stocks,-0.9678,negative
-2026-05-29 20:07:02+00:00,See all you degens after the SpaceX IPO. Only ss my profits over $5k. Still holding $68k worth of SLS that’s up 7%. Don’t mention how much I would be up if I was still holding MUU. I don’t wanna hear it. ,see all you degens after the spacex ipo only ss my profits over k still holding k worth of sls that s up don t mention how much i would be up if i was still holding muu i don t wanna hear it,0.5859,positive
 2026-05-29 20:05:32+00:00,"My only major losses have ever been on spy. Infact, I was up like 4k before trying to 0dte instead of buying weeklies.
 
 In other words, don't 0dte, you can make enough just with long terms calls.",my only major losses have ever been on spy infact i was up like k before trying to dte instead of buying weeklies in other words don t dte you can make enough just with long terms calls,-0.0516,negative
@@ -443,18 +336,6 @@ Now I get to find out whether I'm smart or just confidently stupid.
 
 We’ll probably learn a lot more on June 4th.",half the market thinks it s a trucking company the other half thinks it s a platform that turns real world operations into data and eventually turns that data into decisions maybe that s why nobody agrees on what it s worth now i get to find out whether i m smart or just confidently stupid we ll probably learn a lot more on june th,0.6249,positive
 2026-05-29 19:19:02+00:00,"Was a joking w friend couple months ago that these will go up for SPCX IPO, cost basis 7-10 bucks each. Sold too early. These are worth +110k as of 7 days later.. I guess it will be much more based on how regarded this market gonna be",was a joking w friend couple months ago that these will go up for spcx ipo cost basis bucks each sold too early these are worth k as of days later i guess it will be much more based on how regarded this market gonna be,0.7184,positive
-2026-05-29 19:03:37+00:00,"Was checking the bags and noticed NVDA total returns over 23,000% thats fun. Curious if anyone ever hit a 25,000%? ",was checking the bags and noticed nvda total returns over thats fun curious if anyone ever hit a,0.6808,positive
-2026-05-29 18:45:49+00:00,"If you feel, you haven’t fully captured the bull run in AI boom  
-Don’t worry, you can compensate for that during AI crash (provided you know, how to make money in bear market)
-
-Napkin level math, revenue of AI suppliers are increasing tremendously because AI buyers are buying in hope, there revenues and profit margins will dramatically expand 
-
-Music will stay on, until later runs out of that “hope” 
-
-Two charts attached  
-Relatively flat revenue line for top software companies 
-
-Expand revenue for AI infra suppliers",if you feel you haven t fully captured the bull run in ai boom don t worry you can compensate for that during ai crash provided you know how to make money in bear market napkin level math revenue of ai suppliers are increasing tremendously because ai buyers are buying in hope there revenues and profit margins will dramatically expand music will stay on until later runs out of that hope two charts attached relatively flat revenue line for top software companies expand revenue for ai infra suppliers,0.8176,positive
 2026-05-29 18:26:44+00:00,,nan,0.0,neutral
 2026-05-29 18:21:53+00:00," 
 
@@ -472,38 +353,8 @@ The DD was sound. It was a little early but it happened as prophesized.
 
 Thank you, u/crazyfool319.",it was back in march when i saw this post the dd was sound it was a little early but it happened as prophesized thank you u crazyfool,0.5023,positive
 2026-05-29 17:56:25+00:00,Someone tell me to sell😭 everything just happened so fast in two days. Using a lot of margin,someone tell me to sell everything just happened so fast in two days using a lot of margin,0.0,neutral
-2026-05-29 17:48:36+00:00,"This is the kind of stock people will look back on and say:
-
-„Well obviously it was going to go up. I should've invested more.“
-
-And as we say in Germany: Klotzen, nicht kleckern!
-
-So I bought Microsoft. Good luck everybody else!
-
-**EDIT (Because some people asked): My investment obviously isn‘t just yolo** 
-
-This is all just my personal opinion/assumptions (no investment advice):
-
-I think Microsoft will in general profit from the investor shift back to SaaS companies.
-
-In regard to Microsoft specifically I see the growth opportunities mainly in Azure + AI infrastructure, Copilot, Security, and GitHub.  
-The real moat is the deep enterprise integration: Windows, Office, Teams, Azure, Identity, Security. AI is just being layered on top of an already deeply embedded ecosystem. Microsoft doesn’t need to win new customers, it mainly needs to increase revenue per customer.  
-Copilot is still in early rollout, so not all companies use it yet…but the key point is: growth is less about acquiring brand new customers and more about upselling and rolling out within the existing Microsoft 365 enterprise base (from pilots → full enterprise deployment, more seats, more workloads).  
-The market is still giving MSFT a bit of a discount because of heavy AI capex, margin pressure, and skepticism around Copilot monetization. Compared to some AI high-flyers, Microsoft almost looks „boring“ like Alphabet did some time ago…  
-But that’s probably the strength long term: predictable cash flows, massive distribution, high switching costs, and a full end-to-end AI stack
-
-All that for a reasonable price level now",this is the kind of stock people will look back on and say well obviously it was going to go up i should ve invested more and as we say in germany klotzen nicht kleckern so i bought microsoft good luck everybody else edit because some people asked my investment obviously isn t just yolo this is all just my personal opinion assumptions no investment advice i think microsoft will in general profit from the investor shift back to saas companies in regard to microsoft specifically i see the growth opportunities mainly in azure ai infrastructure copilot security and github the real moat is the deep enterprise integration windows office teams azure identity security ai is just being layered on top of an already deeply embedded ecosystem microsoft doesn t need to win new customers it mainly needs to increase revenue per customer copilot is still in early rollout so not all companies use it yet but the key point is growth is less about acquiring brand new customers and more about upselling and rolling out within the existing microsoft enterprise base from pilots full enterprise deployment more seats more workloads the market is still giving msft a bit of a discount because of heavy ai capex margin pressure and skepticism around copilot monetization compared to some ai high flyers microsoft almost looks boring like alphabet did some time ago but that s probably the strength long term predictable cash flows massive distribution high switching costs and a full end to end ai stack all that for a reasonable price level now,0.9628,positive
 2026-05-29 17:46:47+00:00,was a few hundred dollars short on cash in my Roth IRA to pick up a second call but I was fairly confident I would win thanks to Dump's truths. in fairness I should have picked up a second more OTM call but I'm happy either way ,was a few hundred dollars short on cash in my roth ira to pick up a second call but i was fairly confident i would win thanks to dump s truths in fairness i should have picked up a second more otm call but i m happy either way,0.967,positive
-2026-05-29 17:42:16+00:00,"I’m up about 40% from my initial post on my $now position. The original post got over 130,000 interactions. Its quite interesting, whenevr i post a buy on reddit and it gets 50k+ views the stock almost always rallies the next 2 weeks.
-
-I’m comfortable with this position size. If we go back to the 90s or low 100s I’ll add more but for now a $7,000 position is fine for me. 
-
-Some other stocks I’ve been eyeing and think will perform well over the next 6-12 months…
-
-$ELF- great stock has proven to hold up in recessions and even grow.  
-$NKE- this is a tough one. Pretty hard to get excited about a clothing brand. Story here is that Nike is going fucking nowhere and their revenue/gross profit will continue expands as it has that last 20+ years.",i m up about from my initial post on my now position the original post got over interactions its quite interesting whenevr i post a buy on reddit and it gets k views the stock almost always rallies the next weeks i m comfortable with this position size if we go back to the s or low s i ll add more but for now a position is fine for me some other stocks i ve been eyeing and think will perform well over the next months elf great stock has proven to hold up in recessions and even grow nke this is a tough one pretty hard to get excited about a clothing brand story here is that nike is going fucking nowhere and their revenue gross profit will continue expands as it has that last years,0.9643,positive
 2026-05-29 17:40:47+00:00,,nan,0.0,neutral
-2026-05-29 17:36:09+00:00,I was lucky and had early access before the IPO.,i was lucky and had early access before the ipo,0.4215,positive
 2026-05-29 17:32:42+00:00,,nan,0.0,neutral
 2026-05-29 17:30:30+00:00,,nan,0.0,neutral
 2026-05-29 17:23:01+00:00,,nan,0.0,neutral
@@ -628,56 +479,8 @@ A Chinese humanoid robot recently won the first robot marathon in Beijing using 
 10x or bust. See you on the other side.",this company was awesome already but then recently invented native color lidar a new generation of camera lidar hybrids that are like cameras on steroids the use cases are unlimited and scale way beyond normal lidar ouster is already partnered with and being used in humanoid robots food delivery robots drones autonomous vehicles security platforms traffic systems government unmanned systems and being tried out in more a chinese humanoid robot recently won the first robot marathon in beijing using an ouster product as it eyes even china recognizes ouster s products as still being superior in that market x or bust see you on the other side,0.9623,positive
 2026-05-29 16:35:10+00:00,"Going all in on CRCL with the rest of my cash. Hoping to see $200+ 🙏  
 I believe this could be one of the most important financial infrastructure companies of the next decade ",going all in on crcl with the rest of my cash hoping to see i believe this could be one of the most important financial infrastructure companies of the next decade,0.5984,positive
-2026-05-29 16:19:23+00:00,"It would now cost as much in taxes to close this position as it is “worth.” And no, IRS, you will not be getting your cut of my hard earned money. ",it would now cost as much in taxes to close this position as it is worth and no irs you will not be getting your cut of my hard earned money,-0.4215,negative
 2026-05-29 16:18:30+00:00,There is a bubble methinks. Gonna rebuy stuff next week when the market corrects after Iran inevitably doesn’t agree to following a deal and big fish use retail investors as exit liquidity during after hours/ premarket :),there is a bubble methinks gonna rebuy stuff next week when the market corrects after iran inevitably doesn t agree to following a deal and big fish use retail investors as exit liquidity during after hours premarket,0.3612,positive
 2026-05-29 16:07:14+00:00,,nan,0.0,neutral
-2026-05-29 15:56:34+00:00,"edit: fixed the table   
-  
-Before anyone brings up Tesla: I know their P/E ratio is somewhere in the 400s. But at this point Tesla is pretty much Elon Musks personal cult. The valuation is purely fueld by hopium and fanboys that see Musk as the saviour of humanity.
-
-I am a long time investor in AMD. I bought them around the launch of Zen3 and RDNA 2 (13k) and I genuinely think it is a solid business with potential for growth, not just a meme stock. That being said the current rally really makes me anxious as fuck. The more I dig in, the more my senses tell me SELL.
-
-My main point of comparison is Nvidia. I've gone through Nvidia's announcements and earnings reports from the early AI ramp up and compared them with AMD's recent AI and rack-scale compute announcements. My rough estimation is that AMD today may be in a position somewhat similar to where Nvidia was roughly 1.5–2 years ago. However, AMD's current valuation is still very bullish!
-
-I hate to glaze Nvidia, but please bear with me!
-
-tl;dr for the next segment: Nvidia had OpenAI, Microsoft, Google, Amazon, Meta, Antropic and everybody that wanted to build an AI by the balls. They just sold their hardware to the highest bidder.
-
-Nvidia achieved the 5T market cap by consistently exceeding expectations quarter after quarter. Due to developin CUDA for a decade, Nvidia had a pretty wide moat when it comes to AI hardware. Pretty much everything AI was built to run on Nvidias hardware and switching would take a lot of time. Something that none of the hyperscalers could afford at the time. So they all bid for the hardware and Nvidia gave their chips to whoever was willing to pay the most. This was truly unrepresented demand from the biggest corporations in human history.
-
-In the past couple of months the market is increasinly looking for alternatives. In some cases they build their own chips such as Google with their TPUs or Amazon with their Trainium. Other hyperscalers without prior chip design experience, such as Microsoft and Meta, are going to the next best GPU designer, which is AMD.
-
-This is where the parallels to Nvidia from 2 years ago start breaking off. To understand what I mean, let's take a look at Nvidias and AMDs top of the line chips for AI data centers.
-
-
-
-||AMD MI355X|Nvidia B200|
-|:-|:-|:-|
-|Process Node|TSMC N3|TSMC 4NP|
-|HBM Memory|288 GB HBM3E|192 GB HBM3E|
-|Memory Bandwidth|8 TB/s|8 TB/s|
-|AI Compute (FP4)|\~10 PFLOPS|\~9 PFLOPS|
-|Power Draw|1400 W|\~1000-1200 W|
-
-
-
-Purely spec wise AMD has the superior product. More HBM memory, more advanced node, more PFLOPS. And for certain AI tasks AMD is actually better than Nvidia, despeit the CUDA moat.
-
-But let's talk about the elephant in the room: pricing. This is where I have to speculate again, because pricing is very opaque for both companies. I'm no JP Morgan analyst so please cut me some slack. Estimates generally place the B200 somewhere around 30k to +45k per accelerator. AMD has not publicly disclosed MI355X pricing, but everything we know suggests it is being sold at a discount to comparable Nvidia hardware. If I had to put a number, I'd pick 15k to 25k.
-
-So in simple terms: AMD is producing their chips on a more expensive node. They puts more HBM memory on their cards. That HBM is currently sold at a premium due to unforseen demand (just look at SK Hynix, Samsung and Micron). And they sell the end product at a lower price than Nvidia. It doesn't take a genius to see that the profit margins are gonna be nowhere near Nvidias from the past 2 years.
-
-But it gets worse...
-
-Our beloved CEO Dr. Lisa Su has a remarkable track record when it comes to predicting future numbers. Most of the times projected quarterly numbers are either on point or slightly above. So for this segment I'm gonna take Lisas word for it.
-
->""AMD expects the market for the company's data center chips to grow to $1 trillion by 2030""
-
-Even if we assume that this prediction will come true, how much of that TAM can AMD realistically capture? Nvidias CUDA is still forcing many hyperscalers to buy their chips. AMDs ROCm still has to catch up. On the other hand other hyperscalers are building their own chips.
-
-To come back to the crazy P/E ratio, AMD needs to roughly 5x their current annual profits in to come to a similar P/E ratio to Nvidia, TSMC, Apple, ect. of 30-45. Scaling todays profitability this means that AMD has to make rougly 200B in revenue annually or 20% of the 1T TAM.
-
-Can Dr. Lisa Su do that? How much of the 1T TAM can they capture? How much of that revenue results in profit? Is the market seeing something that I don't? What am I missing?",edit fixed the table before anyone brings up tesla i know their p e ratio is somewhere in the s but at this point tesla is pretty much elon musks personal cult the valuation is purely fueld by hopium and fanboys that see musk as the saviour of humanity i am a long time investor in amd i bought them around the launch of zen and rdna k and i genuinely think it is a solid business with potential for growth not just a meme stock that being said the current rally really makes me anxious as fuck the more i dig in the more my senses tell me sell my main point of comparison is nvidia i ve gone through nvidia s announcements and earnings reports from the early ai ramp up and compared them with amd s recent ai and rack scale compute announcements my rough estimation is that amd today may be in a position somewhat similar to where nvidia was roughly years ago however amd s current valuation is still very bullish i hate to glaze nvidia but please bear with me tl dr for the next segment nvidia had openai microsoft google amazon meta antropic and everybody that wanted to build an ai by the balls they just sold their hardware to the highest bidder nvidia achieved the t market cap by consistently exceeding expectations quarter after quarter due to developin cuda for a decade nvidia had a pretty wide moat when it comes to ai hardware pretty much everything ai was built to run on nvidias hardware and switching would take a lot of time something that none of the hyperscalers could afford at the time so they all bid for the hardware and nvidia gave their chips to whoever was willing to pay the most this was truly unrepresented demand from the biggest corporations in human history in the past couple of months the market is increasinly looking for alternatives in some cases they build their own chips such as google with their tpus or amazon with their trainium other hyperscalers without prior chip design experience such as microsoft and meta are going to the next best gpu designer which is amd this is where the parallels to nvidia from years ago start breaking off to understand what i mean let s take a look at nvidias and amds top of the line chips for ai data centers amd mi x nvidia b process node tsmc n tsmc np hbm memory gb hbm e gb hbm e memory bandwidth tb s tb s ai compute fp pflops pflops power draw w w purely spec wise amd has the superior product more hbm memory more advanced node more pflops and for certain ai tasks amd is actually better than nvidia despeit the cuda moat but let s talk about the elephant in the room pricing this is where i have to speculate again because pricing is very opaque for both companies i m no jp morgan analyst so please cut me some slack estimates generally place the b somewhere around k to k per accelerator amd has not publicly disclosed mi x pricing but everything we know suggests it is being sold at a discount to comparable nvidia hardware if i had to put a number i d pick k to k so in simple terms amd is producing their chips on a more expensive node they puts more hbm memory on their cards that hbm is currently sold at a premium due to unforseen demand just look at sk hynix samsung and micron and they sell the end product at a lower price than nvidia it doesn t take a genius to see that the profit margins are gonna be nowhere near nvidias from the past years but it gets worse our beloved ceo dr lisa su has a remarkable track record when it comes to predicting future numbers most of the times projected quarterly numbers are either on point or slightly above so for this segment i m gonna take lisas word for it amd expects the market for the company s data center chips to grow to trillion by even if we assume that this prediction will come true how much of that tam can amd realistically capture nvidias cuda is still forcing many hyperscalers to buy their chips amds rocm still has to catch up on the other hand other hyperscalers are building their own chips to come back to the crazy p e ratio amd needs to roughly x their current annual profits in to come to a similar p e ratio to nvidia tsmc apple ect of scaling todays profitability this means that amd has to make rougly b in revenue annually or of the t tam can dr lisa su do that how much of the t tam can they capture how much of that revenue results in profit is the market seeing something that i don t what am i missing,0.9962,positive
 2026-05-29 15:49:20+00:00,My 1 Dell share from 14 years ago is doing great,my dell share from years ago is doing great,0.743,positive
 2026-05-29 15:47:58+00:00,Mostly call gains ,mostly call gains,0.34,positive
 2026-05-29 15:47:45+00:00,"This is after a couple roll downs. Took \~$145k (+230%) of profit
@@ -703,9 +506,6 @@ For anyone watching the copper supply chain - whether that's producers like FCX 
 I’m OUT!  
 This shit is done  AI is topped  
 I’m withdrawing ALL cash!!!",man days ago it was like k but whatever profit is profit i m out this shit is done ai is topped i m withdrawing all cash,0.5499,positive
-2026-05-29 15:21:14+00:00,"https://preview.redd.it/p01ibv7tf34h1.png?width=1404&format=png&auto=webp&s=b4d80c000fd19a3b395099135f4179656a73a8d8
-
-RIP. Didn't expect it to shoot that much, at least it is covered, so no real loss other than missing on a potential gain here, but still stings looking at it 12x just overnight. ",rip didn t expect it to shoot that much at least it is covered so no real loss other than missing on a potential gain here but still stings looking at it x just overnight,-0.4243,negative
 2026-05-29 15:13:52+00:00,Fucking Snowflake.,fucking snowflake,0.0,neutral
 2026-05-29 15:02:13+00:00,,nan,0.0,neutral
 2026-05-29 14:55:05+00:00,,nan,0.0,neutral
@@ -733,21 +533,6 @@ TL;DR: Government bailed out and held these two hostage for 18 years. They've mo
 2026-05-29 12:48:15+00:00,,nan,0.0,neutral
 2026-05-29 11:01:09+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1tqybpo),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-05-29 09:27:18+00:00,all I do is buy 0-3 DTE QQQ calls and puts. for instance I made $250k just yesterday lmao ,all i do is buy dte qqq calls and puts for instance i made k just yesterday lmao,0.5994,positive
-2026-05-29 09:03:14+00:00,,nan,0.0,neutral
-2026-05-29 08:16:57+00:00,"Dell posted explosive, headline-grabbing revenue growth driven by AI server sales, but the underlying economics show that the vast majority of that new money acts as a pass-through to component suppliers (like Nvidia, AMD, and memory manufacturers).
-
-\## The Q1 FY2027 Revenue Jump  
-Compared to the same quarter last year, Dell's total revenue grew by an incredible 88%. However, their \*\*Cost of Sales\*\*—the line item that includes processors, GPUs, high-density memory, and other manufacturing materials—grew by 95.5%.
-
-\## Where Every New Dollar Goes  
-If we look strictly at the \*\*$20.46 billion in new revenue\*\* generated this quarter compared to last year, we can see exactly how much is eaten by hardware costs versus how much reaches the bottom line:  
- \* \*\*86.1% goes to component costs:\*\* Out of every new dollar, \~86 cents goes straight into increased Cost of Sales to buy the expensive silicon and memory required to build modern servers.  
- \* \*\*1.7% goes to operating expenses:\*\* Sales, general, and administrative costs.  
- \* \*\*12.2% translates to operating profit:\*\* About 12 cents of every new dollar actually makes it to Dell's operating income.
-
-\## The AI Hardware Margin Squeeze  
-Dell recognized \*\*$16.1 billion in AI server revenue\*\* in Q1 alone (up 757% year-over-year). But AI servers are essentially metal wrappers around incredibly expensive components. During the earnings call, Dell specifically highlighted high-density memory as their primary supply constraint and a major cost driver.  
-Because Dell is selling so much high-cost, lower-margin AI hardware, their overall \*\*Gross Margin rate actually dropped\*\* from \~21.1% last year to \~17.7% this quarter. The sheer volume of AI orders is driving record total profits (net income was up 256%), but it fundamentally changes the shape of Dell's business into a heavier, lower-margin, component-dependent model compared to their traditional enterprise PC and storage days.",dell posted explosive headline grabbing revenue growth driven by ai server sales but the underlying economics show that the vast majority of that new money acts as a pass through to component suppliers like nvidia amd and memory manufacturers the q fy revenue jump compared to the same quarter last year dell s total revenue grew by an incredible however their cost of sales the line item that includes processors gpus high density memory and other manufacturing materials grew by where every new dollar goes if we look strictly at the billion in new revenue generated this quarter compared to last year we can see exactly how much is eaten by hardware costs versus how much reaches the bottom line goes to component costs out of every new dollar cents goes straight into increased cost of sales to buy the expensive silicon and memory required to build modern servers goes to operating expenses sales general and administrative costs translates to operating profit about cents of every new dollar actually makes it to dell s operating income the ai hardware margin squeeze dell recognized billion in ai server revenue in q alone up year over year but ai servers are essentially metal wrappers around incredibly expensive components during the earnings call dell specifically highlighted high density memory as their primary supply constraint and a major cost driver because dell is selling so much high cost lower margin ai hardware their overall gross margin rate actually dropped from last year to this quarter the sheer volume of ai orders is driving record total profits net income was up but it fundamentally changes the shape of dell s business into a heavier lower margin component dependent model compared to their traditional enterprise pc and storage days,0.7003,positive
 2026-05-29 07:45:12+00:00,"officially DD as to why we’re at the top (from a bear who didn’t buy the puts)
 
 i head a woman talking about stocks today and saying “they just keep going up! i made a lot of money on those AI ones”
@@ -777,7 +562,6 @@ Position:
 30k in stocks  
 12k in 2028 LEAPS",modeled meta out tonight cuz i like accounting and i always do my dd after i bought in and i think it s worth trillion target price of key assumptions apart from management guidance on capex topline and reality labs foa keeps growing in the mid range rl reaches breakeven by and then accelerates into and capex continues ramping into before slowing down this is where you see the explosion in fcf using a base case x exit multiple i get to an intrinsic value of roughly a trillion market cap and this isn t counting the new subscription model which is purely accretive or leasing of data centers billion run way so these are my margin of safety position k in stocks k in leaps,0.8591,positive
 2026-05-29 04:13:57+00:00,"NCCN, and now ACS (American Cancer Society) has their blood tests for certain cancers on their, “recommended” list for screening. Next up the USPTF. FDA approval a few months ago and improved earnings each quarter the last 2 years. ",nccn and now acs american cancer society has their blood tests for certain cancers on their recommended list for screening next up the usptf fda approval a few months ago and improved earnings each quarter the last years,0.5719,positive
-2026-05-29 03:01:24+00:00,Sold 8 $315 CSP contracts expiring (5/29/26).,sold csp contracts expiring,0.0,neutral
 2026-05-29 02:58:55+00:00,"More dedicated and regarded DD this time. Earlier I didn’t have the time to write this up, but here’s what I’m thinking.
 
 Corsair, among other things, takes the raw memory chips, test them, bins them, and packages them on their own PCBs (printed circuit boards). This is a very important part of the semiconductor supply chain. What this means :
@@ -801,60 +585,11 @@ Positions:
 1 6/18 call  
 6 8/21 calls when they were literally lunch money (wish I had had more at the time)  
 46 7/26 calls",more dedicated and regarded dd this time earlier i didn t have the time to write this up but here s what i m thinking corsair among other things takes the raw memory chips test them bins them and packages them on their own pcbs printed circuit boards this is a very important part of the semiconductor supply chain what this means they have expertise in packaging in semiconductors this is taking a chip from the wafer and putting it into an actual end user component think of the metal package around a cpu or a ram dimm with the huge demand for memory in all forms due to the ai boom this means that they can capture value by providing memory packaging memory modules in other systems including enterprise and data center the ai memory market will need their services for providing memory in any form while this is different than personal gaming computers the underlying methods are similar and transferable so my thesis is they have the skills to satisfy part of the ai supply chain remember when micron said we are going to focus on ai memory same thing here tldr analyst upgrades capture part of ai hardware supply chain market i m a regard exit strategy when crsr related ai slop appears on linkedin or when people start to say it s always been my passion to work at corsair positions call calls when they were literally lunch money wish i had had more at the time calls,0.9667,positive
-2026-05-29 02:44:03+00:00,,nan,0.0,neutral
-2026-05-29 02:34:48+00:00,"**AI storage is waking up, and NTAP just gave the market a receipt**
-
-Everyone already found the obvious AI trades.  
-GPUs.Power.Cooling.Networking.  
-But the boring layer underneath all of it is starting to look a lot less boring:  
-**storage.**
-
-AI does not run on vibes. It runs on data. And that data has to live somewhere.  
-Training data, cleaned data, tokenized data, checkpoints, fine-tunes, model artifacts, inference logs, RAG/vector data, backups, compliance copies, disaster recovery copies — it is copy after copy after copy.  
-IDC has said the average IT org manages around **13 copies of data** across primary, secondary, cloud, and edge environments. That matters because AI is not just about having a model. It is about getting trusted data into that model fast enough and safely enough to make it useful.  
-And once you are training at scale, storage becomes even more critical. MLCommons pointed out that Meta’s Llama 3 training cluster used **16,000 accelerators**, ran for **54 days**, and had **419 failures**. That is why checkpointing matters. If your storage layer cannot keep up, your expensive GPUs are sitting there waiting.  
-That is the trade:  
-**AI needs compute. Compute needs data. Data needs storage.**
-
-**NTAP is the proof point**  
-I do not think this should be a one-stock thesis, but NetApp just gave one of the cleanest signals that the storage layer is getting re-rated.  
-Their latest quarter was honestly kind of insane for a “boring storage company.”  
-NetApp reported Q4 FY26 revenue of **$1.95B**, up **12% YoY**, and full-year revenue of **$6.93B**, up **5% YoY**. They also posted record results across revenue, gross profit, operating income, operating cash flow, and free cash flow.    
-The big one: **all-flash array revenue hit a record $1.2B in Q4, up 18% YoY.** Public cloud revenue also hit a record **$182M**, up **11% YoY**. Fiscal-year billings were **$7.21B**, up **6% YoY**.    
-Non-GAAP EPS came in at **$2.43**, up **26% YoY**, and Q4 free cash flow was **$900M**, up **41% YoY**.    
-That is not “AI press release fluff.” That is the market seeing real money flow into enterprise data infrastructure.  
-Management also directly tied the results to AI, saying NetApp’s hybrid cloud and intelligent data infrastructure platform is powering customers’ AI-driven transformations by giving secure, high-performance access to data wherever it lives.    
-**Why this matters beyond NTAP**  
-NTAP might just be the first obvious proof point.  
-If AI keeps scaling, this theme should touch the whole storage stack:  
-**WDC / STX** — mass-capacity hard drives for hyperscalers. Boring, cyclical, but potentially very levered if demand stays tight.  
-**PSTG** — cleaner enterprise flash/storage infrastructure story.  
-**MU / SNDK** — memory/NAND/flash exposure. More volatile, but tied directly to AI data center demand.  
-**DELL** — not pure storage, but it sits right in the middle of AI servers, storage, and enterprise infrastructure.  
-The market already rewarded GPUs. Then it rewarded power. Then cooling. Then networking.  
-Storage feels like one of the next bottlenecks people are still sleeping on.
-
-**Bear case**  
-Storage is cyclical. These names can rip and then get smoked if supply catches up or AI capex slows.  
-Also, not every storage company is the same. HDDs, NAND, all-flash arrays, cloud storage, enterprise data management, and server/storage bundles are very different businesses.  
-And yes, NTAP already moved. This is not some secret cave full of free money.  
-But the question is whether the market is still underestimating how much AI turns “boring storage” into mission-critical infrastructure.
-
-**My take**  
-NTAP’s quarter was the receipt.  
-AI is not just a chip story anymore. It is becoming a full-stack data center story. The companies that store, move, protect, and serve enterprise data may end up being some of the quieter winners.  
-No storage, no training data.  
-No storage, no checkpoints.  
-No storage, no RAG.  
-No storage, no enterprise AI.
-
-Roast the thesis. What storage names am I missing?",ai storage is waking up and ntap just gave the market a receipt everyone already found the obvious ai trades gpus power cooling networking but the boring layer underneath all of it is starting to look a lot less boring storage ai does not run on vibes it runs on data and that data has to live somewhere training data cleaned data tokenized data checkpoints fine tunes model artifacts inference logs rag vector data backups compliance copies disaster recovery copies it is copy after copy after copy idc has said the average it org manages around copies of data across primary secondary cloud and edge environments that matters because ai is not just about having a model it is about getting trusted data into that model fast enough and safely enough to make it useful and once you are training at scale storage becomes even more critical mlcommons pointed out that meta s llama training cluster used accelerators ran for days and had failures that is why checkpointing matters if your storage layer cannot keep up your expensive gpus are sitting there waiting that is the trade ai needs compute compute needs data data needs storage ntap is the proof point i do not think this should be a one stock thesis but netapp just gave one of the cleanest signals that the storage layer is getting re rated their latest quarter was honestly kind of insane for a boring storage company netapp reported q fy revenue of b up yoy and full year revenue of b up yoy they also posted record results across revenue gross profit operating income operating cash flow and free cash flow the big one all flash array revenue hit a record b in q up yoy public cloud revenue also hit a record m up yoy fiscal year billings were b up yoy non gaap eps came in at up yoy and q free cash flow was m up yoy that is not ai press release fluff that is the market seeing real money flow into enterprise data infrastructure management also directly tied the results to ai saying netapp s hybrid cloud and intelligent data infrastructure platform is powering customers ai driven transformations by giving secure high performance access to data wherever it lives why this matters beyond ntap ntap might just be the first obvious proof point if ai keeps scaling this theme should touch the whole storage stack wdc stx mass capacity hard drives for hyperscalers boring cyclical but potentially very levered if demand stays tight pstg cleaner enterprise flash storage infrastructure story mu sndk memory nand flash exposure more volatile but tied directly to ai data center demand dell not pure storage but it sits right in the middle of ai servers storage and enterprise infrastructure the market already rewarded gpus then it rewarded power then cooling then networking storage feels like one of the next bottlenecks people are still sleeping on bear case storage is cyclical these names can rip and then get smoked if supply catches up or ai capex slows also not every storage company is the same hdds nand all flash arrays cloud storage enterprise data management and server storage bundles are very different businesses and yes ntap already moved this is not some secret cave full of free money but the question is whether the market is still underestimating how much ai turns boring storage into mission critical infrastructure my take ntap s quarter was the receipt ai is not just a chip story anymore it is becoming a full stack data center story the companies that store move protect and serve enterprise data may end up being some of the quieter winners no storage no training data no storage no checkpoints no storage no rag no storage no enterprise ai roast the thesis what storage names am i missing,0.8116,positive
 2026-05-29 02:33:42+00:00,"So now I post my 90% gains for another 3 upvotes. 
 
 Thank you for your attention to this matter.",so now i post my gains for another upvotes thank you for your attention to this matter,0.6155,positive
 2026-05-29 02:15:29+00:00,,nan,0.0,neutral
 2026-05-29 01:54:52+00:00,$28k to $117K so far. Currently holding SpaceX and Quantum,k to k so far currently holding spacex and quantum,0.0,neutral
-2026-05-29 01:50:19+00:00,Got in at a good price but should have bought way more. This SpceX IPO will give me my first 100 bagger ,got in at a good price but should have bought way more this spcex ipo will give me my first bagger,0.2382,positive
 2026-05-29 01:33:32+00:00,Holy fucking shit,holy fucking shit,-0.5984,negative
 2026-05-29 00:04:07+00:00,,nan,0.0,neutral
 2026-05-28 23:08:47+00:00,"Source: [https://www.cnbc.com/2026/05/28/dell-q1-earnings-report-2027.html](https://www.cnbc.com/2026/05/28/dell-q1-earnings-report-2027.html)
@@ -901,155 +636,7 @@ Been wanting to get in on this for a long time. Watching what they’ve accompli
 
 To the moon, literally.",finally pulled the trigger and bought some spacex earlier this week been wanting to get in on this for a long time watching what they ve accomplished with reusable rockets starlink and the future of space travel has been insane feels good to finally own a small piece of something that s genuinely pushing technology forward to the moon literally,0.4767,positive
 2026-05-28 22:14:23+00:00,Dell soars 30% on ER. It was  one of Trump's largest personal holding.,dell soars on er it was one of trump s largest personal holding,0.0,neutral
-2026-05-28 22:07:58+00:00,"**$NOK - I've been holding this ""dead phone company"" for over a year and I'm not selling**
-
-Been holding Nokia for over a year while everyone told me I was bagholding a Nokia from 2003. Turns out I wasn't wrong, just early. Let me explain why I'm still not selling and why I think most people still haven't figured out what this company actually is now.
-
-**First, forget everything you think you know about Nokia**
-
-Yes they made phones. Yes they got destroyed by the iPhone. That was literally 18 years ago. The company you're looking at today builds the physical infrastructure that AI runs on. Different business, different management, different thesis entirely.
-
-The problem is the name. ""Nokia"" still makes people think of a brick phone with Snake on it. That mental image is actively keeping the stock cheap and I'm fine with that for now.
-
-**The PE setup**
-
-Current PE is around 95, forward PE at 33, stock sitting around $15-16.
-
-Here's where it gets interesting. The old comparable for Nokia was Ericsson — trading at 17x. Boring telecom equipment. Fair enough.
-
-But Nokia just bought Infinera and is repositioning as optical and AI infrastructure. New comparables are Ciena (216x PE) and Arista Networks (54x PE). Those are the names the market pays up for because they're AI infrastructure plays.
-
-Nokia is sitting in no man's land right now, priced like a telecom vendor, quietly becoming an AI infrastructure company. When the market figures out which bucket to put it in, the multiple rerates.
-
-Conservative end at Arista's 54x? That's roughly **$27**. And that's the boring outcome.
-
-**They're spending €4.9 billion a year on R&D**
-
-That's roughly 20-25% of revenue going straight back into future tech. Most people look at Nokia's 3-4% net margin and think the business is weak. It's not, they're choosing to reinvest almost everything.
-
-If they stopped R&D cold tomorrow the net margin would jump to somewhere around 27-28%. This is a profitable business running a long game, not a struggling one.
-
-They own Bell Labs. 100 years of fundamental research. 20,000+ patents. The licensing division alone prints money regardless of what happens with equipment sales.
-
-**The defence pivot nobody is talking about**
-
-Nokia Federal Solutions exists specifically to serve the US government. They're deploying private 5G networks for defence applications, think secure battlefield communications, not your phone signal.
-
-Current partners: US government, Lockheed Martin, NVIDIA (who dropped $1 billion into Nokia as a strategic investment), Motorola Solutions for UK defence.
-
-Defence contracts are sticky, high margin, and not subject to the pricing wars that kill telecom equipment margins. This is early innings.
-
-**Huawei is getting banned everywhere and there are only two Western alternatives**
-
-Nokia and Ericsson. That's it. That's the entire list of companies that can build full 5G/6G infrastructure at scale without being a national security risk.
-
-Germany is ripping Huawei out by 2026. UK by 2027. The US has been locked for years. Every country that kicks Huawei out needs someone to replace them. There are two options. Nokia is one of them.
-
-Western governments need Nokia to exist and win. That's not a thesis, that's geopolitics. The EU and US are not going to let the only Western 6G vendor die.
-
-**6G and AI-RAN, the part with no price target**
-
-Nokia and NVIDIA are putting AI processing directly inside the radio tower hardware. Not in a cloud server somewhere, in the actual antenna. The tower itself runs AI models, makes real time decisions in microseconds, optimizes coverage and bandwidth on the fly.
-
-6G specs get finalized 2028. Commercial deployment 2029-2030.
-
-If AI-RAN works at scale Nokia stops being just an equipment vendor and starts being an AI infrastructure platform with a completely new revenue model. No comparable exists. Can't put a number on it. Either it's transformative or it isn't.
-
-**What is AI-RAN actually mean?**
-
-**In simple terms: it's the bridge between your phone and the internet**
-
-Every time your phone sends or receives anything — a text, a video call, a Google search — it doesn't connect directly to the internet. It first connects wirelessly to a nearby cell tower. That cell tower contains the **Radio Access Network (RAN) hardware**. It translates your phone's radio signals into data that can travel through cables to the core network and out to the internet.
-
-**What the hardware physically does:**
-
-**Antennas** — capture the radio waves your phone emits and broadcast signals back to it. Modern 5G uses ""Massive MIMO"" — towers with 64, 128, even 256 antennas packed together, all pointing signals precisely at your device rather than broadcasting in all directions like older towers.
-
-**Baseband Units (BBU)** — the ""brain"" of the tower. It processes the raw radio signals, encodes/decodes data, manages which frequencies each device uses, and handles handoffs when you move between towers. This is where Nokia puts the AI.
-
-**Remote Radio Units (RRU)** — sit physically on the tower close to the antennas, amplify signals going out and clean up signals coming in.
-
-**Why putting AI in here specifically matters:**
-
-Today the BBU follows fixed rules — ""if signal drops below X, do Y."" With AI inside the hardware it can:
-
-* Predict interference before it happens
-* Shape the antenna beams in real time per device
-* Decide in microseconds which frequency band suits each user
-* Cut power consumption when a cell is quiet
-
-The reason Nokia partnered with NVIDIA specifically is that running AI models fast enough to make these microsecond decisions requires serious GPU-like processing power *inside the tower hardware itself* — not sent to a cloud server and back, because that round trip would be too slow.
-
-So essentially Nokia is turning every cell tower from a fast-but-dumb relay into a small intelligent computing node. Multiply that by millions of towers worldwide and you start to see why it's a big deal — and why it justifies the R&D spend.
-
-**Current reality:**
-
-* 4G latency: \~30-50ms
-* 5G today: \~5-10ms
-* 5G + AI target: \~1ms or less
-
-1ms sounds trivial. But it's the difference between possible and impossible for certain things.
-
-**The texting analogy** You're right that 30ms vs 1ms feels identical to a human — we can't perceive anything under \~100ms anyway. So for texting, calls, Netflix, social media — it makes zero difference to you personally.
-
-**Where it becomes a completely different technology:**
-
-**Self-driving cars** — a car at 100km/h travels about 3cm in 1ms. At 30ms latency it travels nearly a meter before the network can react to a hazard ahead. That gap is the difference between a safe brake and a crash. The car needs to communicate with other cars, traffic signals, and infrastructure *faster than human reaction time*.
-
-**Remote surgery** — a surgeon in London operating a robotic arm in Dubai. At 30ms the robot hand lags noticeably behind the surgeon's movements. At 1ms it feels physically present. This is actually being tested right now.
-
-**Factory robots** — hundreds of robotic arms on an assembly line coordinating with each other wirelessly. One mistimed signal at 30ms latency and parts collide. At 1ms they can work millimeters apart safely.
-
-**Options market has been calling this for nearly a year**
-
-Put/call volume ratio has been sitting below 0.20 for almost 12 months straight. Right now some expirations are hitting 0.03. Short interest is only 1.08% of float — basically nobody is betting against it.
-
-For context AMD's put/call ratio is 0.90. MU is 0.65. The options market on NOK has been one-directional for a long time. That's not a meme spike, that's sustained conviction.
-
-https://preview.redd.it/hcx13gtpby3h1.png?width=1080&format=png&auto=webp&s=913df90bdcea3aa5718d8c270c6770d14996164f
-
-https://preview.redd.it/l7bqf4kqby3h1.png?width=1080&format=png&auto=webp&s=bc2f49afc66a20a2bdf476d8f01a5f9a67c82283
-
-**What can go wrong**
-
-Huawei somehow keeps winning deals despite bans. Open RAN commoditize their hardware. 6G gets delayed 5 years. NVIDIA decides to build the whole stack themselves and cuts Nokia out.
-
-Real risks. Not ignoring them. Sized my position accordingly, decent bet, not the whole account.
-
-**The bottom line**
-
-$27 is the boring conservative outcome if the market just reprices Nokia from telecom to AI infrastructure comps. Everything above that depends on AI-RAN, 6G, and defence playing out.
-
-Been holding over a year through everyone telling me this was a dead company. The thesis keeps getting stronger not weaker. Not selling.
-
-**Positions: Shares + calls. Not telling you what to do with your money.**
-
-
-
-[Position from 8 months ago \( which is sold for 3k&#37; profit, and reposition for higher strike \)](https://preview.redd.it/6qwy6q6sby3h1.png?width=757&format=png&auto=webp&s=1c1719f65485d47ec1df7ebb343f5a615af64b40)
-
-[Current positions \( split between 2 accounts \)](https://preview.redd.it/n9vnlr5tby3h1.png?width=979&format=png&auto=webp&s=891fb175acb422f8d5d4011c70d058d1e7697d89)
-
-https://preview.redd.it/wr8vxh6uby3h1.png?width=1005&format=png&auto=webp&s=829bd9691b18abce049e385bb538ddcbc59e92da
-
-*Not financial advice. Do your own research. I'm just a person who spent way too long researching a Finnish company when I should've been sleeping. \[ I asked Claude to rewrite the whole thing so it will sound like an AI written but all the research were made by myself \]*",nok i ve been holding this dead phone company for over a year and i m not selling been holding nokia for over a year while everyone told me i was bagholding a nokia from turns out i wasn t wrong just early let me explain why i m still not selling and why i think most people still haven t figured out what this company actually is now first forget everything you think you know about nokia yes they made phones yes they got destroyed by the iphone that was literally years ago the company you re looking at today builds the physical infrastructure that ai runs on different business different management different thesis entirely the problem is the name nokia still makes people think of a brick phone with snake on it that mental image is actively keeping the stock cheap and i m fine with that for now the pe setup current pe is around forward pe at stock sitting around here s where it gets interesting the old comparable for nokia was ericsson trading at x boring telecom equipment fair enough but nokia just bought infinera and is repositioning as optical and ai infrastructure new comparables are ciena x pe and arista networks x pe those are the names the market pays up for because they re ai infrastructure plays nokia is sitting in no man s land right now priced like a telecom vendor quietly becoming an ai infrastructure company when the market figures out which bucket to put it in the multiple rerates conservative end at arista s x that s roughly and that s the boring outcome they re spending billion a year on r d that s roughly of revenue going straight back into future tech most people look at nokia s net margin and think the business is weak it s not they re choosing to reinvest almost everything if they stopped r d cold tomorrow the net margin would jump to somewhere around this is a profitable business running a long game not a struggling one they own bell labs years of fundamental research patents the licensing division alone prints money regardless of what happens with equipment sales the defence pivot nobody is talking about nokia federal solutions exists specifically to serve the us government they re deploying private g networks for defence applications think secure battlefield communications not your phone signal current partners us government lockheed martin nvidia who dropped billion into nokia as a strategic investment motorola solutions for uk defence defence contracts are sticky high margin and not subject to the pricing wars that kill telecom equipment margins this is early innings huawei is getting banned everywhere and there are only two western alternatives nokia and ericsson that s it that s the entire list of companies that can build full g g infrastructure at scale without being a national security risk germany is ripping huawei out by uk by the us has been locked for years every country that kicks huawei out needs someone to replace them there are two options nokia is one of them western governments need nokia to exist and win that s not a thesis that s geopolitics the eu and us are not going to let the only western g vendor die g and ai ran the part with no price target nokia and nvidia are putting ai processing directly inside the radio tower hardware not in a cloud server somewhere in the actual antenna the tower itself runs ai models makes real time decisions in microseconds optimizes coverage and bandwidth on the fly g specs get finalized commercial deployment if ai ran works at scale nokia stops being just an equipment vendor and starts being an ai infrastructure platform with a completely new revenue model no comparable exists can t put a number on it either it s transformative or it isn t what is ai ran actually mean in simple terms it s the bridge between your phone and the internet every time your phone sends or receives anything a text a video call a google search it doesn t connect directly to the internet it first connects wirelessly to a nearby cell tower that cell tower contains the radio access network ran hardware it translates your phone s radio signals into data that can travel through cables to the core network and out to the internet what the hardware physically does antennas capture the radio waves your phone emits and broadcast signals back to it modern g uses massive mimo towers with even antennas packed together all pointing signals precisely at your device rather than broadcasting in all directions like older towers baseband units bbu the brain of the tower it processes the raw radio signals encodes decodes data manages which frequencies each device uses and handles handoffs when you move between towers this is where nokia puts the ai remote radio units rru sit physically on the tower close to the antennas amplify signals going out and clean up signals coming in why putting ai in here specifically matters today the bbu follows fixed rules if signal drops below x do y with ai inside the hardware it can predict interference before it happens shape the antenna beams in real time per device decide in microseconds which frequency band suits each user cut power consumption when a cell is quiet the reason nokia partnered with nvidia specifically is that running ai models fast enough to make these microsecond decisions requires serious gpu like processing power inside the tower hardware itself not sent to a cloud server and back because that round trip would be too slow so essentially nokia is turning every cell tower from a fast but dumb relay into a small intelligent computing node multiply that by millions of towers worldwide and you start to see why it s a big deal and why it justifies the r d spend current reality g latency ms g today ms g ai target ms or less ms sounds trivial but it s the difference between possible and impossible for certain things the texting analogy you re right that ms vs ms feels identical to a human we can t perceive anything under ms anyway so for texting calls netflix social media it makes zero difference to you personally where it becomes a completely different technology self driving cars a car at km h travels about cm in ms at ms latency it travels nearly a meter before the network can react to a hazard ahead that gap is the difference between a safe brake and a crash the car needs to communicate with other cars traffic signals and infrastructure faster than human reaction time remote surgery a surgeon in london operating a robotic arm in dubai at ms the robot hand lags noticeably behind the surgeon s movements at ms it feels physically present this is actually being tested right now factory robots hundreds of robotic arms on an assembly line coordinating with each other wirelessly one mistimed signal at ms latency and parts collide at ms they can work millimeters apart safely options market has been calling this for nearly a year put call volume ratio has been sitting below for almost months straight right now some expirations are hitting short interest is only of float basically nobody is betting against it for context amd s put call ratio is mu is the options market on nok has been one directional for a long time that s not a meme spike that s sustained conviction what can go wrong huawei somehow keeps winning deals despite bans open ran commoditize their hardware g gets delayed years nvidia decides to build the whole stack themselves and cuts nokia out real risks not ignoring them sized my position accordingly decent bet not the whole account the bottom line is the boring conservative outcome if the market just reprices nokia from telecom to ai infrastructure comps everything above that depends on ai ran g and defence playing out been holding over a year through everyone telling me this was a dead company the thesis keeps getting stronger not weaker not selling positions shares calls not telling you what to do with your money position from months ago which is sold for k profit and reposition for higher strike current positions split between accounts not financial advice do your own research i m just a person who spent way too long researching a finnish company when i should ve been sleeping i asked claude to rewrite the whole thing so it will sound like an ai written but all the research were made by myself,-0.1743,negative
 2026-05-28 21:04:58+00:00,Noob here. I'm genuinely curious if the market will even budge outside of space stocks. I feel like everything is priced in at this point. ,noob here i m genuinely curious if the market will even budge outside of space stocks i feel like everything is priced in at this point,0.5574,positive
-2026-05-28 20:58:39+00:00,"\* SpaceX IPO is fucking regarded... The valuation is made to find bag holders to private equity can cash out Also because they are adding it to the NASDAQ, the crash will fuck your dads 401 in the ass.
-
- \* OpenAI/Anthropic IPO's will also be regarded... many of the same reasons for that spaceX is a steaming pile of shit, just slightly less unhinged because their LLM's are good (unlike GROK)
-
-\* Bond market is finally waking up to Iran situation.
-
-Also all of the AI bubble relies on the narrative that AGI will happen soon... What if it never fucking happens. Yes LLM's might totally replace search engines because they can distill the entire Internet and quickly find answers (to things already known).
-
-\*\*What if AI can never find answers to things UNKNOWN??\*\*
-
-If AGI never happens, the explosive growth we are being promised will never happen... And it all pops.
-
-The only thing keeping things high is the stupidity of the retail investor (that's us)
-
-Given our stupidity knows no bounds, everything I just wrote... The opposite will happen.",spacex ipo is fucking regarded the valuation is made to find bag holders to private equity can cash out also because they are adding it to the nasdaq the crash will fuck your dads in the ass openai anthropic ipo s will also be regarded many of the same reasons for that spacex is a steaming pile of shit just slightly less unhinged because their llm s are good unlike grok bond market is finally waking up to iran situation also all of the ai bubble relies on the narrative that agi will happen soon what if it never fucking happens yes llm s might totally replace search engines because they can distill the entire internet and quickly find answers to things already known what if ai can never find answers to things unknown if agi never happens the explosive growth we are being promised will never happen and it all pops the only thing keeping things high is the stupidity of the retail investor that s us given our stupidity knows no bounds everything i just wrote the opposite will happen,-0.9409,negative
-2026-05-28 20:52:17+00:00,,nan,0.0,neutral
 2026-05-28 20:50:14+00:00,"The fact that there is an AI bubble can't really be denied by anyone at this point probably. 
 
 Like I mean we all know that Nvidia investing into OpenAI and OpenAI buying chips from Nvidia is inflating the valuation of both massively.
@@ -1064,7 +651,6 @@ What's extra funny is that most people shorting because of Burry or because of t
 
 With the movie being so popular and social media impact there is a slight chance of never running out of bears and people who believe they are the next Michael Burry (Spoiler: most people can't hold an option longer than 1 week and Burry didn't even buy option he bought swaps)",the fact that there is an ai bubble can t really be denied by anyone at this point probably like i mean we all know that nvidia investing into openai and openai buying chips from nvidia is inflating the valuation of both massively we all know that stocks like bird can t just shoot up by only because of them selling all their main buissness and going all in ai i don t want to compare it to the dot com bubble or any other crash because all the companies mentioned are the major companies at this point now to how the big short could save us from any major move it is rather easy everyone wants to be michael burry even michael burry wants to be the movie michael burry again out of the last crashes correctly predicted about a year ago the rather obvious ai bubble was all over social media what has happened since then we have pumped all the way higher and the bears got fucked are there now less bears no there are still soooo many everyone wants to be the guy having the correct short because that has the most aura who gives a shit if you made a very good trade on nvidia with in profit surely everyone is happy for you yes you made it and made money not like in here and will you get a movie no you won t everyone wants to hit a perfect short what s extra funny is that most people shorting because of burry or because of the general situation have not even understood the movie guys burry did not do a perfect short he was way to early he had to wait for to years until something finally happened after all he made around profit for that the only reason it is such a known position is because people somehow believe he is some sort of genius who hit the perfect trade with the movie being so popular and social media impact there is a slight chance of never running out of bears and people who believe they are the next michael burry spoiler most people can t hold an option longer than week and burry didn t even buy option he bought swaps,0.9876,positive
 2026-05-28 20:09:33+00:00,"Still holding. As you can see I sold 250 contracts to realize at least SOME profit ($83k of proceeds) so no matter what I’m walking away with a 4 bagger. Now it’s time to ride. Gonna hold these 1,000 contracts and see what happens. Plenty of time between now and June 18th / July 17th. Market cap is $1.3b and I continue to believe this just the beginning of a material move up. Low float, low market cap, AI narrative and improving fundamentals make this ripe for a re-rate. ",still holding as you can see i sold contracts to realize at least some profit k of proceeds so no matter what i m walking away with a bagger now it s time to ride gonna hold these contracts and see what happens plenty of time between now and june th july th market cap is b and i continue to believe this just the beginning of a material move up low float low market cap ai narrative and improving fundamentals make this ripe for a re rate,0.0031,neutral
-2026-05-28 19:57:11+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1tqej0r),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-05-28 17:35:32+00:00,"Alright boys and girls, men and women, degenerates, regards, and to all who’ve lost all but a single brain cell, Ima bout to drop a bombass DD so fat it’ll make your last L on 0DTEs look like an angelic contribution to charity. In this not so short wall of text written by me fueled by an overdose on caffeine and autism so bad I got a participation trophy for showing up to my Wendy’s orientation, I am going to tell you why there’s a high probability that the company Tandem Diabetes is going to get privately acquired, or trade at such a high multiple in the next few years it’ll make your crypto plays look like a used napkin NFT.
 
 Some additional context for folks who’ve got the memory of a goldfish, or were living under a rock for the past few years, if you thought Tandem was going to go private from that one reddit post when the stock price was hovering around in the $40s, it might actually happen now given how the stock is trading. 
@@ -1273,6 +859,7 @@ https://preview.redd.it/q514a9gcuw3h1.png?width=1352&format=png&auto=webp&s=da83
 
 Edit: By changing my life, I didn’t mean money. I meant about what I learned about trading from this sub. Good luck regards 🫡",been an insane journey over the past year and half mostly trading semis ai related and spaces stock when there were a literal meme def got lucky with a few plays but i ll take it whoever posted lunr at you re the goat some you regards maybe smart after all edit by changing my life i didn t mean money i meant about what i learned about trading from this sub good luck regards,0.9178,positive
 2026-05-28 00:30:59+00:00,,nan,0.0,neutral
+2026-05-27 23:49:21+00:00,"Prob more small street, but wow! You guys are really pumping this thing! ",prob more small street but wow you guys are really pumping this thing,0.7351,positive
 2026-05-27 21:52:23+00:00,I saw other guy posted MSFT won but news says DELL,i saw other guy posted msft won but news says dell,0.3291,positive
 2026-05-27 21:42:51+00:00,"$MSFT still isn't moving up, even with this news... it seems like it's been cursed ever since the Gates Foundation sold all its shares a couple of weeks ago.",msft still isn t moving up even with this news it seems like it s been cursed ever since the gates foundation sold all its shares a couple of weeks ago,0.5719,positive
 2026-05-27 20:55:23+00:00,"That escalated quickly. I think this thing is just getting started. Going to keep holding indefinitely.
@@ -1336,6 +923,7 @@ GOOGL 390.84  range so far 385.90 to 392.85
 
 I wrote 385 May 29 puts for 3.50 with delta < -0.21 and Vega 0.07 - excellent chance I keep the premium.",not only does the googl daily chart looks like a st reversal in trend is about to develop sequential counter at sell a positive count the closing price of has four eights in cantonese is where is a homophone for the chinese word faat which means to strike it rich to have in a row is super lucky in a row is astronomical wealth the number in cantonese is where is a homophone for the chinese word sei which means death so or in cantonese reads like in cantonese and means unstoppable wealth in hong kong people pay hundreds of thousands for car license plates in public auctions in phone numbers and addresses having consecutive is fortuitous indeed over there as for goog at that s strict in a row a literal string of die rich the happy coincidence today is that both google shares closed with similar auspicious numbers that compliments each other affirming future direction for google stock may am update googl range so far to i wrote may puts for with delta and vega excellent chance i keep the premium,0.9849,positive
 2026-05-27 03:11:15+00:00,"I sold my 110 shares of Micron Technology at $64. Last September, I bought weekly MU call options, but they crashed and I sold them for an $8,000 loss. If I had bought yearly calls instead, I would’ve been a millionaire by now.",i sold my shares of micron technology at last september i bought weekly mu call options but they crashed and i sold them for an loss if i had bought yearly calls instead i would ve been a millionaire by now,-0.3291,negative
+2026-05-27 02:47:36+00:00,760% return on Micron. $5k —> $43k. Kicking myself for not buying more 🫠,return on micron k k kicking myself for not buying more,0.0,neutral
 2026-05-27 02:32:08+00:00,"Source: [https://finance.yahoo.com/markets/article/micron-tops-1-trillion-in-market-cap-as-ubs-sees-company-becoming-an-ai-giant-134443287.html](https://finance.yahoo.com/markets/article/micron-tops-1-trillion-in-market-cap-as-ubs-sees-company-becoming-an-ai-giant-134443287.html)
 
 Micron (MU) had its best day since 2011 on Tuesday, closing at a record high — its 28th of the year — after UBS more than tripled its price target on the memory chipmaker to a Street high of $1,625, arguing that the AI boom has structurally changed the market for memory.
@@ -2049,56 +1637,3 @@ Pros are that they recently announced that they are resuming the sale of tickets
 Downsides are that they continue to burn cash at an alarming rate and there is a real risk of further dilution - hence my reluctance to hold for a long period of time. 
 
 Of course I appreciate this is incredibly speculative but it’s a risk I’m willing to take as I have a lot of conviction that all space stocks still have room to run ahead of the IPO, but this one has probably run the least so far! ",i ve gone all in on virgin galactic the theory here being that in the run up to the space x ipo this stock will continue to benefit from all the hype and get lifted up alongside other space stocks as we have seen in other highly anticipated ipos in the past i want to be clear that this is not a long term play and i plan to get out probably at the latest a couple of days after the ipo possibly even before the ipo pros are that they recently announced that they are resuming the sale of tickets for commercial flights which they hope to start this year the boss also added shares last week downsides are that they continue to burn cash at an alarming rate and there is a real risk of further dilution hence my reluctance to hold for a long period of time of course i appreciate this is incredibly speculative but it s a risk i m willing to take as i have a lot of conviction that all space stocks still have room to run ahead of the ipo but this one has probably run the least so far,0.2567,positive
-2026-05-23 19:55:19+00:00,,nan,0.0,neutral
-2026-05-23 17:43:12+00:00,"Not even trying to sound dramatic but ASTS setup into June is getting kinda ridiculous.  
-You’ve got a  huge short interest + retail piling in + crazy call open interest for June + first 3-batch satellite launch in June + SpaceX IPO hype floating around at the same time and most importantly a stock that already moves like a crackhead. 
-
-The options chain is what’s really interesting to me.  
-June 18 calls are loaded to the tits.   
-180calls have around 50,000 open interest. 130’s, 150’s and 170’s are stacked too. 
-
-No idea what’s gonna happen but I’m along for the ride 
-
-Positions in comments. ",not even trying to sound dramatic but asts setup into june is getting kinda ridiculous you ve got a huge short interest retail piling in crazy call open interest for june first batch satellite launch in june spacex ipo hype floating around at the same time and most importantly a stock that already moves like a crackhead the options chain is what s really interesting to me june calls are loaded to the tits calls have around open interest s s and s are stacked too no idea what s gonna happen but i m along for the ride positions in comments,0.9479,positive
-2026-05-23 14:58:15+00:00,"Source: [https://www.cnbc.com/2026/05/22/reddit-stock-drops-after-meta-launches-forum-app.html](https://www.cnbc.com/2026/05/22/reddit-stock-drops-after-meta-launches-forum-app.html)
-
-Reddit shares fell almost 6% on Friday on concern that a new app from Meta called Forum could create an alternative avenue for internet users to congregate and create discussion groups.
-
-Forum, launched as a test app on Apple’s iOS, is part of Facebook Groups. Analysts at Truist wrote in a note on Friday that it’s “an attempt by the company to compete against Reddit as an online forum for public discourse” and “represents a new threat.”
-
-Reddit’s stock is now down almost 40% this year despite a strengthening online ad business. In April, the company reported its seventh-straight quarter of sales growth topping 60%. Meta, meanwhile, reported revenue growth of 33% in the latest quarter.
-
-“The risk from this move, if successful, is a gradual erosion of Reddit’s utility for casual users who have less community loyalty to Reddit and simply want answers,” wrote the Truist analysts, who recommend buying the stock. “This would affect non-core Reddit users more than directly logged-in, habitual users.”
-
-Reddit didn’t immediately respond to a request for comment.
-
-Meta, or Facebook as it was then known, created a separate Facebook Groups app over a decade ago but ended it in 2017. The service still exists as part of Facebook and, like Reddit, hosts discussion groups on all sorts of topics.
-
-https://preview.redd.it/uvfl9l6viw2h1.png?width=1583&format=png&auto=webp&s=e4cc8ba8ebef65a19083a0d760839df0ef93a17d",source reddit shares fell almost on friday on concern that a new app from meta called forum could create an alternative avenue for internet users to congregate and create discussion groups forum launched as a test app on apple s ios is part of facebook groups analysts at truist wrote in a note on friday that it s an attempt by the company to compete against reddit as an online forum for public discourse and represents a new threat reddit s stock is now down almost this year despite a strengthening online ad business in april the company reported its seventh straight quarter of sales growth topping meta meanwhile reported revenue growth of in the latest quarter the risk from this move if successful is a gradual erosion of reddit s utility for casual users who have less community loyalty to reddit and simply want answers wrote the truist analysts who recommend buying the stock this would affect non core reddit users more than directly logged in habitual users reddit didn t immediately respond to a request for comment meta or facebook as it was then known created a separate facebook groups app over a decade ago but ended it in the service still exists as part of facebook and like reddit hosts discussion groups on all sorts of topics,0.9,positive
-2026-05-23 12:57:12+00:00,"When most companies go public, they follow a simple rule: insiders can’t sell their shares for 180 days after the IPO. SpaceX is taking an unusual approach that could allow pre-IPO investors to sell sooner.  
-
-The company built in a series of release valves that allow insiders to sell portions of their stock in the weeks and months after the IPO. This phased approach to insider selling accomplishes a few things. It prevents potential pressure on the stock when a lock-up is lifted and everyone can sell at once. And perhaps, even more noteworthy: It also could increase the float – or shares available to trade – sooner, which has implications for faster inclusion in the Nasdaq 100. ",when most companies go public they follow a simple rule insiders can t sell their shares for days after the ipo spacex is taking an unusual approach that could allow pre ipo investors to sell sooner the company built in a series of release valves that allow insiders to sell portions of their stock in the weeks and months after the ipo this phased approach to insider selling accomplishes a few things it prevents potential pressure on the stock when a lock up is lifted and everyone can sell at once and perhaps even more noteworthy it also could increase the float or shares available to trade sooner which has implications for faster inclusion in the nasdaq,0.8519,positive
-2026-05-23 12:36:02+00:00,Crypto industry braces for quantum computing threat -what will happen to BTC and ETH?,crypto industry braces for quantum computing threat what will happen to btc and eth,-0.5267,negative
-2026-05-23 11:26:44+00:00,"I’ve made plenty of mistakes and missed the recent gigapump in memory and data centers but were fortunate to have been early in some other names. Started with nothing out of college about 15 years ago but Schwab chart only goes back only a couple years for some reason.
-
-Tax man just took his pound of flesh and still down a bit from ATH. Looking for another $3 million in the next 5-10 years to comfortably retire my wife and I. I’ve got a few more hopeful multibaggers that can get me there or maybe I’ll just lose it all, who knows. My favorite current most asymmetric positions are MRLN and IMSR to 10x or 0.
-
-Best of luck out there regards",i ve made plenty of mistakes and missed the recent gigapump in memory and data centers but were fortunate to have been early in some other names started with nothing out of college about years ago but schwab chart only goes back only a couple years for some reason tax man just took his pound of flesh and still down a bit from ath looking for another million in the next years to comfortably retire my wife and i i ve got a few more hopeful multibaggers that can get me there or maybe i ll just lose it all who knows my favorite current most asymmetric positions are mrln and imsr to x or best of luck out there regards,0.973,positive
-2026-05-23 05:13:39+00:00,"NVIDIA just reported its Q1 2026 results (fiscal Q1 FY27, quarter ended April 26) and it's another all-time high across the board.
-
-Revenue came in at $81.6 billion, up 85% from a year ago and 20% from last quarter.
-
-Net income hit $58.3 billion — up 211% YoY. Non-GAAP EPS of $1.87 beat the Street's $1.77 estimate by over 5%.
-
-The entire growth story is Data Center, which pulled in $75.2 billion — up 92% YoY. 
-
-Hyperscalers and AI cloud providers are absorbing Blackwell GPUs faster than any product ramp in NVIDIA's history. Even networking (InfiniBand, NVLink) surged 199% YoY — customers are buying full AI systems, not just chips.
-
-Gross margins expanded to 74.9% from just 60.5% a year ago, and NVIDIA announced an $80 billion buyback plus raised its quarterly dividend from $0.01 to $0.25 per share (the dividend jump is huge, and a big news for major shareholders).
-
-Q2 guidance came in at $91 billion — well above Wall Street's \~$87B expectation. China remains excluded from guidance entirely after export controls wiped out H20 sales last year.
-
-So why did the stock dip \~1%? Because at this point, beating estimates is the baseline. Wall Street has priced in perfection — and anything short of a shock to the upside barely moves the needle.
-
-Not financial advice. Do your own research.",nvidia just reported its q results fiscal q fy quarter ended april and it s another all time high across the board revenue came in at billion up from a year ago and from last quarter net income hit billion up yoy non gaap eps of beat the street s estimate by over the entire growth story is data center which pulled in billion up yoy hyperscalers and ai cloud providers are absorbing blackwell gpus faster than any product ramp in nvidia s history even networking infiniband nvlink surged yoy customers are buying full ai systems not just chips gross margins expanded to from just a year ago and nvidia announced an billion buyback plus raised its quarterly dividend from to per share the dividend jump is huge and a big news for major shareholders q guidance came in at billion well above wall street s b expectation china remains excluded from guidance entirely after export controls wiped out h sales last year so why did the stock dip because at this point beating estimates is the baseline wall street has priced in perfection and anything short of a shock to the upside barely moves the needle not financial advice do your own research,0.7546,positive
-2026-05-23 03:06:32+00:00,,nan,0.0,neutral
