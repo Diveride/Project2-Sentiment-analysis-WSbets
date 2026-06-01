@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-05-31T23:20:12.729820+00:00`
+- Generated at (UTC): `2026-06-01T23:46:26.149084+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | ASTS | 69 | 2 | -0.965 | 113.41 | 62.36% | 5.582 |
-| 2 | DELL | 15 | 9 | 0.429 | 420.91 | 104.66% | 19.105 |
-| 3 | NVDA | 14 | 8 | 0.564 | 211.14 | 0.90% | 2.911 |
-| 4 | MSFT | 15 | 7 | 0.551 | 450.24 | 6.07% | 9.825 |
-| 5 | SPCE | 10 | 6 | 0.196 | 6.18 | 165.24% | 0.245 |
-| 6 | AMD | 6 | 6 | 0.459 | 516.10 | 53.10% | 16.970 |
-| 7 | TSM | 20 | 1 | 0.985 | 418.45 | 6.25% | 5.049 |
-| 8 | NOW | 7 | 4 | 0.614 | 124.37 | 39.91% | 3.735 |
-| 9 | CRSR | 5 | 4 | 0.570 | 12.14 | 78.01% | 0.606 |
-| 10 | WOLF | 12 | 2 | 0.074 | 59.28 | 131.29% | 12.376 |
+| 1 | NVDA | 27 | 10 | 0.821 | 224.36 | 12.42% | 2.962 |
+| 2 | MSFT | 12 | 10 | 0.579 | 460.52 | 12.93% | 9.892 |
+| 3 | SPCE | 12 | 7 | 0.246 | 7.52 | 215.97% | 0.602 |
+| 4 | AMD | 8 | 8 | 0.396 | 510.13 | 43.91% | 17.726 |
+| 5 | HPE | 10 | 5 | 0.430 | 47.00 | 63.36% | 1.620 |
+| 6 | RKLB | 11 | 4 | 0.281 | 122.39 | 48.33% | 4.956 |
+| 7 | BOM | 22 | 1 | 0.990 | 7.99 | 0.00% | 0.000 |
+| 8 | SAP | 17 | 2 | 0.398 | 196.11 | 15.71% | 3.181 |
+| 9 | TSM | 20 | 1 | 0.985 | 435.63 | 9.99% | 5.069 |
+| 10 | GOOG | 7 | 4 | 0.961 | 372.58 | -2.45% | 5.355 |
 
 ### Aggregate Charts
 
@@ -181,14 +181,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 ![Top 10 Relative Performance](outputs/latest_wsb_analysis/charts/top10_relative_performance.png)
 
 ### Per-Ticker Dashboards
-
-#### ASTS
-
-![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
-
-#### DELL
-
-![DELL Dashboard](outputs/latest_wsb_analysis/charts/dell_dashboard.png)
 
 #### NVDA
 
@@ -206,19 +198,27 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
+#### HPE
+
+![HPE Dashboard](outputs/latest_wsb_analysis/charts/hpe_dashboard.png)
+
+#### RKLB
+
+![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
+
+#### BOM
+
+![BOM Dashboard](outputs/latest_wsb_analysis/charts/bom_dashboard.png)
+
+#### SAP
+
+![SAP Dashboard](outputs/latest_wsb_analysis/charts/sap_dashboard.png)
+
 #### TSM
 
 ![TSM Dashboard](outputs/latest_wsb_analysis/charts/tsm_dashboard.png)
 
-#### NOW
+#### GOOG
 
-![NOW Dashboard](outputs/latest_wsb_analysis/charts/now_dashboard.png)
-
-#### CRSR
-
-![CRSR Dashboard](outputs/latest_wsb_analysis/charts/crsr_dashboard.png)
-
-#### WOLF
-
-![WOLF Dashboard](outputs/latest_wsb_analysis/charts/wolf_dashboard.png)
+![GOOG Dashboard](outputs/latest_wsb_analysis/charts/goog_dashboard.png)
 <!-- AUTO_TOP10_END -->
