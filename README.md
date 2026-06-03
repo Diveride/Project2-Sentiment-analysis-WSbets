@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-06-01T23:46:26.149084+00:00`
+- Generated at (UTC): `2026-06-03T00:04:23.143445+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 27 | 10 | 0.821 | 224.36 | 12.42% | 2.962 |
-| 2 | MSFT | 12 | 10 | 0.579 | 460.52 | 12.93% | 9.892 |
-| 3 | SPCE | 12 | 7 | 0.246 | 7.52 | 215.97% | 0.602 |
-| 4 | AMD | 8 | 8 | 0.396 | 510.13 | 43.91% | 17.726 |
-| 5 | HPE | 10 | 5 | 0.430 | 47.00 | 63.36% | 1.620 |
-| 6 | RKLB | 11 | 4 | 0.281 | 122.39 | 48.33% | 4.956 |
-| 7 | BOM | 22 | 1 | 0.990 | 7.99 | 0.00% | 0.000 |
-| 8 | SAP | 17 | 2 | 0.398 | 196.11 | 15.71% | 3.181 |
-| 9 | TSM | 20 | 1 | 0.985 | 435.63 | 9.99% | 5.069 |
-| 10 | GOOG | 7 | 4 | 0.961 | 372.58 | -2.45% | 5.355 |
+| 1 | SPCE | 28 | 13 | 0.264 | 4.59 | 73.21% | 0.621 |
+| 2 | MRVL | 16 | 8 | 0.396 | 290.79 | 76.29% | 9.501 |
+| 3 | NVDA | 15 | 8 | 0.707 | 222.82 | 12.28% | 2.833 |
+| 4 | AMD | 11 | 9 | 0.506 | 521.54 | 44.66% | 19.019 |
+| 5 | MSFT | 9 | 8 | 0.858 | 441.31 | 6.48% | 10.087 |
+| 6 | TSM | 21 | 2 | 0.990 | 446.69 | 12.33% | 5.105 |
+| 7 | HPE | 6 | 5 | 0.249 | 56.15 | 96.53% | 2.484 |
+| 8 | OPEN | 21 | 1 | 0.999 | 5.41 | -0.55% | 0.362 |
+| 9 | CGAU | 20 | 1 | 0.929 | 17.43 | 0.93% | 0.367 |
+| 10 | GOOG | 7 | 4 | 0.961 | 358.39 | -6.48% | 6.379 |
 
 ### Aggregate Charts
 
@@ -182,41 +182,41 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
-#### MSFT
-
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
-
 #### SPCE
 
 ![SPCE Dashboard](outputs/latest_wsb_analysis/charts/spce_dashboard.png)
+
+#### MRVL
+
+![MRVL Dashboard](outputs/latest_wsb_analysis/charts/mrvl_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### HPE
+#### MSFT
 
-![HPE Dashboard](outputs/latest_wsb_analysis/charts/hpe_dashboard.png)
-
-#### RKLB
-
-![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
-
-#### BOM
-
-![BOM Dashboard](outputs/latest_wsb_analysis/charts/bom_dashboard.png)
-
-#### SAP
-
-![SAP Dashboard](outputs/latest_wsb_analysis/charts/sap_dashboard.png)
+![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
 #### TSM
 
 ![TSM Dashboard](outputs/latest_wsb_analysis/charts/tsm_dashboard.png)
+
+#### HPE
+
+![HPE Dashboard](outputs/latest_wsb_analysis/charts/hpe_dashboard.png)
+
+#### OPEN
+
+![OPEN Dashboard](outputs/latest_wsb_analysis/charts/open_dashboard.png)
+
+#### CGAU
+
+![CGAU Dashboard](outputs/latest_wsb_analysis/charts/cgau_dashboard.png)
 
 #### GOOG
 
