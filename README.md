@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-06-04T00:04:06.679427+00:00`
+- Generated at (UTC): `2026-06-04T23:39:30.973366+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPCE | 20 | 13 | 0.131 | 4.29 | 70.24% | 0.188 |
-| 2 | MRVL | 21 | 10 | 0.406 | 301.65 | 84.32% | 18.621 |
-| 3 | NVDA | 16 | 6 | 0.823 | 214.75 | 8.20% | 2.442 |
-| 4 | AMD | 9 | 7 | 0.633 | 542.52 | 58.85% | 23.772 |
-| 5 | TSM | 22 | 3 | 0.660 | 436.69 | 8.73% | 5.200 |
-| 6 | MSFT | 6 | 6 | 0.806 | 427.34 | 3.32% | 10.415 |
-| 7 | OPEN | 21 | 1 | 0.999 | 4.87 | -5.07% | 0.378 |
-| 8 | MSTR | 6 | 4 | 0.271 | 126.54 | -31.15% | 9.730 |
-| 9 | AVGO | 6 | 4 | 0.588 | 479.23 | 15.06% | 4.769 |
-| 10 | SPY | 6 | 4 | -0.273 | 754.24 | 5.05% | 5.895 |
+| 1 | SPCE | 17 | 11 | 0.200 | 4.72 | 92.65% | 0.546 |
+| 2 | AVGO | 16 | 9 | 0.225 | 418.91 | -1.98% | 3.697 |
+| 3 | MRVL | 15 | 8 | 0.495 | 316.43 | 87.51% | 15.124 |
+| 4 | NVDA | 16 | 6 | 0.823 | 218.66 | 11.28% | 3.184 |
+| 5 | TSM | 22 | 3 | 0.660 | 444.92 | 12.81% | 4.982 |
+| 6 | MSFT | 6 | 6 | 0.806 | 428.05 | 4.05% | 9.874 |
+| 7 | AMD | 8 | 5 | 0.537 | 523.20 | 47.27% | 20.990 |
+| 8 | OPEN | 21 | 1 | 0.999 | 4.95 | -5.35% | 0.420 |
+| 9 | SPY | 7 | 4 | 0.056 | 757.09 | 4.60% | 11.019 |
+| 10 | HBM | 14 | 2 | 0.990 | 30.12 | 34.77% | 0.662 |
 
 ### Aggregate Charts
 
@@ -186,6 +186,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPCE Dashboard](outputs/latest_wsb_analysis/charts/spce_dashboard.png)
 
+#### AVGO
+
+![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
+
 #### MRVL
 
 ![MRVL Dashboard](outputs/latest_wsb_analysis/charts/mrvl_dashboard.png)
@@ -193,10 +197,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### NVDA
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
 #### TSM
 
@@ -206,19 +206,19 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
+#### AMD
+
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+
 #### OPEN
 
 ![OPEN Dashboard](outputs/latest_wsb_analysis/charts/open_dashboard.png)
 
-#### MSTR
-
-![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
-
-#### AVGO
-
-![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
-
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
+#### HBM
+
+![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
 <!-- AUTO_TOP10_END -->
