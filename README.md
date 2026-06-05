@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-06-04T23:39:30.973366+00:00`
+- Generated at (UTC): `2026-06-05T23:40:47.399743+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPCE | 17 | 11 | 0.200 | 4.72 | 92.65% | 0.546 |
-| 2 | AVGO | 16 | 9 | 0.225 | 418.91 | -1.98% | 3.697 |
-| 3 | MRVL | 15 | 8 | 0.495 | 316.43 | 87.51% | 15.124 |
-| 4 | NVDA | 16 | 6 | 0.823 | 218.66 | 11.28% | 3.184 |
-| 5 | TSM | 22 | 3 | 0.660 | 444.92 | 12.81% | 4.982 |
-| 6 | MSFT | 6 | 6 | 0.806 | 428.05 | 4.05% | 9.874 |
-| 7 | AMD | 8 | 5 | 0.537 | 523.20 | 47.27% | 20.990 |
-| 8 | OPEN | 21 | 1 | 0.999 | 4.95 | -5.35% | 0.420 |
-| 9 | SPY | 7 | 4 | 0.056 | 757.09 | 4.60% | 11.019 |
-| 10 | HBM | 14 | 2 | 0.990 | 30.12 | 34.77% | 0.662 |
+| 1 | SPCE | 12 | 9 | 0.110 | 4.38 | 64.66% | 0.517 |
+| 2 | AVGO | 11 | 7 | 0.559 | 385.73 | -9.33% | 6.501 |
+| 3 | NVDA | 10 | 4 | 0.870 | 205.10 | -1.31% | 3.281 |
+| 4 | SPY | 6 | 5 | -0.153 | 737.55 | 0.51% | 8.822 |
+| 5 | OPEN | 21 | 1 | 0.999 | 4.42 | -19.05% | 0.450 |
+| 6 | NOW | 7 | 4 | 0.641 | 112.45 | 26.28% | 5.182 |
+| 7 | HBM | 14 | 2 | 0.990 | 25.66 | 6.92% | 0.751 |
+| 8 | MRVL | 5 | 4 | 0.562 | 263.47 | 53.05% | 18.168 |
+| 9 | DRAM | 15 | 1 | 0.985 | 55.79 | 14.61% | n/a |
+| 10 | ALTO | 14 | 1 | 0.999 | 5.43 | -2.34% | 0.228 |
 
 ### Aggregate Charts
 
@@ -190,35 +190,35 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
 
-#### MRVL
-
-![MRVL Dashboard](outputs/latest_wsb_analysis/charts/mrvl_dashboard.png)
-
 #### NVDA
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
-#### TSM
-
-![TSM Dashboard](outputs/latest_wsb_analysis/charts/tsm_dashboard.png)
-
-#### MSFT
-
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
-
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
-#### OPEN
-
-![OPEN Dashboard](outputs/latest_wsb_analysis/charts/open_dashboard.png)
 
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
+#### OPEN
+
+![OPEN Dashboard](outputs/latest_wsb_analysis/charts/open_dashboard.png)
+
+#### NOW
+
+![NOW Dashboard](outputs/latest_wsb_analysis/charts/now_dashboard.png)
+
 #### HBM
 
 ![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
+
+#### MRVL
+
+![MRVL Dashboard](outputs/latest_wsb_analysis/charts/mrvl_dashboard.png)
+
+#### DRAM
+
+![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
+
+#### ALTO
+
+![ALTO Dashboard](outputs/latest_wsb_analysis/charts/alto_dashboard.png)
 <!-- AUTO_TOP10_END -->
