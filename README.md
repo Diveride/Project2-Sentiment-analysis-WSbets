@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-06-06T23:18:44.956533+00:00`
+- Generated at (UTC): `2026-06-07T23:21:49.186250+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -164,15 +164,15 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1 | SPCE | 10 | 8 | 0.087 | 4.38 | 64.66% | 0.517 |
-| 2 | NVDA | 10 | 4 | 0.870 | 205.10 | -1.31% | 3.281 |
+| 2 | AVGO | 6 | 5 | 0.156 | 385.73 | -9.33% | 6.498 |
 | 3 | OPEN | 21 | 1 | 0.999 | 4.42 | -19.05% | 0.450 |
 | 4 | SPY | 5 | 5 | -0.331 | 737.55 | 0.51% | 8.821 |
-| 5 | NOW | 7 | 4 | 0.610 | 112.45 | 26.28% | 5.193 |
-| 6 | AVGO | 6 | 4 | 0.427 | 385.73 | -9.33% | 6.498 |
-| 7 | AMD | 5 | 3 | 0.567 | 466.38 | 10.68% | 20.348 |
-| 8 | GOOGL | 4 | 3 | 0.859 | 368.53 | -7.41% | 6.737 |
-| 9 | MRVL | 4 | 3 | 0.430 | 263.47 | 53.05% | 18.167 |
-| 10 | DELL | 4 | 3 | 0.306 | 394.39 | 65.15% | 27.320 |
+| 5 | AMD | 6 | 4 | 0.653 | 466.38 | 10.68% | 20.348 |
+| 6 | NVDA | 7 | 3 | 0.829 | 205.10 | -1.31% | 3.281 |
+| 7 | GOOGL | 4 | 3 | 0.859 | 368.53 | -7.41% | 6.737 |
+| 8 | NOW | 4 | 3 | 0.481 | 112.45 | 26.28% | 5.193 |
+| 9 | AMZN | 3 | 3 | 0.541 | 246.03 | -10.53% | 1.561 |
+| 10 | YOU | 4 | 2 | 0.927 | 54.52 | -10.53% | 1.242 |
 
 ### Aggregate Charts
 
@@ -186,9 +186,9 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPCE Dashboard](outputs/latest_wsb_analysis/charts/spce_dashboard.png)
 
-#### NVDA
+#### AVGO
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
 
 #### OPEN
 
@@ -198,27 +198,27 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### NOW
-
-![NOW Dashboard](outputs/latest_wsb_analysis/charts/now_dashboard.png)
-
-#### AVGO
-
-![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
-
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### GOOGL
 
 ![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
 
-#### MRVL
+#### NOW
 
-![MRVL Dashboard](outputs/latest_wsb_analysis/charts/mrvl_dashboard.png)
+![NOW Dashboard](outputs/latest_wsb_analysis/charts/now_dashboard.png)
 
-#### DELL
+#### AMZN
 
-![DELL Dashboard](outputs/latest_wsb_analysis/charts/dell_dashboard.png)
+![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
+
+#### YOU
+
+![YOU Dashboard](outputs/latest_wsb_analysis/charts/you_dashboard.png)
 <!-- AUTO_TOP10_END -->
