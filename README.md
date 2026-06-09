@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-06-08T23:39:45.290460+00:00`
+- Generated at (UTC): `2026-06-09T23:45:18.406167+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPCE | 9 | 7 | 0.099 | 4.12 | 64.14% | 0.480 |
-| 2 | OPEN | 21 | 1 | 0.999 | 4.31 | -18.98% | 0.386 |
-| 3 | SPY | 5 | 5 | 0.257 | 739.22 | 1.04% | 9.681 |
-| 4 | AVGO | 5 | 4 | -0.007 | 396.60 | -3.87% | 7.945 |
-| 5 | AMD | 5 | 3 | 0.624 | 490.33 | 20.04% | 21.789 |
-| 6 | NOW | 4 | 3 | 0.481 | 114.19 | 22.01% | 5.344 |
-| 7 | MSFT | 3 | 3 | 0.384 | 411.74 | -2.15% | 7.641 |
-| 8 | YOU | 4 | 2 | 0.927 | 54.98 | -5.48% | 1.218 |
-| 9 | QQQ | 4 | 2 | 0.520 | 716.07 | 3.04% | 9.863 |
-| 10 | MSTR | 3 | 2 | 0.263 | 127.20 | -29.27% | 9.822 |
+| 1 | SPY | 8 | 7 | 0.187 | 737.05 | -0.08% | 6.331 |
+| 2 | QQQ | 6 | 4 | 0.436 | 707.83 | -0.48% | 7.952 |
+| 3 | SPCE | 4 | 4 | 0.123 | 4.59 | 56.12% | 0.437 |
+| 4 | NOW | 6 | 3 | -0.014 | 106.97 | 17.32% | 4.902 |
+| 5 | MSFT | 3 | 3 | 0.384 | 403.41 | -2.82% | 10.683 |
+| 6 | AVGO | 3 | 2 | 0.841 | 392.16 | -8.80% | 9.147 |
+| 7 | SNDK | 3 | 2 | 0.220 | 1646.54 | 5.39% | 59.501 |
+| 8 | GOOGL | 2 | 2 | 0.931 | 364.26 | -9.12% | 6.390 |
+| 9 | GOOG | 2 | 2 | 0.603 | 362.29 | -8.75% | 6.404 |
+| 10 | BTC | 2 | 2 | -0.012 | 27.44 | -22.64% | 1.285 |
 
 ### Aggregate Charts
 
@@ -182,25 +182,17 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### SPCE
-
-![SPCE Dashboard](outputs/latest_wsb_analysis/charts/spce_dashboard.png)
-
-#### OPEN
-
-![OPEN Dashboard](outputs/latest_wsb_analysis/charts/open_dashboard.png)
-
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### AVGO
+#### QQQ
 
-![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
-#### AMD
+#### SPCE
 
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+![SPCE Dashboard](outputs/latest_wsb_analysis/charts/spce_dashboard.png)
 
 #### NOW
 
@@ -210,15 +202,23 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### YOU
+#### AVGO
 
-![YOU Dashboard](outputs/latest_wsb_analysis/charts/you_dashboard.png)
+![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
 
-#### QQQ
+#### SNDK
 
-![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
+![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
 
-#### MSTR
+#### GOOGL
 
-![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
+![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
+
+#### GOOG
+
+![GOOG Dashboard](outputs/latest_wsb_analysis/charts/goog_dashboard.png)
+
+#### BTC
+
+![BTC Dashboard](outputs/latest_wsb_analysis/charts/btc_dashboard.png)
 <!-- AUTO_TOP10_END -->
