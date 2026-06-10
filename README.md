@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-06-09T23:45:18.406167+00:00`
+- Generated at (UTC): `2026-06-10T23:53:03.683085+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 8 | 7 | 0.187 | 737.05 | -0.08% | 6.331 |
-| 2 | QQQ | 6 | 4 | 0.436 | 707.83 | -0.48% | 7.952 |
-| 3 | SPCE | 4 | 4 | 0.123 | 4.59 | 56.12% | 0.437 |
-| 4 | NOW | 6 | 3 | -0.014 | 106.97 | 17.32% | 4.902 |
-| 5 | MSFT | 3 | 3 | 0.384 | 403.41 | -2.82% | 10.683 |
-| 6 | AVGO | 3 | 2 | 0.841 | 392.16 | -8.80% | 9.147 |
-| 7 | SNDK | 3 | 2 | 0.220 | 1646.54 | 5.39% | 59.501 |
-| 8 | GOOGL | 2 | 2 | 0.931 | 364.26 | -9.12% | 6.390 |
-| 9 | GOOG | 2 | 2 | 0.603 | 362.29 | -8.75% | 6.404 |
-| 10 | BTC | 2 | 2 | -0.012 | 27.44 | -22.64% | 1.285 |
+| 1 | SPY | 13 | 7 | 0.084 | 725.43 | -1.88% | 9.088 |
+| 2 | NOW | 8 | 5 | 0.251 | 106.06 | 15.93% | 4.490 |
+| 3 | QQQ | 6 | 5 | 0.320 | 693.69 | -2.75% | 9.835 |
+| 4 | SMCI | 13 | 3 | -0.602 | 29.27 | -12.68% | 1.167 |
+| 5 | ORCL | 6 | 2 | 0.299 | 201.26 | 3.83% | 5.518 |
+| 6 | AMD | 5 | 2 | 0.717 | 452.40 | -1.39% | 26.440 |
+| 7 | NVDA | 5 | 2 | -0.446 | 200.42 | -8.67% | 3.765 |
+| 8 | VOO | 4 | 2 | -0.490 | 667.05 | -1.84% | 8.571 |
+| 9 | AVGO | 3 | 2 | 0.841 | 372.10 | -13.15% | 8.645 |
+| 10 | SNDK | 3 | 2 | 0.220 | 1643.23 | 6.18% | 60.211 |
 
 ### Aggregate Charts
 
@@ -186,21 +186,33 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### QQQ
-
-![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
-
-#### SPCE
-
-![SPCE Dashboard](outputs/latest_wsb_analysis/charts/spce_dashboard.png)
-
 #### NOW
 
 ![NOW Dashboard](outputs/latest_wsb_analysis/charts/now_dashboard.png)
 
-#### MSFT
+#### QQQ
 
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
+
+#### SMCI
+
+![SMCI Dashboard](outputs/latest_wsb_analysis/charts/smci_dashboard.png)
+
+#### ORCL
+
+![ORCL Dashboard](outputs/latest_wsb_analysis/charts/orcl_dashboard.png)
+
+#### AMD
+
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+
+#### VOO
+
+![VOO Dashboard](outputs/latest_wsb_analysis/charts/voo_dashboard.png)
 
 #### AVGO
 
@@ -209,16 +221,4 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### SNDK
 
 ![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
-
-#### GOOGL
-
-![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
-
-#### GOOG
-
-![GOOG Dashboard](outputs/latest_wsb_analysis/charts/goog_dashboard.png)
-
-#### BTC
-
-![BTC Dashboard](outputs/latest_wsb_analysis/charts/btc_dashboard.png)
 <!-- AUTO_TOP10_END -->

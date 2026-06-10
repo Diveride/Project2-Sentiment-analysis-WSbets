@@ -1,14 +1,501 @@
 created_utc,body,clean_body,body_sentiment,body_label
-2026-06-09 23:26:27+00:00,I had a good run and almost started a comeback. I just went on the most insane tilt ever. So time to start finding good businesses and investing long term.,i had a good run and almost started a comeback i just went on the most insane tilt ever so time to start finding good businesses and investing long term,0.4228,positive
-2026-06-09 23:23:06+00:00,,nan,0.0,neutral
-2026-06-09 23:22:37+00:00,"Nothing beats caffeine like 0DTEs, see you next week.",nothing beats caffeine like dtes see you next week,-0.2755,negative
+2026-06-10 23:47:39+00:00,I’m not very good at this. See you at my next loss! ,i m not very good at this see you at my next loss,-0.6024,negative
+2026-06-10 23:34:35+00:00,"Went all-in on BMNR with the family inheritance and currently sitting on a $600k loss. Moon or zero, let’s see how this ends.",went all in on bmnr with the family inheritance and currently sitting on a k loss moon or zero let s see how this ends,-0.3182,negative
+2026-06-10 23:33:28+00:00,"Oracle of Omaha who? 
+
+There's no way I can keep this up I have no edge whatsoever just chasing and revenge trading my nutsack off I'm gonna hold cash and take my 3% or whatever Robinhood gives for gold.",oracle of omaha who there s no way i can keep this up i have no edge whatsoever just chasing and revenge trading my nutsack off i m gonna hold cash and take my or whatever robinhood gives for gold,-0.7783,negative
+2026-06-10 23:24:53+00:00,"# 
+
+I have access to 50 shares at $135 price point for IPO. Current Hyperliquid price \~$160. I'm thinking short hyperliquid for 50 shares to capture the $25 price difference for 50 shares. Thoughts, am I missing anything here? Seems like guaranteed money so I'm probably missing something.
+
+[](https://www.reddit.com/submit/?source_id=t3_1u2iden&composer_entry=crosspost_prompt)
+
+",i have access to shares at price point for ipo current hyperliquid price i m thinking short hyperliquid for shares to capture the price difference for shares thoughts am i missing anything here seems like guaranteed money so i m probably missing something,0.5719,positive
+2026-06-10 23:08:37+00:00,,nan,0.0,neutral
+2026-06-10 22:54:38+00:00,,nan,0.0,neutral
+2026-06-10 22:35:30+00:00,"**SMCI DD:**  
+**Position**  
+Long SMCI.  
+Not financial advice.  
+I made hundreds of thousands on position then got nuked in 7 days  
+Gpt 5.5 analysis confirming my thesis citing Charles keynote at computex  
+tl:dr gross fucking margins
+
+# The Market Thinks SMCI Does This
+
+1. Buy Nvidia GPUs.
+2. Screw them into a box.
+3. Ship box.
+4. Collect tiny margin.
+5. Get commoditized.
+
+Honestly, that's been a pretty reasonable bear case.
+
+But after digging through the Computex keynote, I think the market is looking at the wrong damn business.
+
+The question isn't:
+
+>""How many servers does SMCI sell?""
+
+The question is:
+
+>""Is SMCI becoming the company that actually builds AI factories?""
+
+Because those are very different valuations.
+
+# The Computex Stuff Nobody Paid Attention To
+
+Everyone got hung up on:
+
+>""We shipped more than 8,000 racks.""
+
+Cool.
+
+Maybe they're GB300 racks.
+
+Maybe HGX racks.
+
+Maybe a mix.
+
+I don't actually care.
+
+What caught my attention was Charles Liang spending basically the entire keynote talking about:
+
+* Liquid cooling
+* Rack integration
+* Power infrastructure
+* Deployment
+* Networking
+* Software
+* Services
+
+The guy barely talked about servers.
+
+Instead he kept repeating:
+
+>""Time to online.""
+
+Translation:
+
+>""We help customers start printing money faster.""
+
+That's a much better business than assembling boxes.
+
+# The Quote That Made Me Stop
+
+Not the 8,000 racks.
+
+Not Rubin.
+
+This:
+
+>""This year can be 40 billion and next year much more than 40 billion.""
+
+Excuse me?
+
+Much more than $40B?
+
+Most investors completely ignored this.
+
+The CEO is basically standing on stage saying:
+
+>""You guys still don't understand how big this wave is.""
+
+# Here's The Entire Investment Thesis
+
+Everything comes down to one number:
+
+# GROSS MARGIN
+
+Not revenue.
+
+Not rack count.
+
+Not backlog.
+
+Gross margin.
+
+If SMCI is just Nvidia's assembly bitch:
+
+* 10% margins
+* Bears win
+* End of story
+
+If SMCI is capturing money from:
+
+* Cooling
+* Integration
+* Deployment
+* Software
+* Services
+
+Then margins go up.
+
+And suddenly the market realizes this isn't just a server company.
+
+My cheat sheet:
+
+10-11% GM  
+→ You're cooked.
+
+12-13% GM  
+→ Interesting.
+
+14-15% GM  
+→ Uh oh, bears.
+
+16%+ GM  
+→ Absolute face-ripping rerating.
+
+# Then Today's Nuclear Bomb Dropped
+
+SMCI announced:
+
+# $7 BILLION financing
+
+Stock immediately got sent to the shadow realm.
+
+Everyone screamed:
+
+>DILUTION!!!
+
+Which is fair.
+
+But almost nobody read the second part.
+
+Management disclosed:
+
+# $39 BILLION OF AI SERVER ORDERS
+
+Read that again.
+
+Thirty.
+
+Nine.
+
+Billion.
+
+Dollars.
+
+And the reason they're raising money is because they need to buy enough shit to fulfill those orders.
+
+Suddenly:
+
+* The 6 million square feet of manufacturing makes sense.
+* The deployment obsession makes sense.
+* The $40B+ revenue comments make sense.
+
+# Why I Think The Market Freaked Out
+
+The market heard:
+
+>""SMCI needs money.""
+
+I heard:
+
+>""Demand is bigger than the balance sheet.""
+
+Those are completely different statements.
+
+A dying company raises money because nobody wants their products.
+
+A company in the middle of an AI gold rush raises money because everybody wants their products.
+
+The question isn't demand anymore.
+
+Demand just punched everyone in the face.
+
+The question is:
+
+>""How much money does SMCI make on that demand?""
+
+And we're right back to gross margins.
+
+Again.
+
+Gross margins.
+
+Every. Single. Time.
+
+# Final Take
+
+The market spent today asking:
+
+>""How much dilution are we getting?""
+
+I think the better question is:
+
+>""Why the hell would management raise $7B right after telling us they have $39B of fresh orders?""
+
+Either:
+
+1. They're idiots.
+
+or
+
+1. They're staring at an AI infrastructure buildout that's bigger than their balance sheet.
+
+Next earnings decides who's right.
+
+Not revenue.
+
+Not rack counts.
+
+Not Rubin.
+
+# Gross. Fucking. Margins.
+
+# ",smci dd position long smci not financial advice i made hundreds of thousands on position then got nuked in days gpt analysis confirming my thesis citing charles keynote at computex tl dr gross fucking margins the market thinks smci does this buy nvidia gpus screw them into a box ship box collect tiny margin get commoditized honestly that s been a pretty reasonable bear case but after digging through the computex keynote i think the market is looking at the wrong damn business the question isn t how many servers does smci sell the question is is smci becoming the company that actually builds ai factories because those are very different valuations the computex stuff nobody paid attention to everyone got hung up on we shipped more than racks cool maybe they re gb racks maybe hgx racks maybe a mix i don t actually care what caught my attention was charles liang spending basically the entire keynote talking about liquid cooling rack integration power infrastructure deployment networking software services the guy barely talked about servers instead he kept repeating time to online translation we help customers start printing money faster that s a much better business than assembling boxes the quote that made me stop not the racks not rubin this this year can be billion and next year much more than billion excuse me much more than b most investors completely ignored this the ceo is basically standing on stage saying you guys still don t understand how big this wave is here s the entire investment thesis everything comes down to one number gross margin not revenue not rack count not backlog gross margin if smci is just nvidia s assembly bitch margins bears win end of story if smci is capturing money from cooling integration deployment software services then margins go up and suddenly the market realizes this isn t just a server company my cheat sheet gm you re cooked gm interesting gm uh oh bears gm absolute face ripping rerating then today s nuclear bomb dropped smci announced billion financing stock immediately got sent to the shadow realm everyone screamed dilution which is fair but almost nobody read the second part management disclosed billion of ai server orders read that again thirty nine billion dollars and the reason they re raising money is because they need to buy enough shit to fulfill those orders suddenly the million square feet of manufacturing makes sense the deployment obsession makes sense the b revenue comments make sense why i think the market freaked out the market heard smci needs money i heard demand is bigger than the balance sheet those are completely different statements a dying company raises money because nobody wants their products a company in the middle of an ai gold rush raises money because everybody wants their products the question isn t demand anymore demand just punched everyone in the face the question is how much money does smci make on that demand and we re right back to gross margins again gross margins every single time final take the market spent today asking how much dilution are we getting i think the better question is why the hell would management raise b right after telling us they have b of fresh orders either they re idiots or they re staring at an ai infrastructure buildout that s bigger than their balance sheet next earnings decides who s right not revenue not rack counts not rubin gross fucking margins,-0.9883,negative
+2026-06-10 22:34:42+00:00,,nan,0.0,neutral
+2026-06-10 21:51:58+00:00,"Trying to decide whether to participate the the SpaceX IPO. I don’t think it’s worth anything close to the $135 target price. But options (shorting) won’t be available for a few days so I can’t take a risk spread. What are y’all thinking about doing?
+
+I just watched this (and I worry that there is some validity that its going to be a huge exit for investors and they won’t rebuy): https://youtu.be/VUwSKoa2KMI",trying to decide whether to participate the the spacex ipo i don t think it s worth anything close to the target price but options shorting won t be available for a few days so i can t take a risk spread what are y all thinking about doing i just watched this and i worry that there is some validity that its going to be a huge exit for investors and they won t rebuy,0.8227,positive
+2026-06-10 21:49:47+00:00,I think I have super power or admin access in this simulation. If I buy a stock (regardless of amount) it goes red and don’t stop until I sell it.,i think i have super power or admin access in this simulation if i buy a stock regardless of amount it goes red and don t stop until i sell it,0.4019,positive
+2026-06-10 21:26:42+00:00,,nan,0.0,neutral
+2026-06-10 21:08:06+00:00,,nan,0.0,neutral
+2026-06-10 21:05:47+00:00,,nan,0.0,neutral
+2026-06-10 21:05:08+00:00,,nan,0.0,neutral
+2026-06-10 20:33:33+00:00,,nan,0.0,neutral
+2026-06-10 20:30:05+00:00,"Tried to jump on an end of day play. QQQ put 695. 2:44pm CST. @ .55   
+Tried to buy but as I clicked in to purchase it’s suddenly greyed out “this option is close to expiring so you can’t buy”. With another 1:15 of trading day remaining.   
+I watched that put reach 4.00 within 30 minutes.   
+Ridiculous.   
+What other apps are you guys using for quick trades? Webull is great if you can sit at a computer but I mostly trade from my phone so Robinhood has been effective because their UI is nice. But their rules suck. ",tried to jump on an end of day play qqq put pm cst tried to buy but as i clicked in to purchase it s suddenly greyed out this option is close to expiring so you can t buy with another of trading day remaining i watched that put reach within minutes ridiculous what other apps are you guys using for quick trades webull is great if you can sit at a computer but i mostly trade from my phone so robinhood has been effective because their ui is nice but their rules suck,0.85,positive
+2026-06-10 20:18:16+00:00,"https://preview.redd.it/793q4eknji6h1.png?width=287&format=png&auto=webp&s=72c0d00f9b2368ff1b98a7d568ff8255574fd598
+
+bagholding because I took the advices on Reddit ""SMCI is so undervalued rn"" ""$50 is too cheap"" 😭😭😭",bagholding because i took the advices on reddit smci is so undervalued rn is too cheap,0.0,neutral
+2026-06-10 20:15:59+00:00,"I sold all my VOO in early May after holding it for like 6 years and moved it all into NVDA.
+
+Now I’m struggling with a few things:
+
+\* The sale created about $160k in capital gains, so at some point I’ll need to sell shares to pay the taxes.  
+\* My portfolio is now heavily concentrated in NVDA (see screenshot).  
+\* I honestly haven’t felt the same since making the move. I think about it constantly. My mood basically moves with the stock.
+
+The part that’s really messing with me is that I could’ve probably just kept VOO and done a $20k NVDA or SPY options bet instead. Less tax, less stress, and I would’ve known way faster if my thesis was right or wrong.
+
+Instead, I’m sitting here second-guessing myself every day, waiting, stressing, and wondering if I made a huge mistake.
+
+If you were in my shoes, how would you fix this? ",i sold all my voo in early may after holding it for like years and moved it all into nvda now i m struggling with a few things the sale created about k in capital gains so at some point i ll need to sell shares to pay the taxes my portfolio is now heavily concentrated in nvda see screenshot i honestly haven t felt the same since making the move i think about it constantly my mood basically moves with the stock the part that s really messing with me is that i could ve probably just kept voo and done a k nvda or spy options bet instead less tax less stress and i would ve known way faster if my thesis was right or wrong instead i m sitting here second guessing myself every day waiting stressing and wondering if i made a huge mistake if you were in my shoes how would you fix this,-0.0112,neutral
+2026-06-10 20:15:57+00:00,,nan,0.0,neutral
+2026-06-10 20:11:31+00:00,"Hey All, I’m following a stock that has been under pressure over the last 90 days but have noticed consistent spikes in volume at the end of the trading day.  Is this common in other stocks or any ideas that could explain this behavior?",hey all i m following a stock that has been under pressure over the last days but have noticed consistent spikes in volume at the end of the trading day is this common in other stocks or any ideas that could explain this behavior,-0.1531,negative
+2026-06-10 20:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1u2d5l9),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-06-10 20:00:16+00:00,see title,see title,0.0,neutral
+2026-06-10 19:46:27+00:00,"Hi, I’ve been taking advantage of intraday volatility of SPX options and repeatedly making trades with only $100-$200 per trade. I’ve only made around $1500 so far, but I opened this option this morning and it has been going downhill ever since. How does the stock market going to react to Space X IPO? Will the overall market sentiment be positive, I still have 6 days to wait for SPX to bounce back, so I’m not super worried.",hi i ve been taking advantage of intraday volatility of spx options and repeatedly making trades with only per trade i ve only made around so far but i opened this option this morning and it has been going downhill ever since how does the stock market going to react to space x ipo will the overall market sentiment be positive i still have days to wait for spx to bounce back so i m not super worried,0.5409,positive
+2026-06-10 19:45:31+00:00,"https://preview.redd.it/qr5o2qgiei6h1.png?width=1574&format=png&auto=webp&s=d74978b607a69bf047aeb79a4f27a7067a3ee832
+
+Follow up post from Monday's, I said I was going to take a break but I watched yesterday from the sidelines drooling at the destruction.
+
+(Last post: [https://www.reddit.com/r/wallstreetbets/comments/1u0ce6x/0dte\_spx\_is\_the\_only\_way\_374\_gain/](https://www.reddit.com/r/wallstreetbets/comments/1u0ce6x/0dte_spx_is_the_only_way_374_gain/) )
+
+Withdrew 250k back to 100 so I didn't burn absolutely everything. into some early morning puts.
+
+https://preview.redd.it/omw5hwhici6h1.png?width=1574&format=png&auto=webp&s=c17a5cc452e499908c264a56bf07046cd7fb1477
+
+Similar to Monday I buy in and then DCA up or down as my position gets rekd. The past couple days have just been identical swings so thats been great. This got me close to the 100k goal for the day then I did some yolo's to try and close out the 25k gap.
+
+https://preview.redd.it/7zb4doxwci6h1.png?width=1574&format=png&auto=webp&s=380f3155beb63e02f5deb155aac18959b7b50c6e
+
+Who else has been playing these big days?",follow up post from monday s i said i was going to take a break but i watched yesterday from the sidelines drooling at the destruction last post withdrew k back to so i didn t burn absolutely everything into some early morning puts similar to monday i buy in and then dca up or down as my position gets rekd the past couple days have just been identical swings so thats been great this got me close to the k goal for the day then i did some yolo s to try and close out the k gap who else has been playing these big days,0.7046,positive
+2026-06-10 18:44:34+00:00,"Had a baby yesterday so didn’t want to keep stressing/monitoring this position. Sold at a good time since my account would have been down another 25-30% yesterday and today. 
+
+Mods also said I had to realize the loss to post, so there’s also proof of the position being sold. 
+
+Used Margin, and options. Peaked around $1.2M, dropped 400k alone on Friday. 
+
+Would have held the position, but the fundamentals have changed due to NVDA announcement their own 6G chip, and I’m no longer confident. 
+
+Anyways, biggest loss by far, and probably could have salvaged it, but I’m fine with taking the loss to step away for a couple of weeks. Still up from 300-700k YTD. Only real regret is buying all of the options in my TFSA, since those are what got hit hard, and it’s not tax deductible. TFSA alone went from 750k to 470k",had a baby yesterday so didn t want to keep stressing monitoring this position sold at a good time since my account would have been down another yesterday and today mods also said i had to realize the loss to post so there s also proof of the position being sold used margin and options peaked around m dropped k alone on friday would have held the position but the fundamentals have changed due to nvda announcement their own g chip and i m no longer confident anyways biggest loss by far and probably could have salvaged it but i m fine with taking the loss to step away for a couple of weeks still up from k ytd only real regret is buying all of the options in my tfsa since those are what got hit hard and it s not tax deductible tfsa alone went from k to k,-0.8645,negative
+2026-06-10 18:31:48+00:00,"https://preview.redd.it/wle8sdd31i6h1.png?width=468&format=png&auto=webp&s=de4dd5e4a34e04161ffb80b000f40cff21a22b04
+
+I’ve been tracking Congressional STOCK Act filings, executive branch OGE Form 278-T disclosures, [USASpending.gov](http://USASpending.gov) contract awards, institutional ETF flows. All public data. The idea is to spot trends in the data and then research the tickers that are coming up. I’ve been avoiding large cap defence stock as past back testing had indicated that large contracts for the likes of LMT/NOC/RTX are mostly priced in.
+
+Instead, I’ve been focusing on mid cap defence stocks that are likely to get tailwinds from large amounts of US spending. All back testing was carried out on all DoD contracts over $50,000,000 within the last 3 years
+
+Here are my findings for BAH, LDOS, BWXT, PSN and AVAV
+
+**BAH** **–** Trump bought March 25^(th) – Contract awarded $7.5B June 8^(th) – likely alfa over SPY after contract:
+
+|**Ticker**|**Events**|**T+30 alpha**|**T+30 hit%**|**T+90 alpha**|**T+90 hit%**|**Rating**|
+|:-|:-|:-|:-|:-|:-|:-|
+|BAH|494|\+4.6%|100%|\+4.0%|86%|★★ MODERATE|
+
+**LDOS -** Trump bought March 30^(th) – Congress were selling regularly but this stoped Oct 2025– Contract awarded $10.5B June 8^(th) – likely alpha over SPY after contract:
+
+|**Ticker**|**Events**|**T+30 alpha**|**T+30 hit%**|**T+90 alpha**|**T+90 hit%**|**Rating**|
+|:-|:-|:-|:-|:-|:-|:-|
+|LDOS|492|\+5.0%|100%|\+9.4%|100%|★★★ STRONG|
+
+**BWXT** – Khanna, Delaney and McClain bought between March and April – Contract awarded $5.8B June 8^(th) – likely alpha over SPY after contract:
+
+|**Ticker**|**Events**|**T+30 alpha**|**T+30 hit%**|**T+90 alpha**|**T+90 hit%**|**Rating**|
+|:-|:-|:-|:-|:-|:-|:-|
+|BWXT|351|\+3.4%|69%|4.9%|12%|★★ MODERATE|
+
+**PSN –** No Presidential or Congressional buys – Contract awarded $1.3B June 8^(th) – Likely alpha over SPY after contract:
+
+|**Ticker**|**Events**|**T+30 alpha**|**T+30 hit%**|**T+90 alpha**|**T+90 hit%**|**Rating**|
+|:-|:-|:-|:-|:-|:-|:-|
+|PSN|471|\+2.1%|64%|7.1%|83%|★★ MODERATE|
+
+**AVAV** \- Cisneros 4× BUY Oct 25–Mar 26 - COO Robert Smith: 1,800 shares, $349.9K, 21 Apr 2026 - CAO Brian Shackley: 707 shares, $149.4K, 19 Mar 2026 – Contract awarded $1B June 8^(th) \- Likely alpha over SPY after contract:
+
+ 
+
+|**Ticker**|**Events**|**T+30 alpha**|**T+30 hit%**|**T+90 alpha**|**T+90 hit%**|**Rating**|
+|:-|:-|:-|:-|:-|:-|:-|
+|AVAV|159|\+4.5%|53%|\+1.1%|54%|★★ MODERATE|
+
+So, to summarise, all of these companies show alpha over SPY on back test when they receive a DoD contract. They all received a contract of a fairly large amount 2 days ago. They all show buying signals from either the President, Congress or company insiders, sometimes several of these at the same time.
+
+Disclosure – I hold 527 shares in PSN – I do not hold shares in any of the other tickers mentioned, however that may change soon.
+
+This is not meant to be financial advice. I am not a financial professional. Please do your own research.",i ve been tracking congressional stock act filings executive branch oge form t disclosures usaspending gov contract awards institutional etf flows all public data the idea is to spot trends in the data and then research the tickers that are coming up i ve been avoiding large cap defence stock as past back testing had indicated that large contracts for the likes of lmt noc rtx are mostly priced in instead i ve been focusing on mid cap defence stocks that are likely to get tailwinds from large amounts of us spending all back testing was carried out on all dod contracts over within the last years here are my findings for bah ldos bwxt psn and avav bah trump bought march th contract awarded b june th likely alfa over spy after contract ticker events t alpha t hit t alpha t hit rating bah moderate ldos trump bought march th congress were selling regularly but this stoped oct contract awarded b june th likely alpha over spy after contract ticker events t alpha t hit t alpha t hit rating ldos strong bwxt khanna delaney and mcclain bought between march and april contract awarded b june th likely alpha over spy after contract ticker events t alpha t hit t alpha t hit rating bwxt moderate psn no presidential or congressional buys contract awarded b june th likely alpha over spy after contract ticker events t alpha t hit t alpha t hit rating psn moderate avav cisneros buy oct mar coo robert smith shares k apr cao brian shackley shares k mar contract awarded b june th likely alpha over spy after contract ticker events t alpha t hit t alpha t hit rating avav moderate so to summarise all of these companies show alpha over spy on back test when they receive a dod contract they all received a contract of a fairly large amount days ago they all show buying signals from either the president congress or company insiders sometimes several of these at the same time disclosure i hold shares in psn i do not hold shares in any of the other tickers mentioned however that may change soon this is not meant to be financial advice i am not a financial professional please do your own research,0.9819,positive
+2026-06-10 18:11:07+00:00,"""I’ve been working in Big Data for about 6 years now. 
+
+In my day-to-day, I deal with SAP, Salesforce, Databricks (private), Fabric, AWS, and Snowflake.
+
+AWS, Microsoft (Fabric), and Google are skyrocketing, yet others that are incredibly strong, like SAP, are hitting rock bottom—even though it’s the kind of company that, once it has you, it traps you. 
+
+You basically can't leave because it’s not worth the effort, and as a transactional system, it’s unbeatable.
+
+Why are Salesforce and SAP so undervalued? I can understand Snowflake more; it's rarer to find companies using it, and it’s a newer technology.
+
+What would you do? Is it a good investment for a 3-4 year horizon?""",i ve been working in big data for about years now in my day to day i deal with sap salesforce databricks private fabric aws and snowflake aws microsoft fabric and google are skyrocketing yet others that are incredibly strong like sap are hitting rock bottom even though it s the kind of company that once it has you it traps you you basically can t leave because it s not worth the effort and as a transactional system it s unbeatable why are salesforce and sap so undervalued i can understand snowflake more it s rarer to find companies using it and it s a newer technology what would you do is it a good investment for a year horizon,0.8129,positive
+2026-06-10 16:45:41+00:00,"Two data scientists literally published a peer reviewed paper in statistical finance analyzing our absolute slop against 16k professional analyst recommendations from the biggest investment banks.
+
+The data don't lie, guys!",two data scientists literally published a peer reviewed paper in statistical finance analyzing our absolute slop against k professional analyst recommendations from the biggest investment banks the data don t lie guys,0.0,neutral
+2026-06-10 16:43:54+00:00,"No one cares about my DD, stock cheap, should be less cheap. You all will justify this as being smart if it goes up, and dumb if it goes down anyway.
+
+338 shares, 
+
+$10,000 in calls of various strikes
+
+Enjoy me ruining my life ",no one cares about my dd stock cheap should be less cheap you all will justify this as being smart if it goes up and dumb if it goes down anyway shares in calls of various strikes enjoy me ruining my life,0.2732,positive
+2026-06-10 15:20:30+00:00,All in the TFSA :(,all in the tfsa,0.0,neutral
+2026-06-10 13:43:01+00:00,"Listen up, regards. I just saw this article and I am crying laughing.
+
+This new ""Anti-Nvidia"" data center startup called TensorWave just hit a $1.55 Billion valuation after raising a fresh $350 million.
+
+And who led the funding round? AMD
+
+And what are they using the money for? To buy chips from AMD. 🤡
+
+Source : [https://www.wsj.com/tech/ai/anti-nvidia-data-center-startup-is-valued-at-1-55-billion-in-new-funding-round-e58b2aec?mod=tech\_lead\_pos1](https://www.wsj.com/tech/ai/anti-nvidia-data-center-startup-is-valued-at-1-55-billion-in-new-funding-round-e58b2aec?mod=tech_lead_pos1)",listen up regards i just saw this article and i am crying laughing this new anti nvidia data center startup called tensorwave just hit a billion valuation after raising a fresh million and who led the funding round amd and what are they using the money for to buy chips from amd source,0.0258,neutral
+2026-06-10 12:31:27+00:00,,nan,0.0,neutral
+2026-06-10 10:53:59+00:00,,nan,0.0,neutral
+2026-06-10 10:49:38+00:00,"I just wanted to say that the Strait of Hormuz is only closed to inbound and outbound transit for US and Arabian Gulf tankers. Because of this, other nations are allowed to pass through.
+
+ When it comes to the US, we know that their massive domestic production and reserves alone are enough to push them toward near- independence regarding the local import and export of all energy and energy derivatives.
+
+ As for the Gulf nations, they haven't been able to sell a single barrel of oil or LPG cylinder for three months now.
+
+Their economies could face a full collapse if this war lasts just six months longer.
+
+This is highly likely given that these Gulf nations are not major producers of anything else. They are entirely reliant on oil and live in an isolated oil bubble of their own. Every country has its own design and system architects.
+
+Meanwhile, the global economy isn't actually in a state of meltdown at all.
+
+​Look at Russia's war, where every single commodity future on earth—including oil, natural gas, all energy derivatives, food like corn, wheat, and sugar, and metals like gold, silver, copper, palladium, and platinum—skyrocketed by 50% to 200% within a single month, impacting the entire world of trade.
+
+ In contrast, I think the market will soon realize this US-Iran clown show has a minimal impact and will quickly begin treating it as a business as usual.
+
+If you are a large portfolio holder with plenty of margin and decent leverage, short selling Arabian Gulf currencies like the Emirati dirham, Saudi riyal, and Kuwaiti dinar could make you millions if you hold the position for six months.
+
+​ThinkY about Russia's war in Ukraine; how many of us actually trade that conflict anymore?
+
+I mean, how many of us even look up the news about Russia's war in Ukraine?
+
+ The bottom line is that the war bubble is over. Whether this conflict drags on or not, global trade has had three months to adjust, and I am sure it is all completely priced in by now.
+
+ In fact, we can see this from the actions of major institutional traders. Firms like Goldman Sachs and JPMorgan sold off all their oil futures, at the very first announcement that the war was ending and that negotiations and deals were to follow.
+
+ That exact day was March 9th. It was a remarkable day where just one or two brokers knocked the price of oil down by 12% in a mere two hours. To this day, that stands as the largest recorded single-day institutional influence on oil prices.
+
+ So yes, unfortunately, the bubble has already burst since March 9th, but the majority of traders are still just trading the splash of that burst ,of that bubble.
+
+​If you are still basing all your trades on the war bubble, I think it is time for you to exclude this factor entirely. 
+
+Or if you are a conclusive trader who factors every global move. Then don't give it more than 20% weight , and focus on other fundamentals or news depending on what you trade.
+
+ If you are a person with a large portfolio and plenty of margin aiming for long-term profits, shorting Gulf nations' currencies is an absolute gold mine.
+
+I used the AI for proof reading only. ",i just wanted to say that the strait of hormuz is only closed to inbound and outbound transit for us and arabian gulf tankers because of this other nations are allowed to pass through when it comes to the us we know that their massive domestic production and reserves alone are enough to push them toward near independence regarding the local import and export of all energy and energy derivatives as for the gulf nations they haven t been able to sell a single barrel of oil or lpg cylinder for three months now their economies could face a full collapse if this war lasts just six months longer this is highly likely given that these gulf nations are not major producers of anything else they are entirely reliant on oil and live in an isolated oil bubble of their own every country has its own design and system architects meanwhile the global economy isn t actually in a state of meltdown at all look at russia s war where every single commodity future on earth including oil natural gas all energy derivatives food like corn wheat and sugar and metals like gold silver copper palladium and platinum skyrocketed by to within a single month impacting the entire world of trade in contrast i think the market will soon realize this us iran clown show has a minimal impact and will quickly begin treating it as a business as usual if you are a large portfolio holder with plenty of margin and decent leverage short selling arabian gulf currencies like the emirati dirham saudi riyal and kuwaiti dinar could make you millions if you hold the position for six months thinky about russia s war in ukraine how many of us actually trade that conflict anymore i mean how many of us even look up the news about russia s war in ukraine the bottom line is that the war bubble is over whether this conflict drags on or not global trade has had three months to adjust and i am sure it is all completely priced in by now in fact we can see this from the actions of major institutional traders firms like goldman sachs and jpmorgan sold off all their oil futures at the very first announcement that the war was ending and that negotiations and deals were to follow that exact day was march th it was a remarkable day where just one or two brokers knocked the price of oil down by in a mere two hours to this day that stands as the largest recorded single day institutional influence on oil prices so yes unfortunately the bubble has already burst since march th but the majority of traders are still just trading the splash of that burst of that bubble if you are still basing all your trades on the war bubble i think it is time for you to exclude this factor entirely or if you are a conclusive trader who factors every global move then don t give it more than weight and focus on other fundamentals or news depending on what you trade if you are a person with a large portfolio and plenty of margin aiming for long term profits shorting gulf nations currencies is an absolute gold mine i used the ai for proof reading only,-0.8833,negative
+2026-06-10 10:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1u1xslp),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-06-10 06:22:49+00:00,"I thought spy could be traded during extended hour. I’ll buy spx options from now on if I don’t get fucked by the morning.
+
+EDIT: I SOLD FOR A SMALL LOSS, THANK FOR THE THE CP LIE REPORT. PRAISE ALLAH FOR THE SMALL LOSS, LESSON LEARNED. TRADE SPX OPTIONS FROM NOW ON.",i thought spy could be traded during extended hour i ll buy spx options from now on if i don t get fucked by the morning edit i sold for a small loss thank for the the cp lie report praise allah for the small loss lesson learned trade spx options from now on,-0.4404,negative
+2026-06-10 04:46:42+00:00,"Caught the 10:30am-11:00am wave, man.",caught the am am wave man,0.0,neutral
+2026-06-10 04:21:06+00:00,"Went from 600>80,000 ",went from,0.0,neutral
+2026-06-10 03:49:59+00:00,"I'm selling SPX credit spreads at full port. I began the day at $16,196, the first low is $8,860, next high is $44,580 and midday low from that stupid drop is $15,650. I kept closing and opening newer spreads out of the money. Nervous as hell and stressed all day. I'm lucky to get out alive and will probably cash out 90% of it and just play smaller.",i m selling spx credit spreads at full port i began the day at the first low is next high is and midday low from that stupid drop is i kept closing and opening newer spreads out of the money nervous as hell and stressed all day i m lucky to get out alive and will probably cash out of it and just play smaller,-0.8126,negative
+2026-06-10 03:43:04+00:00,,nan,0.0,neutral
+2026-06-10 03:36:13+00:00,,nan,0.0,neutral
+2026-06-10 01:58:19+00:00,"The future of the bull run rests in your hand, CPI",the future of the bull run rests in your hand cpi,0.4939,positive
+2026-06-10 01:54:09+00:00,"Three years ago I was a first year consultant at McKinsey. I hated my job immensely, mostly because it related to firing people and finding cost efficiencies. Today I made more in a day than a year at that horrendous place. All glory to God. ",three years ago i was a first year consultant at mckinsey i hated my job immensely mostly because it related to firing people and finding cost efficiencies today i made more in a day than a year at that horrendous place all glory to god,-0.4939,negative
+2026-06-10 01:37:42+00:00,"The real gains were the emotional damage I collected along the way.
+
+Turned $140k into a valuable lesson. After years of convincing myself I was one trade away from becoming an astronaut 🌕, the market finally margin called my ego. I’m officially retiring from day trading and moving to the revolutionary strategy known as “buy and hold.” Congrats to whoever was on the other side of my trades you earned it.
+
+Before I retire I have these last few plays at the wallstreetbets casino. How regarded are they? Do these plays have a chance? ",the real gains were the emotional damage i collected along the way turned k into a valuable lesson after years of convincing myself i was one trade away from becoming an astronaut the market finally margin called my ego i m officially retiring from day trading and moving to the revolutionary strategy known as buy and hold congrats to whoever was on the other side of my trades you earned it before i retire i have these last few plays at the wallstreetbets casino how regarded are they do these plays have a chance,0.9186,positive
+2026-06-10 00:37:54+00:00,"“Friday’s selloff was never going to be a one-hit wonder,” Don Kaufman, co-founder of TheoTrade, said by phone. “All these SMH put-buyers are going to force market-makers to short the stock or sell Nasdaq futures which creates a very similar feedback to loop to what was causing it to go higher, but the downside can be exacerbated when money managers or retail \[traders\] panic.”
+
+Are you still hold Calls on Semi's, or moving to PUTS/Stock now?",friday s selloff was never going to be a one hit wonder don kaufman co founder of theotrade said by phone all these smh put buyers are going to force market makers to short the stock or sell nasdaq futures which creates a very similar feedback to loop to what was causing it to go higher but the downside can be exacerbated when money managers or retail traders panic are you still hold calls on semi s or moving to puts stock now,-0.7935,negative
+2026-06-10 00:35:43+00:00,"So I bought 0dte puts and ended up in the green.
+
+Gave back all my profits for the year on Friday. Doubled my account between Monday and Tuesday. I'd rather be lucky than smart.",so i bought dte puts and ended up in the green gave back all my profits for the year on friday doubled my account between monday and tuesday i d rather be lucky than smart,0.8126,positive
+2026-06-10 00:03:24+00:00,"Alright regards.
+
+Haven’t traded in a year because I got other shit to do.
+
+But then I noticed the market was so frothy, a few weeks ago I loaded this account with $15,000 to buy some sissy puts (dated 1-2 months)
+
+Next thing you know I get an email Friday telling me PDT was repealed.  Three trading days later, I’m up like your dad’s peen at a porn convention because I don’t have to give a shit about racking up PDT markers.
+
+We all knew the system was rigged.  They told us you can’t daytrade under $25k account value “for your own good.”  It’s to “protect the little guy.”  Well how about screw you Karen.  Any other day I’m sitting on a position worth half my account value, meanwhile the trade is not going my way and I’m double guessing if I want to close out because I have tWo oF tHrEe pDt mArKeRs on my account that won’t refresh for another 5 days.
+
+Anyway, from my previous posts I already paid myself a regard dividend and withdrew $50,000 (max daily withdrawal amount).
+
+Today’s trading: started our first trade short when QQQ hit 725.   Closed out and missed most of the move, which lowkey pissed me off but hey, profit is profit.
+
+Flipped long around 695 and took a massive L for 20 minutes before the big bounce later.
+
+All my trades are above.  I mostly trade 5-20 contracts with same day expiration (I enter the trade in increments of 5) and am in trades for anywhere from 5-10 minutes on average, with high conviction ones being in for 1-2 hours.
+
+Since there’s no PDT restriction, I’ll be withdrawing another $25k and day trading with the rest until the market figures out where it wants to go.
+
+If I blow up the rest who cares, I’m still up b\*\*ches.  This is not investment advice.  This is not my first Rodeo.  Do not try this at home or you will end up behind a Wendy’s.
+
+P.S.  Short the Nasdaq.  SpaceX IPO is about to suck every ounce of liquidity out of the market like a bad airlock ",alright regards haven t traded in a year because i got other shit to do but then i noticed the market was so frothy a few weeks ago i loaded this account with to buy some sissy puts dated months next thing you know i get an email friday telling me pdt was repealed three trading days later i m up like your dad s peen at a porn convention because i don t have to give a shit about racking up pdt markers we all knew the system was rigged they told us you can t daytrade under k account value for your own good it s to protect the little guy well how about screw you karen any other day i m sitting on a position worth half my account value meanwhile the trade is not going my way and i m double guessing if i want to close out because i have two of three pdt markers on my account that won t refresh for another days anyway from my previous posts i already paid myself a regard dividend and withdrew max daily withdrawal amount today s trading started our first trade short when qqq hit closed out and missed most of the move which lowkey pissed me off but hey profit is profit flipped long around and took a massive l for minutes before the big bounce later all my trades are above i mostly trade contracts with same day expiration i enter the trade in increments of and am in trades for anywhere from minutes on average with high conviction ones being in for hours since there s no pdt restriction i ll be withdrawing another k and day trading with the rest until the market figures out where it wants to go if i blow up the rest who cares i m still up b ches this is not investment advice this is not my first rodeo do not try this at home or you will end up behind a wendy s p s short the nasdaq spacex ipo is about to suck every ounce of liquidity out of the market like a bad airlock,0.8263,positive
+2026-06-09 23:57:59+00:00,"https://preview.redd.it/6rvypd6qic6h1.png?width=1457&format=png&auto=webp&s=496332fa26db650ad693512543bbee62df082fb8
+
+  
+Bought 100 SOXS $6 calls at 0.37 because I thought semis were finally rolling over.
+
+Market immediately informed me that semiconductors were the greatest invention in human history.
+
+Calls dropped to 0.16.
+
+After watching futures for most of the night, I accepted defeat and went to sleep because my kids needed me.
+
+While asleep:
+
+* SOXS went from \~5 to 7.
+* My calls hit 1.33.
+* My thesis became correct.
+* Every market participant became rich except me.
+
+I woke up to discover that being right is apparently worse than being wrong.
+
+Current position:
+
+* Still holding.
+* Still anxious.
+* Still convinced the market waited for me to fall asleep.",bought soxs calls at because i thought semis were finally rolling over market immediately informed me that semiconductors were the greatest invention in human history calls dropped to after watching futures for most of the night i accepted defeat and went to sleep because my kids needed me while asleep soxs went from to my calls hit my thesis became correct every market participant became rich except me i woke up to discover that being right is apparently worse than being wrong current position still holding still anxious still convinced the market waited for me to fall asleep,0.34,positive
 2026-06-09 22:51:23+00:00,"At the gas pump, to fill up I prefer really cheap oil but now that I have bought call options on SM Energy I admit to wanting the opposite, however the price of WTI below $90 given the circumstances, sorry I don't get it. Wti should be at $120!
 
 After 100 days and the news of tonight ""American forces launched strikes against Iran “in response to yesterday’s downing of a U.S. Army Apache helicopter,” U.S. Central Command said"", I was expecting a much higher oil price 😳😳
 
 ",at the gas pump to fill up i prefer really cheap oil but now that i have bought call options on sm energy i admit to wanting the opposite however the price of wti below given the circumstances sorry i don t get it wti should be at after days and the news of tonight american forces launched strikes against iran in response to yesterday s downing of a u s army apache helicopter u s central command said i was expecting a much higher oil price,0.2263,positive
-2026-06-09 21:51:56+00:00,Keep the volatility going!,keep the volatility going,0.0,neutral
-2026-06-09 21:48:44+00:00,"Oh boy, here we go again. Buckle up regards",oh boy here we go again buckle up regards,0.0,neutral
 2026-06-09 21:47:16+00:00,"SMCI is known for shady accounting and despite almost getting delisted for not filing 10-k last year, has said they won’t change any accounting practices.
 
 Then, 3 executives were arrested for smuggling Nvidia chips.
@@ -71,7 +558,6 @@ Ended the day up 20% but for a good 15 minutes I felt meaningful",this what i ca
 After closing the Puts loaded up on Calls total gain \~$38k  
 ",after closing the puts loaded up on calls total gain k,0.5267,positive
 2026-06-09 18:53:36+00:00,,nan,0.0,neutral
-2026-06-09 18:06:29+00:00,Odte spy put. My biggest gain ever. Gonna take a break from my gambling addiction for a few months. Good luck regards. ,odte spy put my biggest gain ever gonna take a break from my gambling addiction for a few months good luck regards,0.8519,positive
 2026-06-09 17:57:49+00:00,i am once again full porting $now at these low levels. scared money don’t make money. just going off of vibes ,i am once again full porting now at these low levels scared money don t make money just going off of vibes,-0.6124,negative
 2026-06-09 17:30:30+00:00,Bought 50 lotto QQQ puts at 10am because the pump made no sense. Sold a lot wayyy too early. ,bought lotto qqq puts at am because the pump made no sense sold a lot wayyy too early,-0.296,negative
 2026-06-09 17:30:23+00:00,Today was a fucking rollercoster of emotion. Sold right before SPY bottomed out.,today was a fucking rollercoster of emotion sold right before spy bottomed out,0.0,neutral
@@ -115,7 +601,6 @@ About user adoption, it will be exceedingly slow, I believe. People have used th
 
 TLDR: Siri has been a dead functionality for years for the vast majority of users. Buying AI is too expensive, Siri-Gemini user adoption will be insufficient.",this is my thesis and i m happy to exchange and discuss on it and i m even open to changing my mind when the entire tech world was working day and night to develop the best ai in a literal arms race that we hadn t witnessed since the space race between the us and the ussr apple has not secured a piece of the pie not in hardware not in software first openai rolled out in november the new chat bot that changed the way people searched for information on the internet as time passed its capacities augmented it became able to browse the internet read files code and generate images in the blink of an eye alternatives appeared llama claude and gemini even deepseek and copilot are worth mentioning on the software spectrum apple is nowhere to be seen on the hardware spectrum apple makes a great arm chip but as far as we know it is not a pillar to any sort of disruptive technology like nvdas gpus are or even hbm and dram from mu and sndk on both the software and hardware spectrums apple has no real seat at the table so apple is forced to buy the ai from someone else and they bought it from google with both apple and google i believe we re about to witness how truly expensive it can get for a company to integrate a third party llm into its ecosystem i also believe it s going to get really expensive for google as we might not see the user adoption they re expecting we ve already had reports of companies cancelling their claude subscriptions due to skyrocketing costs but with apple i believe we re going to see something similar except at much higher levels about user adoption it will be exceedingly slow i believe people have used their big three claude gemini and chatgpt ai llms for too long and are used to how they function siri has pretty much been a dead functionality for the vast majority of iphone users bar a few and i believe user adoption will not reach the levels apple is hoping to see and it will get expensive real quick tldr siri has been a dead functionality for years for the vast majority of users buying ai is too expensive siri gemini user adoption will be insufficient,-0.2084,negative
 2026-06-09 14:33:17+00:00,"Last time I took profits I was an idiot, this time I take profits and I’m less of an idiot!",last time i took profits i was an idiot this time i take profits and i m less of an idiot,-0.2023,negative
-2026-06-09 14:29:09+00:00,Fell for the hype and didn’t sell when up 16k. This is on me. ,fell for the hype and didn t sell when up k this is on me,0.0,neutral
 2026-06-09 12:51:57+00:00,,nan,0.0,neutral
 2026-06-09 12:24:34+00:00,,nan,0.0,neutral
 2026-06-09 10:10:24+00:00,,nan,0.0,neutral
@@ -341,11 +826,8 @@ Edit: [https://www.youtube.com/watch?v=t1\_MI\_5FHoc](https://www.youtube.com/wa
 Feeder cattle futures is the only way to do this wihout recieving 40000 lbs of live cattle at your doorstep.",this screwworm is going to do what oil couldn t pop the ai bubble edit trump wants to keep beef prices down hedge funds drive the futures prices down and the farmers get paid less if the futures prices go up the cost of paying the producers more gets passed on to the consumer costlier beef makes the price of chicken tendies go up and causes the consumer price index to skyrocket warsh is forced to raise rates the cheap debt for the ai buildout disappears and the bubble pops feeder cattle futures is the only way to do this wihout recieving lbs of live cattle at your doorstep,-0.8074,negative
 2026-06-08 20:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1u0j0s9),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-06-08 19:36:24+00:00,"Holding over 5,000 shares at a $30 avg across 3 accounts.  FML",holding over shares at a avg across accounts fml,0.296,positive
-2026-06-08 19:08:52+00:00,,nan,0.0,neutral
 2026-06-08 18:30:29+00:00,,nan,0.0,neutral
 2026-06-08 17:56:08+00:00,"Lost everything 80% in 2021 and the rest 10% on random shit but hey , at least now I learn to not buy meme stocks and trade on er. Btw I am up 600% ytd 281-2.1k . Who know I might end up even in 2 years.",lost everything in and the rest on random shit but hey at least now i learn to not buy meme stocks and trade on er btw i am up ytd k who know i might end up even in years,-0.4497,negative
-2026-06-08 17:54:31+00:00,"After Friday’s put gains, I decided to trade the bounce on QQQ.  Might have been a little early on Friday but QQQ came through.  Just gonna ride off into the sunset for now, Godspeed regards  ",after friday s put gains i decided to trade the bounce on qqq might have been a little early on friday but qqq came through just gonna ride off into the sunset for now godspeed regards,0.1779,positive
-2026-06-08 17:27:34+00:00,Nice Lil 336% gains for the ber,nice lil gains for the ber,0.6369,positive
 2026-06-08 17:15:37+00:00,"well i picked the wrong stocks now my mental health is at the lowest point in my life. last time i do stock picking, clearly this game is designed as a scam to screw people over.
 
 fuck the analysts too, 600 on MSFT, you make me laugh. downgrade that pos to 350",well i picked the wrong stocks now my mental health is at the lowest point in my life last time i do stock picking clearly this game is designed as a scam to screw people over fuck the analysts too on msft you make me laugh downgrade that pos to,-0.7096,negative
@@ -356,17 +838,6 @@ I thought I learnt the lesson 3 months ago when the exact same thing happened.
 I hate myself over how much disappointment & suffering I've brought upon them, all they wanted was to feel pride in my achievements and here I am. 
 
 I have a gambling problem. ",i checked my horoscope which confirmed i ll have some gains but ended up with a loss trading dtes minutes ago i m an international student and some of the money isn t even mine it s my parents on facetime my mum looks at me with pride in her eyes all i ve done is fuck up over and over i don t even feel alive right now my master s program is coming to an end by the end of summer and all i have to show are fuck ups i thought i learnt the lesson months ago when the exact same thing happened i hate myself over how much disappointment suffering i ve brought upon them all they wanted was to feel pride in my achievements and here i am i have a gambling problem,-0.9696,negative
-2026-06-08 16:40:36+00:00,"(Not a space stock even though the ticker sounds like it)
-
-$GLXY CEO was interviewed over the weekend (June 6) on a podcast and says that they have the largest data center in North America and that they are going to do a deal by July 4 (or end of summer at the latest). After that deal, they will have over 1.6 GW of capacity leased out.
-
-Video below, segment starts at 16:10
-
-https://youtu.be/8KgCb6RvxcI?si=E7o-K47SwjqqtLc8
-
-Position:
-
-6,686 shares @ $29.03",not a space stock even though the ticker sounds like it glxy ceo was interviewed over the weekend june on a podcast and says that they have the largest data center in north america and that they are going to do a deal by july or end of summer at the latest after that deal they will have over gw of capacity leased out video below segment starts at position shares,0.5719,positive
 2026-06-08 16:10:39+00:00,"https://preview.redd.it/a933o4es136h1.png?width=508&format=png&auto=webp&s=40c0f9a5930659200aac12de7dbebeb7a8c21c36
 
 Title sums it up, never tried this and saw a lot of posts losing their entire portfolios on these things. I got to thinking someone has to be on the other side of these making bank. Started 3 weeks ago resetting account to 50k after some Space gains. 
@@ -400,69 +871,24 @@ After the announcement the shares will trade in lock-step until the deal closes 
 **The Payoff:**
 
 Selling all options at extrinsic value + hyper IV on the day of the announcement.",the bet now up from contracts of the tesla december calls now at the single most profitable option out of roughly different contracts on the entire tesla chain in the event of a surprise purchase announcement the setup elon has repeatedly said he views advanced ai and humanoid robots like optimus as a potential existential risk to humanity he tried to secure voting control at tesla to protect his ability to steer that future when he couldn t get it he built absolute control in spacex instead he can sign a definitive purchase agreement wherein tesla shareholders receive spacex shares for their tesla shares after the announcement the shares will trade in lock step until the deal closes approximately six months later the payoff selling all options at extrinsic value hyper iv on the day of the announcement,0.9726,positive
-2026-06-08 15:15:43+00:00,Your contribution to my networth is recognized,your contribution to my networth is recognized,0.0,neutral
-2026-06-08 15:11:57+00:00,Yolo on MSTR. Corn is going to bounce back and Saylor is taking me to the promise land. ,yolo on mstr corn is going to bounce back and saylor is taking me to the promise land,0.5267,positive
 2026-06-08 14:52:56+00:00,,nan,0.0,neutral
-2026-06-08 14:41:44+00:00,Source - [https://nebius.com/newsroom/nebius-expands-in-uk-with-more-nvidia-powered-infrastructure-more-customers-and-more-cloud-capabilities-for-agentic-and-enterprise-ai](https://nebius.com/newsroom/nebius-expands-in-uk-with-more-nvidia-powered-infrastructure-more-customers-and-more-cloud-capabilities-for-agentic-and-enterprise-ai),source,0.0,neutral
 2026-06-08 12:55:25+00:00,,nan,0.0,neutral
-2026-06-08 11:58:11+00:00,"**News Summary:**
-
-* NVIDIA and SK hynix announce multiyear technology partnership for next-generation memory aligned to NVIDIA’s AI infrastructure roadmap.
-* The agreement supports supply for advanced memory, addressing the extended development cycles, advanced fabrication and capital investments to sustain the global buildout of AI factories.
-* SK hynix will diversify into new markets NVIDIA is creating — across AI infrastructure, personal AI and physical AI — codeveloping memory for NVIDIA Vera Rubin AI supercomputers, Vera CPUs, RTX Spark-powered PCs and Jetson Thor robotic computing platforms.
-* The two companies will apply AI to semiconductor chip design and manufacturing, using NVIDIA CUDA-X libraries and NVIDIA PhysicsNeMo to accelerate semiconductor simulations, TCAD workflows and in-house engineering codes.
-* SK hynix will advance factory digital twins by combining NVIDIA Omniverse, OpenUSD scene optimization and NVIDIA cuOpt to drive fully autonomous fab operations.",news summary nvidia and sk hynix announce multiyear technology partnership for next generation memory aligned to nvidia s ai infrastructure roadmap the agreement supports supply for advanced memory addressing the extended development cycles advanced fabrication and capital investments to sustain the global buildout of ai factories sk hynix will diversify into new markets nvidia is creating across ai infrastructure personal ai and physical ai codeveloping memory for nvidia vera rubin ai supercomputers vera cpus rtx spark powered pcs and jetson thor robotic computing platforms the two companies will apply ai to semiconductor chip design and manufacturing using nvidia cuda x libraries and nvidia physicsnemo to accelerate semiconductor simulations tcad workflows and in house engineering codes sk hynix will advance factory digital twins by combining nvidia omniverse openusd scene optimization and nvidia cuopt to drive fully autonomous fab operations,0.9492,positive
 2026-06-08 11:17:28+00:00,,nan,0.0,neutral
-2026-06-08 11:04:58+00:00,,nan,0.0,neutral
-2026-06-08 10:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1u03hhc),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-06-08 08:20:51+00:00,Unfortunately not degen enough to hold until end of day (these were worth $75k EOD btw),unfortunately not degen enough to hold until end of day these were worth k eod btw,-0.128,negative
 2026-06-08 07:02:06+00:00,"Good news for MU & SNDK. “If the multi-year shortage Huang outlined tonight holds, the recent pullback in MU and SNDK looks like a setup rather than a peak signal.”",good news for mu sndk if the multi year shortage huang outlined tonight holds the recent pullback in mu and sndk looks like a setup rather than a peak signal,0.5267,positive
-2026-06-08 06:16:07+00:00,her name is Li! buy the dip before we rip and short covering ,her name is li buy the dip before we rip and short covering,0.0,neutral
 2026-06-08 06:07:49+00:00,,nan,0.0,neutral
 2026-06-08 04:05:54+00:00,"South Korea’s Kospi, which is dominated by chipmakers Samsung and SK Hynix, is down almost 15% from last week’s record high. ",south korea s kospi which is dominated by chipmakers samsung and sk hynix is down almost from last week s record high,0.0,neutral
-2026-06-08 03:47:57+00:00,"Poised for a breakout once the AI noise dies down. Every loser on here has Netflix (I only own stock, can’t afford the subscription). ",poised for a breakout once the ai noise dies down every loser on here has netflix i only own stock can t afford the subscription,-0.34,negative
 2026-06-08 01:49:10+00:00,"Timed the absolute top somehow, must be the only smoothie who made money, soz too all those who got wrecked friday.
 
 https://preview.redd.it/0n4u02sdsy5h1.png?width=1271&format=png&auto=webp&s=08788908667883fa2bbf54c33efa89ca96f9a113
 
 ",timed the absolute top somehow must be the only smoothie who made money soz too all those who got wrecked friday,0.2023,positive
-2026-06-08 01:40:25+00:00,"Shorted NASDAQ futures out of sheer stupidity after turning on margin last night then almost blew up my account doubling and tripling down. Somehow managed to hit the sell(buy)button exactly on that drop and it rebounded 10 seconds later.
-
-Robinhood makes it very easy to turn on margin btw.",shorted nasdaq futures out of sheer stupidity after turning on margin last night then almost blew up my account doubling and tripling down somehow managed to hit the sell buy button exactly on that drop and it rebounded seconds later robinhood makes it very easy to turn on margin btw,-0.204,negative
 2026-06-08 00:46:25+00:00,Calls on SPCX. Puts on PSQ. Our lord and savior Leather jacket will carry us to Valhalla. ,calls on spcx puts on psq our lord and savior leather jacket will carry us to valhalla,0.0,neutral
-2026-06-08 00:12:34+00:00,"I’ll keep it simple. EBITDA growing massively and they’re continuing to take share. CELH trades for 9x EBITDA while Monster trades for 25x with slower growth. Alani NU integration remains on track. Stock should easily be $50 and it would still trade a significant multiple discount to Monster. Market always wakes up to strong results eventually. 
-
-Also, doesn’t hurt to have a little AI insulation is the current environment.
-
-Will roll the June calls out to July / September but think we’ll see a bounce over the next week or two. Stock held up great on Friday. Entered the position right before close on Friday so don’t say I didn’t warn you! ",i ll keep it simple ebitda growing massively and they re continuing to take share celh trades for x ebitda while monster trades for x with slower growth alani nu integration remains on track stock should easily be and it would still trade a significant multiple discount to monster market always wakes up to strong results eventually also doesn t hurt to have a little ai insulation is the current environment will roll the june calls out to july september but think we ll see a bounce over the next week or two stock held up great on friday entered the position right before close on friday so don t say i didn t warn you,0.8705,positive
-2026-06-07 23:59:49+00:00,"Hoping tomorrow will be green so I can just cash out, be done with it and relax. I promise I will sell this time!
-
-Oh yeah, last time you guys were making fun of me for only having a $100 left in cash and hurted my feelings so I maxed margined and bought some 0DTE Puts on SPY last Friday and was able to close for a bit over 50k. Nice little cash pile there now, am I Warren Buffet yet?
-
-Previous post - https://www.reddit.com/r/wallstreetbets/s/Z2Elf3fgeJ",hoping tomorrow will be green so i can just cash out be done with it and relax i promise i will sell this time oh yeah last time you guys were making fun of me for only having a left in cash and hurted my feelings so i maxed margined and bought some dte puts on spy last friday and was able to close for a bit over k nice little cash pile there now am i warren buffet yet previous post,0.936,positive
-2026-06-07 23:51:50+00:00,Everyone was shitting on me for shorting btc. Portfolio was at 33k - 38k for 3 months. I held through it. Now it's sitting at 50k. Thanks to wsb regards for demotivating me. ,everyone was shitting on me for shorting btc portfolio was at k k for months i held through it now it s sitting at k thanks to wsb regards for demotivating me,0.0258,neutral
-2026-06-07 23:34:42+00:00,,nan,0.0,neutral
-2026-06-07 23:07:15+00:00,,nan,0.0,neutral
 2026-06-07 21:46:35+00:00,,nan,0.0,neutral
 2026-06-07 21:30:47+00:00,"nasdaq dropped 4% and these cock-sucking chip stocks didn't even buy me dinner first. broadcom opened its fucking mouth, said absolutely nothing useful about AI, and the entire semiconductor sector collectively shit the bed and died. my calls are fucking worthless. i meanwhile coca-cola a company that sells fizzy brown piss water is up 3% handing out condoms like a smug bastard AFTER every bull got absolutely railed.
 
 i hate this market, i hate these bears, and i hope every short seller steps on a shit, slips on a condom, and falls into a vat of flat coke. 🐻📉",nasdaq dropped and these cock sucking chip stocks didn t even buy me dinner first broadcom opened its fucking mouth said absolutely nothing useful about ai and the entire semiconductor sector collectively shit the bed and died my calls are fucking worthless i meanwhile coca cola a company that sells fizzy brown piss water is up handing out condoms like a smug bastard after every bull got absolutely railed i hate this market i hate these bears and i hope every short seller steps on a shit slips on a condom and falls into a vat of flat coke,-0.9782,negative
 2026-06-07 20:58:56+00:00,,nan,0.0,neutral
-2026-06-07 20:33:30+00:00,"Understandably CNBC cut the calling-out bit out of the 2min video they posted of Tom Lee’s interview on Friday, but it was the most contentious I’ve seen Scott get with a bull like Tom in a long long while.
-
-Essentially Scott asked Tom if this is the AI/chip correction Tom had predicted on cnbc recently, to which Tom gave a waffling “meh no but big sad,” after which Scott straight up called him out.
-
-Scott specifically asked why that’s the case and why Tom is being overly bullish when the market is clearly spooked about something. Tom gave another non-answer. If you have a CNBC subscription, it’s a really interesting interview and I recommend checking it out.
-
-Regular WSB autism and snark aside, this is why famous active CIO permabol lack credibility in my mind, because they don’t know how to talk about downturns in public. Of course the permaber are even worse because they are almost always wrong.
-
-I feel like Tom Lee is one of the worst offenders, partly because he tries to come across so low key and unassuming, when really he’s very calculated and I would wager (my opinion) performative.
-
-I can admit he’s been right more than he’s been wrong, but I also wouldn’t base positions on what he says when the vix starts to creep.
-
-Calling him a fat cuck aside, what do you all think of Tom Lee? Is he legit, or is he more momma Cathie than maverick investment bro?",understandably cnbc cut the calling out bit out of the min video they posted of tom lee s interview on friday but it was the most contentious i ve seen scott get with a bull like tom in a long long while essentially scott asked tom if this is the ai chip correction tom had predicted on cnbc recently to which tom gave a waffling meh no but big sad after which scott straight up called him out scott specifically asked why that s the case and why tom is being overly bullish when the market is clearly spooked about something tom gave another non answer if you have a cnbc subscription it s a really interesting interview and i recommend checking it out regular wsb autism and snark aside this is why famous active cio permabol lack credibility in my mind because they don t know how to talk about downturns in public of course the permaber are even worse because they are almost always wrong i feel like tom lee is one of the worst offenders partly because he tries to come across so low key and unassuming when really he s very calculated and i would wager my opinion performative i can admit he s been right more than he s been wrong but i also wouldn t base positions on what he says when the vix starts to creep calling him a fat cuck aside what do you all think of tom lee is he legit or is he more momma cathie than maverick investment bro,-0.9421,negative
 2026-06-07 20:23:45+00:00,,nan,0.0,neutral
-2026-06-07 19:57:09+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1tzmahm),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-06-07 19:30:34+00:00,,nan,0.0,neutral
 2026-06-07 16:32:19+00:00,">Nvidia and South Korea's SK \[Hynix\] are expected to announce a plan for cooperation between the two companies on Monday (Jun 8), with the boss of the US chipmaker saying that the ongoing memory shortage would persist for ""quite a few years"".
 
@@ -470,6 +896,11 @@ Bullish for chip stocks on Monday. Am I right, you mother fellas?",nvidia and so
 2026-06-07 16:29:27+00:00,,nan,0.0,neutral
 2026-06-07 10:12:52+00:00,,nan,0.0,neutral
 2026-06-07 10:12:47+00:00,,nan,0.0,neutral
+2026-06-07 05:18:51+00:00,"I'm not feeling good.. lost 40k on another position and this account is fucked too..
+
+
+Update : holy fuck made it out alive on this position. 
+Rolled it to one week later and should be fine now ",i m not feeling good lost k on another position and this account is fucked too update holy fuck made it out alive on this position rolled it to one week later and should be fine now,-0.7441,negative
 2026-06-07 01:42:19+00:00,"Looking for someone to help me understand why one of the important companies to the AI ecosystem is sitting at $30b market cap. 
 
 Right now Reddit is capturing .01% of the CapX spending this year even though they are the #1 most cited source in responses and are sitting on 20 years of some of the best training data there is.
@@ -483,6 +914,27 @@ Sold some of my AMD position to buy RDDT shares this week and im having a hard t
 2026-06-06 22:22:40+00:00,"this is what ive been doing and Ive been making decent gains, I heard that the post nut clarity makes you think a lil better so I could make better decisions 
 
 has anyone else tried it?",this is what ive been doing and ive been making decent gains i heard that the post nut clarity makes you think a lil better so i could make better decisions has anyone else tried it,0.872,positive
+2026-06-06 18:39:08+00:00,"Alright degenerates, let me paint you a picture of a company that:  
+Just raised **2026 free cash flow guidance to $12.5 BILLION** (up from $11B). That's not revenue. That's FREE. CASH. FLOW. [TipRanks](https://www.tipranks.com/news/netflixs-nflx-first-half-is-soft-the-second-half-is-where-the-bull-case-lives)
+
+Authorized a **$25 BILLION share buyback** on top of $6.8B already in the chamber. They are literally YOLOING their own stock. [TipRanks](https://www.tipranks.com/news/netflixs-nflx-first-half-is-soft-the-second-half-is-where-the-bull-case-lives)
+
+Ad revenue expected to **roughly DOUBLE to \~$3 billion in 2026** after already growing 150% last year. The ad tier is just getting started. [TipRanks](https://www.tipranks.com/news/netflixs-nflx-first-half-is-soft-the-second-half-is-where-the-bull-case-lives)  
+**32.3% operating margin** and climbing. This thing prints money like the Fed used to. [TipRanks](https://www.tipranks.com/news/netflixs-nflx-first-half-is-soft-the-second-half-is-where-the-bull-case-lives)
+
+**H2 2026 is the real catalyst.** Q2 marks the **peak content amortization headwind** — meaning the margin pressure EASES in the back half. Bulls who understand this are loading up while smoothbrains panic over soft Q1 guidance. [TipRanks](https://www.tipranks.com/news/netflixs-nflx-first-half-is-soft-the-second-half-is-where-the-bull-case-lives)
+
+**Content moat is REAL.** Wednesday, Squid Game finale, Stranger Things, Adolescence, NFL Christmas Day games, boxing matches — these aren't just shows, they're **cultural events** that keep 300M+ households paying every month. [sec](https://www.sec.gov/Archives/edgar/data/1065280/000119312526159286/d20613ddef14a.htm)  
+The dip is a **gift**. Stock sitting \~$82 vs ATH of $133 just last year. They're buying back shares hand over fist at these levels. If you won't buy what a company is buying about itself, what are you even doing here. [LiteFinance](https://www.litefinance.org/blog/analysts-opinions/netflix-stock-price-prediction/)
+
+**TL;DR:** FCF machine, massive buyback, ad revenue doubling, margin expansion in H2, content nobody can touch. This is a **H2 2026 asymmetric play**.  
+🎯 Targets: $100 by Q3, $120 EOY
+
+# I got short term calls because they are in the buyback period .
+
+# AGM recording is available..listen proposal 5 & 6 you will understand this AGM meeting was worth to vote and address ongoing issues.. looks they are serious about stock price going down and go woke go broke
+
+[https://east.virtualshareholdermeeting.com/vsm/web?pvskey=NFLX2026](https://east.virtualshareholdermeeting.com/vsm/web?pvskey=NFLX2026)",alright degenerates let me paint you a picture of a company that just raised free cash flow guidance to billion up from b that s not revenue that s free cash flow tipranks authorized a billion share buyback on top of b already in the chamber they are literally yoloing their own stock tipranks ad revenue expected to roughly double to billion in after already growing last year the ad tier is just getting started tipranks operating margin and climbing this thing prints money like the fed used to tipranks h is the real catalyst q marks the peak content amortization headwind meaning the margin pressure eases in the back half bulls who understand this are loading up while smoothbrains panic over soft q guidance tipranks content moat is real wednesday squid game finale stranger things adolescence nfl christmas day games boxing matches these aren t just shows they re cultural events that keep m households paying every month sec the dip is a gift stock sitting vs ath of just last year they re buying back shares hand over fist at these levels if you won t buy what a company is buying about itself what are you even doing here litefinance tl dr fcf machine massive buyback ad revenue doubling margin expansion in h content nobody can touch this is a h asymmetric play targets by q eoy i got short term calls because they are in the buyback period agm recording is available listen proposal you will understand this agm meeting was worth to vote and address ongoing issues looks they are serious about stock price going down and go woke go broke,0.9732,positive
 2026-06-06 15:24:44+00:00,"we are going to gap up so hard on Monday
 
 [https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/?utm\_medium=Social&utm\_source=Facebook](https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/?utm_medium=Social&utm_source=Facebook)",we are going to gap up so hard on monday,-0.2183,negative
@@ -581,8 +1033,8 @@ So my take on the market crash today was from this more than anything else.
 2026-06-05 20:24:11+00:00,Americans about to discover the benefits of communism,americans about to discover the benefits of communism,0.3818,positive
 2026-06-05 19:09:08+00:00,,nan,0.0,neutral
 2026-06-05 19:03:52+00:00,lol rip now we btd ,lol rip now we btd,-0.0772,negative
-2026-06-05 19:02:18+00:00,,nan,0.0,neutral
 2026-06-05 18:35:44+00:00,CLOSE THE CASINO NOW!!!,close the casino now,0.0,neutral
+2026-06-05 18:32:16+00:00,Over leveraged into SPX calls ,over leveraged into spx calls,0.0,neutral
 2026-06-05 18:21:09+00:00,"https://preview.redd.it/8t5cb1q6ai5h1.png?width=1080&format=png&auto=webp&s=bd9a6f7f20f2d55bb93a21d96879f16c6d9c2740
 
 8 days ago, I posted on WSB showing I made all my lifetime losses (https://www.reddit.com/r/wallstreetbets/comments/1tqf1p1/after\_55\_years\_im\_even/). I even hid showing posts from problemgambler as I enjoyed shitposting here on the Daily with everyone. The day after  I made the post, I promptly lost 48k but was still within striking distance of breaking even again with had an exact plan if I were to break even again. I was less than 15% away despite the loss.
@@ -634,68 +1086,3 @@ Riding to 0 or valhalla!",now shares bb shares riding to or valhalla,0.5267,posi
 2026-06-04 10:17:35+00:00,🫣,,0.0,neutral
 2026-06-04 01:58:58+00:00,Thank you saylor! Very cool!,thank you saylor very cool,0.624,positive
 2026-06-04 01:10:54+00:00,,nan,0.0,neutral
-2026-06-03 23:42:45+00:00,"TL;DR: Sold premium, collected pennies, accidentally became a six-figure NVDA investor overnight. Schwab called. Risk desk said “good luck.” Sleep is canceled until market open. Need NVDA to open over 215.
-
-I think this is probably the most stressful night i’ve ever had. Going into this trade there was a 95% chance POP, now my account will have a notional value of almost 600k, gonna assigned and pin risk fucked me hard. Hoping NVDA does not fall more than 6% tomorrow or I’ll owe Ol’e Charlie money.
-
-Got the dreaded call again from Schwab Risk Management and Margin Compliance and the dude was able to short a quarter million worth of NVDA in order to buffer the assignment, but I will likely still be long 1300 shares tomorrow morning.
-
-This coming not even a month after I did that increased 14:1 leverage trade with Intel.
-
-bro. I guess i better hope NVDA opens over 215. Goodnight regards, I hope I don’t owe a mortgage to wall street in the morning.
-
-Edit: Schwab Risk Management guy literally said “best of luck to you” but later said “I’ve seen worse” and “I’m sure you’re going to be okay”",tl dr sold premium collected pennies accidentally became a six figure nvda investor overnight schwab called risk desk said good luck sleep is canceled until market open need nvda to open over i think this is probably the most stressful night i ve ever had going into this trade there was a chance pop now my account will have a notional value of almost k gonna assigned and pin risk fucked me hard hoping nvda does not fall more than tomorrow or i ll owe ol e charlie money got the dreaded call again from schwab risk management and margin compliance and the dude was able to short a quarter million worth of nvda in order to buffer the assignment but i will likely still be long shares tomorrow morning this coming not even a month after i did that increased leverage trade with intel bro i guess i better hope nvda opens over goodnight regards i hope i don t owe a mortgage to wall street in the morning edit schwab risk management guy literally said best of luck to you but later said i ve seen worse and i m sure you re going to be okay,0.9716,positive
-2026-06-03 21:46:02+00:00,,nan,0.0,neutral
-2026-06-03 21:32:38+00:00,,nan,0.0,neutral
-2026-06-03 21:24:25+00:00,"Sometimes you take the elevator up, and the stairs back down. Sometimes it's the other way around. 
-
-Cheers 🍻 👏 ✌️ 🥂  ",sometimes you take the elevator up and the stairs back down sometimes it s the other way around cheers,0.4767,positive
-2026-06-03 20:45:36+00:00,"I’m doing an onboarding about insider trading and one of the things was making trades when you know the stock price is going to drop because you work there. 
-
-But have you ever shorted a company you worked at because you realized the people are idiots and the company was surely going to fail eventually?",i m doing an onboarding about insider trading and one of the things was making trades when you know the stock price is going to drop because you work there but have you ever shorted a company you worked at because you realized the people are idiots and the company was surely going to fail eventually,-0.3506,negative
-2026-06-03 17:29:16+00:00,"Started with 10k (mom gave me money to trade with) and went down to 4k (very sad), so i said fuck it and put my last 4k on reddit puts expiring the next day and turned it into 21k.
-
-Also, I was on a plane and robinhood was glitching when I was trying to sell so I was boutta cry. Oh and I also had 1k of credit card debt and if it went to 0 I would have been fucked.
-
-Edit: Posting this has probably been the single greatest thing I have ever done in my life.",started with k mom gave me money to trade with and went down to k very sad so i said fuck it and put my last k on reddit puts expiring the next day and turned it into k also i was on a plane and robinhood was glitching when i was trying to sell so i was boutta cry oh and i also had k of credit card debt and if it went to i would have been fucked edit posting this has probably been the single greatest thing i have ever done in my life,-0.8918,negative
-2026-06-03 16:34:22+00:00,Not the happiest week for space tards I guess (me included),not the happiest week for space tards i guess me included,-0.5216,negative
-2026-06-03 15:40:00+00:00,.,,0.0,neutral
-2026-06-03 15:30:15+00:00,"...you're welcome.
-
-https://preview.redd.it/ir0r7sad635h1.png?width=2760&format=png&auto=webp&s=684b4e3587621ff7fb1f520a6d1d805c0af96644
-
-",you re welcome,0.4588,positive
-2026-06-03 14:41:46+00:00,"“When you’re down big yolo a ton of calls, that shits going to the moon”
-
-\-Warren Buffet",when you re down big yolo a ton of calls that shits going to the moon warren buffet,-0.25,negative
-2026-06-03 13:58:24+00:00,,nan,0.0,neutral
-2026-06-03 13:13:02+00:00,"Discuss:
-
-* When will $5.3T AI spending start making real profits?
-* Which companies benefit most from it?
-* Will all this spending hurt Big Tech margins and stock prices first?
-
-Source: [https://finance.yahoo.com/sectors/technology/article/meta-microsoft-amazon-and-alphabet-are-about-to-spend-a-shocking-amount-of-money-to-dominate-the-ai-era-115359575.html](https://finance.yahoo.com/sectors/technology/article/meta-microsoft-amazon-and-alphabet-are-about-to-spend-a-shocking-amount-of-money-to-dominate-the-ai-era-115359575.html)
-
-The artificial intelligence spending for Big Tech has only just begun.
-
-The news: Goldman Sachs strategist Amanda Lynam has put some fresh numbers on hyperscaler capex spending on AI, and it’s eye-popping.
-
-Goldman now expects a combined $5.3 trillion of capex spending for the four largest hyperscalers — Meta (META), Microsoft (MSFT), Amazon (AMZN), and Alphabet (GOOGL) — from fiscal year 2025 to fiscal year 2030. Prior to the start of first quarter earnings, this figure stood at $4.5 trillion.
-
-The baseline aggregate capex estimate stands at $7.6 trillion between 2026 and 2031, across compute, data centers, and power.
-
-The analysis: Google, Amazon, Microsoft, and Meta alone collectively plan to allocate $725 billion to capital expenditures in 2026 — up a staggering 77% from last year’s already record-breaking $410 billion.
-
-Amazon is projecting $200 billion in capital expenditures, Alphabet is targeting $175 billion to $185 billion, Meta is guiding $115 billion to $135 billion, and Microsoft is tracking toward $190 billion for the calendar year.",discuss when will t ai spending start making real profits which companies benefit most from it will all this spending hurt big tech margins and stock prices first source the artificial intelligence spending for big tech has only just begun the news goldman sachs strategist amanda lynam has put some fresh numbers on hyperscaler capex spending on ai and it s eye popping goldman now expects a combined trillion of capex spending for the four largest hyperscalers meta meta microsoft msft amazon amzn and alphabet googl from fiscal year to fiscal year prior to the start of first quarter earnings this figure stood at trillion the baseline aggregate capex estimate stands at trillion between and across compute data centers and power the analysis google amazon microsoft and meta alone collectively plan to allocate billion to capital expenditures in up a staggering from last year s already record breaking billion amazon is projecting billion in capital expenditures alphabet is targeting billion to billion meta is guiding billion to billion and microsoft is tracking toward billion for the calendar year,0.8402,positive
-2026-06-03 13:04:35+00:00,"Played them years ago when it came out, made a quick 30k, sold, then got back in. Still holding the bag
-
-Edit: this blew up (like my bag) here's a post I made 6 years ago where I took 16k profit.
-
-[gains pic](https://imgur.com/a/ZemtflD)
-
-Edit 2: current portfolio worth \~975k and \~85% invested in low cost ETFs. I kept holding this because why not? I did buy another 1000 shares today around $4.85, might get another 1000.",played them years ago when it came out made a quick k sold then got back in still holding the bag edit this blew up like my bag here s a post i made years ago where i took k profit gains pic edit current portfolio worth k and invested in low cost etfs i kept holding this because why not i did buy another shares today around might get another,0.8807,positive
-2026-06-03 11:37:20+00:00,,nan,0.0,neutral
-2026-06-03 06:19:26+00:00,,nan,0.0,neutral
-2026-06-03 01:22:37+00:00,,nan,0.0,neutral
-2026-06-03 00:49:35+00:00,,nan,0.0,neutral
