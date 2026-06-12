@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-06-11T23:55:33.358407+00:00`
+- Generated at (UTC): `2026-06-12T23:54:14.903319+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 14 | 6 | 0.107 | 737.76 | -0.06% | 4.116 |
-| 2 | QQQ | 7 | 6 | 0.157 | 717.12 | 1.40% | 4.884 |
-| 3 | SMCI | 13 | 3 | -0.602 | 31.97 | -2.50% | 0.960 |
-| 4 | MSFT | 5 | 3 | 0.410 | 390.34 | -4.27% | 5.933 |
-| 5 | ADBE | 5 | 3 | 0.351 | 218.80 | -9.15% | 11.794 |
-| 6 | NOW | 3 | 3 | 0.432 | 103.08 | 15.82% | 4.336 |
-| 7 | AMD | 5 | 2 | 0.717 | 488.45 | 8.96% | 26.372 |
-| 8 | NVDA | 5 | 2 | 0.318 | 204.87 | -7.21% | 2.415 |
-| 9 | VOO | 4 | 2 | -0.490 | 678.23 | -0.06% | 2.982 |
-| 10 | FOR | 4 | 2 | -0.289 | 28.79 | 8.60% | 0.167 |
+| 1 | SPCE | 14 | 3 | -0.311 | 3.91 | 35.76% | 0.717 |
+| 2 | SPY | 6 | 4 | 0.465 | 741.75 | -0.08% | 7.872 |
+| 3 | SMCI | 12 | 2 | -0.482 | 30.46 | -4.81% | 1.061 |
+| 4 | MSFT | 5 | 3 | 0.410 | 390.74 | -3.57% | 11.408 |
+| 5 | ADBE | 5 | 3 | 0.351 | 204.02 | -13.58% | 2.448 |
+| 6 | RKLB | 4 | 3 | 0.247 | 102.39 | -17.53% | 6.497 |
+| 7 | GOOGL | 3 | 3 | 0.726 | 359.68 | -10.67% | 7.625 |
+| 8 | QQQ | 3 | 3 | 0.112 | 721.34 | 0.93% | 8.146 |
+| 9 | AMD | 5 | 2 | 0.717 | 511.57 | 14.83% | 20.932 |
+| 10 | NBIS | 4 | 2 | 0.673 | 232.36 | 12.10% | 8.985 |
 
 ### Aggregate Charts
 
@@ -182,13 +182,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
+#### SPCE
+
+![SPCE Dashboard](outputs/latest_wsb_analysis/charts/spce_dashboard.png)
+
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
-#### QQQ
-
-![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
 #### SMCI
 
@@ -202,23 +202,23 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![ADBE Dashboard](outputs/latest_wsb_analysis/charts/adbe_dashboard.png)
 
-#### NOW
+#### RKLB
 
-![NOW Dashboard](outputs/latest_wsb_analysis/charts/now_dashboard.png)
+![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
+
+#### GOOGL
+
+![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
+
+#### QQQ
+
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### NVDA
+#### NBIS
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
-#### VOO
-
-![VOO Dashboard](outputs/latest_wsb_analysis/charts/voo_dashboard.png)
-
-#### FOR
-
-![FOR Dashboard](outputs/latest_wsb_analysis/charts/for_dashboard.png)
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 <!-- AUTO_TOP10_END -->
