@@ -1,7 +1,215 @@
 created_utc,body,clean_body,body_sentiment,body_label
+2026-06-13 22:46:33+00:00,i lost a lot on options,i lost a lot on options,-0.3182,negative
+2026-06-13 22:16:56+00:00,"It was literally free money, if you didn't buy it's genuinely over for you.
+
+The IPO was underpriced from the expected market open price by 20%. This information is literally free for anyone who has internet resources. Polymarket gave the distribution:
+
+https://preview.redd.it/yj8e1tgrh47h1.png?width=864&format=png&auto=webp&s=585126741807e44bb47fddf2dda36a72fb5dd9d8
+
+There were also other markets you could have used:
+
+[https://polymarket.com/event/spacex-ipo-closing-market-cap-above](https://polymarket.com/event/spacex-ipo-closing-market-cap-above)
+
+[https://polymarket.com/event/spacex-ipo-closing-market-cap-higher-strikes](https://polymarket.com/event/spacex-ipo-closing-market-cap-higher-strikes)
+
+[https://polymarket.com/event/spacex-ipo-closing-market-cap](https://polymarket.com/event/spacex-ipo-closing-market-cap)
+
+[https://polymarket.com/event/spacex-ipo-closing-market-cap-lowest-strikes](https://polymarket.com/event/spacex-ipo-closing-market-cap-lowest-strikes)
+
+It's literally so easy, I just literally asked Claude to fit a probability distribution given all the prices and the share count. Underpriced by 20% for the median, I was given a PDF over price. I plugged it into the [kelly criterion](https://en.wikipedia.org/wiki/Kelly_criterion) and just asked claude to optimize for log wealth. The kelly fraction was literally 1, meaning it was optimal to go *all in*. But even if you're risk averse, it's quite literally *free money*. Just hedge on polymarket and your IPO shares. You're notified before spacex market open about what shares you get so it's literally so free.
+
+If you're comfortable with the ban, if you have $5k in polymarket and 37 IPO shares you can guarantee, *worst case*, $955 *regardless of the share price*. You could still make up to \~$1500, and that's closer to the expected case in hedge. Polymarket liquidity was high so this easily scaled for way larger positions.
+
+[Screenshot taken more than 12 hours before market open](https://preview.redd.it/zc6msxrej47h1.png?width=1389&format=png&auto=webp&s=10f1e792e13197ffdedb7582d75097313705aa4e)
+
+I didn't do this because it's not kelly optimal to avoid all the risk, but, just saying it was *literally a free 20%*. I'm unemployed so I don't have much money, but I helped make my dad $8k and he's pretty happy.
+
+If you don't want the ban you can just make the same bet on the month-long spacex market cap market. Easy.",it was literally free money if you didn t buy it s genuinely over for you the ipo was underpriced from the expected market open price by this information is literally free for anyone who has internet resources polymarket gave the distribution there were also other markets you could have used it s literally so easy i just literally asked claude to fit a probability distribution given all the prices and the share count underpriced by for the median i was given a pdf over price i plugged it into the kelly criterion and just asked claude to optimize for log wealth the kelly fraction was literally meaning it was optimal to go all in but even if you re risk averse it s quite literally free money just hedge on polymarket and your ipo shares you re notified before spacex market open about what shares you get so it s literally so free if you re comfortable with the ban if you have k in polymarket and ipo shares you can guarantee worst case regardless of the share price you could still make up to and that s closer to the expected case in hedge polymarket liquidity was high so this easily scaled for way larger positions screenshot taken more than hours before market open i didn t do this because it s not kelly optimal to avoid all the risk but just saying it was literally a free i m unemployed so i don t have much money but i helped make my dad k and he s pretty happy if you don t want the ban you can just make the same bet on the month long spacex market cap market easy,0.9919,positive
+2026-06-13 22:00:45+00:00,"TLDR: room-temperature photonic quantum computer that already cracked the networking problem everyone else is stuck on, owns the software layer half the industry codes on, and has government and strategic money coming at it from three directions. Only pure-play photonic name you can actually buy. Long, position at the bottom.
+
+Been holding 1000 shares of XNDU for a while and been asked why:
+
+Most quantum companies chill a chip down to near absolute zero and try to jam more qubits onto it. Xanadu doesn't. Their qubits are photons, literally light, so the machine runs at room temperature and the photons move around on ordinary fiber.
+
+The real wall in quantum was never building a handful of decent qubits. It's wiring enough of them together to do useful work without the cost going parabolic. Last year Xanadu dropped a machine called Aurora in Nature. Four server racks built from 35 photonic chips and around 13 km of fiber, all running at room temp. Aurora isn't powerful. Not the point. The point is you can pull a rack out and it still works, and you can keep bolting on thousands more on the same architecture. Weedbrook, the CEO, just came out and said ""Xanadu has now solved scalability"". Hard to argue his logic: a million qubits is never fitting on one chip, so modular networking is the only road there, and that's the piece nobody else had done.
+
+Weedbrook says their planned data center only needs cryogenics for about 10% of the system, the small part that creates and reads the qubits. IBM and Google keep the whole machine cold. Less refrigeration, off-the-shelf fiber, chips coming off semiconductor lines that already exist. You tell me which one scales into a data center cheaper. The target is a fault-tolerant quantum data center in Canada by 2029.
+
+Their software is what actually got me to buy. Xanadu owns PennyLane, and the cleanest way to put it is, it's the PyTorch of quantum. It took differentiable programming, the same autodiff idea behind PyTorch and TensorFlow, and made it run on quantum circuits, and it plugs straight into PyTorch, TensorFlow, and JAX. The whole goal was to take the best parts of modern deep learning software and make them native to quantum.
+
+The moat is PennyLane doesn't only run on Xanadu hardware. It runs on IBM, Google, Amazon, etc. More than half the world's quantum developers already use it, roughly 35,000 of them, pulling around 200,000 downloads a month, and it's now running on the Frontier supercomputer through Oak Ridge. Whoever owns the default software layer of a new kind of computing basically owns the category. Nvidia and CUDA, etc. So even if some rival hardware ends up winning the race, those developers are still building on Xanadu's software and Xanadu collects anyway.
+
+Everyone points at PsiQuantum, the private one that's raised over $2 billion. Two reasons I'd rather own Xanadu. One, you literally can't buy PsiQuantum, it's private. Xanadu is the first pure-play photonic quantum company to go public, so retail actually has a way in. Two, the physics. PsiQuantum bets on single photons, where you lose the bit the instant you lose the photon. Xanadu uses squeezed light, which shrugs off loss better because the light field doesn't blink out when one photon goes missing. That tolerance is a big reason they think they move faster, and it's why they're the ones who shipped the networking breakthrough first, on a fraction of PsiQuantum's money. Put PennyLane on top of that and Xanadu's the only one holding both the hardware milestone and the software standard.
+
+Xanadu is also one of a short list of companies DARPA moved into Stage B of its Quantum Benchmarking Initiative, and Stage B already freed up to $15 million. The program exists to figure out which quantum approach can actually reach useful scale by 2033. Stage B is a year-long review that started late 2025, and whoever clears it advances to Stage C, where DARPA validates the design can really be built and run as promised. So if they pass, they're into Stage C around late 2026, and the program is dangling up to roughly $316 million USD for the teams that go all the way.
+
+On top of the US money, they're in the final stage of negotiations on up to $390 million CAD (call it $285 million USD) from the governments of Canada and Ontario for Project OPTIMISM, to build chip and photonics manufacturing at home.
+
+Nvidia is backing them, and AMD holds a direct equity stake in Xanadu. Hope you all become millionaires with me.",tldr room temperature photonic quantum computer that already cracked the networking problem everyone else is stuck on owns the software layer half the industry codes on and has government and strategic money coming at it from three directions only pure play photonic name you can actually buy long position at the bottom been holding shares of xndu for a while and been asked why most quantum companies chill a chip down to near absolute zero and try to jam more qubits onto it xanadu doesn t their qubits are photons literally light so the machine runs at room temperature and the photons move around on ordinary fiber the real wall in quantum was never building a handful of decent qubits it s wiring enough of them together to do useful work without the cost going parabolic last year xanadu dropped a machine called aurora in nature four server racks built from photonic chips and around km of fiber all running at room temp aurora isn t powerful not the point the point is you can pull a rack out and it still works and you can keep bolting on thousands more on the same architecture weedbrook the ceo just came out and said xanadu has now solved scalability hard to argue his logic a million qubits is never fitting on one chip so modular networking is the only road there and that s the piece nobody else had done weedbrook says their planned data center only needs cryogenics for about of the system the small part that creates and reads the qubits ibm and google keep the whole machine cold less refrigeration off the shelf fiber chips coming off semiconductor lines that already exist you tell me which one scales into a data center cheaper the target is a fault tolerant quantum data center in canada by their software is what actually got me to buy xanadu owns pennylane and the cleanest way to put it is it s the pytorch of quantum it took differentiable programming the same autodiff idea behind pytorch and tensorflow and made it run on quantum circuits and it plugs straight into pytorch tensorflow and jax the whole goal was to take the best parts of modern deep learning software and make them native to quantum the moat is pennylane doesn t only run on xanadu hardware it runs on ibm google amazon etc more than half the world s quantum developers already use it roughly of them pulling around downloads a month and it s now running on the frontier supercomputer through oak ridge whoever owns the default software layer of a new kind of computing basically owns the category nvidia and cuda etc so even if some rival hardware ends up winning the race those developers are still building on xanadu s software and xanadu collects anyway everyone points at psiquantum the private one that s raised over billion two reasons i d rather own xanadu one you literally can t buy psiquantum it s private xanadu is the first pure play photonic quantum company to go public so retail actually has a way in two the physics psiquantum bets on single photons where you lose the bit the instant you lose the photon xanadu uses squeezed light which shrugs off loss better because the light field doesn t blink out when one photon goes missing that tolerance is a big reason they think they move faster and it s why they re the ones who shipped the networking breakthrough first on a fraction of psiquantum s money put pennylane on top of that and xanadu s the only one holding both the hardware milestone and the software standard xanadu is also one of a short list of companies darpa moved into stage b of its quantum benchmarking initiative and stage b already freed up to million the program exists to figure out which quantum approach can actually reach useful scale by stage b is a year long review that started late and whoever clears it advances to stage c where darpa validates the design can really be built and run as promised so if they pass they re into stage c around late and the program is dangling up to roughly million usd for the teams that go all the way on top of the us money they re in the final stage of negotiations on up to million cad call it million usd from the governments of canada and ontario for project optimism to build chip and photonics manufacturing at home nvidia is backing them and amd holds a direct equity stake in xanadu hope you all become millionaires with me,0.9851,positive
+2026-06-13 21:43:25+00:00,"2 weeks ago, I brought my tinder date to the theaters to see Obsession. There was almost no parking, and the actual theater was almost fully packed. we made sweet love afterwards.
+
+Then this last week, I brought my hinge date to see Backrooms. Same story, almost no parking, packed theater, but this was at a different theater earlier in the day. We went to get food after but then she had to go because ""its getting late"", probably because I started informing her about the epstein fortnite theory (search it up). even michael jordan misses sometimes.
+
+I have NEVER seen theaters this packed since pre-covid times. May has been a record month in domestic and global attendance since 2019 with 26 million guests. People have been getting tired with hollywood franchise slop, so indie horror slop is exactly what we need to revive theaters.
+
+AMC doubled in price since April, and CNK rose 20%. Both have off exchange short volumes of 30%-60%. Dare I say, something might be brewing in the near future.
+
+TLDR: new movie good, ppl see movie more, movie company happy, I bring more tinder dates to movies, movie company make even more money
+
+Position: 8000 shares of AMC, 250 shares of CNK, 2 dates next week",weeks ago i brought my tinder date to the theaters to see obsession there was almost no parking and the actual theater was almost fully packed we made sweet love afterwards then this last week i brought my hinge date to see backrooms same story almost no parking packed theater but this was at a different theater earlier in the day we went to get food after but then she had to go because its getting late probably because i started informing her about the epstein fortnite theory search it up even michael jordan misses sometimes i have never seen theaters this packed since pre covid times may has been a record month in domestic and global attendance since with million guests people have been getting tired with hollywood franchise slop so indie horror slop is exactly what we need to revive theaters amc doubled in price since april and cnk rose both have off exchange short volumes of dare i say something might be brewing in the near future tldr new movie good ppl see movie more movie company happy i bring more tinder dates to movies movie company make even more money position shares of amc shares of cnk dates next week,0.8447,positive
+2026-06-13 21:43:23+00:00,,nan,0.0,neutral
+2026-06-13 20:58:20+00:00,"[https://www.investors.com/news/cathie-wood-ark-invest-spacex-ipo-elon-musk-tesla/?mod=hp\_minor\_pos32](https://www.investors.com/news/cathie-wood-ark-invest-spacex-ipo-elon-musk-tesla/?mod=hp_minor_pos32)
+
+>  
+ARK Invest, the investment firm run by Cathie Wood, scooped up nearly 3.3 million shares of **SpaceX** ([SPCX](https://research.investors.com/quote.aspx?symbol=SPCX)) on Friday, the day Elon Musk's company went public.
+
+",ark invest the investment firm run by cathie wood scooped up nearly million shares of spacex spcx on friday the day elon musk s company went public,0.296,positive
+2026-06-13 20:40:46+00:00,"I thought I was playing it smart avoiding the explosive stuff and rotating into the hyperscalers, and here we are back to a month ago. 😄",i thought i was playing it smart avoiding the explosive stuff and rotating into the hyperscalers and here we are back to a month ago,0.2732,positive
+2026-06-13 20:24:25+00:00,"**Title:** New to Options, Down $1,800 — Looking for Real Guidance  
+Hey everyone,  
+I’m pretty new to options trading and could really use some direction.  
+I got started back in May after seeing a friend post some 100% gains, which definitely caught my attention. I ended up joining the same group he’s in, where there’s one guy calling out plays (calls and puts), along with a bunch of others who are also trying to learn and grow their accounts.  
+So far, I’ve lost about $1,800 following along and trying things out. I’m starting to realize I don’t fully understand what I’m doing, and I don’t want to keep throwing money at trades without a solid foundation.  
+I do have a decent-sized account, so capital isn’t the main issue — it’s more about knowing *when* and *why* to enter and exit trades. I want to actually learn this, not just blindly follow alerts.  
+For those of you who’ve been in my shoes:  
+Where should I start when it comes to learning options the right way?  
+Any recommended resources (courses, YouTube channels, books, etc.)?  
+What should I focus on first — strategies, technical analysis, risk management?  
+How did you go from losing money to becoming consistently profitable?  
+I’m open to any advice. Just trying to stop the bleeding and actually build some real knowledge here.  
+Thanks in advance 🙏",title new to options down looking for real guidance hey everyone i m pretty new to options trading and could really use some direction i got started back in may after seeing a friend post some gains which definitely caught my attention i ended up joining the same group he s in where there s one guy calling out plays calls and puts along with a bunch of others who are also trying to learn and grow their accounts so far i ve lost about following along and trying things out i m starting to realize i don t fully understand what i m doing and i don t want to keep throwing money at trades without a solid foundation i do have a decent sized account so capital isn t the main issue it s more about knowing when and why to enter and exit trades i want to actually learn this not just blindly follow alerts for those of you who ve been in my shoes where should i start when it comes to learning options the right way any recommended resources courses youtube channels books etc what should i focus on first strategies technical analysis risk management how did you go from losing money to becoming consistently profitable i m open to any advice just trying to stop the bleeding and actually build some real knowledge here thanks in advance,0.8955,positive
+2026-06-13 19:39:53+00:00,,nan,0.0,neutral
+2026-06-13 19:11:54+00:00,This shit is not for the faint of heart. Literally just scalping SPY 0dtes in and out in less than 30 seconds. ,this shit is not for the faint of heart literally just scalping spy dtes in and out in less than seconds,-0.5574,negative
+2026-06-13 17:37:16+00:00,Rheinmetall hat gegönnt,rheinmetall hat geg nnt,0.0,neutral
+2026-06-13 17:26:47+00:00,"Positions: \~4K shares currently.
+
+Got some SPCX during IPO and I'm buying more.
+
+TLDR:  
+\#1 SPCX, like the rocket, goes up and will clear orbit before crashing in October when lockups expire.  
+\#2 Valuation of the stock doesn't matter - it's the float that matters. Almost no one who can sell got in below IPO price  
+\#3 The forced buyers are the boomers and their 401k funds and those tracking QQQ. Hedgies know this, and now we do too. The buy is up to 45% of the float.  
+\#4 Apes strong together - most retial brokers are giving penalties for selling before 15/30/60/90 days, so all we have to do is not be paper handed regards.  
+\#4 Options released next week = more gamma squeeze.  
+\#5 Macro is short term bullish if we continue to work towards and away from a peace deal  
+\#6 Also, **everyone hates Elon** on Reddit so an inverse is obvious. **I hate Elon too**, but I like money.
+
+See below (AI formatted but all events fact-checked)
+
+# SPCX: The Mechanical Setup for the Next Two to Three Weeks
+
+SpaceX (SPCX) began trading on June 12, 2026 at a $135 offer price and a \~$1.75 trillion valuation — the largest IPO in history at roughly $75 billion raised. It opened around $150, traded as high as \~30% above offer intraday, and closed its first session up about 19%. What makes the weeks immediately ahead unusual isn't the story or the valuation. It's the plumbing: a set of *mechanical*, largely pre-scheduled flows that, for a brief window, tilt the supply-demand balance heavily toward demand.
+
+# The core asymmetry: demand is front-loaded, supply is back-loaded
+
+The single most important feature of this setup is timing. Over roughly the next three weeks, a wave of forced, price-insensitive buying is scheduled to hit the stock — while essentially zero new share supply is scheduled to be released. That ordering reverses later in the summer. The bull case for *this specific window* rests almost entirely on that mismatch, not on any view about SpaceX's business.
+
+Three structural pillars drive it.
+
+# 1. Forced index buying into a tiny float
+
+SpaceX floated only about 3–4% of the company. Against a \~$1.75T cap, that's a tradeable share base of roughly $65–75 billion — extraordinarily thin for a company this size. Into that thin float, index providers have lined up a series of mandatory additions, and the funds tracking those indexes have to buy regardless of price:
+
+* **CRSP / Vanguard (VTI, VUG)** — first in line under CRSP's new five-trading-day fast-track, likely around June 19. Vanguard's CRSP-tracking funds manage over $3 trillion; estimates for the resulting buy run $15–25 billion, though this is the least certain figure (see caveats).
+* **FTSE Russell** — per FTSE Russell's formal notice, SpaceX enters the Russell 1000, Russell Top 200 and other Russell US indexes effective after the close on June 26 (effective June 29), under its new fast-entry rule.
+* **MSCI** — added to its standard and large-cap indexes effective June 29.
+* **Nasdaq-100 fast entry** — likely early July (15 trading days post-IPO). With over $1.4 trillion tracking the Nasdaq-100 and an expected SPCX weight near 0.5–0.7%, analysts (BNP Paribas, others) estimate $7–8 billion of buying here.
+
+Aggregated, near-term mechanical buying estimates cluster around **$22–30 billion**. Measured against a \~$65–75 billion float, that is roughly **30–45% of the entire tradeable float** that index funds must acquire inside about three weeks. Bloomberg Intelligence has estimated that Russell and Nasdaq-100 funds alone would absorb around a quarter of the public float, and that once benchmarked active money is included, total index-driven demand can exceed half of all public shares.
+
+For context: in an ordinary large-cap index inclusion, forced buying is a low-single-digit percentage of float, and the studied price impact is a modest, largely front-run bump of a few percent. This is an order of magnitude different. When mandatory demand approaches the size of the available float, the normal smooth-supply models stop applying.
+
+# 2. Options listing (June 16) and dealer hedging
+
+Listed options on SPCX are expected to begin trading Tuesday, June 16 — two trading days after the IPO. On a hyped, low-float name, retail options demand is overwhelmingly skewed toward calls. When dealers sell those calls, they are short gamma and tend to hedge by buying the underlying as it rises — a feedback loop that can amplify upside moves in exactly this kind of thin-float setup. The combination of a microscopic float and a suddenly active options market is a recognized recipe for outsized moves.
+
+# 3. No scheduled supply until late August
+
+SpaceX deliberately avoided a single-date lockup cliff. Instead it built a staggered, rolling release. Crucially, **nothing scheduled comes off lockup in the next two to three weeks.** More than 60% of pre-IPO shares sit under extended lockup; Elon Musk's \~42% stake (85% of voting power) is under a separate 366-day restriction that doesn't lift until around June 2027.
+
+The first scheduled time-based tranche releases about 7% of eligible shares at 70 days — roughly August 21. The first *event-based* unlock comes only after the Q2 earnings report, expected in September. So during the exact window when forced demand peaks, the only meaningful supply that *can* hit the market is the \~5% directed-share program (\~27.8 million shares, \~$3.75 billion) that was granted with no lockup — and even that is discretionary, may not be sold, and is small relative to the index buying it would have to offset.
+
+# The macro tailwind: a risk-on tape
+
+The mechanical setup doesn't operate in a vacuum — it lands into a market backdrop that, right now, is turning supportive, and that matters for a high-beta name like SPCX.
+
+As of mid-June, the U.S. and Iran appear to be moving toward de-escalation. Officials from both countries, with Pakistani involvement, have signaled that negotiations are advancing toward a written framework both sides largely support — reportedly including reopening the Strait of Hormuz and a phased, performance-based arrangement — even as difficult technical questions remain unresolved. Markets have responded the way they typically do to easing geopolitical risk: Wall Street's rebound extended on the breakthrough headlines, and oil fell more than 3% as the threat of an energy-supply shock receded.
+
+This is a meaningful backdrop for SPCX specifically, because of what risk-on tapes do:
+
+* **Lower oil and easing inflation fears support rate-sensitive, long-duration assets** — exactly the bucket the most expensive, least-profitable growth names sit in. When a comparable Iran ceasefire was struck earlier in 2026, the Nasdaq-100 jumped nearly 3% in a session and speculative AI/high-beta names (Nvidia, Tesla, AMD, Micron) rose 4–10%. The most expensive, highest-beta thing in the index tends to move the most in both directions, and SPCX is now precisely that.
+* **Risk appetite amplifies the mechanical flows.** Forced index buying and call-heavy options positioning push hardest when the broad tape is cooperating. A market that's chasing risk magnifies a low-float squeeze; a market in retreat blunts it. So a de-escalation-driven rally and the SPCX-specific plumbing can reinforce each other in the same window.
+
+In other words, the index-inclusion calendar would be a tailwind on its own, but it's arriving into a macro environment that — for now — is leaning the same direction rather than fighting it.",positions k shares currently got some spcx during ipo and i m buying more tldr spcx like the rocket goes up and will clear orbit before crashing in october when lockups expire valuation of the stock doesn t matter it s the float that matters almost no one who can sell got in below ipo price the forced buyers are the boomers and their k funds and those tracking qqq hedgies know this and now we do too the buy is up to of the float apes strong together most retial brokers are giving penalties for selling before days so all we have to do is not be paper handed regards options released next week more gamma squeeze macro is short term bullish if we continue to work towards and away from a peace deal also everyone hates elon on reddit so an inverse is obvious i hate elon too but i like money see below ai formatted but all events fact checked spcx the mechanical setup for the next two to three weeks spacex spcx began trading on june at a offer price and a trillion valuation the largest ipo in history at roughly billion raised it opened around traded as high as above offer intraday and closed its first session up about what makes the weeks immediately ahead unusual isn t the story or the valuation it s the plumbing a set of mechanical largely pre scheduled flows that for a brief window tilt the supply demand balance heavily toward demand the core asymmetry demand is front loaded supply is back loaded the single most important feature of this setup is timing over roughly the next three weeks a wave of forced price insensitive buying is scheduled to hit the stock while essentially zero new share supply is scheduled to be released that ordering reverses later in the summer the bull case for this specific window rests almost entirely on that mismatch not on any view about spacex s business three structural pillars drive it forced index buying into a tiny float spacex floated only about of the company against a t cap that s a tradeable share base of roughly billion extraordinarily thin for a company this size into that thin float index providers have lined up a series of mandatory additions and the funds tracking those indexes have to buy regardless of price crsp vanguard vti vug first in line under crsp s new five trading day fast track likely around june vanguard s crsp tracking funds manage over trillion estimates for the resulting buy run billion though this is the least certain figure see caveats ftse russell per ftse russell s formal notice spacex enters the russell russell top and other russell us indexes effective after the close on june effective june under its new fast entry rule msci added to its standard and large cap indexes effective june nasdaq fast entry likely early july trading days post ipo with over trillion tracking the nasdaq and an expected spcx weight near analysts bnp paribas others estimate billion of buying here aggregated near term mechanical buying estimates cluster around billion measured against a billion float that is roughly of the entire tradeable float that index funds must acquire inside about three weeks bloomberg intelligence has estimated that russell and nasdaq funds alone would absorb around a quarter of the public float and that once benchmarked active money is included total index driven demand can exceed half of all public shares for context in an ordinary large cap index inclusion forced buying is a low single digit percentage of float and the studied price impact is a modest largely front run bump of a few percent this is an order of magnitude different when mandatory demand approaches the size of the available float the normal smooth supply models stop applying options listing june and dealer hedging listed options on spcx are expected to begin trading tuesday june two trading days after the ipo on a hyped low float name retail options demand is overwhelmingly skewed toward calls when dealers sell those calls they are short gamma and tend to hedge by buying the underlying as it rises a feedback loop that can amplify upside moves in exactly this kind of thin float setup the combination of a microscopic float and a suddenly active options market is a recognized recipe for outsized moves no scheduled supply until late august spacex deliberately avoided a single date lockup cliff instead it built a staggered rolling release crucially nothing scheduled comes off lockup in the next two to three weeks more than of pre ipo shares sit under extended lockup elon musk s stake of voting power is under a separate day restriction that doesn t lift until around june the first scheduled time based tranche releases about of eligible shares at days roughly august the first event based unlock comes only after the q earnings report expected in september so during the exact window when forced demand peaks the only meaningful supply that can hit the market is the directed share program million shares billion that was granted with no lockup and even that is discretionary may not be sold and is small relative to the index buying it would have to offset the macro tailwind a risk on tape the mechanical setup doesn t operate in a vacuum it lands into a market backdrop that right now is turning supportive and that matters for a high beta name like spcx as of mid june the u s and iran appear to be moving toward de escalation officials from both countries with pakistani involvement have signaled that negotiations are advancing toward a written framework both sides largely support reportedly including reopening the strait of hormuz and a phased performance based arrangement even as difficult technical questions remain unresolved markets have responded the way they typically do to easing geopolitical risk wall street s rebound extended on the breakthrough headlines and oil fell more than as the threat of an energy supply shock receded this is a meaningful backdrop for spcx specifically because of what risk on tapes do lower oil and easing inflation fears support rate sensitive long duration assets exactly the bucket the most expensive least profitable growth names sit in when a comparable iran ceasefire was struck earlier in the nasdaq jumped nearly in a session and speculative ai high beta names nvidia tesla amd micron rose the most expensive highest beta thing in the index tends to move the most in both directions and spcx is now precisely that risk appetite amplifies the mechanical flows forced index buying and call heavy options positioning push hardest when the broad tape is cooperating a market that s chasing risk magnifies a low float squeeze a market in retreat blunts it so a de escalation driven rally and the spcx specific plumbing can reinforce each other in the same window in other words the index inclusion calendar would be a tailwind on its own but it s arriving into a macro environment that for now is leaning the same direction rather than fighting it,-0.4651,negative
+2026-06-13 17:05:48+00:00,,nan,0.0,neutral
+2026-06-13 11:01:02+00:00,"Laying the pipe plainly, I think I am a fairly average looking guy and enjoy spending my Friday nights at my local bar.   
+  
+Usually, after failing to convince a whale to talk to me, I will nurse a hazy ipa at the bar and divide my attention between the sports highlights on tv and the pennystock subreddit.
+
+Well, something unsettling happened last night. Apparently, an attractive lady caught a glimpse of my phone and mistook an image of a SPCX allocation request from this regarded place that she must have assumed was mine.
+
+She opened with, ""So you must be big in the AI stock stuff too huh?""
+
+I was too stunned to speak for a moment, but she took that as a sign to get close and let me process what just happened.
+
+Short story short, I've just woken up at her place and need to get back to my job behind the Wendy's to service the morning crew.
+
+God help us all.
+
+",laying the pipe plainly i think i am a fairly average looking guy and enjoy spending my friday nights at my local bar usually after failing to convince a whale to talk to me i will nurse a hazy ipa at the bar and divide my attention between the sports highlights on tv and the pennystock subreddit well something unsettling happened last night apparently an attractive lady caught a glimpse of my phone and mistook an image of a spcx allocation request from this regarded place that she must have assumed was mine she opened with so you must be big in the ai stock stuff too huh i was too stunned to speak for a moment but she took that as a sign to get close and let me process what just happened short story short i ve just woken up at her place and need to get back to my job behind the wendy s to service the morning crew god help us all,0.8381,positive
+2026-06-13 10:26:07+00:00,No giving up.,no giving up,0.0516,positive
+2026-06-13 07:18:34+00:00,,nan,0.0,neutral
+2026-06-13 03:19:03+00:00,"Made some early gains on SPCE calls.
+$630 on SPCE 7/17 $7 calls. Sold those the morning SPCE peaked for ~$14,200. The rest of the gains are from 0dte SPY options ",made some early gains on spce calls on spce calls sold those the morning spce peaked for the rest of the gains are from dte spy options,0.5859,positive
+2026-06-13 02:24:30+00:00,"TDLR: I have a 51k PUT bet on SOXX for October 16th expiration because Trump made a deal 39x and the overall economy keeps getting worse.
+
+\------------------------------------------------------------------------
+
+The market was clearly starting a correction phase the last couple of weeks, until Trump made a peace deal for the 39th time this Past Thursday, right before SpaceX IPO. Yet today he is already saying he is not 100% certain Iran will sign it. At some point, we have to acknowledge the little boy who cried wolf.
+
+Anyways, I think this is just one last attempt before in the coming weeks we resume the correction phase. Here are my main points and why I believe this.
+
+1) The Straight of Hormuz has been shut down for months now. Iran has stated multiple times, even if it re-opens, minimum would be a 30 day process to re-open. Kuwait and other countries in that region have indicated that it would take 90 days to reach normal production levels for oil again. Oil stockpiles have been depleting rapidly and I still believe at some point, oil will spike back up. The oil futures are disconnected from physical prices and reality.
+
+2) Put / Call ratio was heavily tilted towards calls. The rally that we have seen, many say was a gamma play. Well, if the ratio is unwinding and starting to move towards PUTS again, it indicates that institutions are hedging. They are not fully trusting this rally. Chart included in photos.
+
+3) Breadth and Advance/Decline and McCellan Oscillator - Market breadth is complete garbage. There is no conviction buying here. Selling days have stronger volume. Rallies have lower volume and its extremely narrow and concentrated. That can only hold the market up for so long, before it breaks down.
+
+4) Consumer sentiment is worse and continues to deteriorate. As consumers have less and less to spend because more is being spent on gas, not to mention input prices for goods is also increasing due to oil, this affects the AI trade and hyperscalers, such as META and AMAZON.
+
+Both of these businesses have a large consumer revenue component. META is via ads, but if consumers spend less, they will get less ad revenue from 3rd parties. For Amazon, people will shop online less and less as inflation increases.
+
+If hyperscalers are already maxing their operating margins and spending it on AI build out, what happens when revenue begins to contract? Forecasts and capex needs to be revised lower. Or, they will try to raise more capital via equity or bond. Red flag. Meta is already issuing bonds, Google is now doing a 85B equity play. They are stretching themselves very far.
+
+5) Case for rate hikes is growing. I predict Fed will hold steady. But if the labor market has jobs, and inflation is accelerating, the need for raise increases to keep inflation in check. The only way we get rate cuts is if prices go so high, we get demand destruction. Which at that point, hello recession.
+
+6) Nasdaq is no where near its all time highs. At best, it may get to its previous 2nd high to form a head and shoulders pattern. SOXX is a little stronger, chart wise, but the volume on rallies is terrible. Selling volume is much stronger and the fact that the rally is only getting more narrow, I believe this one will pop the hardest.
+
+7) This is a midterm year, seasonally, August - September have major declines. This is not a guarantee, but there is a strong probability we will see big declines in the near future. Especially after this market has been going vertical for the past two months. June, its starting to sputter and run out of gas.",tdlr i have a k put bet on soxx for october th expiration because trump made a deal x and the overall economy keeps getting worse the market was clearly starting a correction phase the last couple of weeks until trump made a peace deal for the th time this past thursday right before spacex ipo yet today he is already saying he is not certain iran will sign it at some point we have to acknowledge the little boy who cried wolf anyways i think this is just one last attempt before in the coming weeks we resume the correction phase here are my main points and why i believe this the straight of hormuz has been shut down for months now iran has stated multiple times even if it re opens minimum would be a day process to re open kuwait and other countries in that region have indicated that it would take days to reach normal production levels for oil again oil stockpiles have been depleting rapidly and i still believe at some point oil will spike back up the oil futures are disconnected from physical prices and reality put call ratio was heavily tilted towards calls the rally that we have seen many say was a gamma play well if the ratio is unwinding and starting to move towards puts again it indicates that institutions are hedging they are not fully trusting this rally chart included in photos breadth and advance decline and mccellan oscillator market breadth is complete garbage there is no conviction buying here selling days have stronger volume rallies have lower volume and its extremely narrow and concentrated that can only hold the market up for so long before it breaks down consumer sentiment is worse and continues to deteriorate as consumers have less and less to spend because more is being spent on gas not to mention input prices for goods is also increasing due to oil this affects the ai trade and hyperscalers such as meta and amazon both of these businesses have a large consumer revenue component meta is via ads but if consumers spend less they will get less ad revenue from rd parties for amazon people will shop online less and less as inflation increases if hyperscalers are already maxing their operating margins and spending it on ai build out what happens when revenue begins to contract forecasts and capex needs to be revised lower or they will try to raise more capital via equity or bond red flag meta is already issuing bonds google is now doing a b equity play they are stretching themselves very far case for rate hikes is growing i predict fed will hold steady but if the labor market has jobs and inflation is accelerating the need for raise increases to keep inflation in check the only way we get rate cuts is if prices go so high we get demand destruction which at that point hello recession nasdaq is no where near its all time highs at best it may get to its previous nd high to form a head and shoulders pattern soxx is a little stronger chart wise but the volume on rallies is terrible selling volume is much stronger and the fact that the rally is only getting more narrow i believe this one will pop the hardest this is a midterm year seasonally august september have major declines this is not a guarantee but there is a strong probability we will see big declines in the near future especially after this market has been going vertical for the past two months june its starting to sputter and run out of gas,0.8064,positive
+2026-06-13 02:22:36+00:00,"100% of my plays were SPY 0DTE and end of day 1DTE calls and puts playing swings, intending for short-term in-and-outs but have had to hold longer than I wanted to sometimes.
+
+Was actually up to nearly $9,300 yesterday but entered into puts way too early towards the end of the day and wasn't moving the strikes back like I should've when it wasn't moving my way, so I lost almost $3,700, which nearly erased what I made from Trump's attack cancellation tweet. But I'll take over 20x in 3 days.
+
+P.S. to be clear, I withdrew $5k at the start of today, leaving myself with $612.57 and turned that into the $1,120.97 I have left.",of my plays were spy dte and end of day dte calls and puts playing swings intending for short term in and outs but have had to hold longer than i wanted to sometimes was actually up to nearly yesterday but entered into puts way too early towards the end of the day and wasn t moving the strikes back like i should ve when it wasn t moving my way so i lost almost which nearly erased what i made from trump s attack cancellation tweet but i ll take over x in days p s to be clear i withdrew k at the start of today leaving myself with and turned that into the i have left,-0.5909,negative
+2026-06-13 00:29:18+00:00,"Bought a small position impulsively and got hit in the nuts..  
+I still got time for something stupid to happen or “something good happen” so holding.. down but not out..",bought a small position impulsively and got hit in the nuts i still got time for something stupid to happen or something good happen so holding down but not out,-0.2263,negative
+2026-06-13 00:08:05+00:00,I'm still holding... Waiting for good news... If not I'm cooked ,i m still holding waiting for good news if not i m cooked,0.4404,positive
+2026-06-12 23:57:45+00:00,"Basically, 
+
+Spcx
+
+\- 15% additional supply \[within 30 days from financial banks who handles the IPO, i.e, More supply\]
+
+\- within 15 days for 401k funds to jump in \[more demand\] 
+
+\- within 70 days for internal stocks to be allowed to trade \[more supply\]",basically spcx additional supply within days from financial banks who handles the ipo i e more supply within days for k funds to jump in more demand within days for internal stocks to be allowed to trade more supply,-0.2006,negative
 2026-06-12 23:53:12+00:00,"I full port bought Intel due to it being the cheapest of the chip giant stocks, the next day it got a price target increase by Bank of America and I set a sell target for a number I felt was reasonable. This AI/ chip rally has been great for my account!",i full port bought intel due to it being the cheapest of the chip giant stocks the next day it got a price target increase by bank of america and i set a sell target for a number i felt was reasonable this ai chip rally has been great for my account,0.7717,positive
 2026-06-12 23:34:52+00:00,,nan,0.0,neutral
-2026-06-12 23:24:44+00:00,"Per the title, wondering if anyone else is thinking about buying big pimp daddy calls on Nvidia when we get a firmer date for the big AI IPO's...on what else will they spend the cash they raise than the same freaking shovels and picks they've bought since the beginning? Are there other companies that might get a similar boost?",per the title wondering if anyone else is thinking about buying big pimp daddy calls on nvidia when we get a firmer date for the big ai ipo s on what else will they spend the cash they raise than the same freaking shovels and picks they ve bought since the beginning are there other companies that might get a similar boost,-0.0258,neutral
+2026-06-12 23:24:44+00:00,"Per the title, wondering if anyone else is thinking about buying big pimp daddy calls on Nvidia when we get a firmer date for the big AI IPO's...on what else will they spend the cash they raise than the same freaking shovels and picks they've bought since the beginning? Are there other companies that might get a similar boost?
+
+
+
+Edit: A lot of the top regards here seem to think it might actually hurt the companies like Nvidia that have lots of shares stakeholders could liquidate to fuel the IPO. So, let's think bigger; what companies are insulated from the pullout and still benefit from the IPO dolla dolla bills? Power generation, was cited. Other ideas?",per the title wondering if anyone else is thinking about buying big pimp daddy calls on nvidia when we get a firmer date for the big ai ipo s on what else will they spend the cash they raise than the same freaking shovels and picks they ve bought since the beginning are there other companies that might get a similar boost edit a lot of the top regards here seem to think it might actually hurt the companies like nvidia that have lots of shares stakeholders could liquidate to fuel the ipo so let s think bigger what companies are insulated from the pullout and still benefit from the ipo dolla dolla bills power generation was cited other ideas,0.6124,positive
 2026-06-12 23:10:46+00:00,"Looks like besides the SpaceX biggest losers today were other space-related companies - often only by name.
 
 
@@ -25,7 +233,6 @@ and of course let's not forget about SPCE :)",looks like besides the spacex bigg
 2026-06-12 21:16:53+00:00,,nan,0.0,neutral
 2026-06-12 21:15:59+00:00,"I hate Elon, so there’s no way his companies will ever be successful. His stock values will always plummet because he’s a jerk.",i hate elon so there s no way his companies will ever be successful his stock values will always plummet because he s a jerk,-0.2682,negative
 2026-06-12 21:15:16+00:00,,nan,0.0,neutral
-2026-06-12 21:02:57+00:00,Mods lost money on SPCX,mods lost money on spcx,-0.3182,negative
 2026-06-12 20:35:09+00:00,,nan,0.0,neutral
 2026-06-12 20:01:46+00:00,"Started about a month ago, I'm tarded ",started about a month ago i m tarded,0.0,neutral
 2026-06-12 20:00:40+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1u45yjt),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
@@ -70,9 +277,6 @@ Not only did the market prove WSB wrong, it somehow inverse-WSB’s trade with m
 
 The people buying $SPCX apparently knew exactly what they were doing, while the people holding $SPCE got wrecked.  
 I love r/wallstreetbets 🫡 Never change, degenerates.",remember when half this sub was convinced spce would moon on spcx ipo day because traders will see the ticker and buy the wrong stock the theory was a spcx ipos b retail investors are low iq and can t read c they accidentally buy spce d spce goes to the moon alongside the real stock spxc actual results today spcx spce not only did the market prove wsb wrong it somehow inverse wsb s trade with mathematical precision the people buying spcx apparently knew exactly what they were doing while the people holding spce got wrecked i love r wallstreetbets never change degenerates,-0.4215,negative
-2026-06-12 17:28:14+00:00,"https://preview.redd.it/li4e15wlzv6h1.png?width=1946&format=png&auto=webp&s=e8698560d8d49706f61437190e6b047715bc3aac
-
-\+$6,840",,0.0,neutral
 2026-06-12 17:20:27+00:00,"My profile is replete with my Intel and other chip stock posts. Recently they took me over 200k in the account for the first time.
 
 Now, the account dipped below 100k again on Friday and Tuesday… so both days I loaded up with intel calls with short expiries striking between 100 and 110. Now I am resurrected.",my profile is replete with my intel and other chip stock posts recently they took me over k in the account for the first time now the account dipped below k again on friday and tuesday so both days i loaded up with intel calls with short expiries striking between and now i am resurrected,0.0,neutral
@@ -190,7 +394,6 @@ The changes take effect before market opening on June 22, 2026, according to the
 2026-06-12 00:20:08+00:00,"NEW YORK, June 11, 2026 (GLOBE NEWSWIRE) -- Nasdaq (Nasdaq: NDAQ) today announced the results of the June 2026 quarterly rebalance of the Nasdaq-100 Index® (NDX®), which will become effective prior to market open on Monday, June 22, 2026.  
 The following five companies will be added to the Index: Astera Labs, Inc. (Nasdaq: ALAB), CoreWeave, Inc. (Nasdaq: CRWV), Nebius Group N.V. (Nasdaq: NBIS), Rocket Lab Corporation (Nasdaq: RKLB), Teradyne, Inc. (Nasdaq: TER).",new york june globe newswire nasdaq nasdaq ndaq today announced the results of the june quarterly rebalance of the nasdaq index ndx which will become effective prior to market open on monday june the following five companies will be added to the index astera labs inc nasdaq alab coreweave inc nasdaq crwv nebius group n v nasdaq nbis rocket lab corporation nasdaq rklb teradyne inc nasdaq ter,0.4767,positive
 2026-06-12 00:11:09+00:00,After all these years…Regular Joe’s might get squeezed out tomorrow! Best of luck to those who get it 🚀🌑,after all these years regular joe s might get squeezed out tomorrow best of luck to those who get it,0.802,positive
-2026-06-11 23:52:49+00:00,,nan,0.0,neutral
 2026-06-11 22:47:16+00:00,Decided to randomly go all in on $SPY calls 2 minutes before the massive pump. Holding till we hit 750,decided to randomly go all in on spy calls minutes before the massive pump holding till we hit,0.0,neutral
 2026-06-11 22:33:04+00:00,Got DRAM. It went up. Sold some today and will let the rest ride. Learned that my tolerance for risk is lower than I thought. ,got dram it went up sold some today and will let the rest ride learned that my tolerance for risk is lower than i thought,-0.2732,negative
 2026-06-11 22:20:05+00:00,,nan,0.0,neutral
@@ -333,7 +536,6 @@ Positions:
 20x 210/215c Nov   
 3x 320/420c Sep '27",i simply cannot believe that company growing revenue within a year is so undervalued i am addicted to gambling so i threw margin at nvidia shares and call spreads totalling x leverage including other positions in my account but nvidia is the biggest one also since i bought a weird mix of different positions i would appreciate feedback of how regarded that is positions shares x c x c nov x c sep,0.7391,positive
 2026-06-11 15:11:12+00:00,I trade I am the trader I’m trading I’m the trader I trade trade I trade so much that I trade I am the traders trader I trade I am trading ,i trade i am the trader i m trading i m the trader i trade trade i trade so much that i trade i am the traders trader i trade i am trading,0.0,neutral
-2026-06-11 15:09:19+00:00,From a +16k gain to -25k in the span of 30 days.,from a k gain to k in the span of days,0.5267,positive
 2026-06-11 14:52:32+00:00,"Down \~ $15k.
 
 Microsoft was supposed to be a safe bet. They have an absurdly low P/E Ratio compared to the Mag 7. I bout them at a discount… and they STILL KEEP SINKING?!
@@ -480,286 +682,16 @@ Tell me why this is wrong.",not financial advice i am long cocoa via a x leverag
 2026-06-11 12:22:02+00:00,"ECB RAISES DEPOSIT FACILITY RATE BY 25BPS TO 2.25%; EST. 2.25%
 
 ",ecb raises deposit facility rate by bps to est,0.0,neutral
-2026-06-11 10:56:49+00:00,"19.6 million of 14.5 million USO shares sold short. Traders are short another 140 million barrels on futures markets.
-
-Spot prices have locked in $8 higher than next month futures.
-
-**SoH is closed and that shit ain’t opening**
-
-1100 barrel WTI YOLO for $96k
-
-Disclosure:  I am a retail trader, not a financial advisor or oil professional
-
-BFLO - Retail",million of million uso shares sold short traders are short another million barrels on futures markets spot prices have locked in higher than next month futures soh is closed and that shit ain t opening barrel wti yolo for k disclosure i am a retail trader not a financial advisor or oil professional bflo retail,-0.0772,negative
 2026-06-11 10:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1u2uqpp),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-06-11 04:52:59+00:00,"Ok I showed y'all my losses. I read every comment. I took it to heart. Moved my babys 20k from Edward jones that I had banked to a Vanguard savings and a 529 there as well. I used stop losses and only traded when baby was asleep.
-
-I then deposited $2,000 more into my account because someone said they believed I could do it again.
-
-After 2 weeks I had doubled it to $3000, then the next day $5000.
-
-Now, yesterday... Let's just say today when I had to pee, I would have to sit down, because I was absolutely whizzing. I was up 75k from spx puts and sndk calls and then made 10k on spx calls
-
-If you care to look at all the trades I did my best to include them. I withdrew 48k funds and told my wife of the situation.
-
-All is well. I hope y'all can experience a 40x to your account one day.
-
-&#x200B;
-
-I'll keep posting if I blow it all up again. I owe that to y'all.",ok i showed y all my losses i read every comment i took it to heart moved my babys k from edward jones that i had banked to a vanguard savings and a there as well i used stop losses and only traded when baby was asleep i then deposited more into my account because someone said they believed i could do it again after weeks i had doubled it to then the next day now yesterday let s just say today when i had to pee i would have to sit down because i was absolutely whizzing i was up k from spx puts and sndk calls and then made k on spx calls if you care to look at all the trades i did my best to include them i withdrew k funds and told my wife of the situation all is well i hope y all can experience a x to your account one day x b i ll keep posting if i blow it all up again i owe that to y all,0.8442,positive
 2026-06-11 01:58:32+00:00,,nan,0.0,neutral
-2026-06-11 00:57:36+00:00,Bought SPY calls and paper handed when it became obvious where this was going. Had a nice $9200 scalp on SPY puts and called it a night. (Edit typo),bought spy calls and paper handed when it became obvious where this was going had a nice scalp on spy puts and called it a night edit typo,0.4215,positive
-2026-06-11 00:43:38+00:00,Bought shares at TOP ,bought shares at top,0.4588,positive
-2026-06-10 23:47:39+00:00,I’m not very good at this. See you at my next loss! ,i m not very good at this see you at my next loss,-0.6024,negative
-2026-06-10 23:34:35+00:00,"Went all-in on BMNR with the family inheritance and currently sitting on a $600k loss. Moon or zero, let’s see how this ends.",went all in on bmnr with the family inheritance and currently sitting on a k loss moon or zero let s see how this ends,-0.3182,negative
 2026-06-10 23:33:28+00:00,"Oracle of Omaha who? 
 
 There's no way I can keep this up I have no edge whatsoever just chasing and revenge trading my nutsack off I'm gonna hold cash and take my 3% or whatever Robinhood gives for gold.",oracle of omaha who there s no way i can keep this up i have no edge whatsoever just chasing and revenge trading my nutsack off i m gonna hold cash and take my or whatever robinhood gives for gold,-0.7783,negative
-2026-06-10 22:35:30+00:00,"**SMCI DD:**  
-**Position**  
-Long SMCI.  
-Not financial advice.  
-I made hundreds of thousands on position then got nuked in 7 days  
-Gpt 5.5 analysis confirming my thesis citing Charles keynote at computex  
-tl:dr gross fucking margins
-
-# The Market Thinks SMCI Does This
-
-1. Buy Nvidia GPUs.
-2. Screw them into a box.
-3. Ship box.
-4. Collect tiny margin.
-5. Get commoditized.
-
-Honestly, that's been a pretty reasonable bear case.
-
-But after digging through the Computex keynote, I think the market is looking at the wrong damn business.
-
-The question isn't:
-
->""How many servers does SMCI sell?""
-
-The question is:
-
->""Is SMCI becoming the company that actually builds AI factories?""
-
-Because those are very different valuations.
-
-# The Computex Stuff Nobody Paid Attention To
-
-Everyone got hung up on:
-
->""We shipped more than 8,000 racks.""
-
-Cool.
-
-Maybe they're GB300 racks.
-
-Maybe HGX racks.
-
-Maybe a mix.
-
-I don't actually care.
-
-What caught my attention was Charles Liang spending basically the entire keynote talking about:
-
-* Liquid cooling
-* Rack integration
-* Power infrastructure
-* Deployment
-* Networking
-* Software
-* Services
-
-The guy barely talked about servers.
-
-Instead he kept repeating:
-
->""Time to online.""
-
-Translation:
-
->""We help customers start printing money faster.""
-
-That's a much better business than assembling boxes.
-
-# The Quote That Made Me Stop
-
-Not the 8,000 racks.
-
-Not Rubin.
-
-This:
-
->""This year can be 40 billion and next year much more than 40 billion.""
-
-Excuse me?
-
-Much more than $40B?
-
-Most investors completely ignored this.
-
-The CEO is basically standing on stage saying:
-
->""You guys still don't understand how big this wave is.""
-
-# Here's The Entire Investment Thesis
-
-Everything comes down to one number:
-
-# GROSS MARGIN
-
-Not revenue.
-
-Not rack count.
-
-Not backlog.
-
-Gross margin.
-
-If SMCI is just Nvidia's assembly bitch:
-
-* 10% margins
-* Bears win
-* End of story
-
-If SMCI is capturing money from:
-
-* Cooling
-* Integration
-* Deployment
-* Software
-* Services
-
-Then margins go up.
-
-And suddenly the market realizes this isn't just a server company.
-
-My cheat sheet:
-
-10-11% GM  
-→ You're cooked.
-
-12-13% GM  
-→ Interesting.
-
-14-15% GM  
-→ Uh oh, bears.
-
-16%+ GM  
-→ Absolute face-ripping rerating.
-
-# Then Today's Nuclear Bomb Dropped
-
-SMCI announced:
-
-# $7 BILLION financing
-
-Stock immediately got sent to the shadow realm.
-
-Everyone screamed:
-
->DILUTION!!!
-
-Which is fair.
-
-But almost nobody read the second part.
-
-Management disclosed:
-
-# $39 BILLION OF AI SERVER ORDERS
-
-Read that again.
-
-Thirty.
-
-Nine.
-
-Billion.
-
-Dollars.
-
-And the reason they're raising money is because they need to buy enough shit to fulfill those orders.
-
-Suddenly:
-
-* The 6 million square feet of manufacturing makes sense.
-* The deployment obsession makes sense.
-* The $40B+ revenue comments make sense.
-
-# Why I Think The Market Freaked Out
-
-The market heard:
-
->""SMCI needs money.""
-
-I heard:
-
->""Demand is bigger than the balance sheet.""
-
-Those are completely different statements.
-
-A dying company raises money because nobody wants their products.
-
-A company in the middle of an AI gold rush raises money because everybody wants their products.
-
-The question isn't demand anymore.
-
-Demand just punched everyone in the face.
-
-The question is:
-
->""How much money does SMCI make on that demand?""
-
-And we're right back to gross margins.
-
-Again.
-
-Gross margins.
-
-Every. Single. Time.
-
-# Final Take
-
-The market spent today asking:
-
->""How much dilution are we getting?""
-
-I think the better question is:
-
->""Why the hell would management raise $7B right after telling us they have $39B of fresh orders?""
-
-Either:
-
-1. They're idiots.
-
-or
-
-1. They're staring at an AI infrastructure buildout that's bigger than their balance sheet.
-
-Next earnings decides who's right.
-
-Not revenue.
-
-Not rack counts.
-
-Not Rubin.
-
-# Gross. Fucking. Margins.
-
-# ",smci dd position long smci not financial advice i made hundreds of thousands on position then got nuked in days gpt analysis confirming my thesis citing charles keynote at computex tl dr gross fucking margins the market thinks smci does this buy nvidia gpus screw them into a box ship box collect tiny margin get commoditized honestly that s been a pretty reasonable bear case but after digging through the computex keynote i think the market is looking at the wrong damn business the question isn t how many servers does smci sell the question is is smci becoming the company that actually builds ai factories because those are very different valuations the computex stuff nobody paid attention to everyone got hung up on we shipped more than racks cool maybe they re gb racks maybe hgx racks maybe a mix i don t actually care what caught my attention was charles liang spending basically the entire keynote talking about liquid cooling rack integration power infrastructure deployment networking software services the guy barely talked about servers instead he kept repeating time to online translation we help customers start printing money faster that s a much better business than assembling boxes the quote that made me stop not the racks not rubin this this year can be billion and next year much more than billion excuse me much more than b most investors completely ignored this the ceo is basically standing on stage saying you guys still don t understand how big this wave is here s the entire investment thesis everything comes down to one number gross margin not revenue not rack count not backlog gross margin if smci is just nvidia s assembly bitch margins bears win end of story if smci is capturing money from cooling integration deployment software services then margins go up and suddenly the market realizes this isn t just a server company my cheat sheet gm you re cooked gm interesting gm uh oh bears gm absolute face ripping rerating then today s nuclear bomb dropped smci announced billion financing stock immediately got sent to the shadow realm everyone screamed dilution which is fair but almost nobody read the second part management disclosed billion of ai server orders read that again thirty nine billion dollars and the reason they re raising money is because they need to buy enough shit to fulfill those orders suddenly the million square feet of manufacturing makes sense the deployment obsession makes sense the b revenue comments make sense why i think the market freaked out the market heard smci needs money i heard demand is bigger than the balance sheet those are completely different statements a dying company raises money because nobody wants their products a company in the middle of an ai gold rush raises money because everybody wants their products the question isn t demand anymore demand just punched everyone in the face the question is how much money does smci make on that demand and we re right back to gross margins again gross margins every single time final take the market spent today asking how much dilution are we getting i think the better question is why the hell would management raise b right after telling us they have b of fresh orders either they re idiots or they re staring at an ai infrastructure buildout that s bigger than their balance sheet next earnings decides who s right not revenue not rack counts not rubin gross fucking margins,-0.9883,negative
-2026-06-10 21:08:06+00:00,,nan,0.0,neutral
 2026-06-10 21:05:47+00:00,,nan,0.0,neutral
 2026-06-10 20:33:33+00:00,,nan,0.0,neutral
-2026-06-10 20:30:05+00:00,"Tried to jump on an end of day play. QQQ put 695. 2:44pm CST. @ .55   
-Tried to buy but as I clicked in to purchase it’s suddenly greyed out “this option is close to expiring so you can’t buy”. With another 1:15 of trading day remaining.   
-I watched that put reach 4.00 within 30 minutes.   
-Ridiculous.   
-What other apps are you guys using for quick trades? Webull is great if you can sit at a computer but I mostly trade from my phone so Robinhood has been effective because their UI is nice. But their rules suck. ",tried to jump on an end of day play qqq put pm cst tried to buy but as i clicked in to purchase it s suddenly greyed out this option is close to expiring so you can t buy with another of trading day remaining i watched that put reach within minutes ridiculous what other apps are you guys using for quick trades webull is great if you can sit at a computer but i mostly trade from my phone so robinhood has been effective because their ui is nice but their rules suck,0.85,positive
 2026-06-10 20:18:16+00:00,"https://preview.redd.it/793q4eknji6h1.png?width=287&format=png&auto=webp&s=72c0d00f9b2368ff1b98a7d568ff8255574fd598
 
 bagholding because I took the advices on Reddit ""SMCI is so undervalued rn"" ""$50 is too cheap"" 😭😭😭",bagholding because i took the advices on reddit smci is so undervalued rn is too cheap,0.0,neutral
-2026-06-10 20:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1u2d5l9),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-06-10 19:45:31+00:00,"https://preview.redd.it/qr5o2qgiei6h1.png?width=1574&format=png&auto=webp&s=d74978b607a69bf047aeb79a4f27a7067a3ee832
 
 Follow up post from Monday's, I said I was going to take a break but I watched yesterday from the sidelines drooling at the destruction.
@@ -983,6 +915,9 @@ OpenAI still has a good deal of work ahead. The company is burning through cash 
 Altman and company are also facing stiff competition from Anthropic and Google (GOOGL, GOOG), which debuted its Gemini 3.5 family of AI models at its recent Google I/O conference.
 
 Now, OpenAI will find out the market's appetite for that kind of risk.",source openai opai pvt on monday said it filed confidential paperwork for an initial public offering ipo setting up one of the most anticipated market debuts in years the company said it hasn t decided on timing yet and that it may take a while because there are things we want to do that are likely easier as a private company in march openai said had a post money valuation of billion the announcement sets up a showdown with rival anthropic anth pvt which filed confidential paperwork for its own ipo last week anthropic was last valued at billion openai s filing comes just weeks after ceo sam altman and president greg brockman defeated their former colleague and fellow co founder elon musk in his lawsuit against the duo musk accused altman and brockman of unjustly enriching themselves by turning the once nonprofit company into a for profit business but a california jury found that musk filed his suit outside of the statute of limitations judge yvonne gonzalez rogers of the us district court for the northern district of california accepted the jury s verdict handing musk the loss in a post on his social media site x the tesla and spacex ceo indicated that he will appeal the verdict to the us court of appeals for the ninth circuit describing the outcome as a calendar technicality rather than a ruling on the merits of the case openai s win was the last major obstacle standing in the company s way of going public the ipo could prove to be a windfall for microsoft msft one of openai s largest backers in october the companies amended the terms of their existing partnership allowing the chatgpt developer to transition to a for profit under the terms of that deal microsoft received of the openai group pbc valued at billion at that time while openai s nonprofit arm received a billion stake in the for profit entity but the relationship between the two companies has soured since microsoft invested its initial billion in openai in the windows maker would reportedly invest upwards of billion in the company with microsoft gaining exclusive access to openai s intellectual property and models the pair continued to run into trouble with microsoft s computing capacity which openai depended on to grow its user base and train and run newer more powerful ai models in april the companies again amended their agreement allowing openai to license its ip and models to other cloud businesses openai still has a good deal of work ahead the company is burning through cash as it continues to build out its data center capacity and wall street has repeatedly raised questions about how it will pay for the effort in the long run altman and company are also facing stiff competition from anthropic and google googl goog which debuted its gemini family of ai models at its recent google i o conference now openai will find out the market s appetite for that kind of risk,0.9894,positive
+2026-06-08 20:39:44+00:00,"Today while trading, I was holding the swipe up to execute the trade (holding it so it doesn't execute right away), then I rested my hand next to my other hand (where I wear my watch) and the watch NFC connected with my phone and executed the trade at a loss. 
+
+The second photo is what happened when my phone got near my watch to execute the trade.",today while trading i was holding the swipe up to execute the trade holding it so it doesn t execute right away then i rested my hand next to my other hand where i wear my watch and the watch nfc connected with my phone and executed the trade at a loss the second photo is what happened when my phone got near my watch to execute the trade,0.1027,positive
 2026-06-08 20:13:59+00:00,,nan,0.0,neutral
 2026-06-08 20:03:50+00:00,"https://preview.redd.it/8papaobe746h1.png?width=300&format=png&auto=webp&s=b6952be7845af117ff18716eccf974764d986a8f
 
@@ -1011,25 +946,6 @@ Hopefully screenshots explain what goin on, theres a few hundred trades so cant 
 https://preview.redd.it/5f7t3yf1236h1.png?width=1386&format=png&auto=webp&s=a83edcc6fa7d409baabe66938932d94829e9b003
 
 ",title sums it up never tried this and saw a lot of posts losing their entire portfolios on these things i got to thinking someone has to be on the other side of these making bank started weeks ago resetting account to k after some space gains i obviously have gotten extremely lucky and am going to try and stay away for a little while rode out most of as a bear but recently just wanted to vibe day to day instead of watching it crumble slowly hopefully screenshots explain what goin on theres a few hundred trades so cant tell you what days or contracts this somewhat sums up what kind of stuff was going on i would just dca down and then hope it went up,0.8536,positive
-2026-06-08 15:45:58+00:00,"**The Bet:**
-
-Now 223 (up from 115) contracts of the Tesla December 18, 2026 $990 calls now at $3.61 — the single most profitable option out of roughly 8,000 different contracts on the entire Tesla chain in the event of a surprise purchase announcement.
-
-**The Setup**:
-
-Elon has repeatedly said he views advanced AI and humanoid robots like Optimus as a potential existential risk to humanity.
-
-He tried to secure 25% voting control at Tesla to protect his ability to steer that future. When he couldn’t get it, he built absolute control in SpaceX instead. 
-
-He can sign a definitive purchase agreement wherein Tesla shareholders receive SpaceX shares for their Tesla shares.
-
-After the announcement the shares will trade in lock-step until the deal closes approximately six months later.
-
-1 + 1 = 3
-
-**The Payoff:**
-
-Selling all options at extrinsic value + hyper IV on the day of the announcement.",the bet now up from contracts of the tesla december calls now at the single most profitable option out of roughly different contracts on the entire tesla chain in the event of a surprise purchase announcement the setup elon has repeatedly said he views advanced ai and humanoid robots like optimus as a potential existential risk to humanity he tried to secure voting control at tesla to protect his ability to steer that future when he couldn t get it he built absolute control in spacex instead he can sign a definitive purchase agreement wherein tesla shareholders receive spacex shares for their tesla shares after the announcement the shares will trade in lock step until the deal closes approximately six months later the payoff selling all options at extrinsic value hyper iv on the day of the announcement,0.9726,positive
 2026-06-08 14:52:56+00:00,,nan,0.0,neutral
 2026-06-08 12:55:25+00:00,,nan,0.0,neutral
 2026-06-08 11:58:11+00:00,"**News Summary:**
@@ -1040,6 +956,7 @@ Selling all options at extrinsic value + hyper IV on the day of the announcement
 * The two companies will apply AI to semiconductor chip design and manufacturing, using NVIDIA CUDA-X libraries and NVIDIA PhysicsNeMo to accelerate semiconductor simulations, TCAD workflows and in-house engineering codes.
 * SK hynix will advance factory digital twins by combining NVIDIA Omniverse, OpenUSD scene optimization and NVIDIA cuOpt to drive fully autonomous fab operations.",news summary nvidia and sk hynix announce multiyear technology partnership for next generation memory aligned to nvidia s ai infrastructure roadmap the agreement supports supply for advanced memory addressing the extended development cycles advanced fabrication and capital investments to sustain the global buildout of ai factories sk hynix will diversify into new markets nvidia is creating across ai infrastructure personal ai and physical ai codeveloping memory for nvidia vera rubin ai supercomputers vera cpus rtx spark powered pcs and jetson thor robotic computing platforms the two companies will apply ai to semiconductor chip design and manufacturing using nvidia cuda x libraries and nvidia physicsnemo to accelerate semiconductor simulations tcad workflows and in house engineering codes sk hynix will advance factory digital twins by combining nvidia omniverse openusd scene optimization and nvidia cuopt to drive fully autonomous fab operations,0.9492,positive
 2026-06-08 11:17:28+00:00,,nan,0.0,neutral
+2026-06-08 10:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1u03hhc),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-06-08 07:02:06+00:00,"Good news for MU & SNDK. “If the multi-year shortage Huang outlined tonight holds, the recent pullback in MU and SNDK looks like a setup rather than a peak signal.”",good news for mu sndk if the multi year shortage huang outlined tonight holds the recent pullback in mu and sndk looks like a setup rather than a peak signal,0.5267,positive
 2026-06-08 06:07:49+00:00,,nan,0.0,neutral
 2026-06-08 04:05:54+00:00,"South Korea’s Kospi, which is dominated by chipmakers Samsung and SK Hynix, is down almost 15% from last week’s record high. ",south korea s kospi which is dominated by chipmakers samsung and sk hynix is down almost from last week s record high,0.0,neutral
@@ -1049,6 +966,7 @@ https://preview.redd.it/0n4u02sdsy5h1.png?width=1271&format=png&auto=webp&s=0878
 
 ",timed the absolute top somehow must be the only smoothie who made money soz too all those who got wrecked friday,0.2023,positive
 2026-06-08 00:46:25+00:00,Calls on SPCX. Puts on PSQ. Our lord and savior Leather jacket will carry us to Valhalla. ,calls on spcx puts on psq our lord and savior leather jacket will carry us to valhalla,0.0,neutral
+2026-06-07 23:34:42+00:00,,nan,0.0,neutral
 2026-06-07 21:46:35+00:00,,nan,0.0,neutral
 2026-06-07 21:30:47+00:00,"nasdaq dropped 4% and these cock-sucking chip stocks didn't even buy me dinner first. broadcom opened its fucking mouth, said absolutely nothing useful about AI, and the entire semiconductor sector collectively shit the bed and died. my calls are fucking worthless. i meanwhile coca-cola a company that sells fizzy brown piss water is up 3% handing out condoms like a smug bastard AFTER every bull got absolutely railed.
 
@@ -1077,57 +995,3 @@ Right now Reddit is capturing .01% of the CapX spending this year even though th
 Honestly the only counter argument I see here is that models only need to be trained on data once, but there is, i dont even know how many, new posts on reddit every single day and having the live connection will always be needed for these models to stay up to date, especially on current events and time sensitive information. There's nothing even close to the type of data collection Reddit is gathering. 
 
 Sold some of my AMD position to buy RDDT shares this week and im having a hard time  convincing myself to not go all in on RDDT. Help me see the light.  ",looking for someone to help me understand why one of the important companies to the ai ecosystem is sitting at b market cap right now reddit is capturing of the capx spending this year even though they are the most cited source in responses and are sitting on years of some of the best training data there is of reddit s revenue m is coming from deals they have with companies to access their api for training purposes the majority of this m is from deals they signed with openai and google in they are due to expire in and i d have to think the price is going to shoot way up honestly the only counter argument i see here is that models only need to be trained on data once but there is i dont even know how many new posts on reddit every single day and having the live connection will always be needed for these models to stay up to date especially on current events and time sensitive information there s nothing even close to the type of data collection reddit is gathering sold some of my amd position to buy rddt shares this week and im having a hard time convincing myself to not go all in on rddt help me see the light,0.9136,positive
-2026-06-06 23:21:21+00:00,,nan,0.0,neutral
-2026-06-06 22:22:40+00:00,"this is what ive been doing and Ive been making decent gains, I heard that the post nut clarity makes you think a lil better so I could make better decisions 
-
-has anyone else tried it?",this is what ive been doing and ive been making decent gains i heard that the post nut clarity makes you think a lil better so i could make better decisions has anyone else tried it,0.872,positive
-2026-06-06 18:39:08+00:00,"Alright degenerates, let me paint you a picture of a company that:  
-Just raised **2026 free cash flow guidance to $12.5 BILLION** (up from $11B). That's not revenue. That's FREE. CASH. FLOW. [TipRanks](https://www.tipranks.com/news/netflixs-nflx-first-half-is-soft-the-second-half-is-where-the-bull-case-lives)
-
-Authorized a **$25 BILLION share buyback** on top of $6.8B already in the chamber. They are literally YOLOING their own stock. [TipRanks](https://www.tipranks.com/news/netflixs-nflx-first-half-is-soft-the-second-half-is-where-the-bull-case-lives)
-
-Ad revenue expected to **roughly DOUBLE to \~$3 billion in 2026** after already growing 150% last year. The ad tier is just getting started. [TipRanks](https://www.tipranks.com/news/netflixs-nflx-first-half-is-soft-the-second-half-is-where-the-bull-case-lives)  
-**32.3% operating margin** and climbing. This thing prints money like the Fed used to. [TipRanks](https://www.tipranks.com/news/netflixs-nflx-first-half-is-soft-the-second-half-is-where-the-bull-case-lives)
-
-**H2 2026 is the real catalyst.** Q2 marks the **peak content amortization headwind** — meaning the margin pressure EASES in the back half. Bulls who understand this are loading up while smoothbrains panic over soft Q1 guidance. [TipRanks](https://www.tipranks.com/news/netflixs-nflx-first-half-is-soft-the-second-half-is-where-the-bull-case-lives)
-
-**Content moat is REAL.** Wednesday, Squid Game finale, Stranger Things, Adolescence, NFL Christmas Day games, boxing matches — these aren't just shows, they're **cultural events** that keep 300M+ households paying every month. [sec](https://www.sec.gov/Archives/edgar/data/1065280/000119312526159286/d20613ddef14a.htm)  
-The dip is a **gift**. Stock sitting \~$82 vs ATH of $133 just last year. They're buying back shares hand over fist at these levels. If you won't buy what a company is buying about itself, what are you even doing here. [LiteFinance](https://www.litefinance.org/blog/analysts-opinions/netflix-stock-price-prediction/)
-
-**TL;DR:** FCF machine, massive buyback, ad revenue doubling, margin expansion in H2, content nobody can touch. This is a **H2 2026 asymmetric play**.  
-🎯 Targets: $100 by Q3, $120 EOY
-
-# I got short term calls because they are in the buyback period .
-
-# AGM recording is available..listen proposal 5 & 6 you will understand this AGM meeting was worth to vote and address ongoing issues.. looks they are serious about stock price going down and go woke go broke
-
-[https://east.virtualshareholdermeeting.com/vsm/web?pvskey=NFLX2026](https://east.virtualshareholdermeeting.com/vsm/web?pvskey=NFLX2026)",alright degenerates let me paint you a picture of a company that just raised free cash flow guidance to billion up from b that s not revenue that s free cash flow tipranks authorized a billion share buyback on top of b already in the chamber they are literally yoloing their own stock tipranks ad revenue expected to roughly double to billion in after already growing last year the ad tier is just getting started tipranks operating margin and climbing this thing prints money like the fed used to tipranks h is the real catalyst q marks the peak content amortization headwind meaning the margin pressure eases in the back half bulls who understand this are loading up while smoothbrains panic over soft q guidance tipranks content moat is real wednesday squid game finale stranger things adolescence nfl christmas day games boxing matches these aren t just shows they re cultural events that keep m households paying every month sec the dip is a gift stock sitting vs ath of just last year they re buying back shares hand over fist at these levels if you won t buy what a company is buying about itself what are you even doing here litefinance tl dr fcf machine massive buyback ad revenue doubling margin expansion in h content nobody can touch this is a h asymmetric play targets by q eoy i got short term calls because they are in the buyback period agm recording is available listen proposal you will understand this agm meeting was worth to vote and address ongoing issues looks they are serious about stock price going down and go woke go broke,0.9732,positive
-2026-06-06 15:24:44+00:00,"we are going to gap up so hard on Monday
-
-[https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/?utm\_medium=Social&utm\_source=Facebook](https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/?utm_medium=Social&utm_source=Facebook)",we are going to gap up so hard on monday,-0.2183,negative
-2026-06-06 13:18:37+00:00,,nan,0.0,neutral
-2026-06-06 13:02:46+00:00,Maybe I've eaten too many 🖍s but it's starting to make sense. I'll tell my manager at Wendy's to buy puts.,maybe i ve eaten too many s but it s starting to make sense i ll tell my manager at wendy s to buy puts,0.0,neutral
-2026-06-06 11:27:30+00:00,,nan,0.0,neutral
-2026-06-06 10:32:52+00:00,"Looks to be a new feature. At the moment it looks like you still control which instructions become orders, and when orders are submitted.
-
-What are your thoughts? Will be interesting to see if this eventually evolves into being ""Algo trading for Retail"" if you can set sensible parameters. 
-
-Either that, or absolute carnage if the AI bots recommend near identical orders, and a monolith of traders rise and fall in unison. ",looks to be a new feature at the moment it looks like you still control which instructions become orders and when orders are submitted what are your thoughts will be interesting to see if this eventually evolves into being algo trading for retail if you can set sensible parameters either that or absolute carnage if the ai bots recommend near identical orders and a monolith of traders rise and fall in unison,0.7717,positive
-2026-06-06 10:30:08+00:00,,nan,0.0,neutral
-2026-06-06 10:25:13+00:00,,nan,0.0,neutral
-2026-06-06 07:41:42+00:00,BTC is putting it up my ass at the moment,btc is putting it up my ass at the moment,-0.5423,negative
-2026-06-06 06:29:23+00:00,"Problematic gamblers have my commiserations, but do US traders 'enjoy' losing?
-
-Genuine question from a UK trader. I'm shocked how quickly the mood changes with US investors. Watched some Bloomberg/CNBC and the tone was dramatic and gloom. Like it triggered some fight or flight attitude.
-
-Asia+EU will crash on Monday also, but people will be ""oh, ok, yes that's troublesome"". Not freaking out or start talking more loudly.
-
-It's part of US trading culture to leverage more and take risk, but surely that makes you more stoic to mini crashes? 
-
-Regards",problematic gamblers have my commiserations but do us traders enjoy losing genuine question from a uk trader i m shocked how quickly the mood changes with us investors watched some bloomberg cnbc and the tone was dramatic and gloom like it triggered some fight or flight attitude asia eu will crash on monday also but people will be oh ok yes that s troublesome not freaking out or start talking more loudly it s part of us trading culture to leverage more and take risk but surely that makes you more stoic to mini crashes regards,-0.7844,negative
-2026-06-06 06:27:19+00:00,I fe,i fe,0.0,neutral
-2026-06-06 03:58:47+00:00,,nan,0.0,neutral
-2026-06-06 03:04:14+00:00,Not made by AI. Made with MS paint.  ,not made by ai made with ms paint,0.0,neutral
-2026-06-06 00:10:38+00:00,"Marvell Technology and Flex to join S&P 500 index, replacing Pool and Campbell's
-
-https://www.cnbc.com/2026/06/05/marvell-technology-flex-sp-500-campbells-pool.html?\_\_source=androidappshare",marvell technology and flex to join s p index replacing pool and campbell s,0.296,positive

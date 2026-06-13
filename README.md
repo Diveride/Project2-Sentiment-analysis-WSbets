@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-06-12T23:54:14.903319+00:00`
+- Generated at (UTC): `2026-06-13T23:35:19.944558+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPCE | 14 | 3 | -0.311 | 3.91 | 35.76% | 0.717 |
-| 2 | SPY | 6 | 4 | 0.465 | 741.75 | -0.08% | 7.872 |
-| 3 | SMCI | 12 | 2 | -0.482 | 30.46 | -4.81% | 1.061 |
+| 1 | SPCE | 17 | 4 | -0.086 | 3.91 | 35.76% | 0.717 |
+| 2 | SPY | 8 | 6 | 0.252 | 741.75 | -0.08% | 7.871 |
+| 3 | AMD | 7 | 4 | 0.806 | 511.57 | 14.83% | 20.932 |
 | 4 | MSFT | 5 | 3 | 0.410 | 390.74 | -3.57% | 11.408 |
 | 5 | ADBE | 5 | 3 | 0.351 | 204.02 | -13.58% | 2.448 |
 | 6 | RKLB | 4 | 3 | 0.247 | 102.39 | -17.53% | 6.497 |
 | 7 | GOOGL | 3 | 3 | 0.726 | 359.68 | -10.67% | 7.625 |
-| 8 | QQQ | 3 | 3 | 0.112 | 721.34 | 0.93% | 8.146 |
-| 9 | AMD | 5 | 2 | 0.717 | 511.57 | 14.83% | 20.932 |
-| 10 | NBIS | 4 | 2 | 0.673 | 232.36 | 12.10% | 8.985 |
+| 8 | QQQ | 3 | 3 | 0.112 | 721.34 | 0.93% | 8.144 |
+| 9 | NBIS | 4 | 2 | 0.673 | 232.36 | 12.10% | 8.985 |
+| 10 | AVGO | 3 | 2 | -0.198 | 382.07 | -8.33% | 9.447 |
 
 ### Aggregate Charts
 
@@ -190,9 +190,9 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### SMCI
+#### AMD
 
-![SMCI Dashboard](outputs/latest_wsb_analysis/charts/smci_dashboard.png)
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
 #### MSFT
 
@@ -214,11 +214,11 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
 #### NBIS
 
 ![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+
+#### AVGO
+
+![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
 <!-- AUTO_TOP10_END -->
