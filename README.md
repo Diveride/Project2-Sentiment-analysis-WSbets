@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-06-14T23:39:23.076619+00:00`
+- Generated at (UTC): `2026-06-16T00:05:26.290508+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 9 | 7 | 0.135 | 741.75 | -0.08% | 7.871 |
-| 2 | SPCE | 17 | 4 | -0.086 | 3.91 | 35.76% | 0.717 |
-| 3 | RKLB | 5 | 4 | 0.330 | 102.39 | -17.53% | 6.497 |
-| 4 | GOOGL | 3 | 3 | 0.726 | 359.68 | -10.67% | 7.625 |
-| 5 | QQQ | 3 | 3 | 0.112 | 721.34 | 0.93% | 8.144 |
-| 6 | AMD | 5 | 2 | 0.668 | 511.57 | 14.83% | 20.932 |
-| 7 | NBIS | 4 | 2 | 0.673 | 232.36 | 12.10% | 8.985 |
-| 8 | ALAB | 3 | 2 | 0.673 | 367.15 | 63.84% | 17.496 |
-| 9 | CRWV | 3 | 2 | 0.673 | 100.55 | -9.67% | 2.975 |
-| 10 | TER | 3 | 2 | 0.673 | 403.20 | 10.96% | 17.301 |
+| 1 | SPY | 14 | 10 | 0.140 | 754.83 | 0.89% | 4.286 |
+| 2 | SPCE | 17 | 4 | -0.086 | 3.56 | 23.61% | 0.720 |
+| 3 | RKLB | 5 | 4 | 0.330 | 109.25 | -17.58% | 6.753 |
+| 4 | NBIS | 4 | 2 | 0.673 | 260.07 | 17.60% | 12.769 |
+| 5 | SMCI | 3 | 2 | -0.422 | 30.85 | -6.60% | 1.146 |
+| 6 | ALAB | 3 | 2 | 0.673 | 389.20 | 70.22% | 22.226 |
+| 7 | CRWV | 3 | 2 | 0.673 | 106.71 | -6.57% | 3.033 |
+| 8 | TER | 3 | 2 | 0.673 | 432.41 | 21.28% | 18.961 |
+| 9 | AVGO | 3 | 2 | 0.181 | 393.94 | -10.43% | 7.696 |
+| 10 | LUNR | 2 | 2 | -0.012 | 25.76 | -29.46% | 2.916 |
 
 ### Aggregate Charts
 
@@ -194,21 +194,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
-#### GOOGL
-
-![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
-
-#### QQQ
-
-![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
-
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
 #### NBIS
 
 ![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+
+#### SMCI
+
+![SMCI Dashboard](outputs/latest_wsb_analysis/charts/smci_dashboard.png)
 
 #### ALAB
 
@@ -221,4 +213,12 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### TER
 
 ![TER Dashboard](outputs/latest_wsb_analysis/charts/ter_dashboard.png)
+
+#### AVGO
+
+![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
+
+#### LUNR
+
+![LUNR Dashboard](outputs/latest_wsb_analysis/charts/lunr_dashboard.png)
 <!-- AUTO_TOP10_END -->
