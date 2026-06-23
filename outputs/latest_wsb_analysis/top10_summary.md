@@ -3,22 +3,22 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-06-16T00:05:26.292723+00:00`
+- Generated at (UTC): `2026-06-23T00:00:42.481734+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
-| 1 | SPY | 14 | 10 | 0.140 |
-| 2 | SPCE | 17 | 4 | -0.086 |
-| 3 | RKLB | 5 | 4 | 0.330 |
-| 4 | NBIS | 4 | 2 | 0.673 |
-| 5 | SMCI | 3 | 2 | -0.422 |
-| 6 | ALAB | 3 | 2 | 0.673 |
-| 7 | CRWV | 3 | 2 | 0.673 |
-| 8 | TER | 3 | 2 | 0.673 |
-| 9 | AVGO | 3 | 2 | 0.181 |
-| 10 | LUNR | 2 | 2 | -0.012 |
+| 1 | SPCX | 17 | 10 | 0.163 |
+| 2 | AMD | 8 | 5 | 0.345 |
+| 3 | DRAM | 8 | 5 | 0.506 |
+| 4 | MSFT | 9 | 4 | 0.222 |
+| 5 | RDDT | 15 | 2 | 0.925 |
+| 6 | SPY | 7 | 4 | 0.034 |
+| 7 | TTWO | 10 | 3 | 0.859 |
+| 8 | MU | 5 | 3 | 0.726 |
+| 9 | QQQ | 4 | 3 | 0.218 |
+| 10 | SNAP | 3 | 3 | 0.629 |
 
 ## Reddit fetch diagnostics
 
@@ -36,13 +36,13 @@
 
 ## Market snapshot
 
-- **SPY**: close `754.83`, 1M return `0.89%` if available, RSI `60.39` and regression RMSE `4.286`
-- **SPCE**: close `3.56`, 1M return `23.61%` if available, RSI `47.17` and regression RMSE `0.720`
-- **RKLB**: close `109.25`, 1M return `-17.58%` if available, RSI `47.64` and regression RMSE `6.753`
-- **NBIS**: close `260.07`, 1M return `17.60%` if available, RSI `64.11` and regression RMSE `12.769`
-- **SMCI**: close `30.85`, 1M return `-6.60%` if available, RSI `41.77` and regression RMSE `1.146`
-- **ALAB**: close `389.20`, 1M return `70.22%` if available, RSI `69.93` and regression RMSE `22.226`
-- **CRWV**: close `106.71`, 1M return `-6.57%` if available, RSI `50.51` and regression RMSE `3.033`
-- **TER**: close `432.41`, 1M return `21.28%` if available, RSI `62.47` and regression RMSE `18.961`
-- **AVGO**: close `393.94`, 1M return `-10.43%` if available, RSI `45.28` and regression RMSE `7.696`
-- **LUNR**: close `25.76`, 1M return `-29.46%` if available, RSI `41.21` and regression RMSE `2.916`
+- **SPCX**: close `154.60`, 1M return `nan%` if available, RSI `86.50`
+- **AMD**: close `551.63`, 1M return `23.25%` if available, RSI `63.08` and regression RMSE `23.698`
+- **DRAM**: close `80.72`, 1M return `56.71%` if available, RSI `72.01`
+- **MSFT**: close `367.34`, 1M return `-12.76%` if available, RSI `30.91` and regression RMSE `8.485`
+- **RDDT**: close `170.44`, 1M return `16.17%` if available, RSI `51.67` and regression RMSE `4.814`
+- **SPY**: close `744.39`, 1M return `0.42%` if available, RSI `52.54` and regression RMSE `11.604`
+- **TTWO**: close `239.57`, 1M return `1.25%` if available, RSI `66.79` and regression RMSE `2.689`
+- **MU**: close `1211.38`, 1M return `65.49%` if available, RSI `69.77` and regression RMSE `38.142`
+- **QQQ**: close `737.95`, 1M return `3.48%` if available, RSI `57.96` and regression RMSE `11.080`
+- **SNAP**: close `4.63`, 1M return `-17.62%` if available, RSI `33.08` and regression RMSE `0.241`

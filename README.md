@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-06-16T00:05:26.290508+00:00`
+- Generated at (UTC): `2026-06-23T00:00:42.479681+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -161,18 +161,18 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Top 10 Table
 
-| Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return |   RMSE |
-|------|--------|---------:|------:|--------------:|-----------:|-----------:|-------:|
-| 1    | SPY    |       14 |    10 |         0.140 |     754.83 |      0.89% |  4.286 |
-| 2    | SPCE   |       17 |     4 |        -0.086 |       3.56 |     23.61% |  0.720 |
-| 3    | RKLB   |        5 |     4 |         0.330 |     109.25 |    -17.58% |  6.753 |
-| 4    | NBIS   |        4 |     2 |         0.673 |     260.07 |     17.60% | 12.769 |
-| 5    | SMCI   |        3 |     2 |        -0.422 |      30.85 |     -6.60% |  1.146 |
-| 6    | ALAB   |        3 |     2 |         0.673 |     389.20 |     70.22% | 22.226 |
-| 7    | CRWV   |        3 |     2 |         0.673 |     106.71 |     -6.57% |  3.033 |
-| 8    | TER    |        3 |     2 |         0.673 |     432.41 |     21.28% | 18.961 |
-| 9    | AVGO   |        3 |     2 |         0.181 |     393.94 |    -10.43% |  7.696 |
-| 10   | LUNR   |        2 |     2 |        -0.012 |      25.76 |    -29.46% |  2.916 |
+| Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| 1 | SPCX | 17 | 10 | 0.163 | 154.60 | n/a | n/a |
+| 2 | AMD | 8 | 5 | 0.344 | 551.63 | 23.25% | 23.698 |
+| 3 | DRAM | 8 | 5 | 0.506 | 80.72 | 56.71% | n/a |
+| 4 | MSFT | 9 | 4 | 0.222 | 367.34 | -12.76% | 8.485 |
+| 5 | RDDT | 15 | 2 | 0.925 | 170.44 | 16.17% | 4.814 |
+| 6 | SPY | 7 | 4 | 0.034 | 744.39 | 0.42% | 11.604 |
+| 7 | TTWO | 10 | 3 | 0.859 | 239.57 | 1.25% | 2.689 |
+| 8 | MU | 5 | 3 | 0.726 | 1211.38 | 65.49% | 38.142 |
+| 9 | QQQ | 4 | 3 | 0.218 | 737.95 | 3.48% | 11.080 |
+| 10 | SNAP | 3 | 3 | 0.629 | 4.63 | -17.62% | 0.241 |
 
 ### Aggregate Charts
 
@@ -182,43 +182,43 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
+#### SPCX
+
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+
+#### AMD
+
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+
+#### DRAM
+
+![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
+
+#### MSFT
+
+![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
+
+#### RDDT
+
+![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
+
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### SPCE
+#### TTWO
 
-![SPCE Dashboard](outputs/latest_wsb_analysis/charts/spce_dashboard.png)
+![TTWO Dashboard](outputs/latest_wsb_analysis/charts/ttwo_dashboard.png)
 
-#### RKLB
+#### MU
 
-![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
+![MU Dashboard](outputs/latest_wsb_analysis/charts/mu_dashboard.png)
 
-#### NBIS
+#### QQQ
 
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
-#### SMCI
+#### SNAP
 
-![SMCI Dashboard](outputs/latest_wsb_analysis/charts/smci_dashboard.png)
-
-#### ALAB
-
-![ALAB Dashboard](outputs/latest_wsb_analysis/charts/alab_dashboard.png)
-
-#### CRWV
-
-![CRWV Dashboard](outputs/latest_wsb_analysis/charts/crwv_dashboard.png)
-
-#### TER
-
-![TER Dashboard](outputs/latest_wsb_analysis/charts/ter_dashboard.png)
-
-#### AVGO
-
-![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
-
-#### LUNR
-
-![LUNR Dashboard](outputs/latest_wsb_analysis/charts/lunr_dashboard.png)
+![SNAP Dashboard](outputs/latest_wsb_analysis/charts/snap_dashboard.png)
 <!-- AUTO_TOP10_END -->
