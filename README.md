@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-06-23T00:00:42.479681+00:00`
+- Generated at (UTC): `2026-06-23T23:32:51.203779+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPCX | 17 | 10 | 0.163 | 154.60 | n/a | n/a |
-| 2 | AMD | 8 | 5 | 0.344 | 551.63 | 23.25% | 23.698 |
-| 3 | DRAM | 8 | 5 | 0.506 | 80.72 | 56.71% | n/a |
-| 4 | MSFT | 9 | 4 | 0.222 | 367.34 | -12.76% | 8.485 |
-| 5 | RDDT | 15 | 2 | 0.925 | 170.44 | 16.17% | 4.814 |
-| 6 | SPY | 7 | 4 | 0.034 | 744.39 | 0.42% | 11.604 |
-| 7 | TTWO | 10 | 3 | 0.859 | 239.57 | 1.25% | 2.689 |
-| 8 | MU | 5 | 3 | 0.726 | 1211.38 | 65.49% | 38.142 |
-| 9 | QQQ | 4 | 3 | 0.218 | 737.95 | 3.48% | 11.080 |
-| 10 | SNAP | 3 | 3 | 0.629 | 4.63 | -17.62% | 0.241 |
+| 1 | SPCX | 8 | 7 | 0.451 | 156.11 | n/a | n/a |
+| 2 | MSFT | 11 | 6 | 0.339 | 373.94 | -10.77% | 7.566 |
+| 3 | AMD | 9 | 6 | 0.447 | 519.85 | 15.63% | 27.266 |
+| 4 | DRAM | 8 | 5 | 0.506 | 69.22 | 27.38% | n/a |
+| 5 | QQQ | 6 | 5 | 0.093 | 713.65 | -0.12% | 8.175 |
+| 6 | RDDT | 15 | 2 | 0.925 | 165.63 | 10.39% | 4.702 |
+| 7 | SPY | 7 | 4 | -0.076 | 733.58 | -1.23% | 8.488 |
+| 8 | INFQ | 14 | 2 | 0.787 | 15.96 | 8.57% | 0.423 |
+| 9 | TTWO | 9 | 2 | 0.809 | 242.64 | 1.92% | 1.909 |
+| 10 | MU | 5 | 3 | 0.726 | 1051.77 | 38.01% | 37.019 |
 
 ### Aggregate Charts
 
@@ -186,6 +186,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
+#### MSFT
+
+![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
+
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
@@ -194,9 +198,9 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
 
-#### MSFT
+#### QQQ
 
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
 #### RDDT
 
@@ -206,6 +210,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
+#### INFQ
+
+![INFQ Dashboard](outputs/latest_wsb_analysis/charts/infq_dashboard.png)
+
 #### TTWO
 
 ![TTWO Dashboard](outputs/latest_wsb_analysis/charts/ttwo_dashboard.png)
@@ -213,12 +221,4 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### MU
 
 ![MU Dashboard](outputs/latest_wsb_analysis/charts/mu_dashboard.png)
-
-#### QQQ
-
-![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
-
-#### SNAP
-
-![SNAP Dashboard](outputs/latest_wsb_analysis/charts/snap_dashboard.png)
 <!-- AUTO_TOP10_END -->

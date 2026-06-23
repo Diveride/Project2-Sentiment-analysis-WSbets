@@ -1,3 +1,3 @@
 ticker,rows,rmse,result_csv,chart_png,error
-AMD,500,156.1713301953979,/home/runner/work/Project2-Sentiment-analysis-WSbets/Project2-Sentiment-analysis-WSbets/outputs/latest_wsb_analysis/prices/amd_pytorch_lstm_results.csv,/home/runner/work/Project2-Sentiment-analysis-WSbets/Project2-Sentiment-analysis-WSbets/outputs/latest_wsb_analysis/charts/amd_pytorch_lstm.png,
-SPCX,6,,,,Not enough price rows to train the LSTM.
+MSFT,501,28.480813511577402,/home/runner/work/Project2-Sentiment-analysis-WSbets/Project2-Sentiment-analysis-WSbets/outputs/latest_wsb_analysis/prices/msft_pytorch_lstm_results.csv,/home/runner/work/Project2-Sentiment-analysis-WSbets/Project2-Sentiment-analysis-WSbets/outputs/latest_wsb_analysis/charts/msft_pytorch_lstm.png,
+SPCX,7,,,,Not enough price rows to train the LSTM.
