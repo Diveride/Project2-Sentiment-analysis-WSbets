@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-06-23T23:32:51.203779+00:00`
+- Generated at (UTC): `2026-06-24T23:36:22.988154+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPCX | 8 | 7 | 0.451 | 156.11 | n/a | n/a |
-| 2 | MSFT | 11 | 6 | 0.339 | 373.94 | -10.77% | 7.566 |
-| 3 | AMD | 9 | 6 | 0.447 | 519.85 | 15.63% | 27.266 |
-| 4 | DRAM | 8 | 5 | 0.506 | 69.22 | 27.38% | n/a |
-| 5 | QQQ | 6 | 5 | 0.093 | 713.65 | -0.12% | 8.175 |
-| 6 | RDDT | 15 | 2 | 0.925 | 165.63 | 10.39% | 4.702 |
-| 7 | SPY | 7 | 4 | -0.076 | 733.58 | -1.23% | 8.488 |
-| 8 | INFQ | 14 | 2 | 0.787 | 15.96 | 8.57% | 0.423 |
-| 9 | TTWO | 9 | 2 | 0.809 | 242.64 | 1.92% | 1.909 |
-| 10 | MU | 5 | 3 | 0.726 | 1051.77 | 38.01% | 37.019 |
+| 1 | WEN | 27 | 12 | 0.212 | 7.86 | 0.64% | 0.177 |
+| 2 | GOOGL | 11 | 4 | 0.698 | 345.29 | -9.84% | 9.095 |
+| 3 | MU | 7 | 5 | 0.268 | 1048.51 | 39.62% | 37.534 |
+| 4 | SPY | 8 | 4 | -0.016 | 733.24 | -1.66% | 10.587 |
+| 5 | MSFT | 8 | 4 | 0.364 | 365.46 | -12.69% | 8.602 |
+| 6 | BLK | 19 | 1 | 0.831 | 982.60 | -8.42% | 12.658 |
+| 7 | SNDK | 7 | 4 | 0.291 | 1914.46 | 29.47% | 76.109 |
+| 8 | AMD | 6 | 4 | 0.423 | 519.74 | 11.17% | 33.859 |
+| 9 | NVDA | 4 | 3 | 0.068 | 199.00 | -7.58% | 4.355 |
+| 10 | SPCX | 4 | 3 | 0.371 | 154.54 | n/a | n/a |
 
 ### Aggregate Charts
 
@@ -182,43 +182,43 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### SPCX
+#### WEN
 
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+![WEN Dashboard](outputs/latest_wsb_analysis/charts/wen_dashboard.png)
 
-#### MSFT
+#### GOOGL
 
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
+![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
 
-#### AMD
+#### MU
 
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
-#### DRAM
-
-![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
-
-#### QQQ
-
-![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
-
-#### RDDT
-
-![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
+![MU Dashboard](outputs/latest_wsb_analysis/charts/mu_dashboard.png)
 
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### INFQ
+#### MSFT
 
-![INFQ Dashboard](outputs/latest_wsb_analysis/charts/infq_dashboard.png)
+![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### TTWO
+#### BLK
 
-![TTWO Dashboard](outputs/latest_wsb_analysis/charts/ttwo_dashboard.png)
+![BLK Dashboard](outputs/latest_wsb_analysis/charts/blk_dashboard.png)
 
-#### MU
+#### SNDK
 
-![MU Dashboard](outputs/latest_wsb_analysis/charts/mu_dashboard.png)
+![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+
+#### AMD
+
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+
+#### SPCX
+
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 <!-- AUTO_TOP10_END -->
