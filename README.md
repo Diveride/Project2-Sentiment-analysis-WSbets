@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-06-24T23:36:22.988154+00:00`
+- Generated at (UTC): `2026-06-25T23:48:28.866354+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | WEN | 27 | 12 | 0.212 | 7.86 | 0.64% | 0.177 |
-| 2 | GOOGL | 11 | 4 | 0.698 | 345.29 | -9.84% | 9.095 |
-| 3 | MU | 7 | 5 | 0.268 | 1048.51 | 39.62% | 37.534 |
-| 4 | SPY | 8 | 4 | -0.016 | 733.24 | -1.66% | 10.587 |
-| 5 | MSFT | 8 | 4 | 0.364 | 365.46 | -12.69% | 8.602 |
-| 6 | BLK | 19 | 1 | 0.831 | 982.60 | -8.42% | 12.658 |
-| 7 | SNDK | 7 | 4 | 0.291 | 1914.46 | 29.47% | 76.109 |
-| 8 | AMD | 6 | 4 | 0.423 | 519.74 | 11.17% | 33.859 |
-| 9 | NVDA | 4 | 3 | 0.068 | 199.00 | -7.58% | 4.355 |
-| 10 | SPCX | 4 | 3 | 0.371 | 154.54 | n/a | n/a |
+| 1 | WEN | 44 | 25 | 0.186 | 7.33 | -0.41% | 0.161 |
+| 2 | AMD | 23 | 5 | 0.526 | 532.57 | 5.69% | 34.369 |
+| 3 | SNDK | 10 | 5 | 0.764 | 2335.00 | 46.90% | 79.215 |
+| 4 | SPY | 9 | 5 | 0.156 | 734.30 | -2.17% | 8.928 |
+| 5 | MSFT | 8 | 4 | 0.108 | 352.83 | -15.19% | 6.035 |
+| 6 | MU | 6 | 4 | 0.414 | 1213.56 | 35.46% | 39.761 |
+| 7 | NVDA | 5 | 4 | 0.389 | 195.74 | -8.90% | 5.002 |
+| 8 | ASTS | 4 | 3 | 0.612 | 65.62 | -45.18% | 4.605 |
+| 9 | SPCX | 4 | 3 | 0.321 | 153.00 | n/a | n/a |
+| 10 | LNG | 5 | 2 | 0.995 | 235.10 | 0.45% | 3.493 |
 
 ### Aggregate Charts
 
@@ -186,13 +186,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![WEN Dashboard](outputs/latest_wsb_analysis/charts/wen_dashboard.png)
 
-#### GOOGL
+#### AMD
 
-![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### MU
+#### SNDK
 
-![MU Dashboard](outputs/latest_wsb_analysis/charts/mu_dashboard.png)
+![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
 
 #### SPY
 
@@ -202,23 +202,23 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### BLK
+#### MU
 
-![BLK Dashboard](outputs/latest_wsb_analysis/charts/blk_dashboard.png)
-
-#### SNDK
-
-![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
-
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+![MU Dashboard](outputs/latest_wsb_analysis/charts/mu_dashboard.png)
 
 #### NVDA
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
+#### ASTS
+
+![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
+
 #### SPCX
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+
+#### LNG
+
+![LNG Dashboard](outputs/latest_wsb_analysis/charts/lng_dashboard.png)
 <!-- AUTO_TOP10_END -->
