@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-06-27T23:19:24.607734+00:00`
+- Generated at (UTC): `2026-06-28T23:20:33.632507+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | WEN | 32 | 19 | 0.158 | 7.80 | 4.14% | 0.177 |
-| 2 | MSFT | 8 | 7 | 0.217 | 372.97 | -9.62% | 6.615 |
-| 3 | SNDK | 9 | 4 | 0.691 | 2090.71 | 31.50% | 79.702 |
-| 4 | NVDA | 8 | 4 | -0.061 | 192.53 | -9.44% | 4.334 |
-| 5 | SPY | 4 | 4 | -0.123 | 728.99 | -2.86% | 8.724 |
-| 6 | MSTR | 6 | 3 | -0.462 | 82.31 | -46.62% | 19.250 |
-| 7 | NASA | 8 | 2 | 0.911 | 26.58 | -36.55% | n/a |
-| 8 | MRVL | 4 | 3 | 0.026 | 266.77 | 34.26% | 14.025 |
-| 9 | SPCX | 3 | 3 | 0.218 | 153.23 | n/a | n/a |
-| 10 | NOW | 3 | 3 | 0.018 | 98.34 | -3.70% | 3.146 |
+| 1 | WEN | 32 | 18 | 0.262 | 7.80 | 4.14% | 0.177 |
+| 2 | MSFT | 9 | 7 | 0.166 | 372.97 | -9.62% | 6.615 |
+| 3 | NVDA | 6 | 3 | 0.248 | 192.53 | -9.44% | 4.334 |
+| 4 | SLS | 5 | 3 | 0.007 | 12.39 | 44.41% | 0.423 |
+| 5 | MSTR | 5 | 2 | -0.538 | 82.31 | -46.62% | 19.250 |
+| 6 | CEG | 7 | 1 | 0.945 | 264.02 | -8.54% | 3.661 |
+| 7 | MU | 3 | 2 | 0.148 | 1132.33 | 21.96% | 39.982 |
+| 8 | SPCX | 2 | 2 | 0.146 | 153.23 | n/a | n/a |
+| 9 | JPM | 2 | 2 | 0.683 | 329.05 | 9.95% | 1.680 |
+| 10 | SPY | 2 | 2 | 0.223 | 728.99 | -2.86% | 8.724 |
 
 ### Aggregate Charts
 
@@ -190,35 +190,35 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### SNDK
-
-![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
-
 #### NVDA
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### SPY
+#### SLS
 
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+![SLS Dashboard](outputs/latest_wsb_analysis/charts/sls_dashboard.png)
 
 #### MSTR
 
 ![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
 
-#### NASA
+#### CEG
 
-![NASA Dashboard](outputs/latest_wsb_analysis/charts/nasa_dashboard.png)
+![CEG Dashboard](outputs/latest_wsb_analysis/charts/ceg_dashboard.png)
 
-#### MRVL
+#### MU
 
-![MRVL Dashboard](outputs/latest_wsb_analysis/charts/mrvl_dashboard.png)
+![MU Dashboard](outputs/latest_wsb_analysis/charts/mu_dashboard.png)
 
 #### SPCX
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
-#### NOW
+#### JPM
 
-![NOW Dashboard](outputs/latest_wsb_analysis/charts/now_dashboard.png)
+![JPM Dashboard](outputs/latest_wsb_analysis/charts/jpm_dashboard.png)
+
+#### SPY
+
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 <!-- AUTO_TOP10_END -->
