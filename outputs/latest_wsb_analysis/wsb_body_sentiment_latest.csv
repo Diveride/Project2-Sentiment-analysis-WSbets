@@ -1,6 +1,222 @@
 created_utc,body,clean_body,body_sentiment,body_label
-2026-06-28 23:03:34+00:00,,nan,0.0,neutral
-2026-06-28 22:59:50+00:00,TLDR: BUY MU 2000 CALL EOM,tldr buy mu call eom,0.0,neutral
+2026-06-29 22:54:18+00:00,,nan,0.0,neutral
+2026-06-29 21:49:11+00:00,,nan,0.0,neutral
+2026-06-29 20:09:48+00:00,"Source: [https://finance.yahoo.com/technology/ai/articles/super-micro-office-raided-taiwan-175946955.html](https://finance.yahoo.com/technology/ai/articles/super-micro-office-raided-taiwan-175946955.html)
+
+Super Micro Computer Inc.'s offices in Taiwan were raided by government authorities on Monday, widening an investigation into the alleged smuggling of Nvidia Corp. chips into China using the company's servers, according to a person familiar with the situation.
+
+Local investigators raided the residences of six individuals and the sites of three affiliated companies on Monday as part of the ongoing probe into allegedly illegal exports of Super Micro's servers, Taiwan's Keelung District Prosecutors Office said in a statement.
+
+While prosecutors declined to provide names of those searched, Super Micro's Taiwan office was among them, a person familiar with the situation said, asking not to be identified because the information isn't public. Super Micro, which has previously said it is cooperating with Taiwanese authorities on the probe, didn't immediately respond to a request for comment.
+
+The move marks an expansion of Taiwan's first public crackdown on AI chip diversion after years of pressure from Washington to take a more active role in curtailing China's tech access. The US has for years restricted exports of advanced AI chips to China over concerns that the hardware, the vast majority of which is produced in Taiwan, could benefit Beijing's military efforts.
+
+Taiwan doesn't currently treat AI chip exports to China as a crime. While Taiwan authorities do warn potential sellers that they may be breaking US rules should they proceed, the only legal recourse through the island's courts is to charge suspected smugglers with violations of other, existing local laws. Taipei is now considering criminalizing exports themselves, which would give local prosecutors more tools to go after the illicit trade.
+
+Authorities made their first known detentions of alleged chip smugglers in May, on charges of falsifying documents related to exports of Super Micro servers containing highly priced Nvidia AI chips. The three individuals were suspected of successfully sending at least one batch of Nvidia's AI chips to China via Japan, Bloomberg News has reported, and attempting to export around 50 servers that Taiwan authorities seized before they left the island.
+
+Taiwanese data center operator Chief Telecom Inc. and Super Micro distributor Albatron Technology Co. were also raided on Monday, the person familiar with the investigation said. Taiwanese outlets including the Liberty Times newspaper reported on the names of the companies searched earlier on Monday.
+
+Chief Telecom didn't have immediate comment. Albatron said in an exchange filing that it was searched by local investigators earlier on Monday, without providing details about why it was targeted. The company said there was no financial or operational impact.
+
+Taiwan's Keelung District Prosecutors Office said in its statement that it has also summoned the individuals searched on Monday for interviews.
+
+Taipei is considering fortifying its export controls on AI chips sales to China to better align with the US, Bloomberg has reported. That would give Taiwan prosecutors more tools to crack down on illicit trade of AI hardware, which is manufactured in bulk on the island. Both Nvidia and Advanced Micro Devices Inc. rely on Taiwan Semiconductor Manufacturing Co. to make their cutting-edge AI chips.
+
+https://preview.redd.it/sx0zmp164aah1.png?width=1565&format=png&auto=webp&s=d54902f944e455ea35ce1bc9b7574a0e1acd9b04
+
+  
+",source super micro computer inc s offices in taiwan were raided by government authorities on monday widening an investigation into the alleged smuggling of nvidia corp chips into china using the company s servers according to a person familiar with the situation local investigators raided the residences of six individuals and the sites of three affiliated companies on monday as part of the ongoing probe into allegedly illegal exports of super micro s servers taiwan s keelung district prosecutors office said in a statement while prosecutors declined to provide names of those searched super micro s taiwan office was among them a person familiar with the situation said asking not to be identified because the information isn t public super micro which has previously said it is cooperating with taiwanese authorities on the probe didn t immediately respond to a request for comment the move marks an expansion of taiwan s first public crackdown on ai chip diversion after years of pressure from washington to take a more active role in curtailing china s tech access the us has for years restricted exports of advanced ai chips to china over concerns that the hardware the vast majority of which is produced in taiwan could benefit beijing s military efforts taiwan doesn t currently treat ai chip exports to china as a crime while taiwan authorities do warn potential sellers that they may be breaking us rules should they proceed the only legal recourse through the island s courts is to charge suspected smugglers with violations of other existing local laws taipei is now considering criminalizing exports themselves which would give local prosecutors more tools to go after the illicit trade authorities made their first known detentions of alleged chip smugglers in may on charges of falsifying documents related to exports of super micro servers containing highly priced nvidia ai chips the three individuals were suspected of successfully sending at least one batch of nvidia s ai chips to china via japan bloomberg news has reported and attempting to export around servers that taiwan authorities seized before they left the island taiwanese data center operator chief telecom inc and super micro distributor albatron technology co were also raided on monday the person familiar with the investigation said taiwanese outlets including the liberty times newspaper reported on the names of the companies searched earlier on monday chief telecom didn t have immediate comment albatron said in an exchange filing that it was searched by local investigators earlier on monday without providing details about why it was targeted the company said there was no financial or operational impact taiwan s keelung district prosecutors office said in its statement that it has also summoned the individuals searched on monday for interviews taipei is considering fortifying its export controls on ai chips sales to china to better align with the us bloomberg has reported that would give taiwan prosecutors more tools to crack down on illicit trade of ai hardware which is manufactured in bulk on the island both nvidia and advanced micro devices inc rely on taiwan semiconductor manufacturing co to make their cutting edge ai chips,0.9509,positive
+2026-06-29 20:02:52+00:00,"QNX is in **275M+ vehicles worldwide**. With roughly **1.7B vehicles** on the road globally, that means QNX is in about **16% of the global vehicle fleet** — basically **1 in 6 vehicles**.  
+That is a massive installed base for mission-critical embedded software.  
+The growth is also finally showing up in the numbers. BB’s latest quarter had revenue up around **26% YoY**, and QNX also grew around **26% YoY** with very high software margins. This is starting to look less like a dead phone-company turnaround and more like a high-margin embedded software rerating.  
+The comparison I like is: **BB could be the software-layer version of Qualcomm/Nokia.**  
+Qualcomm is the auto chip/platform giant. Nokia became infrastructure after phones. BB could become the overlooked embedded software infrastructure play for vehicles, robotics, industrial systems, defense, aerospace, and edge AI.  
+QNX is not a monopoly, but it looks like one of the leading safety-critical automotive OS platforms by disclosed vehicle count. That matters because automakers do not casually rip out validated software from vehicle platforms.  
+The space angle is also interesting: QNX is now supported in NASA’s core Flight System ecosystem. That does not mean every spacecraft runs QNX, but it adds credibility to the mission-critical software story.  
+Simple thesis: **BB is not a phone company anymore. It is a high-margin embedded software play hiding in plain sight.** 
+
+**Made a more in-depth DD last week. Don’t sleep on this stock.**
+
+**Not financial advice, just factual data** ",qnx is in m vehicles worldwide with roughly b vehicles on the road globally that means qnx is in about of the global vehicle fleet basically in vehicles that is a massive installed base for mission critical embedded software the growth is also finally showing up in the numbers bb s latest quarter had revenue up around yoy and qnx also grew around yoy with very high software margins this is starting to look less like a dead phone company turnaround and more like a high margin embedded software rerating the comparison i like is bb could be the software layer version of qualcomm nokia qualcomm is the auto chip platform giant nokia became infrastructure after phones bb could become the overlooked embedded software infrastructure play for vehicles robotics industrial systems defense aerospace and edge ai qnx is not a monopoly but it looks like one of the leading safety critical automotive os platforms by disclosed vehicle count that matters because automakers do not casually rip out validated software from vehicle platforms the space angle is also interesting qnx is now supported in nasa s core flight system ecosystem that does not mean every spacecraft runs qnx but it adds credibility to the mission critical software story simple thesis bb is not a phone company anymore it is a high margin embedded software play hiding in plain sight made a more in depth dd last week don t sleep on this stock not financial advice just factual data,0.8881,positive
+2026-06-29 20:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1uj37dn),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-06-29 18:37:45+00:00,,nan,0.0,neutral
+2026-06-29 18:26:24+00:00,Scare money don’t make money fellas,scare money don t make money fellas,-0.4939,negative
+2026-06-29 17:46:24+00:00,,nan,0.0,neutral
+2026-06-29 17:11:13+00:00,"Solar sector is hot. GLW is going higher.  
+  
+Not selling yet. 🚀",solar sector is hot glw is going higher not selling yet,0.0,neutral
+2026-06-29 17:10:28+00:00,"Last time when I posted my YOLO. almost 50% loss on ASTS. I received a lot of kind words and recommendations from WSB. I would like to post here again. I am still here, still loss, load more! I am more confident about ASTS. Rock to the Moon! ",last time when i posted my yolo almost loss on asts i received a lot of kind words and recommendations from wsb i would like to post here again i am still here still loss load more i am more confident about asts rock to the moon,0.8291,positive
+2026-06-29 17:08:31+00:00,,nan,0.0,neutral
+2026-06-29 16:57:45+00:00,,nan,0.0,neutral
+2026-06-29 16:34:42+00:00,"I already have $RDDT stock in my portfolio since early days. 
+
+I have now recently bought $RDDT June 16 2028 $380 calls and June 2027 $300 calls. 
+
+
+
+***Here is a summary of my DD:***
+
+**Pros:** 
+
+1. Reddit has had stellar earnings every time since it went public, posting an average YoY revenue growth of \~65% every single quarter.
+2. Reddit has a forward PEG ratio of 0.54x which is lower than 55% of its industry.
+3. Reddit has had an average YoY FCF growth of 325.73%. How many profitable companies are out there that have these FCF growth rates consistently?
+4. Reddit has historically only been available to use in mostly English speaking countries. Over the past year, it has expanded its AI-powered machine translation and search to **23 languages**. The platform features automatic translations for both posts and comments, helping open up what was previously a primarily English-centric network to millions of users across Asia, Europe, and Latin America. This literally means that the growth potential has just started as all the previous amazing growth they have witnessed was only limited to english speaking countries TAM. Advertising revenue will most likely be their biggest growth driver. 
+5. As more and more people tend to seek LLMs to ask most of their questions, there is a really unique advantage Reddit will have in the future as humans will try to seek more human conversation. Even to this date, many people have the tendency to search the answer to certain life and day-to-day questions on Reddit specifically. Just consider yourself reading this on Reddit instead of in chatgpt. While Reddit already has some small licensing contracts with two LLMs, the CEO has said he actually wants to keep most of its data proprietary. This is extremely smart, because as LLMs learn more and more, they will still not be able to provide the data on Reddit to users, which will keep forcing users back onto the platform for those highly sought questions. The scarcer the data, the more that data will be worth. So whether the plan for the CEO is to build or have the option to build some sort of an LLM in the future, or whether the plan is to license it for a higher price in the future, I believe the CEO is cooking something.
+6. And finally, my 10-YR DCF Valuation (attached screenshot):
+   * Base case price: $322-$440
+   * Bear case price: $233-$272
+   * Bull case price: $390 - $466
+
+Note: I didn't even factor in growth of Data Licensing nor for the new geographies. This is purely based on macro, past trends, and management estimates. 
+
+
+
+**Cons:**
+
+1.  A common point of debate is the high share based compensation. Personally, I think it is normal and should be encouraged in a high growth company in order to maintain the growth and is pretty normal in tech and AI companies. But I know it is one of the reason the stock is not ""liked"" on wall street. 
+2. The amount of bots is another con. Though the CEO has mentioned it is something they continuously work on, I do consider it a con. I have to say though, I believe all social media platforms are suffering from bots. It's just a bit harder to distinguish on Reddit which is an issue when you seek an unbiased answer to a question.
+3. Another point of debate on wall street is the declining growth of DAUq in some quarters. Though they still have positive growth, it is at a declining rate. However, I personally believe this is normal and logical as eventually DAUq can only grow with the population growth rate. What I believe matters more is the growth in ARPU. Rest-of-World ARPU grew 44.3% while U.S. ARPU grew 56% in FY2025A, which caused Rest-of-World revenue to grow 93% while U.S. revenue grew 70% in FY2025A. What is is very interesting is that U.S. ARPU In 2025A was $10.79, while Rest-of-World ARPU is still at $2.31 which suggests there is still a lot of room to grow considering Rest-of-World advertising has a lot of untapped potential. I believe Wall Street is overlooking the bigger picture here by focusing on user rates rather than the hidden drivers.
+
+  
+",i already have rddt stock in my portfolio since early days i have now recently bought rddt june calls and june calls here is a summary of my dd pros reddit has had stellar earnings every time since it went public posting an average yoy revenue growth of every single quarter reddit has a forward peg ratio of x which is lower than of its industry reddit has had an average yoy fcf growth of how many profitable companies are out there that have these fcf growth rates consistently reddit has historically only been available to use in mostly english speaking countries over the past year it has expanded its ai powered machine translation and search to languages the platform features automatic translations for both posts and comments helping open up what was previously a primarily english centric network to millions of users across asia europe and latin america this literally means that the growth potential has just started as all the previous amazing growth they have witnessed was only limited to english speaking countries tam advertising revenue will most likely be their biggest growth driver as more and more people tend to seek llms to ask most of their questions there is a really unique advantage reddit will have in the future as humans will try to seek more human conversation even to this date many people have the tendency to search the answer to certain life and day to day questions on reddit specifically just consider yourself reading this on reddit instead of in chatgpt while reddit already has some small licensing contracts with two llms the ceo has said he actually wants to keep most of its data proprietary this is extremely smart because as llms learn more and more they will still not be able to provide the data on reddit to users which will keep forcing users back onto the platform for those highly sought questions the scarcer the data the more that data will be worth so whether the plan for the ceo is to build or have the option to build some sort of an llm in the future or whether the plan is to license it for a higher price in the future i believe the ceo is cooking something and finally my yr dcf valuation attached screenshot base case price bear case price bull case price note i didn t even factor in growth of data licensing nor for the new geographies this is purely based on macro past trends and management estimates cons a common point of debate is the high share based compensation personally i think it is normal and should be encouraged in a high growth company in order to maintain the growth and is pretty normal in tech and ai companies but i know it is one of the reason the stock is not liked on wall street the amount of bots is another con though the ceo has mentioned it is something they continuously work on i do consider it a con i have to say though i believe all social media platforms are suffering from bots it s just a bit harder to distinguish on reddit which is an issue when you seek an unbiased answer to a question another point of debate on wall street is the declining growth of dauq in some quarters though they still have positive growth it is at a declining rate however i personally believe this is normal and logical as eventually dauq can only grow with the population growth rate what i believe matters more is the growth in arpu rest of world arpu grew while u s arpu grew in fy a which caused rest of world revenue to grow while u s revenue grew in fy a what is is very interesting is that u s arpu in a was while rest of world arpu is still at which suggests there is still a lot of room to grow considering rest of world advertising has a lot of untapped potential i believe wall street is overlooking the bigger picture here by focusing on user rates rather than the hidden drivers,0.9887,positive
+2026-06-29 16:24:52+00:00,"All stock. There was a lot of chatter last year about CMG, which sent me down a rabbit hole of fast casual restaurants. El Pollo Loco jumped out as being undervalued with solid financials and a steady growth strategy.",all stock there was a lot of chatter last year about cmg which sent me down a rabbit hole of fast casual restaurants el pollo loco jumped out as being undervalued with solid financials and a steady growth strategy,0.6124,positive
+2026-06-29 16:23:47+00:00,"Wasn’t sure what to get Uncle Sam for his 250th birthday, so went with some SLS short term cap gains since these are expiring in a couple weeks.
+
+Wishing more big green candles on the horizon for team Sellas!",wasn t sure what to get uncle sam for his th birthday so went with some sls short term cap gains since these are expiring in a couple weeks wishing more big green candles on the horizon for team sellas,0.6808,positive
+2026-06-29 16:16:55+00:00,See ya in 5 years,see ya in years,0.0,neutral
+2026-06-29 16:10:31+00:00,,nan,0.0,neutral
+2026-06-29 15:33:07+00:00,"Netflix gets my life savings here. Way oversold. Run up to 90 before earnings. Also avatar the last airbender is surprisingly good.
+
+Update: I am taking donations as a contraindicator",netflix gets my life savings here way oversold run up to before earnings also avatar the last airbender is surprisingly good update i am taking donations as a contraindicator,0.6249,positive
+2026-06-29 15:07:19+00:00,,nan,0.0,neutral
+2026-06-29 13:59:07+00:00,"...as all things should be.
+
+https://preview.redd.it/hjqo5ri598ah1.png?width=640&format=png&auto=webp&s=c7b5a89b85b943bf6b92e9d4d1b6df4fe790ebd4
+
+",as all things should be,0.0,neutral
+2026-06-29 13:47:31+00:00,"Now sitting at **+$3,472 (+46.34%)** with **$10,965** in BB calls.
+
+Current positions:  
+30x $10C 7/2  
+35x $12C 7/2  
+35x $12C 7/17  
+20x $13C 7/17
+
+Everyone laughed when I said BlackBerry wasn’t a phone company anymore.
+
+QNX. Cybersecurity. Government contracts. AI. Embedded software.
+
+The story is finally catching up to the price.  
+I’m still holding.
+
+**BB to $20+ or I’ll see you behind Wendy’s.** 🚀",now sitting at with in bb calls current positions x c x c x c x c everyone laughed when i said blackberry wasn t a phone company anymore qnx cybersecurity government contracts ai embedded software the story is finally catching up to the price i m still holding bb to or i ll see you behind wendy s,0.4588,positive
+2026-06-29 13:27:56+00:00,,nan,0.0,neutral
+2026-06-29 12:03:22+00:00,,nan,0.0,neutral
+2026-06-29 11:48:01+00:00,"People underestimate Blackberry's QNX operating system as a secure RTOS (Real-Time Operating System) based on a deterministic microkernel architecture.
+
+The stock's potential is beginning to be realized. There was a slow wind-up with the drop in car sales. But now we are here, and QNX adoption has not stopped it has expanded into new markets. 
+
+This includes physical AI and AI at the edge. Certain robotic functions, currently operating in largely unregulated environments, are increasingly subject to new safety standards. Regulations are trending toward requiring a deterministic OS similar to ISO's mandated in automotive or safety-critical applications, this creates a strong tailwind for solutions like QNX.
+
+QNX is one of the most adopted embedded OS in the world. It's installed in defense systems, power plants, municipal grids, robotics, rockets, rail, defense, medical and now 275 million vehicles and counting. It is now being almost packaged and resold through suppliers like Nvidia Halos, Apple Carplay Ultra, and Vectors Alloy Core. Beyond this QNX also has broader silicon partnerships with AMD, NXP, Qualcomm, Texas Instruments, Intel, and others for real-time control, perception, and mixed-criticality robotics across industrial automation, drones, and more.🚀
+
+QNX version 8.0 is years ahead. BlackBerry has partnered with universities to train developers on the platform and recently secured developers through partnerships with Pi Square, ISC2, and CompTIA. The next competitor is still years away from anything even remotely close in terms of market penetration. QNX Hypervisor 2.0 is 61508 SIL 3 certified and has been recognized as ISO 26262 ASIL D compliant, making it the world's first ASIL D safety-certified commercial hypervisor.
+
+A true microkernel architecture like QNX has full memory protection built-in, meaning that any component can fail and be restarted without corrupting the microkernel or other components in the system. If failure does occur, QNX has the ability to rectify the problem without affecting any other part of the system through process monitoring and recovery components. 🍇
+
+The QNX Hypervisor utilizes patented and patent-pending technologies that simplify how elements are shared on the system. Multiple operating systems can use one display controller to render content onto multiple displays, aka digital instrument clusters and infotainment. This means that Android Automotive or any other competing operating system can run in unison with QNX while it is handling critical systems. Vector, NVDIA Halos, Apple are already taking advantage of this to secure their systems. 🚀
+
+The need for a software system as reliable and secure as QNX is an indicator of potential, considering reasonable foresight into the future. Imagine a smart city where traffic lights detect vehicles and manage traffic as a group these require deterministic behavior. The thought of automation entering every industry and cars communicating with your home and other cars, it will require the same. Beyond this we now have AI at the edge where ISO and consumer product regulations will push robotics manufacturers towards determinism as well. You can't risk having a humanoid robot injure someone in an unregulated environment. Having an error free RTOS controlling critical functions lile balance will he highly sought after. 🍇
+
+BlackBerry has been filing patents on these concepts and ideas for over a decade. Like U.S. Patent No. 12,639,205 B2 ""Buffers in Shared Memory for Sensor Data""🚀
+
+TL;DR
+
+QNX, being a highly adopted embedded OS, will become the industry standard embedded OS for safety-critical devices and infrastructure particulary physical AI and AI at the edge. With a little foresight, you can imagine it becoming the standard of embedded systems and a standard for safety-critical applications. The OS is capable as a non-embedded OS or general-purpose OS (GPOS) on top of it's core purpose as a EOS, giving it the opportunity to scale with oncoming developer knowledge and talent. NVIDIA, Apple, and Vector have already become resellers of the QNX OS through Halos, Carplay Ultra, and Alloy Core as they build platforms around it allowing Blackberry to dip its toes in everything physical AI and safety critical. Agility robotics has announced utilizing NVIDIA Halos for Digit V5.0 to enable safety critical operation. 🚀🚀🚀",people underestimate blackberry s qnx operating system as a secure rtos real time operating system based on a deterministic microkernel architecture the stock s potential is beginning to be realized there was a slow wind up with the drop in car sales but now we are here and qnx adoption has not stopped it has expanded into new markets this includes physical ai and ai at the edge certain robotic functions currently operating in largely unregulated environments are increasingly subject to new safety standards regulations are trending toward requiring a deterministic os similar to iso s mandated in automotive or safety critical applications this creates a strong tailwind for solutions like qnx qnx is one of the most adopted embedded os in the world it s installed in defense systems power plants municipal grids robotics rockets rail defense medical and now million vehicles and counting it is now being almost packaged and resold through suppliers like nvidia halos apple carplay ultra and vectors alloy core beyond this qnx also has broader silicon partnerships with amd nxp qualcomm texas instruments intel and others for real time control perception and mixed criticality robotics across industrial automation drones and more qnx version is years ahead blackberry has partnered with universities to train developers on the platform and recently secured developers through partnerships with pi square isc and comptia the next competitor is still years away from anything even remotely close in terms of market penetration qnx hypervisor is sil certified and has been recognized as iso asil d compliant making it the world s first asil d safety certified commercial hypervisor a true microkernel architecture like qnx has full memory protection built in meaning that any component can fail and be restarted without corrupting the microkernel or other components in the system if failure does occur qnx has the ability to rectify the problem without affecting any other part of the system through process monitoring and recovery components the qnx hypervisor utilizes patented and patent pending technologies that simplify how elements are shared on the system multiple operating systems can use one display controller to render content onto multiple displays aka digital instrument clusters and infotainment this means that android automotive or any other competing operating system can run in unison with qnx while it is handling critical systems vector nvdia halos apple are already taking advantage of this to secure their systems the need for a software system as reliable and secure as qnx is an indicator of potential considering reasonable foresight into the future imagine a smart city where traffic lights detect vehicles and manage traffic as a group these require deterministic behavior the thought of automation entering every industry and cars communicating with your home and other cars it will require the same beyond this we now have ai at the edge where iso and consumer product regulations will push robotics manufacturers towards determinism as well you can t risk having a humanoid robot injure someone in an unregulated environment having an error free rtos controlling critical functions lile balance will he highly sought after blackberry has been filing patents on these concepts and ideas for over a decade like u s patent no b buffers in shared memory for sensor data tl dr qnx being a highly adopted embedded os will become the industry standard embedded os for safety critical devices and infrastructure particulary physical ai and ai at the edge with a little foresight you can imagine it becoming the standard of embedded systems and a standard for safety critical applications the os is capable as a non embedded os or general purpose os gpos on top of it s core purpose as a eos giving it the opportunity to scale with oncoming developer knowledge and talent nvidia apple and vector have already become resellers of the qnx os through halos carplay ultra and alloy core as they build platforms around it allowing blackberry to dip its toes in everything physical ai and safety critical agility robotics has announced utilizing nvidia halos for digit v to enable safety critical operation,0.9962,positive
+2026-06-29 11:08:52+00:00,"My last 15k   
+",my last k,0.0,neutral
+2026-06-29 10:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1uio695),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-06-29 09:05:39+00:00,"Seems there's some concerns around SpaceX being forced into everyone's VRWP and the like - does anyone else feel like the auto-ETFs like this should be shorted ahead of that date?  Or have I eaten too many crayons?
+
+No positions on this.  Just doing my DD behind the dumpsters.",seems there s some concerns around spacex being forced into everyone s vrwp and the like does anyone else feel like the auto etfs like this should be shorted ahead of that date or have i eaten too many crayons no positions on this just doing my dd behind the dumpsters,0.0772,positive
+2026-06-29 06:03:02+00:00,Semis and Memories go brrrrrr,semis and memories go brrrrrr,0.0,neutral
+2026-06-29 01:05:33+00:00,,nan,0.0,neutral
+2026-06-29 00:46:48+00:00,,nan,0.0,neutral
+2026-06-29 00:20:11+00:00,"Wrote this up to explain my thinking, no chatGPT
+
+  
+AGI falls -22% following seismic calamity and power outage. Forced halt in operations shifting projected Q2s production by -12.5%.
+
+Alamos Golf remains healthy, boasting +50% operating margin, and industry leading ROI. Protected with over 700 million in cash, the company has newly earmarked 46 million for exploration of the high quality mineral discovery at Island Gold Mine. Confidence that this development represents long term revenue is considerable. AGI is resistant to geopolitical uncertainty, operations are conducted solely in North America.
+
+With a -22.5% loss in recent trading days. AGIs valuation has responded proportionately to gold market volatility and lowered short term output predictions.
+
+My analysis concludes that expectations of gold prices rebounding and following historic trends is high. Furthermore if Q2 meets the new projection, or if the adjusted projection proves to be pessimistic, market confidence may well trend towards late Q1 levels.
+
+
+
+Whatcha think bois?!
+
+",wrote this up to explain my thinking no chatgpt agi falls following seismic calamity and power outage forced halt in operations shifting projected q s production by alamos golf remains healthy boasting operating margin and industry leading roi protected with over million in cash the company has newly earmarked million for exploration of the high quality mineral discovery at island gold mine confidence that this development represents long term revenue is considerable agi is resistant to geopolitical uncertainty operations are conducted solely in north america with a loss in recent trading days agis valuation has responded proportionately to gold market volatility and lowered short term output predictions my analysis concludes that expectations of gold prices rebounding and following historic trends is high furthermore if q meets the new projection or if the adjusted projection proves to be pessimistic market confidence may well trend towards late q levels whatcha think bois,0.5106,positive
+2026-06-28 23:24:07+00:00,"Everyone knows Software is down. It’s about picking the best ones. So it comes down to AppLovin and Reddit. Don’t ask me how. Just trust!
+
+I’m not investing in a company called AppLovin. It’s already embarrassing talking about being a Reddit investor. What kinda name is AppLovin lmao.
+
+They say invest in stuff you know and I know Reddit better than my Exes clitoris.
+
+We got revenue growing at around 70% a year. With 90% gross margins. EPS growing in the triple digits. The PE is 50 and the forward PE is 35. This shit growing faster than it’s trailing PE!!
+
+The PEG is the god indicator and it’s under .3!! For a company growing around 70%!! You retards probably don’t even know what the PEG is. It’s not about Pegging, sure that’s also amazing, no it’s Price to Earnings Growth! Anything under 1 is considered undervalued. This stock has a beta of 2 yet its PEG isn’t even half of 1. Well tbh that’s for TTM. For future it’s closer to 1 at 1.2, but we will soon go over how bad analyst are at projecting Reddit earnings. Later on.
+
+Ok so you might ask what are the risks? Well pegging comes with a lot of risks but if you mean this stock then very little.
+
+RISKS
+
+Welllll if there’s a recession, then Reddit is screwed. They rely on Ads primarily to make money and companies cut ad budgets the first during recessions.
+
+Management only guided for 44% revenue growth in Q2. I believe they are sandbagging. The previous 7 quarters they beat analysts, which already guide slightly higher than Management. In fact the average EPS beat is around 50%. Yes you read that correctly, avg eps beat is very high and the FWD PE is only 35.. which takes in analyst predictions, which they always easily beat…
+
+The real risks are Google deprioritizing Reddit links. I believe this will not happen. We are in the age of AI now and Google already summarizes everything. Reddit constitutes the largest share of their citations. And people want human opinions most for some reason. If they stopped giving Reddit good citations then Reddit will stop letting Google access its website in the future.
+
+So how does the future look?
+
+ADS ADS ADS
+
+I think Reddit will become a tier 1 ads player along with Google and meta. Google commands highest ad prices bcuz they serve you the perfect ads for what you are looking for. Meta knows you better than you know your wife’s clitoris. So they can target random perfect ads to you.
+
+So why would basement dwelling redditors be as good as those customers? Well we possess both of those. Subreddits are niche communities. And they can be perfectly targeted for the exact type of products suited for those members. So for example, in the ford subreddit, any car marker who wants to target ford fans/customers can set up ads. Now that is a goldmine for said automaker. Chevy would love to advertise to these types of people. Consequently this applies to almost all niches yall regards are into. Hence like Facebook, except we are more authentic here than on Facebook. People aren’t going to talk about depression or hair loss or erectile disfunction on Facebook as they would here.
+
+Ok so then why aren’t we already a tier 1 ads players? Why does Reddit have cheap prices for ads? That’s bcuz Reddit is still new in its monetization journey. Reddit was focused on the core product for most of its history. They intentionally grew slowly and let communities build before finally now monetization the platform.
+
+Now Reddit is focusing on rapid user growth, engagement and advertiser teaching and adoption.  
+There are low number of advertisers on Reddit bcuz historically they don’t know how to show us degens ads. We would troll the fuck out of them if the Ad wasn’t suited for us. We would post harambe with massive dick pics in the comments etc. But Reddit has done a lot of work teaching and automating to make it easier for advertisers to make Ads tailored for reddit. Now the flywheel is set and the Ad world is learning the potential of high intent communities. Right as Google and meta ad prices are getting out of control. Reddit is 1/4 or Metas average revenue per user (ARPU). So even if user growth stalls (unlikely), we have many years of high growth for ARPU just to catch up.
+
+Our low ad rates is bcuz less advertisers, they can set up expensive ads in popular subreddits or they can target the same user when he visits less popular subreddits. Number of advertisers is growing also really fast around 70% a year. And recently they just added Shopify integration. Shopify is promoting Reddit as an Alternative to tier 1 ad players but at a fraction of the cost.
+
+OTHER RISKS
+
+Reddit stopped reporting Logged in users. Essentially bcuz tbh US logged in growth stalled. But logged out users is still a massive number. Reddit has been working to bridge the advertising gap between the two. Visiting niche communities already sets intent. So logging in doesn’t matter all that much. And we have seen companies like Netflix, Apple stop reporting numbers and the stock did fine in the long term.
+
+I believe we will keep growing in users, Reddit daily users around 126M growing the low double digits. I believe people are more and more becoming lonely and need community. And Reddit is probably the best online social media for that. Facebook is trash let’s be honest, Instagram is good tho, TikTok is full of broke kids etc.
+
+BONUS
+
+Reddits side gig is selling its User data to LLMs. Currently the rate is $60M a year. Which is considered by pretty much everyone and their mother to be a steal.  
+The renewals will come up in early 2027 and are expected to be a few times that amount at the minimum. Now why would they renew if they already mined all the data? Well without constant fresh human data, LLMs would start stagnating in relevant info over time. The internet is starting to shut its doors to bots as well. If LLMs don’t get fresh human data and keep getting bot data, then that leads to so called Model Collapse. Reddit is the perfect website for LLMs, it’s all human data now, with thoughtful responses, pre sorted by humans. And moderated by humans. Nothing like it exists.
+
+Well not entirely, competition does exist. Hence the software sell off. But it takes years/decades to build up communities, hence they all die pretty quickly. Not even worth mentioning them.
+
+TLDR: growing faster than PE. Just getting started with monetization. Data deals coming up for renewal with massive price increases.
+
+POSITIONS: 1278 shares, 10 $200 strike calls expiring 6/16/28, 5 $200 strike calls expiring 8/21/26 (gamble trade)
+
+Positions proof: [https://imgur.com/a/VUeJnu9](https://imgur.com/a/VUeJnu9)
+
+I don’t have a set price target, just know we are very undervalued with little risk. I would say Reddits Fair PE would be at least twice what it is right now. So double the stock price, considering the growth. But with data deals set to increase in value, I would say 3x current stock price is a reasonable target. So $500 by year end.
+
+\#NotRelationshipAdvice",everyone knows software is down it s about picking the best ones so it comes down to applovin and reddit don t ask me how just trust i m not investing in a company called applovin it s already embarrassing talking about being a reddit investor what kinda name is applovin lmao they say invest in stuff you know and i know reddit better than my exes clitoris we got revenue growing at around a year with gross margins eps growing in the triple digits the pe is and the forward pe is this shit growing faster than it s trailing pe the peg is the god indicator and it s under for a company growing around you retards probably don t even know what the peg is it s not about pegging sure that s also amazing no it s price to earnings growth anything under is considered undervalued this stock has a beta of yet its peg isn t even half of well tbh that s for ttm for future it s closer to at but we will soon go over how bad analyst are at projecting reddit earnings later on ok so you might ask what are the risks well pegging comes with a lot of risks but if you mean this stock then very little risks welllll if there s a recession then reddit is screwed they rely on ads primarily to make money and companies cut ad budgets the first during recessions management only guided for revenue growth in q i believe they are sandbagging the previous quarters they beat analysts which already guide slightly higher than management in fact the average eps beat is around yes you read that correctly avg eps beat is very high and the fwd pe is only which takes in analyst predictions which they always easily beat the real risks are google deprioritizing reddit links i believe this will not happen we are in the age of ai now and google already summarizes everything reddit constitutes the largest share of their citations and people want human opinions most for some reason if they stopped giving reddit good citations then reddit will stop letting google access its website in the future so how does the future look ads ads ads i think reddit will become a tier ads player along with google and meta google commands highest ad prices bcuz they serve you the perfect ads for what you are looking for meta knows you better than you know your wife s clitoris so they can target random perfect ads to you so why would basement dwelling redditors be as good as those customers well we possess both of those subreddits are niche communities and they can be perfectly targeted for the exact type of products suited for those members so for example in the ford subreddit any car marker who wants to target ford fans customers can set up ads now that is a goldmine for said automaker chevy would love to advertise to these types of people consequently this applies to almost all niches yall regards are into hence like facebook except we are more authentic here than on facebook people aren t going to talk about depression or hair loss or erectile disfunction on facebook as they would here ok so then why aren t we already a tier ads players why does reddit have cheap prices for ads that s bcuz reddit is still new in its monetization journey reddit was focused on the core product for most of its history they intentionally grew slowly and let communities build before finally now monetization the platform now reddit is focusing on rapid user growth engagement and advertiser teaching and adoption there are low number of advertisers on reddit bcuz historically they don t know how to show us degens ads we would troll the fuck out of them if the ad wasn t suited for us we would post harambe with massive dick pics in the comments etc but reddit has done a lot of work teaching and automating to make it easier for advertisers to make ads tailored for reddit now the flywheel is set and the ad world is learning the potential of high intent communities right as google and meta ad prices are getting out of control reddit is or metas average revenue per user arpu so even if user growth stalls unlikely we have many years of high growth for arpu just to catch up our low ad rates is bcuz less advertisers they can set up expensive ads in popular subreddits or they can target the same user when he visits less popular subreddits number of advertisers is growing also really fast around a year and recently they just added shopify integration shopify is promoting reddit as an alternative to tier ad players but at a fraction of the cost other risks reddit stopped reporting logged in users essentially bcuz tbh us logged in growth stalled but logged out users is still a massive number reddit has been working to bridge the advertising gap between the two visiting niche communities already sets intent so logging in doesn t matter all that much and we have seen companies like netflix apple stop reporting numbers and the stock did fine in the long term i believe we will keep growing in users reddit daily users around m growing the low double digits i believe people are more and more becoming lonely and need community and reddit is probably the best online social media for that facebook is trash let s be honest instagram is good tho tiktok is full of broke kids etc bonus reddits side gig is selling its user data to llms currently the rate is m a year which is considered by pretty much everyone and their mother to be a steal the renewals will come up in early and are expected to be a few times that amount at the minimum now why would they renew if they already mined all the data well without constant fresh human data llms would start stagnating in relevant info over time the internet is starting to shut its doors to bots as well if llms don t get fresh human data and keep getting bot data then that leads to so called model collapse reddit is the perfect website for llms it s all human data now with thoughtful responses pre sorted by humans and moderated by humans nothing like it exists well not entirely competition does exist hence the software sell off but it takes years decades to build up communities hence they all die pretty quickly not even worth mentioning them tldr growing faster than pe just getting started with monetization data deals coming up for renewal with massive price increases positions shares strike calls expiring strike calls expiring gamble trade positions proof i don t have a set price target just know we are very undervalued with little risk i would say reddits fair pe would be at least twice what it is right now so double the stock price considering the growth but with data deals set to increase in value i would say x current stock price is a reasonable target so by year end notrelationshipadvice,0.9981,positive
 2026-06-28 22:38:56+00:00,Don’t call it a come back we’ve been here. Join us. ,don t call it a come back we ve been here join us,0.296,positive
 2026-06-28 22:33:23+00:00,"TLDR; Companies are migrating to Open Source models at a fraction of the cost of the big boys, and China is offering comparative models for far less $$ if you need that sort of thing...
 
@@ -14,30 +230,11 @@ See what JPM is saying about AI etc.
 
 [https://assets.jpmprivatebank.com/content/dam/jpm-pb-aem/global/en/documents/eotm/semiquincententacles.pdf](https://assets.jpmprivatebank.com/content/dam/jpm-pb-aem/global/en/documents/eotm/semiquincententacles.pdf)",tldr companies are migrating to open source models at a fraction of the cost of the big boys and china is offering comparative models for far less if you need that sort of thing are we still going to the moon see what jpm is saying about ai etc the founder of lindy ai a productivity assistant chatbot company announced that they moved their entire app ai service from claude to deepseek claiming savings of millions of dollars and improved performance brian armstrong from coinbase tweeted that of workloads will be running in cheaper models within a year and mentioned coinbase was actively moving workflows to cheaper models,0.6597,positive
 2026-06-28 22:30:17+00:00,,nan,0.0,neutral
-2026-06-28 21:56:03+00:00,"Very bullish, Hormuz is open!! (again)
-
-*\*Expires Friday evening.*",very bullish hormuz is open again expires friday evening,0.0,neutral
-2026-06-28 21:53:13+00:00,,nan,0.0,neutral
-2026-06-28 21:23:27+00:00,,nan,0.0,neutral
-2026-06-28 21:18:17+00:00,,nan,0.0,neutral
-2026-06-28 21:04:36+00:00,,nan,0.0,neutral
 2026-06-28 20:57:46+00:00,,nan,0.0,neutral
 2026-06-28 20:54:53+00:00,Is this full retard? I actually feel really good about the position.,is this full retard i actually feel really good about the position,-0.0534,negative
 2026-06-28 20:49:45+00:00,,nan,0.0,neutral
 2026-06-28 20:47:47+00:00,https://www.axios.com/2026/06/28/us-and-iran-agree-to-halt-strikes-and-meet-this-week-us-official-says,,0.0,neutral
-2026-06-28 20:42:20+00:00,,nan,0.0,neutral
-2026-06-28 20:30:20+00:00,"I am sort of ashamed to admit last year, I walked into a company head office (overseas on vacation) and began yelling at the front desk employees to release their product (while i was wearing my META glasses). It was a full on Karen moment on my part for harassing those poor front desk employees, and causing a scene for my 92 subscribers... but I thought it would be funny in the moment.
-  
-However, later that same day they made a big announcement, and my stock substantially increased the next day. It could have been a coincidence, even probably was... regardless, I was still frightened that I may have manipulated the market inadvertently.
-  
-Anyways, it got me thinking what would the implications of me occupying a company lobby until I get what I want?",i am sort of ashamed to admit last year i walked into a company head office overseas on vacation and began yelling at the front desk employees to release their product while i was wearing my meta glasses it was a full on karen moment on my part for harassing those poor front desk employees and causing a scene for my subscribers but i thought it would be funny in the moment however later that same day they made a big announcement and my stock substantially increased the next day it could have been a coincidence even probably was regardless i was still frightened that i may have manipulated the market inadvertently anyways it got me thinking what would the implications of me occupying a company lobby until i get what i want,-0.5868,negative
 2026-06-28 20:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1ui75bc),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-06-28 19:43:16+00:00,"MSFT - Bearish Cup & Handle Pattern - Next $342.  Any thesis? 
-
-https://preview.redd.it/22jnhtkcu2ah1.png?width=1210&format=png&auto=webp&s=ca2375942c616847795880875b7f546bf0db7cf1
-
-",msft bearish cup handle pattern next any thesis,0.0,neutral
-2026-06-28 19:37:50+00:00,,nan,0.0,neutral
 2026-06-28 18:55:06+00:00,"I’ve been digging into T-Mobile ($TMUS) recently, and I’m honestly surprised by how little attention it gets from retail investors compared to other large-cap companies.
 
 This isn’t a “next 10x” or “to the moon” post. I’m genuinely trying to understand what I’m missing.
@@ -173,34 +370,7 @@ https://preview.redd.it/47zl5pjpfz9h1.jpg?width=1179&format=pjpg&auto=webp&s=7b1
 Tell you a secret: I don't even have $10k.  
   
 Guess who's crying on Monday.",they asked for k tell you a secret i don t even have k guess who s crying on monday,-0.4767,negative
-2026-06-28 01:25:00+00:00,,nan,0.0,neutral
 2026-06-28 00:16:23+00:00,,nan,0.0,neutral
-2026-06-27 22:04:32+00:00,"I am basing this mostly on MU‘s run-up and immediate gains after earnings. While this obviously doesn’t mean all MU-similar stocks will do the same, I do think it is worth the chance based on historical earnings trends. Luckily, the industry pulled back a lot yesterday while the fundamentals all stayed the same. 
-
-  
-These are the four I plan on loading into this upcoming week, preferably on a red day, and holding in hopes they hit 10% up to or right after earnings:
-
-
-
-|Stock|Expected Earnings|
-|:-|:-|
-
-
-|ARM Holdings|**July 29, 2026** (expected)|
-|:-|:-|
-
-
-|Advanced Micro Devices|**August 4, 2026** (expected) |
-|:-|:-|
-
-
-|Astera Labs|**August 4, 2026** (expected) |
-|:-|:-|
-
-
-|SanDisk|**August 13, 2026** (expected)|
-|:-|:-|
-",i am basing this mostly on mu s run up and immediate gains after earnings while this obviously doesn t mean all mu similar stocks will do the same i do think it is worth the chance based on historical earnings trends luckily the industry pulled back a lot yesterday while the fundamentals all stayed the same these are the four i plan on loading into this upcoming week preferably on a red day and holding in hopes they hit up to or right after earnings stock expected earnings arm holdings july expected advanced micro devices august expected astera labs august expected sandisk august expected,0.9081,positive
 2026-06-27 21:45:12+00:00,"Long term seeker, first time writer, I need to challenge my own thesis to reduce or add more capital. I'm not going write everything but just a current overview. This is a boring company with possible huge tailwinds. Bears used to say ""*AI is eating their lunch*"" to now ""*they are growing too slow*"". 
 
 As we all know they are a neutral agentic enterprise that designs any vertical systems to work each other instead of having enterprises go through multiple disconnected systems to do tasks which takes up a lot of time.  Daniel Dines, UiPath CEO, called it 2 years ago before any other software CEOs even thought about it. Now they're ahead, got the edge to expand their relationships with a Lot of their fortune 500 customers. Now lets get to the fun part: The 3 Levers that can flip UIPath revenue from cyclical to linear
@@ -513,48 +683,10 @@ Regards.",i did something i ve never really done research i downloaded the app c
 2026-06-26 16:50:27+00:00,"https://preview.redd.it/xz1goemlpn9h1.png?width=2128&format=png&auto=webp&s=3ff6251ffe06bc7d8255a4de59aab12d353fcc4f
 
 Source - [https://wccftech.com/spacex-might-have-to-acquire-t-mobile-for-as-much-as-320-billion-to-break-the-carrier-led-chokehold-over-terrestrial-spectrum/](https://wccftech.com/spacex-might-have-to-acquire-t-mobile-for-as-much-as-320-billion-to-break-the-carrier-led-chokehold-over-terrestrial-spectrum/)",source,0.0,neutral
-2026-06-26 16:41:25+00:00,Monkey see monkey do ,monkey see monkey do,0.0,neutral
-2026-06-26 16:37:47+00:00,"I wrote some of this in another post about the general discussion and now will add more on how it will effect the market and take two (plus why I have so many shares)
-
-People that have been following tech have already known about GTAs new NPC system that lets them create fluid anmations in unique living ways by basic using a LLM to create new rigging every time the world has a response (it's revolutionary look up some videos on the copy write on the tech)
-
-Many people will start saying ""it's just evolution of AI that's always been in gaming"" and they won't be wrong, but it is still basically a LLM instead of language it's using anmation possibility
-
-This is going to make the general public vastly more informed about the difference between simple AI and LLMs from the heated discussions that arise between classic Ai in games vs the evolution that's the same bouncing of known paths of language that is currently AI
-
-It's also going to make a large portion of the world realize how what AI has been sold of is not magic or not even close to thinking it being alive 
-
-And why the markets are rushing and panicing to try and change that before people realize 
-
-The biggest bubble the market has ever seen is still being inflated because alot of the world didn't understand the difference between a LLM and AGI
-
-Current LLMs are doing amazing work in supplementing work flow or showing how pointless alot of jobs were with technology anyways 
-
-But it can't replace as many as alot of these investors believed and funny enough it seems GTA will be the catalyst for the mass main stream discussion starting of the difference between what AI was hyped to be and why do many were scared and excited to the reality of what a LLM is and can do
-
-This will wake up alot of people about the limitations of AI from the discussions on what a LLM actually is
-
-And not to mention with take two seemingly pushing to make GTA a Roblox like platform by buying up the roleplay modding tech and how even before they experimented with allowing you to make your own games in it like fortnight 
-
-This new anmations/AI system is basically going to allow GTA6 to hit every market in gaming with the NPCs basically being the sims 
-
-People will lose their shit when they see just how crazy the tech they copywrote is
-
-I also think it's too good to stay in house and they will licence it out to other games with how revolutionary it is
-
-I think the current analyst target of 300 a share is too conservative with all this going on.
-
-And hopefully it leads to more pressure to popping the AI bubble when people learn it's not magic and is almost at its limits till we get quantum computing 
-
-Only thing these data centers will do is make mass surveillance easier ",i wrote some of this in another post about the general discussion and now will add more on how it will effect the market and take two plus why i have so many shares people that have been following tech have already known about gtas new npc system that lets them create fluid anmations in unique living ways by basic using a llm to create new rigging every time the world has a response it s revolutionary look up some videos on the copy write on the tech many people will start saying it s just evolution of ai that s always been in gaming and they won t be wrong but it is still basically a llm instead of language it s using anmation possibility this is going to make the general public vastly more informed about the difference between simple ai and llms from the heated discussions that arise between classic ai in games vs the evolution that s the same bouncing of known paths of language that is currently ai it s also going to make a large portion of the world realize how what ai has been sold of is not magic or not even close to thinking it being alive and why the markets are rushing and panicing to try and change that before people realize the biggest bubble the market has ever seen is still being inflated because alot of the world didn t understand the difference between a llm and agi current llms are doing amazing work in supplementing work flow or showing how pointless alot of jobs were with technology anyways but it can t replace as many as alot of these investors believed and funny enough it seems gta will be the catalyst for the mass main stream discussion starting of the difference between what ai was hyped to be and why do many were scared and excited to the reality of what a llm is and can do this will wake up alot of people about the limitations of ai from the discussions on what a llm actually is and not to mention with take two seemingly pushing to make gta a roblox like platform by buying up the roleplay modding tech and how even before they experimented with allowing you to make your own games in it like fortnight this new anmations ai system is basically going to allow gta to hit every market in gaming with the npcs basically being the sims people will lose their shit when they see just how crazy the tech they copywrote is i also think it s too good to stay in house and they will licence it out to other games with how revolutionary it is i think the current analyst target of a share is too conservative with all this going on and hopefully it leads to more pressure to popping the ai bubble when people learn it s not magic and is almost at its limits till we get quantum computing only thing these data centers will do is make mass surveillance easier,0.9712,positive
-2026-06-26 16:35:46+00:00,"UNH saved my butt. Everyone say thank you UNH
-
-40% gain 12k profit, boomer investing",unh saved my butt everyone say thank you unh gain k profit boomer investing,0.891,positive
 2026-06-26 15:53:06+00:00,"SpaceX reportedly told investors it is looking at a Starlink mobile service for U.S. consumers, moving from “internet in the middle of nowhere” to potentially competing directly with Verizon, AT&T, and T-Mobile. This gets more interesting because SpaceX already bought EchoStar spectrum, giving it the missing piece for a direct-to-cell product instead of just being a T-Mobile coverage add-on. If Starlink turns into a real consumer mobile network, the SpaceX story stops being just rockets and broadband, it becomes a shot at the entire U.S. telecom stack.
 
 Source - [https://www.reuters.com/business/media-telecom/musks-spacex-targets-us-consumers-with-starlink-mobile-service-push-ft-reports-2026-06-26/](https://www.reuters.com/business/media-telecom/musks-spacex-targets-us-consumers-with-starlink-mobile-service-push-ft-reports-2026-06-26/)  
 ",spacex reportedly told investors it is looking at a starlink mobile service for u s consumers moving from internet in the middle of nowhere to potentially competing directly with verizon at t and t mobile this gets more interesting because spacex already bought echostar spectrum giving it the missing piece for a direct to cell product instead of just being a t mobile coverage add on if starlink turns into a real consumer mobile network the spacex story stops being just rockets and broadband it becomes a shot at the entire u s telecom stack source,0.3804,positive
-2026-06-26 15:52:11+00:00,Back at it again! ,back at it again,0.0,neutral
 2026-06-26 15:35:28+00:00,Ackman and Burry recently went long on Microsoft and they are both a lot smarter than me. There’s a reason u keep seeing MSFT come up in here and other social media. It’s at its cheapest valuation in a very long time. With earnings coming and potentially I think we will hear about other notable investors hopping in at this price (or Ackman double down?). I think a strong bull run is upon us very soon. Oversold and their Ai is better than people let on plus more affordable/sustainable for companies to use. Not financial advice. ,ackman and burry recently went long on microsoft and they are both a lot smarter than me there s a reason u keep seeing msft come up in here and other social media it s at its cheapest valuation in a very long time with earnings coming and potentially i think we will hear about other notable investors hopping in at this price or ackman double down i think a strong bull run is upon us very soon oversold and their ai is better than people let on plus more affordable sustainable for companies to use not financial advice,0.8481,positive
 2026-06-26 15:30:29+00:00,"For those who understand volatility, this July/August expiry chart is genuinely strange. Implied volatility on SpaceX has been crushed since IPO — the market is currently pricing in daily moves of under 5%.
 
@@ -563,9 +695,6 @@ But has the market already forgotten the float situation? It's still extremely l
 With the stock around $155, my play is short-dated OTM calls expiring early-to-mid July. The goal is to be out before share lockup expirations start weighing on the price. Take a look at the $170 calls and price them out yourself. The premium is wild given what's coming.
 
 First time posting here, so guaranteed I lose my money — but let's go!",for those who understand volatility this july august expiry chart is genuinely strange implied volatility on spacex has been crushed since ipo the market is currently pricing in daily moves of under but has the market already forgotten the float situation it s still extremely limited and we re looking at roughly billion in buying pressure around of the float hitting at the end of next week with nasdaq inclusion with the stock around my play is short dated otm calls expiring early to mid july the goal is to be out before share lockup expirations start weighing on the price take a look at the calls and price them out yourself the premium is wild given what s coming first time posting here so guaranteed i lose my money but let s go,-0.8078,negative
-2026-06-26 15:28:52+00:00,They say screenshot = sell. I say screenshot = HODL,they say screenshot sell i say screenshot hodl,0.0,neutral
-2026-06-26 15:13:52+00:00,Does this work ?,does this work,0.0,neutral
-2026-06-26 15:05:16+00:00,Bought on Monday to play earnings and lockup. Sold today on Friday and got longer positions.,bought on monday to play earnings and lockup sold today on friday and got longer positions,0.34,positive
 2026-06-26 14:15:39+00:00,"Exited my MSTR short today - at the height I was up around $300k. What a wild ride it was as you can see from my all time chart…lost everything more than once and will be taking most money out. Man those sleepless nights sucked but I battled back.
 
 I really got most of my DD through the MSTR sub. The claims they would make on that sub while they continued to be diluted and scammed made me go all in on MSTZ. I even had calls that I sold early which would be another $200k profit. I just added one screenshot as I sold other MSTZ positions throughout this week but yea 99% of those gains are from that short.
@@ -573,41 +702,18 @@ I really got most of my DD through the MSTR sub. The claims they would make on t
 I don’t post this to belittle - in 2022 I lost $100k on a fucking tv streaming service ticker and it sucks man. For those of you losing money on MSTR, set up a real stop loss and seriously look up what opportunity cost is. The markets are at all time highs and you are riding a con artists pet project to middle earth. Stop listening to the 2001 con man of the year and things will get better. Don’t beat yourself up…he should be in jail.
 
 All the best, monkeydick300…oh wait that handle was taken - MrSir300",exited my mstr short today at the height i was up around k what a wild ride it was as you can see from my all time chart lost everything more than once and will be taking most money out man those sleepless nights sucked but i battled back i really got most of my dd through the mstr sub the claims they would make on that sub while they continued to be diluted and scammed made me go all in on mstz i even had calls that i sold early which would be another k profit i just added one screenshot as i sold other mstz positions throughout this week but yea of those gains are from that short i don t post this to belittle in i lost k on a fucking tv streaming service ticker and it sucks man for those of you losing money on mstr set up a real stop loss and seriously look up what opportunity cost is the markets are at all time highs and you are riding a con artists pet project to middle earth stop listening to the con man of the year and things will get better don t beat yourself up he should be in jail all the best monkeydick oh wait that handle was taken mrsir,-0.7351,negative
-2026-06-26 14:07:42+00:00,"Microsoft is at a major support line. Going full regard here!
-
-Been seeing so many posts the past few weeks with a lot of tears, sadness and regrets 😭 That’s a buy signal for me lol.
-
-Looking for at least $415 to test that channel resistance again. 
-
-How are we all feeling about MSFT here? I have a feeling there will be a game changing announcement soon. Maybe a new CEO?",microsoft is at a major support line going full regard here been seeing so many posts the past few weeks with a lot of tears sadness and regrets that s a buy signal for me lol looking for at least to test that channel resistance again how are we all feeling about msft here i have a feeling there will be a game changing announcement soon maybe a new ceo,0.0516,positive
-2026-06-26 14:01:20+00:00,🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️,,0.0,neutral
-2026-06-26 13:56:56+00:00,Taking a break. See you in August. $NVDA to $250!,taking a break see you in august nvda to,0.0,neutral
 2026-06-26 13:54:25+00:00,"Truth be told, we’re all regarded from time to time and it’s okay",truth be told we re all regarded from time to time and it s okay,0.4939,positive
 2026-06-26 13:50:10+00:00,,nan,0.0,neutral
-2026-06-26 13:48:57+00:00,"Wild ride the past 48 hours! Rode the MU train up yesterday and took SNDK down today!
-
-I should have held this Put tho. Markets seem very unstable atm. But I’m going full regard into Microsoft!
-
-MSFT is looking primed at major support! I feel an announcement for a new CEO incoming",wild ride the past hours rode the mu train up yesterday and took sndk down today i should have held this put tho markets seem very unstable atm but i m going full regard into microsoft msft is looking primed at major support i feel an announcement for a new ceo incoming,0.3926,positive
-2026-06-26 13:47:40+00:00,"""NEW YORK, June 25 (Reuters) - Dating app Bumble (BMBL.O), opens new tab is exploring a sale amid slowing growth in the online dating ​sector, according to three people familiar with the matter.
-
-The company, which gained recognition as one of ‌the first major platforms to require women to initiate contact, is working with investment bankers at Morgan Stanley (MS.N), opens new tab on a potential sale process, the sources said, requesting anonymity because the discussions are private.
-
-Sources cautioned that no deal is certain and the company ​may decide to stay independent.
-
-Bumble did not immediately respond to a request for comment. Morgan Stanley and ​asset manager Blackstone, which owns about 22% of Bumble according to LSEG data, declined ⁠to comment.""",new york june reuters dating app bumble bmbl o opens new tab is exploring a sale amid slowing growth in the online dating sector according to three people familiar with the matter the company which gained recognition as one of the first major platforms to require women to initiate contact is working with investment bankers at morgan stanley ms n opens new tab on a potential sale process the sources said requesting anonymity because the discussions are private sources cautioned that no deal is certain and the company may decide to stay independent bumble did not immediately respond to a request for comment morgan stanley and asset manager blackstone which owns about of bumble according to lseg data declined to comment,0.7717,positive
-2026-06-26 13:45:19+00:00,Fuck them short sellers! WEN TO THE MOON!,fuck them short sellers wen to the moon,-0.5423,negative
-2026-06-26 13:20:43+00:00,Robinhood glitch post MULL split says I’m negative 389k on the daily return. Looks like I’m changing my name and moving to Guatemala 😂,robinhood glitch post mull split says i m negative k on the daily return looks like i m changing my name and moving to guatemala,-0.296,negative
 2026-06-26 11:59:26+00:00,,nan,0.0,neutral
 2026-06-26 10:18:56+00:00,"Back in my days we used to have proper asset bubbles.
 
 Edit: Jesus fucking Christ, thank you for the internet points.",back in my days we used to have proper asset bubbles edit jesus fucking christ thank you for the internet points,0.6461,positive
-2026-06-26 10:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1ug2hkd),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-06-26 08:24:50+00:00,,nan,0.0,neutral
 2026-06-26 06:40:49+00:00,,nan,0.0,neutral
 2026-06-26 03:56:53+00:00,"Foreign investors have continued net selling on the KOSPI for six consecutive sessions through that day. From on the 19th to the 25th over five sessions, net selling reached 15.6822 trillion won.",foreign investors have continued net selling on the kospi for six consecutive sessions through that day from on the th to the th over five sessions net selling reached trillion won,0.6249,positive
 2026-06-26 02:37:22+00:00,,nan,0.0,neutral
 2026-06-26 00:24:42+00:00,,nan,0.0,neutral
+2026-06-25 22:16:35+00:00,,nan,0.0,neutral
 2026-06-25 22:11:24+00:00,"Ryan Cohen gave up his shot at a $35 billion windfall. 
 
 The GameStop CEO [withdrew](https://www.bloomberg.com/news/articles/2026-06-23/gamestop-s-cohen-drops-35-billion-pay-plan-to-focus-on-ebay-bid?srnd=homepage-americas) a sizable bonus plan in order to focus on the company's ""operating performance and its proposed [eBay acquisition](https://www.linkedin.com/news/story/ebay-spurns-gamestop-takeover-bid-as-not-credible-8829698/)."" 
@@ -678,6 +784,7 @@ Edit: Its not a covered call bcz I believed the bears.",i sold this call when mu
 2026-06-24 21:16:33+00:00,,nan,0.0,neutral
 2026-06-24 21:09:17+00:00,"I’ll let top comment decide. No face,butt, or dick.",i ll let top comment decide no face butt or dick,-0.5719,negative
 2026-06-24 21:00:24+00:00,"Yes, I had it ready and yes, I suck at photoshop.",yes i had it ready and yes i suck at photoshop,0.6124,positive
+2026-06-24 20:41:34+00:00,,nan,0.0,neutral
 2026-06-24 20:18:11+00:00,,nan,0.0,neutral
 2026-06-24 20:16:06+00:00,,nan,0.0,neutral
 2026-06-24 19:08:45+00:00,"You know what they say, tendies or wendies. In this case, I choose both. ",you know what they say tendies or wendies in this case i choose both,0.0,neutral
@@ -765,6 +872,7 @@ The US is spending trillions on AI infrastructure. China is spending trillions. 
 2026-06-24 00:30:20+00:00,"My fellow regards. We need to save Wendy’s before it’s too late. If this company goes bankrupt, we’ll all be out of a job!",my fellow regards we need to save wendy s before it s too late if this company goes bankrupt we ll all be out of a job,-0.1027,negative
 2026-06-23 21:56:59+00:00,,nan,0.0,neutral
 2026-06-23 21:37:29+00:00,,nan,0.0,neutral
+2026-06-23 21:31:38+00:00,Hot of the press!,hot of the press,0.0,neutral
 2026-06-23 21:00:01+00:00,,nan,0.0,neutral
 2026-06-23 14:38:04+00:00,"https://preview.redd.it/eves6sngj19h1.jpg?width=1255&format=pjpg&auto=webp&s=821a7db4707da82a97aba45cb8f32915d2d7cc19
 
@@ -797,72 +905,10 @@ More investors are trying to leave at once than the structure was designed to ac
 https://preview.redd.it/48r775qkn09h1.png?width=1179&format=png&auto=webp&s=c8285611b2d85113931704efc1858689ad4fa6f4
 
 ",according to recent filings apollo s flagship retail private credit fund received redemption requests equal to roughly of net asset value during the quarter up from in the previous quarter because the fund operates with a quarterly redemption limit most investors who wanted to exit were unable to fully redeem their capital apollo isn t an isolated case across several of the largest retail private credit funds investors reportedly requested close to billion of withdrawals during q while less than of those requests were actually met what s interesting is that this isn t a crisis story there has been no forced liquidation cycle no fire sale of assets and no obvious sign of stress in the underlying loan portfolios in many ways the system is functioning exactly as designed these funds were built around the idea that the underlying assets are relatively illiquid and therefore investor liquidity must also be constrained the growing redemption queues do however highlight a reality that many investors seem to forget during good times private credit has largely been marketed as a higher yielding alternative to traditional fixed income while that may be true the additional yield is partly compensation for accepting reduced liquidity investors often focus heavily on the income stream while paying less attention to the terms governing how and when capital can be withdrawn for years this trade off looked attractive markets were stable returns were positive and very few investors wanted their money back at the same time the current environment is providing a more meaningful test not because the assets appear impaired but because a growing number of investors are discovering that liquidity is not available on demand the more interesting question is whether redemption pressure continues to accelerate if it does these funds may remain fundamentally sound while simultaneously becoming less attractive to investors who had assumed they would have easier access to their capital more investors are trying to leave at once than the structure was designed to accommodate at any one time apollo stock is up from its low curious to see if this stock will slowly bleed again if these redemptions continue,0.9651,positive
+2026-06-23 08:15:36+00:00,"Just turned 21 years old btw, and this isn’t even remotely my whole net worth. Still sitting on a couple mil in Monero, but I’m going boating tomorrow, so hopefully nothing tragic and completely unavoidable happens…
+
+Anyway, my point is this is basically me YOLOing my entire dirty fiat stack. Most of these tendies were stolen from 🍔’s anyway, so if it GUHs to zero, it’s not that deep.
+
+Worst case scenario is Zuck cucks me… in that event, I hereby pledge to sell my paid off McLaren and go all in on SPY 0DTE calls with the proceeds or face a forever WSB ban. Godspeed my fellow regards. WAGMI. 🙏",just turned years old btw and this isn t even remotely my whole net worth still sitting on a couple mil in monero but i m going boating tomorrow so hopefully nothing tragic and completely unavoidable happens anyway my point is this is basically me yoloing my entire dirty fiat stack most of these tendies were stolen from s anyway so if it guhs to zero it s not that deep worst case scenario is zuck cucks me in that event i hereby pledge to sell my paid off mclaren and go all in on spy dte calls with the proceeds or face a forever wsb ban godspeed my fellow regards wagmi,0.0499,neutral
 2026-06-23 05:41:52+00:00,,nan,0.0,neutral
 2026-06-23 01:35:26+00:00,,nan,0.0,neutral
-2026-06-22 22:05:39+00:00,,nan,0.0,neutral
-2026-06-22 21:56:03+00:00,"I fucking hate microsoft, every day is the same pain
-
-I need MSFT 411 by july earnings to break even There’s a path to recovery, even profit
-
-I added 5 more contracts at 9.25",i fucking hate microsoft every day is the same pain i need msft by july earnings to break even there s a path to recovery even profit i added more contracts at,-0.659,negative
-2026-06-22 20:40:17+00:00,,nan,0.0,neutral
-2026-06-22 20:10:10+00:00,"Good enough to screenshot, good enough to sell. Thank you for the ride $MU",good enough to screenshot good enough to sell thank you for the ride mu,0.8074,positive
-2026-06-22 19:59:35+00:00,"I love me those tenders… 14,500% returns on stock… 😆 There are days I would worship Lisa Su  on my knees.",i love me those tenders returns on stock there are days i would worship lisa su on my knees,0.7906,positive
-2026-06-22 18:36:50+00:00,,nan,0.0,neutral
-2026-06-22 17:51:56+00:00,,nan,0.0,neutral
-2026-06-22 16:37:00+00:00,"It's not just an AI bubble, it's a systemic collapse worse than 2008. ^(Yes I used the AI sentence structure, beep boop fuck you.)
-
->*Dog shit wrapped in cat shit.*
-
-If you're too dumb to read, feed these points into your favorite AI tool and ask it about the information's reliability. Then ask it how fucked retail is.
-
-1. Increasing amount of companies are taking on private credit, up from $500B in 2020 to $2+ *trillion* in 2026, expected to grow past $4 trillion by 2030. For comparison, the 2008 subprime loans were estimated around $2 trillion.
-2. This private credit market (unironically called *""shadow banking""*) relies almost entirely on Level 3 assets. This means unregulated, often unreported credit that's being valued using the funds' own internal models (""*mark-to-model*"") rather than real-time market prices (*""mark-to-market*""). Basically, their analysts decide the price and tell the buyer to trust them.
-3. Huge portion of these loans were written in 2021-2022 during low interest rates, and are now becoming mature in 2027-2029. We're talking over half a *trillion* in leveraged private debt scheduled to mature in 2028 alone.
-4. It has been labeled *""The Maturity Wall""*. If the rates stay high, many borrowers won't be able to refinance, leading to defaults or fire sales. And many of these loans are backed by dead software and depreciating GPUs, zero real assets whatsoever. The bag holders will be left with nothing.
-5. And Fed just cancelled rate cuts, now estimating rate hikes for the end of the year. Meaning the companies will be even less capable of making the interest payments.
-6. The IMF estimates that roughly 40% of private credit borrowers operate with **negative free cash flow**, up from 25% in 2021.
-7. And while the reported default rate of this private credit is currently sitting at just 1.5-2%, **the real private credit default rate is estimated at 5-6% and increasing**.
-8. Why don't the reported and the actual numbers match? Because private credit lenders are offering *Payment-in-Kinds* (PIKs) to avoid defaulting the loans, allowing the borrowers to skip the interest payment in favor of increasing the debt. They're literally kicking the can on loans that aren't being paid so they don't have to default them and get margin called themselves.
-9. Payment-in-Kinds usage more than doubled from 5% to 11% by late 2025. Out of the 5-6% default rate, estimated 50% is driven by PIKs and interest deferrals.
-10. However, private credit funds have Payment-in-Kind exposure limits, mandated by the big commercial banks that they loan from. To circumvent these limits and maintain access to bank leverage and not get margin called, *synthetic PIKs* were invented to hide PIKs from the books.
-11. When a borrower fails to pay the interest, they use a secondary *delayed-draw term loan* (DDTL) to pay the interest. Technically the first loan is getting cash interest payments, at the cost of a new, bigger loan. It's the private credit equivalent of paying off your credit card debt with another credit card. They invented a new instrument to hide the fact that interest payments are being missed and that these loans are growing into dog shit so that they could leverage more.
-12. Furthermore, these private loans are increasingly being packaged into *Private Credit CLOs* (Collateralized Loan Obligations). The idea is simple; while any one loan might be risky on its own, bundling a bunch of them together reduces the risk. Just like index funds, for example. And similar to Mortgage Backed Securities. What could possibly go wrong?
-13. Due to the private nature of these private loans, nobody knows the true health of what's really being packaged into the CLOs. We know synthetic PIKs exist and are being used to some extent, but we don't know the full exposure. There could be defaulting loans of zero-asset software companies marked as AAA due to interest payments being made from DDTLs.
-14. Who buys these Private Credit CLOs? Mainly pension funds and insurance companies, sometimes retail directly. They commit capital through third-party fund managers like Ares, Blackstone, and Blue Owl, or through *Business Development Companies* (BDCs).
-15. The SEC is busy ensuring that the big banks aren't secretly leveraged on this. They literally know shit is about to go down, and are only protecting the big money. Retail will hold the bags.
-16. Worse yet, most of the underlying credit loans mature in 5-7 *years*, yet the investors in CLOs are allowed to cash out every quarter. This means the asset managers will have to freeze withdrawals altogether to tackle the illiquidity, meaning that retail won't be able to cash out as the defaults keep happening.
-17. And **this has already begun**, with numerous asset managers already freezing withdrawals. Stone Ridge fulfilled only 11% of withdrawals earlier this year, Blackstone raised affiliate capital to meet the withdrawals, and Blue Owl froze all withdrawals indefinitely.
-
-TL;DR: They're wrapping dog shit in cat shit as we speak, valuating it themselves as AAA packages with the help of PIKs, and selling those CLOs to pension funds and retail. The assets will be frozen due to liquidity mismatch, and it will be 2008 again but this time unwinding over multiple years of slow-burning crisis. The opacity is even worse, the leverage is hidden, and the buyers are retail. Add in a bit of an AI bubble with increasing rate hikes, and we got the dot-com bubble and the 2008 crisis combined into one bomb from 2027 onward.
-
-**Edit:** And it's not AI you dumb fucks, just because someone can write one page worth of bullet points doesn't mean they're AI. I did get inspired by Tom Bilyeu's video few months ago though, maybe watch that instead of commenting whatever dumb shit you were going to comment.",it s not just an ai bubble it s a systemic collapse worse than yes i used the ai sentence structure beep boop fuck you dog shit wrapped in cat shit if you re too dumb to read feed these points into your favorite ai tool and ask it about the information s reliability then ask it how fucked retail is increasing amount of companies are taking on private credit up from b in to trillion in expected to grow past trillion by for comparison the subprime loans were estimated around trillion this private credit market unironically called shadow banking relies almost entirely on level assets this means unregulated often unreported credit that s being valued using the funds own internal models mark to model rather than real time market prices mark to market basically their analysts decide the price and tell the buyer to trust them huge portion of these loans were written in during low interest rates and are now becoming mature in we re talking over half a trillion in leveraged private debt scheduled to mature in alone it has been labeled the maturity wall if the rates stay high many borrowers won t be able to refinance leading to defaults or fire sales and many of these loans are backed by dead software and depreciating gpus zero real assets whatsoever the bag holders will be left with nothing and fed just cancelled rate cuts now estimating rate hikes for the end of the year meaning the companies will be even less capable of making the interest payments the imf estimates that roughly of private credit borrowers operate with negative free cash flow up from in and while the reported default rate of this private credit is currently sitting at just the real private credit default rate is estimated at and increasing why don t the reported and the actual numbers match because private credit lenders are offering payment in kinds piks to avoid defaulting the loans allowing the borrowers to skip the interest payment in favor of increasing the debt they re literally kicking the can on loans that aren t being paid so they don t have to default them and get margin called themselves payment in kinds usage more than doubled from to by late out of the default rate estimated is driven by piks and interest deferrals however private credit funds have payment in kind exposure limits mandated by the big commercial banks that they loan from to circumvent these limits and maintain access to bank leverage and not get margin called synthetic piks were invented to hide piks from the books when a borrower fails to pay the interest they use a secondary delayed draw term loan ddtl to pay the interest technically the first loan is getting cash interest payments at the cost of a new bigger loan it s the private credit equivalent of paying off your credit card debt with another credit card they invented a new instrument to hide the fact that interest payments are being missed and that these loans are growing into dog shit so that they could leverage more furthermore these private loans are increasingly being packaged into private credit clos collateralized loan obligations the idea is simple while any one loan might be risky on its own bundling a bunch of them together reduces the risk just like index funds for example and similar to mortgage backed securities what could possibly go wrong due to the private nature of these private loans nobody knows the true health of what s really being packaged into the clos we know synthetic piks exist and are being used to some extent but we don t know the full exposure there could be defaulting loans of zero asset software companies marked as aaa due to interest payments being made from ddtls who buys these private credit clos mainly pension funds and insurance companies sometimes retail directly they commit capital through third party fund managers like ares blackstone and blue owl or through business development companies bdcs the sec is busy ensuring that the big banks aren t secretly leveraged on this they literally know shit is about to go down and are only protecting the big money retail will hold the bags worse yet most of the underlying credit loans mature in years yet the investors in clos are allowed to cash out every quarter this means the asset managers will have to freeze withdrawals altogether to tackle the illiquidity meaning that retail won t be able to cash out as the defaults keep happening and this has already begun with numerous asset managers already freezing withdrawals stone ridge fulfilled only of withdrawals earlier this year blackstone raised affiliate capital to meet the withdrawals and blue owl froze all withdrawals indefinitely tl dr they re wrapping dog shit in cat shit as we speak valuating it themselves as aaa packages with the help of piks and selling those clos to pension funds and retail the assets will be frozen due to liquidity mismatch and it will be again but this time unwinding over multiple years of slow burning crisis the opacity is even worse the leverage is hidden and the buyers are retail add in a bit of an ai bubble with increasing rate hikes and we got the dot com bubble and the crisis combined into one bomb from onward edit and it s not ai you dumb fucks just because someone can write one page worth of bullet points doesn t mean they re ai i did get inspired by tom bilyeu s video few months ago though maybe watch that instead of commenting whatever dumb shit you were going to comment,0.7999,positive
-2026-06-22 15:18:34+00:00,"The Circle-Jerk continues. 
-
-$2B funding from JPM and NVDA, to grow Open Source AI models (which they haven't apparently launched yet). 
-
-Paying $150M/Month to SpaceX, but (not in headline) can cancel with 90 days notice, to access..... Nvdia Chips....
-
-  
-Doesn't seem to be helping SpaceX share price much. And if they succeed, they undermine Anthropic and OpenAI's sucess.",the circle jerk continues b funding from jpm and nvda to grow open source ai models which they haven t apparently launched yet paying m month to spacex but not in headline can cancel with days notice to access nvdia chips doesn t seem to be helping spacex share price much and if they succeed they undermine anthropic and openai s sucess,0.631,positive
-2026-06-22 11:39:43+00:00,,nan,0.0,neutral
-2026-06-22 11:28:30+00:00,"*Analyst Aditya Bhave said BofA expects the Fed to raise rates by 25 basis points in each of September, October and December, taking the policy rate to 4.25–4.50%. ""We think the Fed will stay on hold next year,"" Bhave wrote, with inflation likely remaining sticky enough to keep the real policy rate from becoming overly restrictive.*
-
-**Is this bullish?** 👀",analyst aditya bhave said bofa expects the fed to raise rates by basis points in each of september october and december taking the policy rate to we think the fed will stay on hold next year bhave wrote with inflation likely remaining sticky enough to keep the real policy rate from becoming overly restrictive is this bullish,0.0,neutral
-2026-06-22 06:30:46+00:00,"I began trading during the COVID-19 pandemic. One of my friend suggested that I could make easy and free money from option trading. I started with $5,000 and lost everything in just two months. Subsequently, I invested all my money every month for the past six years, resulting in a total loss of $232,000 spread across 3 accounts.
-
-Things took a turn for the worse this 2026 year. In February, I decided to permanently stop options trading and invest solely in stocks. I borrowed $125,000 loan at 12% interest and invested all of it in good S&P 500 stocks. However, those stocks suffered significant losses during the March-April crash. I sold all the stocks at a loss in the hope of recovering my losses through options trading. Unfortunately, I lost all that money in just two months and am now almost broke.
-
-Here are a few pieces of advice for both existing and new investors:
-
-\- Options trading is purely speculative and lacks fundamental analysis. Technical analysis of stocks do help but it also makes mistakes often.  
-\- Big players always make money, while small players’ money is absorbed by them.  
-\- The greed and hope associated with option trading never cease to rise, and new money is constantly added from salaries.  
-\- It severely affects mental health, causing lack of sleep, reduced concentration on other regular work, and a disinterest in spending time with family.
-
-In conclusion, I have given up on the idea of becoming a millionaire through options trading. I will not look back and will not engage in any trading activities. I did learn about technical analysis, but I was unsuccessful in applying it to my advantage.
-
-**If your primary source of income for your family depends on your earnings, I strongly advise you to avoid options trading.**
-
-Thank you for reading my experience.",i began trading during the covid pandemic one of my friend suggested that i could make easy and free money from option trading i started with and lost everything in just two months subsequently i invested all my money every month for the past six years resulting in a total loss of spread across accounts things took a turn for the worse this year in february i decided to permanently stop options trading and invest solely in stocks i borrowed loan at interest and invested all of it in good s p stocks however those stocks suffered significant losses during the march april crash i sold all the stocks at a loss in the hope of recovering my losses through options trading unfortunately i lost all that money in just two months and am now almost broke here are a few pieces of advice for both existing and new investors options trading is purely speculative and lacks fundamental analysis technical analysis of stocks do help but it also makes mistakes often big players always make money while small players money is absorbed by them the greed and hope associated with option trading never cease to rise and new money is constantly added from salaries it severely affects mental health causing lack of sleep reduced concentration on other regular work and a disinterest in spending time with family in conclusion i have given up on the idea of becoming a millionaire through options trading i will not look back and will not engage in any trading activities i did learn about technical analysis but i was unsuccessful in applying it to my advantage if your primary source of income for your family depends on your earnings i strongly advise you to avoid options trading thank you for reading my experience,-0.9146,negative
-2026-06-22 01:09:23+00:00,,nan,0.0,neutral
