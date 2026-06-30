@@ -3,22 +3,22 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-06-29T23:18:55.833981+00:00`
+- Generated at (UTC): `2026-06-30T23:40:10.937856+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
-| 1 | WEN | 34 | 20 | 0.240 |
-| 2 | SLS | 6 | 4 | 0.183 |
-| 3 | SPY | 3 | 3 | 0.165 |
-| 4 | MSFT | 3 | 3 | 0.227 |
-| 5 | NASA | 6 | 2 | 0.965 |
-| 6 | MSTR | 5 | 2 | -0.538 |
-| 7 | ASTS | 4 | 2 | 0.878 |
-| 8 | PEG | 4 | 2 | 0.994 |
-| 9 | CEG | 7 | 1 | 0.945 |
-| 10 | RDDT | 6 | 1 | 0.990 |
+| 1 | WEN | 33 | 19 | 0.292 |
+| 2 | UWMC | 28 | 2 | 0.999 |
+| 3 | MSTR | 9 | 4 | -0.307 |
+| 4 | SLS | 6 | 4 | 0.183 |
+| 5 | RDDT | 9 | 3 | 0.877 |
+| 6 | AMD | 5 | 4 | 0.364 |
+| 7 | FOR | 8 | 3 | 0.692 |
+| 8 | MAT | 5 | 3 | 0.994 |
+| 9 | MSR | 8 | 2 | 0.999 |
+| 10 | JPM | 3 | 3 | 0.886 |
 
 ## Reddit fetch diagnostics
 
@@ -36,13 +36,13 @@
 
 ## Market snapshot
 
-- **WEN**: close `8.26`, 1M return `10.07%` if available, RSI `62.56` and regression RMSE `0.259`
-- **SLS**: close `15.45`, 1M return `68.30%` if available, RSI `85.16` and regression RMSE `0.616`
-- **SPY**: close `741.00`, 1M return `-1.80%` if available, RSI `51.54` and regression RMSE `6.302`
-- **MSFT**: close `368.57`, 1M return `-13.68%` if available, RSI `38.93` and regression RMSE `5.911`
-- **NASA**: close `29.19`, 1M return `-30.22%` if available, RSI `43.30`
-- **MSTR**: close `92.68`, 1M return `-38.88%` if available, RSI `32.38` and regression RMSE `14.274`
-- **ASTS**: close `86.77`, 1M return `-34.80%` if available, RSI `50.80` and regression RMSE `4.524`
-- **PEG**: close `82.43`, 1M return `4.14%` if available, RSI `60.34` and regression RMSE `0.200`
-- **CEG**: close `259.32`, 1M return `-9.43%` if available, RSI `42.62` and regression RMSE `4.216`
-- **RDDT**: close `174.39`, 1M return `4.00%` if available, RSI `54.33` and regression RMSE `7.017`
+- **WEN**: close `8.29`, 1M return `7.66%` if available, RSI `62.86` and regression RMSE `0.178`
+- **UWMC**: close `2.29`, 1M return `-25.16%` if available, RSI `39.65` and regression RMSE `0.272`
+- **MSTR**: close `86.93`, 1M return `-45.36%` if available, RSI `30.29` and regression RMSE `19.016`
+- **SLS**: close `14.76`, 1M return `58.54%` if available, RSI `79.34` and regression RMSE `0.683`
+- **RDDT**: close `173.58`, 1M return `-1.37%` if available, RSI `53.83` and regression RMSE `8.361`
+- **AMD**: close `580.91`, 1M return `12.56%` if available, RSI `64.94` and regression RMSE `27.389`
+- **FOR**: close `31.65`, 1M return `15.22%` if available, RSI `69.54` and regression RMSE `0.276`
+- **MAT**: close `13.88`, 1M return `-7.10%` if available, RSI `41.99` and regression RMSE `0.251`
+- **MSR**: close `12.59`, 1M return `-45.90%` if available, RSI `29.80`
+- **JPM**: close `327.33`, 1M return `9.36%` if available, RSI `58.05` and regression RMSE `1.777`

@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-06-29T23:18:55.831825+00:00`
+- Generated at (UTC): `2026-06-30T23:40:10.935752+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | WEN | 34 | 20 | 0.240 | 8.26 | 10.07% | 0.259 |
-| 2 | SLS | 6 | 4 | 0.183 | 15.45 | 68.30% | 0.616 |
-| 3 | SPY | 3 | 3 | 0.165 | 741.00 | -1.80% | 6.302 |
-| 4 | MSFT | 3 | 3 | 0.227 | 368.57 | -13.68% | 5.911 |
-| 5 | NASA | 6 | 2 | 0.965 | 29.19 | -30.22% | n/a |
-| 6 | MSTR | 5 | 2 | -0.538 | 92.68 | -38.88% | 14.274 |
-| 7 | ASTS | 4 | 2 | 0.878 | 86.77 | -34.80% | 4.524 |
-| 8 | PEG | 4 | 2 | 0.994 | 82.43 | 4.14% | 0.200 |
-| 9 | CEG | 7 | 1 | 0.945 | 259.32 | -9.43% | 4.216 |
-| 10 | RDDT | 6 | 1 | 0.990 | 174.39 | 4.00% | 7.017 |
+| 1 | WEN | 33 | 19 | 0.292 | 8.29 | 7.66% | 0.178 |
+| 2 | UWMC | 28 | 2 | 0.999 | 2.29 | -25.16% | 0.272 |
+| 3 | MSTR | 9 | 4 | -0.307 | 86.93 | -45.36% | 19.016 |
+| 4 | SLS | 6 | 4 | 0.183 | 14.76 | 58.54% | 0.683 |
+| 5 | RDDT | 9 | 3 | 0.877 | 173.58 | -1.37% | 8.361 |
+| 6 | AMD | 5 | 4 | 0.364 | 580.91 | 12.56% | 27.389 |
+| 7 | FOR | 8 | 3 | 0.692 | 31.65 | 15.22% | 0.276 |
+| 8 | MAT | 5 | 3 | 0.994 | 13.88 | -7.10% | 0.251 |
+| 9 | MSR | 8 | 2 | 0.999 | 12.59 | -45.90% | n/a |
+| 10 | JPM | 3 | 3 | 0.886 | 327.33 | 9.36% | 1.777 |
 
 ### Aggregate Charts
 
@@ -186,39 +186,39 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![WEN Dashboard](outputs/latest_wsb_analysis/charts/wen_dashboard.png)
 
-#### SLS
+#### UWMC
 
-![SLS Dashboard](outputs/latest_wsb_analysis/charts/sls_dashboard.png)
-
-#### SPY
-
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
-#### MSFT
-
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
-
-#### NASA
-
-![NASA Dashboard](outputs/latest_wsb_analysis/charts/nasa_dashboard.png)
+![UWMC Dashboard](outputs/latest_wsb_analysis/charts/uwmc_dashboard.png)
 
 #### MSTR
 
 ![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
 
-#### ASTS
+#### SLS
 
-![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
-
-#### PEG
-
-![PEG Dashboard](outputs/latest_wsb_analysis/charts/peg_dashboard.png)
-
-#### CEG
-
-![CEG Dashboard](outputs/latest_wsb_analysis/charts/ceg_dashboard.png)
+![SLS Dashboard](outputs/latest_wsb_analysis/charts/sls_dashboard.png)
 
 #### RDDT
 
 ![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
+
+#### AMD
+
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+
+#### FOR
+
+![FOR Dashboard](outputs/latest_wsb_analysis/charts/for_dashboard.png)
+
+#### MAT
+
+![MAT Dashboard](outputs/latest_wsb_analysis/charts/mat_dashboard.png)
+
+#### MSR
+
+![MSR Dashboard](outputs/latest_wsb_analysis/charts/msr_dashboard.png)
+
+#### JPM
+
+![JPM Dashboard](outputs/latest_wsb_analysis/charts/jpm_dashboard.png)
 <!-- AUTO_TOP10_END -->

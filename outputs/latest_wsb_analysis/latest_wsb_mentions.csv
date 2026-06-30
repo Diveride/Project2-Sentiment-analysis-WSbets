@@ -1,41 +1,48 @@
 post_id,ticker,mentions,sentiment,score,num_comments,engagement,created_utc,title,permalink
-1uiyj3m,ASTS,3,0.8759,58,43,7.86172707782398,2026-06-29 17:10:28+00:00,(ASTS)Now you shall hear from US,https://www.reddit.com/r/wallstreetbets/comments/1uiyj3m/astsnow_you_shall_hear_from_us/
-1uey161,ASTS,1,0.8809,4687,984,15.345402972428937,2026-06-25 02:54:30+00:00,Down $240k in less than a month at 23 thanks to ASTS,https://www.reddit.com/r/wallstreetbets/comments/1uey161/down_240k_in_less_than_a_month_at_23_thanks_to/
-1ui1d28,CEG,7,0.9454,391,64,10.145649109686099,2026-06-28 16:14:31+00:00,CEG is literally printing glowing green money now. Walmart goes Nuclear? ☢️🛒,https://www.reddit.com/r/wallstreetbets/comments/1ui1d28/ceg_is_literally_printing_glowing_green_money_now/
-1uh7833,MSFT,1,0.0,47,39,7.5600804650218265,2026-06-27 16:32:58+00:00,MSFT leaps and some long dated,https://www.reddit.com/r/wallstreetbets/comments/1uh7833/msft_leaps_and_some_long_dated/
-1ugg3wz,MSFT,1,0.0,161,36,8.698514247876608,2026-06-26 19:14:12+00:00,2x life savings in MSFT,https://www.reddit.com/r/wallstreetbets/comments/1ugg3wz/2x_life_savings_in_msft/
-1uga76e,MSFT,1,0.6808,182,95,9.773834344309257,2026-06-26 15:35:28+00:00,Ban bet Microsoft to $500 by EOY,https://www.reddit.com/r/wallstreetbets/comments/1uga76e/ban_bet_microsoft_to_500_by_eoy/
-1ug82oi,MSTR,4,-0.5187,449,125,10.945529489715843,2026-06-26 14:15:39+00:00,MSTR Short Gain,https://www.reddit.com/r/wallstreetbets/comments/1ug82oi/mstr_short_gain/
-1uetpvv,MSTR,1,-0.5574,2432,350,13.657666566249388,2026-06-24 23:36:22+00:00,"MSTR is currently sitting on a $12.5B unrealized loss, exceeding the largest trading loss in history (Bill Hwang/Archegos) by $2.5B",https://www.reddit.com/r/wallstreetbets/comments/1uetpvv/mstr_is_currently_sitting_on_a_125b_unrealized/
-1uj39ph,NASA,1,0.9311,71,34,7.832014180505469,2026-06-29 20:02:52+00:00,"$345,000 Yolo $BB",https://www.reddit.com/r/wallstreetbets/comments/1uj39ph/345000_yolo_bb/
-1ugjdqb,NASA,5,0.999,175,87,9.647820809516357,2026-06-26 21:19:08+00:00,Full port 270k BB blackberry I let AI write my DD,https://www.reddit.com/r/wallstreetbets/comments/1ugjdqb/full_port_270k_bb_blackberry_i_let_ai_write_my_dd/
-1uixjey,PEG,1,0.9896,121,109,9.504501410525673,2026-06-29 16:34:42+00:00,$RDDT Leaps - The most misunderstood stock on Wall Street and the only stock I believe is still mis-priced.,https://www.reddit.com/r/wallstreetbets/comments/1uixjey/rddt_leaps_the_most_misunderstood_stock_on_wall/
-1uic1mu,PEG,3,0.9982,61,184,9.347490210123418,2026-06-28 23:24:07+00:00,I (30M) went all in in Reddit Stock,https://www.reddit.com/r/wallstreetbets/comments/1uic1mu/i_30m_went_all_in_in_reddit_stock/
-1uixjey,RDDT,6,0.9896,121,109,9.504501410525673,2026-06-29 16:34:42+00:00,$RDDT Leaps - The most misunderstood stock on Wall Street and the only stock I believe is still mis-priced.,https://www.reddit.com/r/wallstreetbets/comments/1uixjey/rddt_leaps_the_most_misunderstood_stock_on_wall/
-1uiyh5z,SLS,1,0.0,38,10,6.061456918928017,2026-06-29 17:08:31+00:00,SLS Brrrrrrrrrr,https://www.reddit.com/r/wallstreetbets/comments/1uiyh5z/sls_brrrrrrrrrr/
-1uix8nk,SLS,1,0.7088,16,9,5.135798437050262,2026-06-29 16:23:47+00:00,$L$ Calls +10K,https://www.reddit.com/r/wallstreetbets/comments/1uix8nk/l_calls_10k/
-1ui38y0,SLS,1,0.0,51,51,7.902487437162855,2026-06-28 17:29:11+00:00,SLS holding until I have 1 mil. Thoughts,https://www.reddit.com/r/wallstreetbets/comments/1ui38y0/sls_holding_until_i_have_1_mil_thoughts/
-1uhymze,SLS,3,0.022,74,56,8.36053938137086,2026-06-28 14:25:23+00:00,SLS - Been jumping in and out,https://www.reddit.com/r/wallstreetbets/comments/1uhymze/sls_been_jumping_in_and_out/
-1ught0v,SPY,1,-0.2287,222,251,10.936600858971541,2026-06-26 20:18:36+00:00,Does anyone know why these sudden price drops happen?,https://www.reddit.com/r/wallstreetbets/comments/1ught0v/does_anyone_know_why_these_sudden_price_drops/
-1ughhla,SPY,1,0.6749,9,5,4.094344562222101,2026-06-26 20:06:37+00:00,SPY 0DTE gains to close out the week,https://www.reddit.com/r/wallstreetbets/comments/1ughhla/spy_0dte_gains_to_close_out_the_week/
-1udb45b,SPY,1,0.0499,411,244,11.522281559894253,2026-06-23 08:15:36+00:00,"All in on Zuck. $417,000 USD 🎰",https://www.reddit.com/r/wallstreetbets/comments/1udb45b/all_in_on_zuck_417000_usd/
-1uiy6hq,WEN,1,-0.5267,1394,162,12.334399895062228,2026-06-29 16:57:45+00:00,Went full retard with my kid’s college savings. WEN lambo?,https://www.reddit.com/r/wallstreetbets/comments/1uiy6hq/went_full_retard_with_my_kids_college_savings_wen/
-1uipg80,WEN,1,0.0,8769,488,15.271454574841101,2026-06-29 11:08:52+00:00,WEN,https://www.reddit.com/r/wallstreetbets/comments/1uipg80/wen/
-1uhruvn,WEN,2,0.9984,572,214,11.721523744842402,2026-06-28 08:32:25+00:00,Wendy's: A Deep Value Turnaround,https://www.reddit.com/r/wallstreetbets/comments/1uhruvn/wendys_a_deep_value_turnaround/
-1ugnh0s,WEN,1,0.3612,576,83,10.788659065351414,2026-06-27 00:07:18+00:00,I’m ready WEN you are.,https://www.reddit.com/r/wallstreetbets/comments/1ugnh0s/im_ready_wen_you_are/
-1ugdbla,WEN,1,0.9875,2363,476,13.93562686941433,2026-06-26 17:30:13+00:00,I went to WEN today for the first time in years,https://www.reddit.com/r/wallstreetbets/comments/1ugdbla/i_went_to_wen_today_for_the_first_time_in_years/
-1ugcbym,WEN,1,0.0,334,104,10.46809088198259,2026-06-26 16:53:45+00:00,WEN you little goofball,https://www.reddit.com/r/wallstreetbets/comments/1ugcbym/wen_you_little_goofball/
-1ufodjw,WEN,1,0.0,407,134,10.916541952842591,2026-06-25 22:16:35+00:00,"Not if, but WEN",https://www.reddit.com/r/wallstreetbets/comments/1ufodjw/not_if_but_wen/
-1ufmu1b,WEN,1,0.0,840,158,11.80349586219318,2026-06-25 21:16:54+00:00,"500k in, WEN can I start my shift? 🫡",https://www.reddit.com/r/wallstreetbets/comments/1ufmu1b/500k_in_wen_can_i_start_my_shift/
-1ufgx1t,WEN,2,0.8298,794,232,12.129380568220032,2026-06-25 17:38:57+00:00,About WEN...,https://www.reddit.com/r/wallstreetbets/comments/1ufgx1t/about_wen/
-1ufd11z,WEN,1,0.2924,788,205,11.998642489635454,2026-06-25 15:19:32+00:00,SPCX and WEN CALL LFG!,https://www.reddit.com/r/wallstreetbets/comments/1ufd11z/spcx_and_wen_call_lfg/
-1ufcbcg,WEN,1,0.0,981,156,11.945837113702773,2026-06-25 14:53:36+00:00,WEN you buy even more.,https://www.reddit.com/r/wallstreetbets/comments/1ufcbcg/wen_you_buy_even_more/
-1ueyhnp,WEN,1,0.0,667,115,11.257878364643009,2026-06-25 03:16:24+00:00,WEN tendies?,https://www.reddit.com/r/wallstreetbets/comments/1ueyhnp/wen_tendies/
-1uexe2z,WEN,2,-0.0516,448,78,10.476470740209276,2026-06-25 02:23:59+00:00,"If he’s in, I’m in. $WEN",https://www.reddit.com/r/wallstreetbets/comments/1uexe2z/if_hes_in_im_in_wen/
-1ueuc8p,WEN,1,0.0,543,115,11.052539437962306,2026-06-25 00:03:06+00:00,WEN tendies?,https://www.reddit.com/r/wallstreetbets/comments/1ueuc8p/wen_tendies/
-1uerxoo,WEN,2,0.4278,3081,492,14.233843189922752,2026-06-24 22:21:41+00:00,$WEN to the moon - 350K YOLO,https://www.reddit.com/r/wallstreetbets/comments/1uerxoo/wen_to_the_moon_350k_yolo/
-1ueopcs,WEN,1,0.0,7054,379,14.801663117007347,2026-06-24 20:18:11+00:00,WEN bagholders tomorrow,https://www.reddit.com/r/wallstreetbets/comments/1ueopcs/wen_bagholders_tomorrow/
-1ueg6eo,WEN,2,-0.5475,504,83,10.655375228118674,2026-06-24 15:09:13+00:00,I don’t usually post but WEN!,https://www.reddit.com/r/wallstreetbets/comments/1ueg6eo/i_dont_usually_post_but_wen/
-1uedyk9,WEN,1,0.6776,2228,330,13.511426708762933,2026-06-24 13:45:19+00:00,In on WEN!!!,https://www.reddit.com/r/wallstreetbets/comments/1uedyk9/in_on_wen/
-1ued78l,WEN,9,0.9935,758,238,12.10846532932714,2026-06-24 13:14:43+00:00,Fixing Her: A Wendys (WEN) DD,https://www.reddit.com/r/wallstreetbets/comments/1ued78l/fixing_her_a_wendys_wen_dd/
-1uebw9w,WEN,2,0.3612,763,144,11.615301531587095,2026-06-24 12:17:47+00:00,Loaded up 🫡 $WEN ready to blast off,https://www.reddit.com/r/wallstreetbets/comments/1uebw9w/loaded_up_wen_ready_to_blast_off/
+1uk3gc4,AMD,1,0.34,608,91,10.933606844758938,2026-06-30 22:17:24+00:00,"AMD +12,729%",https://www.reddit.com/r/wallstreetbets/comments/1uk3gc4/amd_12729/
+1ujski5,AMD,1,-0.3187,13,8,4.836281906951479,2026-06-30 15:35:17+00:00,BAC’s analyst sucks for asking us to buy puts,https://www.reddit.com/r/wallstreetbets/comments/1ujski5/bacs_analyst_sucks_for_asking_us_to_buy_puts/
+1ujel6k,AMD,2,0.4404,104,64,8.82834762005316,2026-06-30 04:04:56+00:00,Sold some AMD today and diversified,https://www.reddit.com/r/wallstreetbets/comments/1ujel6k/sold_some_amd_today_and_diversified/
+1uiq8d4,AMD,1,0.996,67,20,7.26403014289953,2026-06-29 11:48:01+00:00,BB QNX Securing Physical AI,https://www.reddit.com/r/wallstreetbets/comments/1uiq8d4/bb_qnx_securing_physical_ai/
+1ujtl9x,FOR,3,0.9987,20,29,6.4457198193855785,2026-06-30 16:13:13+00:00,$UWMC - Mat’s Golden Nugget,https://www.reddit.com/r/wallstreetbets/comments/1ujtl9x/uwmc_mats_golden_nugget/
+1ujt98e,FOR,3,0.9987,2,0,1.0986122886681096,2026-06-30 16:01:01+00:00,$UWMC - Mat’s Golden Nugget,https://www.reddit.com/r/wallstreetbets/comments/1ujt98e/uwmc_mats_golden_nugget/
+1uebons,FOR,2,0.0772,614,126,11.265809354265109,2026-06-24 12:07:52+00:00,JAPAN $2.3 TRILLION INVESTMENT PLAN FOR AI AND SEMICONDUCTORS OVER THE NEXT 14 YEARS,https://www.reddit.com/r/wallstreetbets/comments/1uebons/japan_23_trillion_investment_plan_for_ai_and/
+1ujtl9x,JPM,1,0.9987,20,29,6.4457198193855785,2026-06-30 16:13:13+00:00,$UWMC - Mat’s Golden Nugget,https://www.reddit.com/r/wallstreetbets/comments/1ujtl9x/uwmc_mats_golden_nugget/
+1ujt98e,JPM,1,0.9987,2,0,1.0986122886681096,2026-06-30 16:01:01+00:00,$UWMC - Mat’s Golden Nugget,https://www.reddit.com/r/wallstreetbets/comments/1ujt98e/uwmc_mats_golden_nugget/
+1uiaw7j,JPM,1,0.6597,464,294,11.829012761927176,2026-06-28 22:33:23+00:00,So about that AI trade..,https://www.reddit.com/r/wallstreetbets/comments/1uiaw7j/so_about_that_ai_trade/
+1ujtl9x,MAT,2,0.9987,20,29,6.4457198193855785,2026-06-30 16:13:13+00:00,$UWMC - Mat’s Golden Nugget,https://www.reddit.com/r/wallstreetbets/comments/1ujtl9x/uwmc_mats_golden_nugget/
+1ujt98e,MAT,2,0.9987,2,0,1.0986122886681096,2026-06-30 16:01:01+00:00,$UWMC - Mat’s Golden Nugget,https://www.reddit.com/r/wallstreetbets/comments/1ujt98e/uwmc_mats_golden_nugget/
+1ujbst8,MAT,1,0.9857,249,132,10.411810046084,2026-06-30 01:52:41+00:00,YOLO - Market Doesn't Understand Mattel (MAT),https://www.reddit.com/r/wallstreetbets/comments/1ujbst8/yolo_market_doesnt_understand_mattel_mat/
+1ujtl9x,MSR,4,0.9987,20,29,6.4457198193855785,2026-06-30 16:13:13+00:00,$UWMC - Mat’s Golden Nugget,https://www.reddit.com/r/wallstreetbets/comments/1ujtl9x/uwmc_mats_golden_nugget/
+1ujt98e,MSR,4,0.9987,2,0,1.0986122886681096,2026-06-30 16:01:01+00:00,$UWMC - Mat’s Golden Nugget,https://www.reddit.com/r/wallstreetbets/comments/1ujt98e/uwmc_mats_golden_nugget/
+1ujyacp,MSTR,1,0.0,46,37,7.487733761436444,2026-06-30 19:03:12+00:00,Strategy (MSTR) Puts,https://www.reddit.com/r/wallstreetbets/comments/1ujyacp/strategy_mstr_puts/
+1ujjpmr,MSTR,3,-0.1531,13358,1045,16.45267423861468,2026-06-30 08:48:46+00:00,Used a $20k business overdraft from my dead beef jerky side hustle to go all in on MSTR,https://www.reddit.com/r/wallstreetbets/comments/1ujjpmr/used_a_20k_business_overdraft_from_my_dead_beef/
+1ug82oi,MSTR,4,-0.5187,451,125,10.949964086783709,2026-06-26 14:15:39+00:00,MSTR Short Gain,https://www.reddit.com/r/wallstreetbets/comments/1ug82oi/mstr_short_gain/
+1uetpvv,MSTR,1,-0.5574,2442,351,13.664613246855836,2026-06-24 23:36:22+00:00,"MSTR is currently sitting on a $12.5B unrealized loss, exceeding the largest trading loss in history (Bill Hwang/Archegos) by $2.5B",https://www.reddit.com/r/wallstreetbets/comments/1uetpvv/mstr_is_currently_sitting_on_a_125b_unrealized/
+1ujzsyv,RDDT,2,0.644,0,27,3.332204510175204,2026-06-30 19:58:23+00:00,Why does $RDDT have such strong linear support?,https://www.reddit.com/r/wallstreetbets/comments/1ujzsyv/why_does_rddt_have_such_strong_linear_support/
+1uixjey,RDDT,6,0.9896,180,173,10.357552330480356,2026-06-29 16:34:42+00:00,$RDDT Leaps - The most misunderstood stock on Wall Street and the only stock I believe is still mis-priced.,https://www.reddit.com/r/wallstreetbets/comments/1uixjey/rddt_leaps_the_most_misunderstood_stock_on_wall/
+1uic1mu,RDDT,1,0.9982,106,209,10.019936365179374,2026-06-28 23:24:07+00:00,I (30M) went all in in Reddit Stock,https://www.reddit.com/r/wallstreetbets/comments/1uic1mu/i_30m_went_all_in_in_reddit_stock/
+1uiyh5z,SLS,1,0.0,77,22,7.492203042618741,2026-06-29 17:08:31+00:00,SLS Brrrrrrrrrr,https://www.reddit.com/r/wallstreetbets/comments/1uiyh5z/sls_brrrrrrrrrr/
+1uix8nk,SLS,1,0.7088,26,14,6.00388706710654,2026-06-29 16:23:47+00:00,$L$ Calls +10K,https://www.reddit.com/r/wallstreetbets/comments/1uix8nk/l_calls_10k/
+1ui38y0,SLS,1,0.0,59,54,8.101677747454572,2026-06-28 17:29:11+00:00,SLS holding until I have 1 mil. Thoughts,https://www.reddit.com/r/wallstreetbets/comments/1ui38y0/sls_holding_until_i_have_1_mil_thoughts/
+1uhymze,SLS,3,0.022,80,60,8.50532301884575,2026-06-28 14:25:23+00:00,SLS - Been jumping in and out,https://www.reddit.com/r/wallstreetbets/comments/1uhymze/sls_been_jumping_in_and_out/
+1ujtl9x,UWMC,13,0.9987,20,29,6.4457198193855785,2026-06-30 16:13:13+00:00,$UWMC - Mat’s Golden Nugget,https://www.reddit.com/r/wallstreetbets/comments/1ujtl9x/uwmc_mats_golden_nugget/
+1ujt98e,UWMC,15,0.9987,2,0,1.0986122886681096,2026-06-30 16:01:01+00:00,$UWMC - Mat’s Golden Nugget,https://www.reddit.com/r/wallstreetbets/comments/1ujt98e/uwmc_mats_golden_nugget/
+1uk0rsu,WEN,1,0.7465,106,33,8.199189359078067,2026-06-30 20:34:05+00:00,WEN - Save her for this Independence day!,https://www.reddit.com/r/wallstreetbets/comments/1uk0rsu/wen_save_her_for_this_independence_day/
+1uiy6hq,WEN,1,-0.5267,2755,279,13.556325235302799,2026-06-29 16:57:45+00:00,Went full retard with my kid’s college savings. WEN lambo?,https://www.reddit.com/r/wallstreetbets/comments/1uiy6hq/went_full_retard_with_my_kids_college_savings_wen/
+1uipg80,WEN,1,0.0,10981,603,15.707587045773632,2026-06-29 11:08:52+00:00,WEN,https://www.reddit.com/r/wallstreetbets/comments/1uipg80/wen/
+1uhruvn,WEN,2,0.9984,611,223,11.828378334367365,2026-06-28 08:32:25+00:00,Wendy's: A Deep Value Turnaround,https://www.reddit.com/r/wallstreetbets/comments/1uhruvn/wendys_a_deep_value_turnaround/
+1ugnh0s,WEN,1,0.3612,598,85,10.849608894368956,2026-06-27 00:07:18+00:00,I’m ready WEN you are.,https://www.reddit.com/r/wallstreetbets/comments/1ugnh0s/im_ready_wen_you_are/
+1ugdbla,WEN,1,0.9875,2377,476,13.94153156813907,2026-06-26 17:30:13+00:00,I went to WEN today for the first time in years,https://www.reddit.com/r/wallstreetbets/comments/1ugdbla/i_went_to_wen_today_for_the_first_time_in_years/
+1ufmu1b,WEN,1,0.0,860,158,11.826998706647963,2026-06-25 21:16:54+00:00,"500k in, WEN can I start my shift? 🫡",https://www.reddit.com/r/wallstreetbets/comments/1ufmu1b/500k_in_wen_can_i_start_my_shift/
+1ufgx1t,WEN,2,0.8298,796,233,12.136175794147917,2026-06-25 17:38:57+00:00,About WEN...,https://www.reddit.com/r/wallstreetbets/comments/1ufgx1t/about_wen/
+1ufd11z,WEN,1,0.2924,795,207,12.017137265545701,2026-06-25 15:19:32+00:00,SPCX and WEN CALL LFG!,https://www.reddit.com/r/wallstreetbets/comments/1ufd11z/spcx_and_wen_call_lfg/
+1ufcbcg,WEN,1,0.0,985,156,11.949902159950943,2026-06-25 14:53:36+00:00,WEN you buy even more.,https://www.reddit.com/r/wallstreetbets/comments/1ufcbcg/wen_you_buy_even_more/
+1ueyhnp,WEN,1,0.0,672,115,11.265335520751092,2026-06-25 03:16:24+00:00,WEN tendies?,https://www.reddit.com/r/wallstreetbets/comments/1ueyhnp/wen_tendies/
+1uexe2z,WEN,2,-0.0516,454,78,10.489745271417972,2026-06-25 02:23:59+00:00,"If he’s in, I’m in. $WEN",https://www.reddit.com/r/wallstreetbets/comments/1uexe2z/if_hes_in_im_in_wen/
+1ueuc8p,WEN,1,0.0,546,115,11.058038993528346,2026-06-25 00:03:06+00:00,WEN tendies?,https://www.reddit.com/r/wallstreetbets/comments/1ueuc8p/wen_tendies/
+1uerxoo,WEN,2,0.4278,3092,492,14.23740594672776,2026-06-24 22:21:41+00:00,$WEN to the moon - 350K YOLO,https://www.reddit.com/r/wallstreetbets/comments/1uerxoo/wen_to_the_moon_350k_yolo/
+1ueopcs,WEN,1,0.0,7089,379,14.806611872246606,2026-06-24 20:18:11+00:00,WEN bagholders tomorrow,https://www.reddit.com/r/wallstreetbets/comments/1ueopcs/wen_bagholders_tomorrow/
+1ueg6eo,WEN,2,-0.5475,500,83,10.647422899928177,2026-06-24 15:09:13+00:00,I don’t usually post but WEN!,https://www.reddit.com/r/wallstreetbets/comments/1ueg6eo/i_dont_usually_post_but_wen/
+1uedyk9,WEN,1,0.6776,2236,330,13.515009336867193,2026-06-24 13:45:19+00:00,In on WEN!!!,https://www.reddit.com/r/wallstreetbets/comments/1uedyk9/in_on_wen/
+1ued78l,WEN,9,0.9935,762,238,12.113721583215968,2026-06-24 13:14:43+00:00,Fixing Her: A Wendys (WEN) DD,https://www.reddit.com/r/wallstreetbets/comments/1ued78l/fixing_her_a_wendys_wen_dd/
+1uebw9w,WEN,2,0.3612,764,144,11.61660957624711,2026-06-24 12:17:47+00:00,Loaded up 🫡 $WEN ready to blast off,https://www.reddit.com/r/wallstreetbets/comments/1uebw9w/loaded_up_wen_ready_to_blast_off/
