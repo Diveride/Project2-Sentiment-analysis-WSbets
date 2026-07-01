@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-06-30T23:40:10.935752+00:00`
+- Generated at (UTC): `2026-07-01T23:46:10.017311+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | WEN | 33 | 19 | 0.292 | 8.29 | 7.66% | 0.178 |
-| 2 | UWMC | 28 | 2 | 0.999 | 2.29 | -25.16% | 0.272 |
-| 3 | MSTR | 9 | 4 | -0.307 | 86.93 | -45.36% | 19.016 |
-| 4 | SLS | 6 | 4 | 0.183 | 14.76 | 58.54% | 0.683 |
-| 5 | RDDT | 9 | 3 | 0.877 | 173.58 | -1.37% | 8.361 |
-| 6 | AMD | 5 | 4 | 0.364 | 580.91 | 12.56% | 27.389 |
-| 7 | FOR | 8 | 3 | 0.692 | 31.65 | 15.22% | 0.276 |
-| 8 | MAT | 5 | 3 | 0.994 | 13.88 | -7.10% | 0.251 |
-| 9 | MSR | 8 | 2 | 0.999 | 12.59 | -45.90% | n/a |
-| 10 | JPM | 3 | 3 | 0.886 | 327.33 | 9.36% | 1.777 |
+| 1 | WEN | 21 | 17 | 0.218 | 8.94 | 13.89% | 0.295 |
+| 2 | UWMC | 28 | 2 | 0.999 | 2.22 | -26.25% | 0.267 |
+| 3 | RDDT | 9 | 3 | 0.687 | 197.76 | 11.19% | 7.278 |
+| 4 | AMD | 5 | 4 | 0.240 | 540.88 | 6.03% | 29.032 |
+| 5 | NBIS | 5 | 4 | 0.319 | 229.18 | -13.36% | 11.306 |
+| 6 | MSTR | 8 | 3 | -0.224 | 93.39 | -37.65% | 17.228 |
+| 7 | NVDA | 5 | 3 | 0.266 | 197.58 | -11.94% | 4.354 |
+| 8 | MAT | 5 | 3 | 0.994 | 13.74 | -7.54% | 0.308 |
+| 9 | MSR | 8 | 2 | 0.999 | 13.47 | -39.96% | n/a |
+| 10 | JPM | 3 | 3 | 0.886 | 334.07 | 12.64% | 1.661 |
 
 ### Aggregate Charts
 
@@ -190,14 +190,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![UWMC Dashboard](outputs/latest_wsb_analysis/charts/uwmc_dashboard.png)
 
-#### MSTR
-
-![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
-
-#### SLS
-
-![SLS Dashboard](outputs/latest_wsb_analysis/charts/sls_dashboard.png)
-
 #### RDDT
 
 ![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
@@ -206,9 +198,17 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### FOR
+#### NBIS
 
-![FOR Dashboard](outputs/latest_wsb_analysis/charts/for_dashboard.png)
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+
+#### MSTR
+
+![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### MAT
 
