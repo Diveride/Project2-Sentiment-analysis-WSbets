@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-01T23:46:10.017311+00:00`
+- Generated at (UTC): `2026-07-02T23:32:33.913075+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | WEN | 21 | 17 | 0.218 | 8.94 | 13.89% | 0.295 |
-| 2 | UWMC | 28 | 2 | 0.999 | 2.22 | -26.25% | 0.267 |
-| 3 | RDDT | 9 | 3 | 0.687 | 197.76 | 11.19% | 7.278 |
-| 4 | AMD | 5 | 4 | 0.240 | 540.88 | 6.03% | 29.032 |
-| 5 | NBIS | 5 | 4 | 0.319 | 229.18 | -13.36% | 11.306 |
-| 6 | MSTR | 8 | 3 | -0.224 | 93.39 | -37.65% | 17.228 |
-| 7 | NVDA | 5 | 3 | 0.266 | 197.58 | -11.94% | 4.354 |
-| 8 | MAT | 5 | 3 | 0.994 | 13.74 | -7.54% | 0.308 |
-| 9 | MSR | 8 | 2 | 0.999 | 13.47 | -39.96% | n/a |
-| 10 | JPM | 3 | 3 | 0.886 | 334.07 | 12.64% | 1.661 |
+| 1 | WEN | 10 | 8 | 0.328 | 8.60 | 19.28% | 0.180 |
+| 2 | NVDA | 6 | 4 | 0.115 | 194.83 | -12.56% | 2.667 |
+| 3 | NBIS | 5 | 4 | 0.176 | 215.62 | -17.25% | 13.964 |
+| 4 | ZIM | 15 | 1 | 0.994 | 25.57 | 1.43% | 0.580 |
+| 5 | RDDT | 6 | 3 | 0.686 | 194.67 | 15.10% | 7.847 |
+| 6 | RKLB | 4 | 3 | 0.092 | 100.46 | -18.54% | 8.238 |
+| 7 | MSFT | 4 | 3 | -0.382 | 390.49 | -11.52% | 5.676 |
+| 8 | MSTR | 7 | 2 | -0.336 | 100.77 | -25.95% | 16.015 |
+| 9 | CEG | 7 | 1 | 0.945 | 239.25 | -12.25% | 6.097 |
+| 10 | QQQ | 2 | 2 | -0.170 | 712.60 | -4.50% | 4.073 |
 
 ### Aggregate Charts
 
@@ -186,39 +186,39 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![WEN Dashboard](outputs/latest_wsb_analysis/charts/wen_dashboard.png)
 
-#### UWMC
+#### NVDA
 
-![UWMC Dashboard](outputs/latest_wsb_analysis/charts/uwmc_dashboard.png)
-
-#### RDDT
-
-![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
-
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### NBIS
 
 ![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 
+#### ZIM
+
+![ZIM Dashboard](outputs/latest_wsb_analysis/charts/zim_dashboard.png)
+
+#### RDDT
+
+![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
+
+#### RKLB
+
+![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
+
+#### MSFT
+
+![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
+
 #### MSTR
 
 ![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
 
-#### NVDA
+#### CEG
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+![CEG Dashboard](outputs/latest_wsb_analysis/charts/ceg_dashboard.png)
 
-#### MAT
+#### QQQ
 
-![MAT Dashboard](outputs/latest_wsb_analysis/charts/mat_dashboard.png)
-
-#### MSR
-
-![MSR Dashboard](outputs/latest_wsb_analysis/charts/msr_dashboard.png)
-
-#### JPM
-
-![JPM Dashboard](outputs/latest_wsb_analysis/charts/jpm_dashboard.png)
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 <!-- AUTO_TOP10_END -->
