@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-04T23:16:25.023644+00:00`
+- Generated at (UTC): `2026-07-05T23:20:50.132300+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | WEN | 9 | 6 | 0.327 | 8.60 | 19.28% | 0.180 |
-| 2 | RDDT | 10 | 3 | 0.801 | 194.67 | 15.10% | 7.849 |
-| 3 | NVDA | 5 | 4 | 0.367 | 194.83 | -12.56% | 2.667 |
+| 1 | WEN | 7 | 5 | 0.192 | 8.60 | 19.28% | 0.180 |
+| 2 | NVDA | 6 | 5 | 0.184 | 194.83 | -12.56% | 2.667 |
+| 3 | RDDT | 10 | 3 | 0.801 | 194.67 | 15.10% | 7.849 |
 | 4 | RKLB | 5 | 4 | 0.211 | 100.46 | -18.54% | 8.238 |
 | 5 | NBIS | 4 | 4 | 0.187 | 215.62 | -17.25% | 13.964 |
 | 6 | ZIM | 15 | 1 | 0.994 | 25.57 | 1.43% | 0.580 |
 | 7 | MSTR | 4 | 2 | -0.355 | 100.77 | -25.95% | 16.015 |
 | 8 | HOOD | 4 | 2 | 0.581 | 112.73 | 27.87% | 2.983 |
-| 9 | CEG | 7 | 1 | 0.945 | 239.25 | -12.25% | 6.102 |
-| 10 | MSFT | 3 | 2 | -0.387 | 390.49 | -11.52% | 5.680 |
+| 9 | HBM | 7 | 1 | 0.996 | 22.59 | -29.12% | 0.955 |
+| 10 | TSLA | 3 | 2 | 0.167 | 393.45 | -7.15% | 7.722 |
 
 ### Aggregate Charts
 
@@ -186,13 +186,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![WEN Dashboard](outputs/latest_wsb_analysis/charts/wen_dashboard.png)
 
-#### RDDT
-
-![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
-
 #### NVDA
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+
+#### RDDT
+
+![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
 
 #### RKLB
 
@@ -214,11 +214,11 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![HOOD Dashboard](outputs/latest_wsb_analysis/charts/hood_dashboard.png)
 
-#### CEG
+#### HBM
 
-![CEG Dashboard](outputs/latest_wsb_analysis/charts/ceg_dashboard.png)
+![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
 
-#### MSFT
+#### TSLA
 
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
+![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 <!-- AUTO_TOP10_END -->
