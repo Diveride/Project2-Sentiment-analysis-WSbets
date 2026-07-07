@@ -1,4 +1,32 @@
 created_utc,title,clean_title,title_sentiment,title_label
+2026-07-07 23:12:07+00:00,Omg we're gonna be rich finally!,omg we re gonna be rich finally,0.5574,positive
+2026-07-07 23:03:04+00:00,The middle east is on fire and Asia is melting down,the middle east is on fire and asia is melting down,-0.34,negative
+2026-07-07 22:21:10+00:00,In Loving Memory of Remy 9/05/2015 - 7/07/2026,in loving memory of remy,0.5994,positive
+2026-07-07 22:15:15+00:00,CCOI a good buy?,ccoi a good buy,0.4404,positive
+2026-07-07 21:18:40+00:00,Just bought $4M DELL,just bought m dell,0.0,neutral
+2026-07-07 21:08:33+00:00,Been quiet the few weeks $20k->$111k,been quiet the few weeks k k,0.0,neutral
+2026-07-07 20:24:58+00:00,Stop buying options on SPY,stop buying options on spy,-0.296,negative
+2026-07-07 20:16:28+00:00,PUT my Mortgage On AMD,put my mortgage on amd,0.0,neutral
+2026-07-07 20:00:37+00:00,"What Are Your Moves Tomorrow, July 8, 2026",what are your moves tomorrow july,0.0,neutral
+2026-07-07 19:05:21+00:00,DELL staying tough today not letting the market shake it kind of like yours truly,dell staying tough today not letting the market shake it kind of like yours truly,0.4417,positive
+2026-07-07 18:52:52+00:00,Gains from June 2026,gains from june,0.34,positive
+2026-07-07 18:04:49+00:00,SRRK - School House Rock,srrk school house rock,0.0,neutral
+2026-07-07 16:04:56+00:00,Chipotle on me,chipotle on me,0.0,neutral
+2026-07-07 15:43:38+00:00,"USD 60k IBM All-in Portfolio, entirely with Margin",usd k ibm all in portfolio entirely with margin,0.0,neutral
+2026-07-07 15:20:02+00:00,This month has been insane! (& SPY Puts Gain),this month has been insane spy puts gain,0.1779,positive
+2026-07-07 14:55:07+00:00,I am a bag holder,i am a bag holder,0.0,neutral
+2026-07-07 14:33:29+00:00,At least TSLA and QQQ had my back today,at least tsla and qqq had my back today,0.0,neutral
+2026-07-07 14:19:47+00:00,GRPN: this company is not dead -- surprising to some. Theres massive torque to the fundamentals; DD below.,grpn this company is not dead surprising to some theres massive torque to the fundamentals dd below,0.3875,positive
+2026-07-07 14:18:35+00:00,"Classic AMD, goes up $80 crashes $80. Like clockwork.",classic amd goes up crashes like clockwork,0.3612,positive
+2026-07-07 13:05:29+00:00,"Amazon aims to raise $25 billion from bond sale, Bloomberg News reports",amazon aims to raise billion from bond sale bloomberg news reports,0.1779,positive
+2026-07-07 10:37:55+00:00,"Not even a meme at this point, only green stock in premarket daily",not even a meme at this point only green stock in premarket daily,0.0,neutral
+2026-07-07 10:16:21+00:00,Did I Discover The Biggest Opportunity In The Market?,did i discover the biggest opportunity in the market,0.4215,positive
+2026-07-07 10:00:37+00:00,"Daily Discussion Thread for July 7, 2026",daily discussion thread for july,0.0,neutral
+2026-07-07 05:37:45+00:00,RDDT to $300,rddt to,0.0,neutral
+2026-07-07 04:23:55+00:00,SpaceX - Squeeze Potential,spacex squeeze potential,0.0,neutral
+2026-07-07 04:07:37+00:00,Should I just hang it up,should i just hang it up,0.0,neutral
+2026-07-07 01:09:55+00:00,Micron Breaks Ground On $9 Billion Hiroshima Memory Chip Plant,micron breaks ground on billion hiroshima memory chip plant,0.0,neutral
+2026-07-07 00:18:25+00:00,Toyota to invest $3.6 billion to move Tacoma pickup truck production from Mexico to Texas,toyota to invest billion to move tacoma pickup truck production from mexico to texas,0.0,neutral
 2026-07-06 23:23:46+00:00,Being a perma-bear is a bad habit,being a perma bear is a bad habit,-0.5423,negative
 2026-07-06 23:21:20+00:00,"$AVEX — unjammable military drones, first profitable quarter, still mispriced",avex unjammable military drones first profitable quarter still mispriced,0.4404,positive
 2026-07-06 23:04:38+00:00,"Samsung Electronics Announces Earnings Guidance for Second Quarter 2026: 89.4t KW ($58.4b) operating profit, 1902% YOY",samsung electronics announces earnings guidance for second quarter t kw b operating profit yoy,0.4404,positive
@@ -10,7 +38,6 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-07-06 20:00:37+00:00,"What Are Your Moves Tomorrow, July 7, 2026",what are your moves tomorrow july,0.0,neutral
 2026-07-06 17:57:40+00:00,AMD gain…,amd gain,0.5267,positive
 2026-07-06 17:47:13+00:00,$WEN,wen,0.0,neutral
-2026-07-06 17:29:49+00:00,Skill issue (AAPL),skill issue aapl,0.0,neutral
 2026-07-06 17:07:40+00:00,Trump does not like gay bears 🐻,trump does not like gay bears,-0.2755,negative
 2026-07-06 17:07:28+00:00,"YOLO'd $13,500 on $AMD over the weekend AMD $520C 7/17 exp, $15k gain",yolo d on amd over the weekend amd c exp k gain,0.6705,positive
 2026-07-06 16:40:57+00:00,Operation cucchiaio,operation cucchiaio,0.0,neutral
@@ -74,14 +101,8 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-07-02 19:24:39+00:00,"Closing on a house at the end of month. Full margin ~$90,000 down payment on AVAV pre-earnings, had to liquidate a 1k loss, then..",closing on a house at the end of month full margin down payment on avav pre earnings had to liquidate a k loss then,-0.3182,negative
 2026-07-02 18:28:48+00:00,"Palantir's CEO meltdown on TV: ""These models have been completely over, irresponsibly over-sale""",palantir s ceo meltdown on tv these models have been completely over irresponsibly over sale,0.0,neutral
 2026-07-02 17:29:41+00:00,Got liquidated but thankfully just under 25 so will never do this ever again,got liquidated but thankfully just under so will never do this ever again,0.5719,positive
-2026-07-02 17:18:35+00:00,Are reverse splits really always a death sentence?,are reverse splits really always a death sentence,-0.5595,negative
-2026-07-02 16:45:14+00:00,Netflix LEAPs,netflix leaps,0.0,neutral
 2026-07-02 16:34:08+00:00,Weekly earnings thread 7/6 - 7/10,weekly earnings thread,0.0,neutral
-2026-07-02 16:05:20+00:00,The Bull Case for a $300B Reddit (RDDT): Why Closing the ARPU Gap and the AI Moat Make an 8x Return Possible… by 2030,the bull case for a b reddit rddt why closing the arpu gap and the ai moat make an x return possible by,0.0,neutral
-2026-07-02 16:05:00+00:00,$24k VCX YOLO,k vcx yolo,0.2732,positive
 2026-07-02 15:52:57+00:00,$HOOD gain 1500 percent,hood gain percent,0.5267,positive
-2026-07-02 15:43:34+00:00,NBIS Puts +38k 😋,nbis puts k,0.0,neutral
-2026-07-02 15:16:14+00:00,Golden position in ONDS,golden position in onds,0.0,neutral
 2026-07-02 14:34:07+00:00,RKLB 2900->29k,rklb k,0.0,neutral
 2026-07-02 13:29:31+00:00,"Tesla reports 480,126 vehicle deliveries for second quarter, topping expectation",tesla reports vehicle deliveries for second quarter topping expectation,0.0,neutral
 2026-07-02 12:45:11+00:00,"June jobs report: US payrolls rose by 57,000 in June, missing expectations",june jobs report us payrolls rose by in june missing expectations,-0.296,negative
@@ -91,19 +112,16 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-07-02 09:50:43+00:00,South Korean Banks Expand Trading Floors for 24-Hour Won Market,south korean banks expand trading floors for hour won market,0.7184,positive
 2026-07-02 09:48:43+00:00,Open AI to offer Trump Admin 5% stake in company,open ai to offer trump admin stake in company,0.0,neutral
 2026-07-02 09:00:06+00:00,Google loses fight over record $4.7 billion EU antitrust fine,google loses fight over record billion eu antitrust fine,-0.4767,negative
-2026-07-02 08:00:01+00:00,"DC infra stocks will follow the typical ""peak and settle"" shape",dc infra stocks will follow the typical peak and settle shape,0.0,neutral
 2026-07-02 07:56:00+00:00,MSFT earnings,msft earnings,0.0,neutral
 2026-07-02 07:12:01+00:00,KOSPI traders figured out the way around the -8% circuit breaker,kospi traders figured out the way around the circuit breaker,0.0,neutral
 2026-07-02 04:42:35+00:00,Nvidia starts revenue-sharing credit-support model for AI Clouds,nvidia starts revenue sharing credit support model for ai clouds,0.7964,positive
-2026-07-02 04:36:30+00:00,Held on to these for a while but worth it.,held on to these for a while but worth it,0.3291,positive
-2026-07-02 01:26:23+00:00,Crypto didn't work out either,crypto didn t work out either,0.0,neutral
-2026-07-02 01:21:19+00:00,RKLB Loss Porn,rklb loss porn,-0.3182,negative
 2026-07-02 01:05:24+00:00,I'm cooked lost over 50k of my hard earned money if I sell now.,i m cooked lost over k of my hard earned money if i sell now,-0.4019,negative
 2026-07-01 23:49:41+00:00,SK Hynix Files For Nasdaq Debut Under Symbol SKHY – Prepares For Multi-Billion Dollar ADS Sale,sk hynix files for nasdaq debut under symbol skhy prepares for multi billion dollar ads sale,0.0,neutral
 2026-07-01 23:09:20+00:00,Trading has changed my life immeasurably 👼,trading has changed my life immeasurably,0.0,neutral
 2026-07-01 22:00:23+00:00,The Federal Reserve Bank of Atlanta has lowered its GDP growth forecast from 3% to 1.2%,the federal reserve bank of atlanta has lowered its gdp growth forecast from to,0.2732,positive
 2026-07-01 21:30:23+00:00,$17k to be a part of history $WEN,k to be a part of history wen,0.0,neutral
 2026-07-01 21:02:48+00:00,I can finally say “no” to my Boss,i can finally say no to my boss,-0.296,negative
+2026-07-01 20:51:29+00:00,30k loss on meta,k loss on meta,-0.3182,negative
 2026-07-01 20:38:29+00:00,Suckerberg panic bought the entire AI chip supply and now he has no idea what to do with it...,suckerberg panic bought the entire ai chip supply and now he has no idea what to do with it,-0.6705,negative
 2026-07-01 20:19:28+00:00,100K Bet on WEN,k bet on wen,0.0,neutral
 2026-07-01 20:00:38+00:00,"What Are Your Moves Tomorrow, July 2, 2026",what are your moves tomorrow july,0.0,neutral
@@ -112,6 +130,8 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-07-01 17:40:22+00:00,DRAM loss porn,dram loss porn,-0.3182,negative
 2026-07-01 17:09:27+00:00,MSFT Tendies,msft tendies,0.0,neutral
 2026-07-01 17:01:19+00:00,The good.. and the bad 🤣,the good and the bad,-0.1531,negative
+2026-07-01 16:18:55+00:00,$175k in RKLB calls 🚀,k in rklb calls,0.0,neutral
+2026-07-01 15:59:09+00:00,+$75k on AMD puts,k on amd puts,0.0,neutral
 2026-07-01 14:17:05+00:00,"Fed Chief Kevin Warsh declines to hint at July rate decision, but says inflation ‘too high’",fed chief kevin warsh declines to hint at july rate decision but says inflation too high,0.0,neutral
 2026-07-01 12:52:35+00:00,Meta Is Building a Cloud Business to Sell Excess AI Compute,meta is building a cloud business to sell excess ai compute,0.0,neutral
 2026-07-01 12:23:53+00:00,Euro area annual inflation down to 2.8%,euro area annual inflation down to,0.0,neutral
@@ -119,22 +139,3 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-07-01 04:27:43+00:00,My chonker has chosen.,my chonker has chosen,0.0,neutral
 2026-07-01 01:43:07+00:00,AMD just keeps going up,amd just keeps going up,0.0,neutral
 2026-07-01 00:13:42+00:00,Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5,anthropic says trump admin has lifted export controls on claude fable and mythos,0.0,neutral
-2026-06-30 23:14:05+00:00,"Microsoft plans another round of job cuts, impacting thousands of roles",microsoft plans another round of job cuts impacting thousands of roles,-0.296,negative
-2026-06-30 22:09:07+00:00,Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund,nike results top estimates even as china sales drop retailer expects million tariff refund,-0.0772,negative
-2026-06-30 21:00:45+00:00,Michael Beary announces he's shorting Caterpillar,michael beary announces he s shorting caterpillar,0.0,neutral
-2026-06-30 20:43:49+00:00,Palantir Acquires Pentagon For $800 Billion,palantir acquires pentagon for billion,0.0,neutral
-2026-06-30 20:43:06+00:00,This one's for my NKE holders,this one s for my nke holders,0.0,neutral
-2026-06-30 20:34:45+00:00,ASML is my first 200% gain ever. Bought during the April 2025 dip.,asml is my first gain ever bought during the april dip,0.5267,positive
-2026-06-30 20:00:37+00:00,"What Are Your Moves Tomorrow, July 1, 2026",what are your moves tomorrow july,0.0,neutral
-2026-06-30 19:51:56+00:00,Japan’s $926M Push For Rakuten-AST Satellite Network Sparks Rally,japan s m push for rakuten ast satellite network sparks rally,0.0,neutral
-2026-06-30 17:19:41+00:00,SpaceX roth ira guy here with double down $65k call spreads expiring end of month,spacex roth ira guy here with double down k call spreads expiring end of month,0.0,neutral
-2026-06-30 16:53:04+00:00,Successfully inversed this sub,successfully inversed this sub,0.4939,positive
-2026-06-30 14:39:31+00:00,Thank you NBIS,thank you nbis,0.3612,positive
-2026-06-30 14:06:18+00:00,"Going full yolo with the red haired chick, shes kinda cute 🫡",going full yolo with the red haired chick shes kinda cute,0.5868,positive
-2026-06-30 10:58:44+00:00,Yen Tsunami Coming,yen tsunami coming,0.0,neutral
-2026-06-30 10:00:37+00:00,"Daily Discussion Thread for June 30, 2026",daily discussion thread for june,0.0,neutral
-2026-06-30 09:49:58+00:00,Took advantage of yesterday's dip for 500% gain,took advantage of yesterday s dip for gain,0.6597,positive
-2026-06-30 08:48:46+00:00,Used a $20k business overdraft from my dead beef jerky side hustle to go all in on MSTR,used a k business overdraft from my dead beef jerky side hustle to go all in on mstr,-0.6486,negative
-2026-06-30 04:52:28+00:00,Strategy prepares to sell up to $1.25 billion of Bitcoin,strategy prepares to sell up to billion of bitcoin,0.0,neutral
-2026-06-30 02:26:41+00:00,We ain’t no Sellas!,we ain t no sellas,-0.296,negative
-2026-06-30 01:52:41+00:00,YOLO - Market Doesn't Understand Mattel (MAT),yolo market doesn t understand mattel mat,0.2732,positive

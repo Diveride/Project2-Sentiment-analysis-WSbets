@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-06T23:34:18.585091+00:00`
+- Generated at (UTC): `2026-07-07T23:16:31.556252+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | WEN | 9 | 6 | 0.361 | 7.90 | 15.33% | 0.306 |
-| 2 | NVDA | 6 | 5 | 0.119 | 195.55 | -8.94% | 4.017 |
-| 3 | AMD | 9 | 3 | 0.041 | 552.05 | 1.76% | 24.735 |
-| 4 | ZIM | 15 | 1 | 0.994 | 23.71 | -3.22% | 0.634 |
-| 5 | RKLB | 4 | 3 | 0.281 | 93.09 | -18.84% | 7.973 |
-| 6 | NBIS | 3 | 3 | 0.355 | 213.02 | -15.36% | 13.215 |
-| 7 | AVAV | 5 | 2 | 0.257 | 176.84 | -7.64% | 7.350 |
-| 8 | MSTR | 4 | 2 | -0.355 | 100.77 | -20.37% | 17.075 |
-| 9 | HOOD | 4 | 2 | 0.581 | 117.55 | 41.88% | 2.753 |
-| 10 | RDDT | 4 | 2 | 0.707 | 200.86 | 18.51% | 7.980 |
+| 1 | AMD | 12 | 6 | 0.274 | 516.11 | -1.36% | 24.984 |
+| 2 | WEN | 9 | 6 | 0.361 | 7.78 | 15.26% | 0.282 |
+| 3 | NVDA | 6 | 5 | 0.119 | 196.93 | -9.94% | 4.338 |
+| 4 | ZIM | 15 | 1 | 0.994 | 23.92 | -6.01% | 0.731 |
+| 5 | HBM | 8 | 2 | 0.623 | 21.55 | -28.45% | 0.900 |
+| 6 | SPY | 4 | 3 | 0.484 | 747.71 | -1.24% | 7.265 |
+| 7 | TSLA | 4 | 3 | 0.111 | 402.90 | -3.72% | 5.763 |
+| 8 | RKLB | 3 | 3 | 0.298 | 83.41 | -30.46% | 8.425 |
+| 9 | AVAV | 5 | 2 | 0.257 | 162.53 | -20.48% | 7.761 |
+| 10 | HOOD | 4 | 2 | 0.581 | 112.90 | 27.82% | 4.598 |
 
 ### Aggregate Charts
 
@@ -182,6 +182,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
+#### AMD
+
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+
 #### WEN
 
 ![WEN Dashboard](outputs/latest_wsb_analysis/charts/wen_dashboard.png)
@@ -190,35 +194,31 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
 #### ZIM
 
 ![ZIM Dashboard](outputs/latest_wsb_analysis/charts/zim_dashboard.png)
+
+#### HBM
+
+![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
+
+#### SPY
+
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
+#### TSLA
+
+![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 
 #### RKLB
 
 ![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
-#### NBIS
-
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
-
 #### AVAV
 
 ![AVAV Dashboard](outputs/latest_wsb_analysis/charts/avav_dashboard.png)
 
-#### MSTR
-
-![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
-
 #### HOOD
 
 ![HOOD Dashboard](outputs/latest_wsb_analysis/charts/hood_dashboard.png)
-
-#### RDDT
-
-![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
 <!-- AUTO_TOP10_END -->
