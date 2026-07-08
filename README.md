@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-07T23:16:31.556252+00:00`
+- Generated at (UTC): `2026-07-08T23:32:18.452368+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | AMD | 12 | 6 | 0.274 | 516.11 | -1.36% | 24.984 |
-| 2 | WEN | 9 | 6 | 0.361 | 7.78 | 15.26% | 0.282 |
-| 3 | NVDA | 6 | 5 | 0.119 | 196.93 | -9.94% | 4.338 |
-| 4 | ZIM | 15 | 1 | 0.994 | 23.92 | -6.01% | 0.731 |
-| 5 | HBM | 8 | 2 | 0.623 | 21.55 | -28.45% | 0.900 |
-| 6 | SPY | 4 | 3 | 0.484 | 747.71 | -1.24% | 7.265 |
-| 7 | TSLA | 4 | 3 | 0.111 | 402.90 | -3.72% | 5.763 |
-| 8 | RKLB | 3 | 3 | 0.298 | 83.41 | -30.46% | 8.425 |
-| 9 | AVAV | 5 | 2 | 0.257 | 162.53 | -20.48% | 7.761 |
-| 10 | HOOD | 4 | 2 | 0.581 | 112.90 | 27.82% | 4.598 |
+| 1 | AMD | 10 | 4 | 0.201 | 517.41 | 10.94% | 20.730 |
+| 2 | WEN | 6 | 4 | 0.340 | 7.45 | 11.03% | 0.350 |
+| 3 | HBM | 9 | 3 | 0.506 | 20.59 | -19.76% | 0.959 |
+| 4 | NVDA | 5 | 4 | 0.474 | 204.12 | -0.48% | 3.245 |
+| 5 | SPY | 5 | 4 | 0.363 | 745.40 | 1.06% | 5.385 |
+| 6 | NBIS | 7 | 3 | 0.658 | 216.48 | -4.97% | 13.803 |
+| 7 | TSLA | 4 | 3 | 0.111 | 394.06 | 0.78% | 4.699 |
+| 8 | HOOD | 4 | 2 | 0.581 | 113.53 | 37.66% | 4.585 |
+| 9 | GOOGL | 3 | 2 | 0.985 | 361.92 | -1.79% | 9.010 |
+| 10 | ADBE | 3 | 2 | 0.366 | 220.94 | -12.13% | 4.506 |
 
 ### Aggregate Charts
 
@@ -190,35 +190,35 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![WEN Dashboard](outputs/latest_wsb_analysis/charts/wen_dashboard.png)
 
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
-#### ZIM
-
-![ZIM Dashboard](outputs/latest_wsb_analysis/charts/zim_dashboard.png)
-
 #### HBM
 
 ![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
+#### NBIS
+
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+
 #### TSLA
 
 ![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 
-#### RKLB
-
-![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
-
-#### AVAV
-
-![AVAV Dashboard](outputs/latest_wsb_analysis/charts/avav_dashboard.png)
-
 #### HOOD
 
 ![HOOD Dashboard](outputs/latest_wsb_analysis/charts/hood_dashboard.png)
+
+#### GOOGL
+
+![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
+
+#### ADBE
+
+![ADBE Dashboard](outputs/latest_wsb_analysis/charts/adbe_dashboard.png)
 <!-- AUTO_TOP10_END -->
