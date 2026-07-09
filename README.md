@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-08T23:32:18.452368+00:00`
+- Generated at (UTC): `2026-07-09T23:38:45.308111+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | AMD | 10 | 4 | 0.201 | 517.41 | 10.94% | 20.730 |
-| 2 | WEN | 6 | 4 | 0.340 | 7.45 | 11.03% | 0.350 |
-| 3 | HBM | 9 | 3 | 0.506 | 20.59 | -19.76% | 0.959 |
-| 4 | NVDA | 5 | 4 | 0.474 | 204.12 | -0.48% | 3.245 |
-| 5 | SPY | 5 | 4 | 0.363 | 745.40 | 1.06% | 5.385 |
-| 6 | NBIS | 7 | 3 | 0.658 | 216.48 | -4.97% | 13.803 |
-| 7 | TSLA | 4 | 3 | 0.111 | 394.06 | 0.78% | 4.699 |
-| 8 | HOOD | 4 | 2 | 0.581 | 113.53 | 37.66% | 4.585 |
-| 9 | GOOGL | 3 | 2 | 0.985 | 361.92 | -1.79% | 9.010 |
-| 10 | ADBE | 3 | 2 | 0.366 | 220.94 | -12.13% | 4.506 |
+| 1 | AMD | 12 | 6 | 0.258 | 546.72 | 11.50% | 23.115 |
+| 2 | HBM | 11 | 5 | 0.651 | 21.58 | -17.35% | 0.885 |
+| 3 | NVDA | 6 | 5 | 0.182 | 202.78 | -2.81% | 2.920 |
+| 4 | SPY | 5 | 4 | 0.363 | 751.71 | 1.69% | 2.400 |
+| 5 | NBIS | 7 | 3 | 0.658 | 216.20 | -0.83% | 13.744 |
+| 6 | NKE | 14 | 1 | 0.999 | 42.78 | -1.04% | 0.974 |
+| 7 | VECO | 8 | 1 | 0.972 | 57.45 | -5.88% | 3.867 |
+| 8 | WULF | 4 | 2 | 0.255 | 23.20 | -10.29% | 1.177 |
+| 9 | IBM | 4 | 2 | 0.457 | 295.30 | 5.16% | 7.331 |
+| 10 | USAR | 7 | 1 | 0.487 | 18.87 | -15.04% | 0.574 |
 
 ### Aggregate Charts
 
@@ -185,10 +185,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
-#### WEN
-
-![WEN Dashboard](outputs/latest_wsb_analysis/charts/wen_dashboard.png)
 
 #### HBM
 
@@ -206,19 +202,23 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 
-#### TSLA
+#### NKE
 
-![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
+![NKE Dashboard](outputs/latest_wsb_analysis/charts/nke_dashboard.png)
 
-#### HOOD
+#### VECO
 
-![HOOD Dashboard](outputs/latest_wsb_analysis/charts/hood_dashboard.png)
+![VECO Dashboard](outputs/latest_wsb_analysis/charts/veco_dashboard.png)
 
-#### GOOGL
+#### WULF
 
-![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
+![WULF Dashboard](outputs/latest_wsb_analysis/charts/wulf_dashboard.png)
 
-#### ADBE
+#### IBM
 
-![ADBE Dashboard](outputs/latest_wsb_analysis/charts/adbe_dashboard.png)
+![IBM Dashboard](outputs/latest_wsb_analysis/charts/ibm_dashboard.png)
+
+#### USAR
+
+![USAR Dashboard](outputs/latest_wsb_analysis/charts/usar_dashboard.png)
 <!-- AUTO_TOP10_END -->

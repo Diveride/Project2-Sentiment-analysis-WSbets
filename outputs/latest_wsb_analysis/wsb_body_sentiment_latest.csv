@@ -1,4 +1,368 @@
 created_utc,body,clean_body,body_sentiment,body_label
+2026-07-09 23:29:09+00:00,Sold some of these today near the top but HODLing the rest,sold some of these today near the top but hodling the rest,0.1027,positive
+2026-07-09 23:14:38+00:00,,nan,0.0,neutral
+2026-07-09 23:10:14+00:00,"Space stocks and chip stocks are the same trade in a trench coat. ASTS makes satellites (chips in orbit). MU makes memory (chips in data centers). 
+
+*2026: The Year of Silicon. Realized $1.35M from chips + memory. History books will call this* 
+
+|Ticker        |Realized Gain     |What It Does                 |  
+|--------------|------------------|-----------------------------|  
+|MU            |+$772,309.80      |Memory chips (HBM)           |  
+|CLSK          |+$209,855.99      |Bitcoin mining chips (ASIC)  |  
+|INTC          |+$188,332.58      |CPU/foundry chips            |  
+|ASTS          |+$173,507.18      |Satellite communication chips|  
+|WDC           |+$86,023.51       |Storage chips (NAND)         |  
+|\*\*Chip Total\*\*|\*\*+$1,430,028.06\*\*|\*\*THE ENTIRE ECONOMY\*\*       |",space stocks and chip stocks are the same trade in a trench coat asts makes satellites chips in orbit mu makes memory chips in data centers the year of silicon realized m from chips memory history books will call this ticker realized gain what it does mu memory chips hbm clsk bitcoin mining chips asic intc cpu foundry chips asts satellite communication chips wdc storage chips nand chip total the entire economy,0.5267,positive
+2026-07-09 22:49:45+00:00,"Below outlines my journey:
+
+\-May of 2025, I moved my 401k to a personal choice account. I got sick of all the dips occuring mid-month. My port had something like 8 holdings, all index ETFs, 70% VOO. I can buy the dips now.
+
+""I will NEVER buy an individual stock""
+
+\-October 2025, I bought my first individual stock. One I have a personal connection with, a very stable industrial.
+
+""Just this one, and only for 6-9 months""
+
+""I will NEVER trade options.""
+
+\-January 2026, My port now has 25+ holdings, 5-10 individual stocks at any given time, 1-4% allocations.
+
+""I'm just creating my own ETF, it's not like I'm trading options""
+
+\-May 2026, my port at one point is 20% SNDK and 20% MU. I did get out of it with a 10% gain on my entire net worth.
+
+""I will NEVER trade options""
+
+\-July 8 2026, I bought my first leveraged ETF in the after-hours in my taxable account to sell the next day. 50-50 shot and it paid off.
+
+\-July 9 2026, I activated Tier 1 options in my taxable account. Planning on trying some 0DTE tomorrow.
+
+WSB played a big part in this.
+
+**TLDR: Boglehead turned into a degenerate.**",below outlines my journey may of i moved my k to a personal choice account i got sick of all the dips occuring mid month my port had something like holdings all index etfs voo i can buy the dips now i will never buy an individual stock october i bought my first individual stock one i have a personal connection with a very stable industrial just this one and only for months i will never trade options january my port now has holdings individual stocks at any given time allocations i m just creating my own etf it s not like i m trading options may my port at one point is sndk and mu i did get out of it with a gain on my entire net worth i will never trade options july i bought my first leveraged etf in the after hours in my taxable account to sell the next day shot and it paid off july i activated tier options in my taxable account planning on trying some dte tomorrow wsb played a big part in this tldr boglehead turned into a degenerate,0.902,positive
+2026-07-09 22:38:02+00:00,"There were 50M shares of $PATH block trades made after hours today. That is massive - over half a billion dollars worth of PATH exchanging hands after-hours.
+
+These were block trades, so it didn't move the share price, but it moved ownership.
+
+This could be signaling a few different things:
+
+\- Heavy institutional buying
+
+\- Massive company buybacks
+
+\- Share accumulation for a buyout
+
+Either way, none of it seems bearish to me 👀",there were m shares of path block trades made after hours today that is massive over half a billion dollars worth of path exchanging hands after hours these were block trades so it didn t move the share price but it moved ownership this could be signaling a few different things heavy institutional buying massive company buybacks share accumulation for a buyout either way none of it seems bearish to me,0.3716,positive
+2026-07-09 22:29:09+00:00,,nan,0.0,neutral
+2026-07-09 22:16:33+00:00,,nan,0.0,neutral
+2026-07-09 22:02:08+00:00,"Yes, I know this is WSB, and I’m a regard. But this is too crazy of a coincidence to ignore. 
+
+SK Hynix IPO tomorrow.  \~$28B raise, biggest foreign listing in US history, second biggest IPO ever behind SpaceX last month. Demand reportedly running 7x the shares available.
+
+For anyone who wasn't trading in 2000: AT&T Wireless priced April 26, 2000. $10.6B, biggest US IPO ever at the time. People remember it as ""the IPO that popped the dot com bubble."" It didn't. Nasdaq topped March 10. The IPO came six weeks AFTER the top. What it actually did was soak up the last of the marginal liquidity. Retail finally got their allocation, stock popped \~7% day one, then bled for two years until Cingular bought the carcass. The mega IPO didn't cause the crash, it confirmed the market had run out of new buyers. First chart shows this.
+
+Why SKHY rhymes with it:
+
+\- They're selling shares at the absolute peak of a memory cycle to fund capex (new fabs + EUV machines). Literally raising money to build the supply that ends the shortage. AT&T Wireless did the exact same thing with its 3G buildout  
+\- Korean shares up \~700% in 12 months, and already down 25% from the June peak before the ADRs even price  
+\- Samsung just reported slowing price increases and dropped 7%  
+\- SK Hynix's own comments about slowing AI memory investment gave the Kospi its 5th worst day EVER last month. That kind of single day volatility has historically only shown up in bear markets  
+\- trades around 7x 2026 earnings estimates, which sounds cheap until you remember these same companies had negative gross margins a few years ago. memory always looks cheapest on peak earnings, that's the trap. you buy cyclicals at high P/E and sell at low P/E, not the other way around
+
+Why it's different from 2000: these companies actually print money, hynix is guiding to something like $144B net income this year. And honestly it's probably not any single deal that matters, it's the cumulative issuance. SpaceX $75B + SKHY $28B + whatever OpenAI/Anthropic do later. Hyperscaler capex is heading toward $1T/yr and cash flow can't fund it anymore, so everyone's tapping debt and equity markets at once. Same core problem as 2000: supply of paper growing faster than the marginal buyer's cash. Third chart.
+
+To be clear I'm not calling the top. The honest lesson from 2000 is nobody knew AT&T Wireless marked it until way later. But I'll be watching SKHY's first couple weeks closely. Strong pricing, day one pop, then a slow fade while breadth narrows = that's the 2000 script. If it holds and memory names base out, probably another leg higher.
+
+Charts attached. Data is actual Nasdaq daily closes for both periods. IPO sizes are nominal dollars, AWE's $10.6B is roughly $19-20B today, so SKHY is bigger in real terms but not 3x bigger, before anyone comes at me.
+
+Not financial advice…",yes i know this is wsb and i m a regard but this is too crazy of a coincidence to ignore sk hynix ipo tomorrow b raise biggest foreign listing in us history second biggest ipo ever behind spacex last month demand reportedly running x the shares available for anyone who wasn t trading in at t wireless priced april b biggest us ipo ever at the time people remember it as the ipo that popped the dot com bubble it didn t nasdaq topped march the ipo came six weeks after the top what it actually did was soak up the last of the marginal liquidity retail finally got their allocation stock popped day one then bled for two years until cingular bought the carcass the mega ipo didn t cause the crash it confirmed the market had run out of new buyers first chart shows this why skhy rhymes with it they re selling shares at the absolute peak of a memory cycle to fund capex new fabs euv machines literally raising money to build the supply that ends the shortage at t wireless did the exact same thing with its g buildout korean shares up in months and already down from the june peak before the adrs even price samsung just reported slowing price increases and dropped sk hynix s own comments about slowing ai memory investment gave the kospi its th worst day ever last month that kind of single day volatility has historically only shown up in bear markets trades around x earnings estimates which sounds cheap until you remember these same companies had negative gross margins a few years ago memory always looks cheapest on peak earnings that s the trap you buy cyclicals at high p e and sell at low p e not the other way around why it s different from these companies actually print money hynix is guiding to something like b net income this year and honestly it s probably not any single deal that matters it s the cumulative issuance spacex b skhy b whatever openai anthropic do later hyperscaler capex is heading toward t yr and cash flow can t fund it anymore so everyone s tapping debt and equity markets at once same core problem as supply of paper growing faster than the marginal buyer s cash third chart to be clear i m not calling the top the honest lesson from is nobody knew at t wireless marked it until way later but i ll be watching skhy s first couple weeks closely strong pricing day one pop then a slow fade while breadth narrows that s the script if it holds and memory names base out probably another leg higher charts attached data is actual nasdaq daily closes for both periods ipo sizes are nominal dollars awe s b is roughly b today so skhy is bigger in real terms but not x bigger before anyone comes at me not financial advice,-0.8124,negative
+2026-07-09 21:56:18+00:00,"Ok guys, I downloaded Robinhood Wallet last week. Started dabbling with some onchain tokens and fast forward to today, Vlad is actively pumping their new onchain platform declaring it today “Robinhood Summer”. 1 token has already exploded to 130m mc and others are going straight up in a straight line with volume continuing to increase.
+
+I’m not here to pump anything or tell anyone what to do, but wouldn’t it be retarded not to think Robinhood Chain goes stupid and gives crypto an alt season again?
+
+Robinhood dwarfs Coinbase as far as assets held ($400B) and active users (27m). If even 10% decides to go onchain, that’s a huge capture and liquidity injection into robinhood chain.
+
+Right now it’s early enough to capture upside momentum just like in chains of the past (Solana) except Robinhood already has the users, and being able to go from trading options during the week to trading memecoins on weekends seamlessly while markets are closed seems like an incredibly easy on-ramp and frictionless which should turn into explosive growth.
+
+As of today there has been 150,000 new wallets in the past 24 hours, and robinhood dex trading volume hit $500m and is currently #4 dex in 24 hour volume in crypto.
+
+I decided to run some numbers on Claude for Robinhood vs Solana which is where the memecoin frenzy went crazy in 2024, and honestly, I think Robinhood onchain has the potential to dwarf that alt season.
+
+Anyways, just talking off the top of my head and I plan to continue getting exposure and seeing what happens with this. Would love to hear if anyone else is also dabbling on RH onchain and their thoughts, or if I’m just stupid and rtrded?",ok guys i downloaded robinhood wallet last week started dabbling with some onchain tokens and fast forward to today vlad is actively pumping their new onchain platform declaring it today robinhood summer token has already exploded to m mc and others are going straight up in a straight line with volume continuing to increase i m not here to pump anything or tell anyone what to do but wouldn t it be retarded not to think robinhood chain goes stupid and gives crypto an alt season again robinhood dwarfs coinbase as far as assets held b and active users m if even decides to go onchain that s a huge capture and liquidity injection into robinhood chain right now it s early enough to capture upside momentum just like in chains of the past solana except robinhood already has the users and being able to go from trading options during the week to trading memecoins on weekends seamlessly while markets are closed seems like an incredibly easy on ramp and frictionless which should turn into explosive growth as of today there has been new wallets in the past hours and robinhood dex trading volume hit m and is currently dex in hour volume in crypto i decided to run some numbers on claude for robinhood vs solana which is where the memecoin frenzy went crazy in and honestly i think robinhood onchain has the potential to dwarf that alt season anyways just talking off the top of my head and i plan to continue getting exposure and seeing what happens with this would love to hear if anyone else is also dabbling on rh onchain and their thoughts or if i m just stupid and rtrded,0.9534,positive
+2026-07-09 21:12:48+00:00,,nan,0.0,neutral
+2026-07-09 20:53:25+00:00,"I’m long 3,546 shares of MSOS across 3 accounts, so yes, I am already in the weed stock dumpster with the rest of the bagholders.
+
+**This is not a short squeeze post. The short interest is not the thesis.**
+
+The thesis is simpler: I think the market is treating cannabis rescheduling like nothing meaningful can happen soon, and I’m not sure that’s right.
+
+Current consensus seems pretty obvious:
+
+* Schedule III is slow
+* July 15 is just process
+* DEA takes forever
+* cannabis always disappoints
+* MSOS holders are permanently cooked
+
+Honestly, fair. This sector has been a graveyard.
+
+But the part I think people are underpricing is 280E.
+
+For anyone who has not followed this garbage sector, 280E is the tax rule that has been wrecking U.S. cannabis operators for years. They pay taxes like drug traffickers and do not get normal business deductions. It is one of the main reasons these companies can have real revenue and still look financially cursed.
+
+If Schedule III eventually kills 280E going forward, that is already bullish.
+
+But the real grenade is retroactive 280E relief / protective refund claims.
+
+If Treasury or IRS guidance gives MSOs a real path to retroactive relief, this stops being a weed-stock vibes trade and becomes a balance-sheet trade.
+
+That could mean refunds, reduced tax liabilities, better liquidity, less debt panic, and a fast rerate across the U.S. MSO basket.
+
+The important part is timing. This does not necessarily need to arrive on a clean court schedule. Tax guidance can just drop. The market seems to be pricing this like delay is guaranteed and surprise is impossible.
+
+Could this still go nowhere? Obviously.
+
+Cannabis has blue-balled traders for years. July 15 does not automatically mean final rescheduling. Guidance could be narrow. The IRS could tell everyone to pound sand. MSOS could keep doing MSOS things and bleed out while everyone argues about federal process.
+
+That is why I’m in shares instead of weeklies. I do not trust myself, the government, or weed stocks enough to time this with options.
+
+I’m not saying this is guaranteed. I’m saying the setup looks ugly enough, hated enough, and weird enough that I actually like it.
+
+*""Be fearful when others are greedy, and greedy when others are fearful.""*
+
+Position: 3,546 shares of MSOS across 3 accounts. No calls right now.",i m long shares of msos across accounts so yes i am already in the weed stock dumpster with the rest of the bagholders this is not a short squeeze post the short interest is not the thesis the thesis is simpler i think the market is treating cannabis rescheduling like nothing meaningful can happen soon and i m not sure that s right current consensus seems pretty obvious schedule iii is slow july is just process dea takes forever cannabis always disappoints msos holders are permanently cooked honestly fair this sector has been a graveyard but the part i think people are underpricing is e for anyone who has not followed this garbage sector e is the tax rule that has been wrecking u s cannabis operators for years they pay taxes like drug traffickers and do not get normal business deductions it is one of the main reasons these companies can have real revenue and still look financially cursed if schedule iii eventually kills e going forward that is already bullish but the real grenade is retroactive e relief protective refund claims if treasury or irs guidance gives msos a real path to retroactive relief this stops being a weed stock vibes trade and becomes a balance sheet trade that could mean refunds reduced tax liabilities better liquidity less debt panic and a fast rerate across the u s mso basket the important part is timing this does not necessarily need to arrive on a clean court schedule tax guidance can just drop the market seems to be pricing this like delay is guaranteed and surprise is impossible could this still go nowhere obviously cannabis has blue balled traders for years july does not automatically mean final rescheduling guidance could be narrow the irs could tell everyone to pound sand msos could keep doing msos things and bleed out while everyone argues about federal process that is why i m in shares instead of weeklies i do not trust myself the government or weed stocks enough to time this with options i m not saying this is guaranteed i m saying the setup looks ugly enough hated enough and weird enough that i actually like it be fearful when others are greedy and greedy when others are fearful position shares of msos across accounts no calls right now,-0.9508,negative
+2026-07-09 20:28:37+00:00,Biggest gains were from the AMD calls I bought yesterday 30mins from close.,biggest gains were from the amd calls i bought yesterday mins from close,0.34,positive
+2026-07-09 20:24:29+00:00,"Lately, I've noticed you've been pretty split in the comments... so what's the verdict, bullish or bearish for July?
+
+Don't let me down.",lately i ve noticed you ve been pretty split in the comments so what s the verdict bullish or bearish for july don t let me down,0.6204,positive
+2026-07-09 20:23:57+00:00,Good luck tomorrow everyone ,good luck tomorrow everyone,0.7096,positive
+2026-07-09 20:15:08+00:00,,nan,0.0,neutral
+2026-07-09 20:14:12+00:00,This is my current positioning. I feel like every second of my life there is someone chasing me. Do I just sell everything and walk away?,this is my current positioning i feel like every second of my life there is someone chasing me do i just sell everything and walk away,0.3612,positive
+2026-07-09 20:05:31+00:00,this is $WULF's chart pattern today. some of the market operators had lots of fun today. ,this is wulf s chart pattern today some of the market operators had lots of fun today,0.5106,positive
+2026-07-09 20:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1us1ap7),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-07-09 19:46:08+00:00,"Dear regards,
+
+I am writing to you to inform you on the next best degen ticker for the most restarted regards. No financial advice here buddy, invest at your own risk. I gave you [BITF](https://www.reddit.com/r/wallstreetbets/comments/1nesqr3/dd_on_bitf_a_speculative_but_undervalued_company/) at $2.2 last year, KEEL (the new ticker) peaked at $7.37 (+235%).
+
+Now, I present to you Veeco Instruments (VECO) at a measly $3.5b market cap.
+
+First, some background on the market dimension. According to SemiAnalysis, Samsung is expected to add 175k in additional DRAM wafer capacity, Micron is expected to add 235k, and SK Hynix with 210k in the coming 3 years. China is expanding rapidly into memory – CXMT will have 235k in additional capacity. Elon’s new fab is expected to cost $119b – Elon is a fantasy man living in dream land but this has been verified to be real by reports of channel checks.
+
+So how do you capitalize on this without taking on the risk of memory prices collapsing? By investing in companies that make equipment fueling this buildout. And this is where VECO comes in. VECO is the leader of laser spike annealing (LSA) equipment used in the most cutting edge fabs.
+
+* LSA improves the density, bandwidth, yield, and power per bit for memory -> incredibly necessary for newer generations of GPU as there is no signs of the needs of memory decreasing
+* LSA solves the challenge of increasing the number of DRAM stacks for HBM, directly enabling next generation memory
+* Memory CapEx, as previously established, is only increasing
+* They are the ""Tool of Record"" for laser annealing, aka rated as the standard for this type of tech by 2+ leading companies
+* Axcelis merger pending approval from only China (approved in other jurisdictions)
+* Exposure to China revenue -> VECO can capitalize on CXMT and YMTC buildouts 
+
+At a their current FWD P/E, they are incredibly undervalued. Using AMAT, LRCX, KLAC, ONTO, FORM, ACMR, and ACLS as comps, I get to a sexy $145 blended valuation.
+
+Can VECO 10x? Yes, it can. Can VECO go to bag-holder land? Yes, it can. Invest at your own risk.
+
+Have fun
+
+Regards,
+
+Checazzo
+
+https://preview.redd.it/sgzqs765c9ch1.png?width=538&format=png&auto=webp&s=ebbac656147cb7ddbcdd371d2fd79ab4d593bb12
+
+  
+",dear regards i am writing to you to inform you on the next best degen ticker for the most restarted regards no financial advice here buddy invest at your own risk i gave you bitf at last year keel the new ticker peaked at now i present to you veeco instruments veco at a measly b market cap first some background on the market dimension according to semianalysis samsung is expected to add k in additional dram wafer capacity micron is expected to add k and sk hynix with k in the coming years china is expanding rapidly into memory cxmt will have k in additional capacity elon s new fab is expected to cost b elon is a fantasy man living in dream land but this has been verified to be real by reports of channel checks so how do you capitalize on this without taking on the risk of memory prices collapsing by investing in companies that make equipment fueling this buildout and this is where veco comes in veco is the leader of laser spike annealing lsa equipment used in the most cutting edge fabs lsa improves the density bandwidth yield and power per bit for memory incredibly necessary for newer generations of gpu as there is no signs of the needs of memory decreasing lsa solves the challenge of increasing the number of dram stacks for hbm directly enabling next generation memory memory capex as previously established is only increasing they are the tool of record for laser annealing aka rated as the standard for this type of tech by leading companies axcelis merger pending approval from only china approved in other jurisdictions exposure to china revenue veco can capitalize on cxmt and ymtc buildouts at a their current fwd p e they are incredibly undervalued using amat lrcx klac onto form acmr and acls as comps i get to a sexy blended valuation can veco x yes it can can veco go to bag holder land yes it can invest at your own risk have fun regards checazzo,0.9761,positive
+2026-07-09 19:21:42+00:00,"Full port into $PENG. They just crushed their earnings report on Tuesday and it's up from here. Memory stocks aren't going away. 
+
+* Integrated memory growing at 111% YoY.
+* Total rev growth went from -6% to +30%. 
+* Nvidia Ai specialized factory partner
+* Built the industry's first production-ready CXL KV cache server
+
+CEO Kash Shaikh - As inference and agentic AI workloads become more persistent and context-rich, memory is increasingly becoming one of the primary performance and scalability bottlenecks.",full port into peng they just crushed their earnings report on tuesday and it s up from here memory stocks aren t going away integrated memory growing at yoy total rev growth went from to nvidia ai specialized factory partner built the industry s first production ready cxl kv cache server ceo kash shaikh as inference and agentic ai workloads become more persistent and context rich memory is increasingly becoming one of the primary performance and scalability bottlenecks,0.765,positive
+2026-07-09 19:03:52+00:00,"Too many otm spx calls makes me a dumb boy   
+Also sports betting on a game I know nothing about ",too many otm spx calls makes me a dumb boy also sports betting on a game i know nothing about,-0.5106,negative
+2026-07-09 18:27:08+00:00,,nan,0.0,neutral
+2026-07-09 18:18:46+00:00,100% in,in,0.0,neutral
+2026-07-09 17:58:20+00:00,Was expecting a bounce but today’s pump was wild. I saw a fat purchase of $430 strikes exp 7/17 a few minutes after the open and followed with this short exp yolo,was expecting a bounce but today s pump was wild i saw a fat purchase of strikes exp a few minutes after the open and followed with this short exp yolo,-0.1531,negative
+2026-07-09 14:56:14+00:00,,nan,0.0,neutral
+2026-07-09 14:38:29+00:00,"Hello fellow degenerates! I’ve been a long time lurker and have loved watching your plays over the years. You’ve brought me a lot of laughs and helped me lose a lot of money. Hopefully I can return the favor with this DD.
+
+I present to you Nike. Nike is an athletics behemoth that rapidly became a cornerstone of American culture and fashion. From 1986 to 2019, Nike saw incredible growth from $900M in revenue to over $40B.  
+
+Today, Nike is in a bit of a rut. Revenues have declined year over year for the last two years. [From their earnings call](https://s1.q4cdn.com/806093406/files/doc_financials/2026/q4/NIKE-Inc-Q4FY26-OFFICIAL-Transcript_-FINAL.pdf), executives don’t really see things getting better for the next 2 quarters. Things look bleak, sales in China are down, consumer spending has slowed, and their Nike sportswear and Jordan streetwear will operate at a loss this year. They’re in desperate need of a hero to turn things around.
+
+https://preview.redd.it/vx76xy3ot7ch1.png?width=200&format=png&auto=webp&s=4c77d65610d496d3dcaf28e6f3bc9cd8e2469474
+
+Enter LeBron James, the mastermind behind Taco Tuesday™ and father of NBA player Bronny James. LeBron is the oldest man at his job and his performance has started to slip. There are rumors that this may very well be his last season in the league. His status as the greatest basketball player ever is debatable, and we’re not gonna get into that today. But what we will look at is jersey sales. [LeBron has recently decided that he will not return to the Tune Squad](https://www.nytimes.com/athletic/7302889/2026/06/30/lebron-james-returns-leaving-lakers-nba/), which means he will be in need of a new jersey. Now all LeFans will need to buy a new jersey to add to their collection. LeBron has consistently been in the top 3 of individual player jersey sales.
+
+From 2020 Season (from NBA.com):
+
+https://preview.redd.it/utik6y3ot7ch1.png?width=680&format=png&auto=webp&s=32007d8e274f254f79e09e75a97f21d670836ec9
+
+From 2025 Season:
+
+https://preview.redd.it/8c88ga4ot7ch1.png?width=1536&format=png&auto=webp&s=88edd11632af1d466bf08563d140e0a63f15ec1b
+
+LeBron is one of Nike’s greatest success stories, being with the brand since 2003. This will be LeBron’s 4th time changing teams. We all know that past performance is the best indicator of future results, so let’s dive in. 
+
+My initial thought was that the day LeBron announced his new team would lead to a significant jump in NKE stock. There was absolutely no evidence of this but I already bought a small amount of lotto calls for this event so I guess I’m rolling with it. Instead we’re looking at data over a longer timeframe and some other key events. 
+
+Entering the league: LeBron was drafted by the Cleveland Cavaliers in the summer of 2003. For the quarter ending September of 2003, [Nike had revenues of $3B, above their September 2002 quarter revenue of $2.8B](https://discountingcashflows.com/company/NKE/earnings/) (7% increase). NKE stock was trading at $6.7 (July 2003) and grew to $7.6 by the end of September, a 13% rise. The stock price reached $9.8 by the end of the season in April, a 46% rise. (all historical stock data from [Yahoo Finance](https://finance.yahoo.com/quote/NKE/history/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAAARFcVDG7E4RBSYwbq2NvFTg_ihsM60K3-56-Kxyajm3tPRj5PaFVoerfOL4dRK-Onj-oLFOORXJaXQgF6YMx6qxxwu7cMoHbKtrfGTYepBYjR5_cMVyC_2ZV7vEbup_jA9JdB8ayK4_N9dOvlulwphemxGAeN8Qdvwqx0Ezz__I)) 
+
+Cleveland to Miami (The Decision): in the summer of 2010, LeBron announced he was taking his talents to South Beach. For the quarter ending September of 2010, [Nike had revenues of $5.17B, above their September 2009 quarter revenue of $4.8B](https://discountingcashflows.com/company/NKE/earnings/) (7.7% increase). NKE stock was trading at $17 (start of July 2010), growing to $20 by the end of September, a 21% increase. The stock peaked mid season around $22 dollars in March, a 29% rise.
+
+Return to Cleveland: in the summer of 2014, LeBron announced he was returning to Cleveland to bring the city whose economy was based on him their first championship in decades. For the quarter ending September of 2014, [Nike had revenues of $7.98B, above their September 2013 quarter revenue of $7B](https://discountingcashflows.com/company/NKE/earnings/) (14% increase). NKE stock was trading at $39 (start of July 2014), and grew to $44.6 by the end of September (10% increase) and continuing to grow throughout the season to a price of $50 by season end, a 28% increase. 
+
+Cleveland to LA: in the summer of 2018, LeBron announced he was going to the LA Lakers to fulfill his lifelong dream of starring in Space Jam 2. For the quarter ending September of 2018, [Nike had revenues of $9.9B, above their September 2017 quarter revenue of $9.1B](https://discountingcashflows.com/company/NKE/earnings/) (8.7% increase). NKE stock was trading at $79 (start of July 2018), and grew to $85 by the end of September (7% increase). The stock was much more turbulent this year but ended up peaking at $90 during the playoffs in April (14% increase).  
+
+GOAT Comparison: There is a good chance that this year could be LeBron’s final year in the NBA, based on speculation from various NBA pundits and news coming out of LeBron’s camp. So, let’s look at Michael Jordan’s retirement comeback with the Wizards in 2001-2002. Jordan announced his return on 9/25/2001, when Nike was trading at $5.80. Nike peaked at $8 per share in March 2002, a 38% increase. The revenues are a little strange here, because Jordan didn’t sign in the summer like typical NBA free agents, so they declined year over year.
+
+So there it is. Looking at the revenue, we had average revenue increases of 9% over the previous summer quarter. In September 2025, Nike had revenues of $11.7 Billion, and a 9% increase would give us $12.7B, significantly higher than their guidance of $11.4B. Are we really going to sell $1.3 BILLION worth of LeBron jerseys over the next two months? Lol probably not. But historically the summer quarter has been Nike’s strongest and had some good beats over the years. 
+
+On the stock price side, by September, we had an average increase of 12% in Nike stock. We could expect a peak increase somewhere midseason (6-9 months away) of 35%. If we assume that our current LeBron event is similar, that would put us at $48 by September and $58 between December-April. 
+
+https://preview.redd.it/bkpl1z3ot7ch1.png?width=1080&format=png&auto=webp&s=4e3d082cd668684592de7aff866e81bdadd8d955
+
+When I had my grand delusion that LeBron might save Nike, I was hoping for better returns than 35% over 9 months. Honestly, these don’t really get it up for me. So let’s dream bigger. Maybe LeBron himself isn’t the key, but the NBA as a whole. 
+
+There have been a lot of wild moves this NBA offseason. Many stars will play for a new team next year. These stars, including Giannis, Paul George, Kawhi, Ja Morant, Trae Young, Anthony Davis, and LaMelo Ball, have all ranked within the top 15 of jersey sales posted by the NBA multiple times. These stars will command more jersey sales throughout the year. As of 2017, guess who is the official distributor of ALL NBA jerseys? ([It’s Nike](https://www.nba.com/news/nike-signs-12-year-partnership-extension-nba-wnba-g-league)). And if this truly is LeBron’s last year, the eyes and media coverage that the NBA will get will be massive. [Viewership is already returning to highs not seen since Michael Jordan’s retirement tour 24 years ago.](https://www.nba.com/news/nba-regular-season-2025-26-most-viewers-24-years) 
+
+Yes Nike has and may continue to experience headwinds. But I think the tide is turning and I think basketball is going to make it happen. I don’t know the demographics of you degenerates, but I think there’s a reason for everyone to jump in.
+
+[Insiders](https://www.marketbeat.com/stocks/NYSE/NKE/insider-trades/): the CEO is buying. He’s no Pelosi, but maybe you wanna follow him.
+
+[Europoors](https://www.nytimes.com/athletic/7397349/2026/06/26/usmnt-jerseys-nike-world-cup/): Nike is the official sponsor of Team USA football kits. They sold out of most of their gear and the US has actually been winning. Maybe we’re finally gonna care about soccer (doubtful).
+
+[Runners](https://s1.q4cdn.com/806093406/files/doc_financials/2026/q4/NIKE-Inc-Q4FY26-OFFICIAL-Transcript_-FINAL.pdf): Apparently Nike’s running division is growing by double digits. I was a runner and always hated their shoes, but maybe they are good now.
+
+Boomers: Nike’s dividend has become increasingly juicy (>3% yield) with the drop in stock price.
+
+Technical Analysis:
+
+https://preview.redd.it/yxqkz44ot7ch1.png?width=1149&format=png&auto=webp&s=ca85999949ef62572b73f07971fd2add62a75ad1
+
+To the asstrology crowd, fuck y’all. I don’t know what any of this means. But it’s probably gonna go up I guess. 
+
+Well that’s all folks. I don’t know exactly why, but I think Nike’s going up and getting money by any means necessary. Maybe Anthony Edwards will knock up the Greek goddess of victory herself and owe child support. That’s profit, baby. The Olympics are coming up and they’re in America too. Ozempic is making people skinnier and maybe they’ll start exercising. Take your pick and buy calls or shares or something (NFA). Just do it™.
+
+TLDR: Nike up short term (15%-35% over 3-9 months) and on all timeframes because of LeBron’s new team + retirement tour. 
+
+Positions:
+
+https://preview.redd.it/tfptp44ot7ch1.png?width=1106&format=png&auto=webp&s=69beb14f1d038b8160b0143499e55cb8d92c2159
+
+20 Oct NKE $50 Calls  
+10 Jan NKE $50 Calls
+
+",hello fellow degenerates i ve been a long time lurker and have loved watching your plays over the years you ve brought me a lot of laughs and helped me lose a lot of money hopefully i can return the favor with this dd i present to you nike nike is an athletics behemoth that rapidly became a cornerstone of american culture and fashion from to nike saw incredible growth from m in revenue to over b today nike is in a bit of a rut revenues have declined year over year for the last two years from their earnings call executives don t really see things getting better for the next quarters things look bleak sales in china are down consumer spending has slowed and their nike sportswear and jordan streetwear will operate at a loss this year they re in desperate need of a hero to turn things around enter lebron james the mastermind behind taco tuesday and father of nba player bronny james lebron is the oldest man at his job and his performance has started to slip there are rumors that this may very well be his last season in the league his status as the greatest basketball player ever is debatable and we re not gonna get into that today but what we will look at is jersey sales lebron has recently decided that he will not return to the tune squad which means he will be in need of a new jersey now all lefans will need to buy a new jersey to add to their collection lebron has consistently been in the top of individual player jersey sales from season from nba com from season lebron is one of nike s greatest success stories being with the brand since this will be lebron s th time changing teams we all know that past performance is the best indicator of future results so let s dive in my initial thought was that the day lebron announced his new team would lead to a significant jump in nke stock there was absolutely no evidence of this but i already bought a small amount of lotto calls for this event so i guess i m rolling with it instead we re looking at data over a longer timeframe and some other key events entering the league lebron was drafted by the cleveland cavaliers in the summer of for the quarter ending september of nike had revenues of b above their september quarter revenue of b increase nke stock was trading at july and grew to by the end of september a rise the stock price reached by the end of the season in april a rise all historical stock data from yahoo finance cleveland to miami the decision in the summer of lebron announced he was taking his talents to south beach for the quarter ending september of nike had revenues of b above their september quarter revenue of b increase nke stock was trading at start of july growing to by the end of september a increase the stock peaked mid season around dollars in march a rise return to cleveland in the summer of lebron announced he was returning to cleveland to bring the city whose economy was based on him their first championship in decades for the quarter ending september of nike had revenues of b above their september quarter revenue of b increase nke stock was trading at start of july and grew to by the end of september increase and continuing to grow throughout the season to a price of by season end a increase cleveland to la in the summer of lebron announced he was going to the la lakers to fulfill his lifelong dream of starring in space jam for the quarter ending september of nike had revenues of b above their september quarter revenue of b increase nke stock was trading at start of july and grew to by the end of september increase the stock was much more turbulent this year but ended up peaking at during the playoffs in april increase goat comparison there is a good chance that this year could be lebron s final year in the nba based on speculation from various nba pundits and news coming out of lebron s camp so let s look at michael jordan s retirement comeback with the wizards in jordan announced his return on when nike was trading at nike peaked at per share in march a increase the revenues are a little strange here because jordan didn t sign in the summer like typical nba free agents so they declined year over year so there it is looking at the revenue we had average revenue increases of over the previous summer quarter in september nike had revenues of billion and a increase would give us b significantly higher than their guidance of b are we really going to sell billion worth of lebron jerseys over the next two months lol probably not but historically the summer quarter has been nike s strongest and had some good beats over the years on the stock price side by september we had an average increase of in nike stock we could expect a peak increase somewhere midseason months away of if we assume that our current lebron event is similar that would put us at by september and between december april when i had my grand delusion that lebron might save nike i was hoping for better returns than over months honestly these don t really get it up for me so let s dream bigger maybe lebron himself isn t the key but the nba as a whole there have been a lot of wild moves this nba offseason many stars will play for a new team next year these stars including giannis paul george kawhi ja morant trae young anthony davis and lamelo ball have all ranked within the top of jersey sales posted by the nba multiple times these stars will command more jersey sales throughout the year as of guess who is the official distributor of all nba jerseys it s nike and if this truly is lebron s last year the eyes and media coverage that the nba will get will be massive viewership is already returning to highs not seen since michael jordan s retirement tour years ago yes nike has and may continue to experience headwinds but i think the tide is turning and i think basketball is going to make it happen i don t know the demographics of you degenerates but i think there s a reason for everyone to jump in insiders the ceo is buying he s no pelosi but maybe you wanna follow him europoors nike is the official sponsor of team usa football kits they sold out of most of their gear and the us has actually been winning maybe we re finally gonna care about soccer doubtful runners apparently nike s running division is growing by double digits i was a runner and always hated their shoes but maybe they are good now boomers nike s dividend has become increasingly juicy yield with the drop in stock price technical analysis to the asstrology crowd fuck y all i don t know what any of this means but it s probably gonna go up i guess well that s all folks i don t know exactly why but i think nike s going up and getting money by any means necessary maybe anthony edwards will knock up the greek goddess of victory herself and owe child support that s profit baby the olympics are coming up and they re in america too ozempic is making people skinnier and maybe they ll start exercising take your pick and buy calls or shares or something nfa just do it tldr nike up short term over months and on all timeframes because of lebron s new team retirement tour positions oct nke calls jan nke calls,0.9994,positive
+2026-07-09 13:18:16+00:00,Its as good as gold!,its as good as gold,0.4404,positive
+2026-07-09 12:35:48+00:00,,nan,0.0,neutral
+2026-07-09 11:20:41+00:00,"**Takeaways by Bloomberg AI**
+
+* Starbucks Corp. is developing in-house tools with the help of artificial intelligence that could replace some software applications it now buys from companies such as Microsoft Corp. and International Business Machines Corp.
+* The company is building alternatives to a Microsoft system that tracks inventory and an IBM tool that manages maintenance, according to an internal presentation.
+* Starbucks spends about $400 million a year on software alone, and Chief Technology Officer Anand Varadarajan said there's clear opportunities to reduce the spend in software.
+
+[https://www.bloomberg.com/news/articles/2026-07-09/starbucks-taps-ai-to-reduce-reliance-on-microsoft-ibm-software](https://www.bloomberg.com/news/articles/2026-07-09/starbucks-taps-ai-to-reduce-reliance-on-microsoft-ibm-software)
+
+Means they will buy hardware to DIY and have it installed on their own premises.
+
+IBM still sells Mainframes that would probably stick around for a long time, since starbucks will always have to deal with lotsa of transactions. And mainframes are the de-facto in processing that.
+
+Hardware stocks FTW.",takeaways by bloomberg ai starbucks corp is developing in house tools with the help of artificial intelligence that could replace some software applications it now buys from companies such as microsoft corp and international business machines corp the company is building alternatives to a microsoft system that tracks inventory and an ibm tool that manages maintenance according to an internal presentation starbucks spends about million a year on software alone and chief technology officer anand varadarajan said there s clear opportunities to reduce the spend in software means they will buy hardware to diy and have it installed on their own premises ibm still sells mainframes that would probably stick around for a long time since starbucks will always have to deal with lotsa of transactions and mainframes are the de facto in processing that hardware stocks ftw,0.9001,positive
+2026-07-09 11:20:20+00:00,"https://preview.redd.it/pmh5p1j0s6ch1.png?width=687&format=png&auto=webp&s=2ed262d1ff5e32070f0d21a70ebc1cee9650314f
+
+https://preview.redd.it/ndq3tal3s6ch1.png?width=1119&format=png&auto=webp&s=76d03a13f1e8c520fb4778872ad9f9cb3e4d4027
+
+https://preview.redd.it/kjlzkmilt6ch1.png?width=1072&format=png&auto=webp&s=2fee82b3e15e03c91ae29a1a882205f36c6ea2e6
+
+Hands down, I have never owned a bigger piece of shit than MSFT. Been bagholding this trash for over 7 months already.
+
+I don't know how people aren't losing their minds over this stock, seriously, I took out some margin to trade MU and made decent gains, so it offsets some of my losses. But not everyone has done that I just took more risk then I should have.
+
+I think its stupid people are comparing it to Google last year, google was always within 10% from its ATH even if it was stagnant for a while. I've also owned the other 5 of the mag 7 including AMZN even when everyone was bashing it over its 5 year return being lower than that of the S&P. But at least AMZN always recovered within 2 months of a minor crash. NVDA made ATH a month ago, AAPL hitting ATHs every week. Even META after that eps sell off last Q3, i bought the dip aggresively and made huge returns this year after Q1 earnings report (it only took it 4 months to rebound) (so even if im down a little, ive made some money of it).
+
+Those pos analysts need to fucking downgrade this pos and stop misleading people, seriously. There is no way in hell this stock deserves anything more than 450 a year from now. Fuck you MSFT, and yes I see you're red this morning not surprised with you being red 90% of the time",hands down i have never owned a bigger piece of shit than msft been bagholding this trash for over months already i don t know how people aren t losing their minds over this stock seriously i took out some margin to trade mu and made decent gains so it offsets some of my losses but not everyone has done that i just took more risk then i should have i think its stupid people are comparing it to google last year google was always within from its ath even if it was stagnant for a while i ve also owned the other of the mag including amzn even when everyone was bashing it over its year return being lower than that of the s p but at least amzn always recovered within months of a minor crash nvda made ath a month ago aapl hitting aths every week even meta after that eps sell off last q i bought the dip aggresively and made huge returns this year after q earnings report it only took it months to rebound so even if im down a little ive made some money of it those pos analysts need to fucking downgrade this pos and stop misleading people seriously there is no way in hell this stock deserves anything more than a year from now fuck you msft and yes i see you re red this morning not surprised with you being red of the time,-0.9887,negative
+2026-07-09 10:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1urltju),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-07-09 07:00:18+00:00,"Long time lurker, first time poster. Feel free to call me regarded.
+
+$USAR and $MP are companies backed by the US govt with plants in production or just starting production.
+
+$MP is the **only publicly traded US stock that manufactures permanent magnets**. Permanent magnets are used in complex avionics systems, robotics, EV Powertrains, i.e. they have a lot of fucking use cases. They have deals with Apple and the DoW, too. This is the safer bet.
+
+$USAR is the **only publicly traded US stock to mine, and refine heavy rare earth minerals** (with mining sites in the US. CRML is based in the US but has plants in Greenland). This stock is a little more speculative since they haven't started ramping production up yet, but they expect to do so soon. The US Govt has a 1.6B stake in USAR, around 10-15% of the company.
+
+This trade isn't about rare earth minerals entirely, it's moreso a bet against long term friendly US-China relations. The recent Chinese export ban targeting these two companies only makes it more important to the US Govt to get a domestic Rare Earth supply chain up and running ASAP.
+
+A similar argument was used for INTC bulls right around when the CHIPS Act was passed. The US Govt is starting to realize that, if/when China decides to take over Taiwan, be it diplomatically or militarily, the US will have to respond accordingly. This means China will no longer be a friendly rival, or a trading partner. This was his goal with the tariffs, the Iran War, and the trade wars. To get companies to come to the US, to build factories here, to decrease reliance abroad (especially in China). The Rare Earth trade is just another facet of this, and it hasn't been played out yet.
+
+There's a lot of noise around these two stocks, mainly because the recent Chinese export ban news. I think it's a good idea to buy and hold these for the next few years. They're relatively undervalued, especially after the recent dip and they have a very asymmetric upside.
+
+My positions:
+
+250 shares MP with a \~$50 cost basis
+
+500 shares USAR with a $18 cost basis
+
+I will continue to DCA into USAR as it remains under $20 a share, and add some MP shares to round out this play.",long time lurker first time poster feel free to call me regarded usar and mp are companies backed by the us govt with plants in production or just starting production mp is the only publicly traded us stock that manufactures permanent magnets permanent magnets are used in complex avionics systems robotics ev powertrains i e they have a lot of fucking use cases they have deals with apple and the dow too this is the safer bet usar is the only publicly traded us stock to mine and refine heavy rare earth minerals with mining sites in the us crml is based in the us but has plants in greenland this stock is a little more speculative since they haven t started ramping production up yet but they expect to do so soon the us govt has a b stake in usar around of the company this trade isn t about rare earth minerals entirely it s moreso a bet against long term friendly us china relations the recent chinese export ban targeting these two companies only makes it more important to the us govt to get a domestic rare earth supply chain up and running asap a similar argument was used for intc bulls right around when the chips act was passed the us govt is starting to realize that if when china decides to take over taiwan be it diplomatically or militarily the us will have to respond accordingly this means china will no longer be a friendly rival or a trading partner this was his goal with the tariffs the iran war and the trade wars to get companies to come to the us to build factories here to decrease reliance abroad especially in china the rare earth trade is just another facet of this and it hasn t been played out yet there s a lot of noise around these two stocks mainly because the recent chinese export ban news i think it s a good idea to buy and hold these for the next few years they re relatively undervalued especially after the recent dip and they have a very asymmetric upside my positions shares mp with a cost basis shares usar with a cost basis i will continue to dca into usar as it remains under a share and add some mp shares to round out this play,0.8242,positive
+2026-07-09 04:20:09+00:00,"I'm trying to build a framework for thinking about AI CapEx spend relative to the return, i.e., what revenue and profitability are required to generate a reasonable return.
+
+1. CapEx Spending
+
+For Microsoft, Amazon, Alphabet, and Meta, combined CapEx has gone roughly:
+
+- 2023: ~$151B
+- 2024: ~$246B
+- 2025: ~$410B
+- 2026 (guidance): ~$725B
+- 2027 (consensus): ~$920B
+
+That's almost a 5x increase in three years.
+
+Historically, this group spent in the low teens as a percent of revenue. Today it's around 45%, with individual companies ranging from about 25% (Amazon) to 50%+.
+
+2. Defining the Return
+
+The way I'm thinking about it is:
+
+«Required incremental profit = Incremental invested capital × Target ROIC»
+
+«Required incremental revenue = Required incremental profit ÷ Operating margin»
+
+My assumptions:
+
+- AI infrastructure earns around a 25% operating margin.
+- GPUs probably have closer to a three-year economic life than people assume. I'm not able to explicitly model this assumption other than referencing the telecom bubble where Cisco still managed to generate 60% margins on the equipment, no matter how much additional functionality they added. Basically the hyperscalers are the new dump pipes.
+- There's also an NPV issue since the CapEx comes years before much of the revenue which would require more math than I'm currently able to do at this point.
+
+3. Backing into the Required Breakeven Revenue
+
+I've found two independent approaches:
+
+Sequoia's ""$600B Question"" and Bain & Company both arrive at roughly the same answer: AI ultimately needs something like 4–5x annual revenue relative to annual infrastructure spending.
+
+4. Implied Growth
+
+One assumption I'm making is that these companies still require a baseline level of CapEx to support their existing businesses. Prior to the AI build-out, combined CapEx was roughly $250–300B annually, so I'll use that as a rough proxy for baseline investment.
+
+If total CapEx reaches roughly $900B annually, that implies about $600–650B of incremental AI CapEx.
+
+Applying the 4–5x framework to that incremental investment implies the AI business ultimately needs to generate roughly $2.5–3.0T of annual revenue.
+
+As a generous starting point, call today's AI-related revenue roughly $400B by including essentially all of AWS, Microsoft Intelligent Cloud, and Google Cloud—even though that almost certainly overstates true AI revenue.
+
+Going from roughly $400B to $2.5–3.0T over four years implies roughly a 60–70% annual revenue CAGR at a minimum. Additionally, you probably need to multiply the 2030 revenue estimate by at least 15% to account for the time difference between the spend and the return, assuming modest inflation.
+
+One additional assumption I'm trying to think through is customer concentration. Today, a meaningful portion of AI infrastructure demand appears to come from a handful of companies like OpenAI and Anthropic. If demand broadens to thousands of enterprises over time, these growth assumptions become much more believable. If demand remains concentrated in just a few frontier model companies, the hurdle becomes significantly higher.
+
+I'm curious how others are evaluating the spend in terms of ROI.",i m trying to build a framework for thinking about ai capex spend relative to the return i e what revenue and profitability are required to generate a reasonable return capex spending for microsoft amazon alphabet and meta combined capex has gone roughly b b b guidance b consensus b that s almost a x increase in three years historically this group spent in the low teens as a percent of revenue today it s around with individual companies ranging from about amazon to defining the return the way i m thinking about it is required incremental profit incremental invested capital target roic required incremental revenue required incremental profit operating margin my assumptions ai infrastructure earns around a operating margin gpus probably have closer to a three year economic life than people assume i m not able to explicitly model this assumption other than referencing the telecom bubble where cisco still managed to generate margins on the equipment no matter how much additional functionality they added basically the hyperscalers are the new dump pipes there s also an npv issue since the capex comes years before much of the revenue which would require more math than i m currently able to do at this point backing into the required breakeven revenue i ve found two independent approaches sequoia s b question and bain company both arrive at roughly the same answer ai ultimately needs something like x annual revenue relative to annual infrastructure spending implied growth one assumption i m making is that these companies still require a baseline level of capex to support their existing businesses prior to the ai build out combined capex was roughly b annually so i ll use that as a rough proxy for baseline investment if total capex reaches roughly b annually that implies about b of incremental ai capex applying the x framework to that incremental investment implies the ai business ultimately needs to generate roughly t of annual revenue as a generous starting point call today s ai related revenue roughly b by including essentially all of aws microsoft intelligent cloud and google cloud even though that almost certainly overstates true ai revenue going from roughly b to t over four years implies roughly a annual revenue cagr at a minimum additionally you probably need to multiply the revenue estimate by at least to account for the time difference between the spend and the return assuming modest inflation one additional assumption i m trying to think through is customer concentration today a meaningful portion of ai infrastructure demand appears to come from a handful of companies like openai and anthropic if demand broadens to thousands of enterprises over time these growth assumptions become much more believable if demand remains concentrated in just a few frontier model companies the hurdle becomes significantly higher i m curious how others are evaluating the spend in terms of roi,0.9813,positive
+2026-07-09 03:48:06+00:00,Still time to jump on this. Let’s go!!!,still time to jump on this let s go,0.0,neutral
+2026-07-09 01:16:19+00:00,"SK Hynix US Offering Is More Than 7 Times Oversubscribed - Bloomberg
+
+Bloomberg reported that SK Hynix Inc.'s US listing is more than seven times oversubscribed, according to people familiar with the matter, as the South Korean memory chipmaker prepares to price its offering Thursday.  
+The sale of 177.9 million American depositary receipts has attracted demand from global long-only funds, technology sector-focused funds, sovereign wealth funds and Asia-focused global investors, the people said.
+
+https://www.bloomberg.com/news/articles/2026-07-08/sk-hynix-us-offering-is-more-than-seven-times-oversubscribed",sk hynix us offering is more than times oversubscribed bloomberg bloomberg reported that sk hynix inc s us listing is more than seven times oversubscribed according to people familiar with the matter as the south korean memory chipmaker prepares to price its offering thursday the sale of million american depositary receipts has attracted demand from global long only funds technology sector focused funds sovereign wealth funds and asia focused global investors the people said,0.8689,positive
 2026-07-08 22:31:12+00:00,"The moderator removed my old post.
 
 Here is my position on $BE so far, today's price movement put me on a maintenance call.
@@ -261,7 +625,6 @@ Frequency stalling at \~2.4 while marketing costs keep creeping (Goldman's SELL 
 
 Not quite spicy enough for you 0dte boys, but for a swing trader who still uses FDs this is an easy cycle to follow.",not quite spicy enough for you dte boys but for a swing trader who still uses fds this is an easy cycle to follow,0.5927,positive
 2026-07-07 13:05:29+00:00,,nan,0.0,neutral
-2026-07-07 11:57:06+00:00,[ Removed by Reddit on account of violating the [content policy](/help/contentpolicy). ],removed by reddit on account of violating the content policy help contentpolicy,-0.2023,negative
 2026-07-07 10:37:55+00:00,,nan,0.0,neutral
 2026-07-07 10:16:21+00:00,"Data is the most valuable asset in the world. It is how all the big companies know exactly what you want, when you want it, and how you like it. Have you ever been thinking in the shower about something random, and then all of a sudden you get recommended a story or video about it later that day? Coincidence? I think not!
 
@@ -292,20 +655,21 @@ This is the most mispriced stock in the entire world, and it isn't close. ",data
 RDDT 160c 12/18 - 10 contracts  
 I paid $32,500 for them",does username check out rddt c contracts i paid for them,0.0,neutral
 2026-07-07 04:23:55+00:00,"643 million shares  
-\-193 million shorted as of July 1 (likely closer to 300 by next week if not already? Pure guess based off observations, won’t know until the 15th)  
+\-193 million shorted as of July 1 (THIS # HAS APPARENTLY BEEN CORRECTED TO 30 MIL WHICH CHANGES EVERYTHING - multiple ai’s still report it as true and no official statement was announced.) - short supply is down to 40% or .4 shares for every share already shorted. 
+
 \-100 million locked in index funds?  
 \-110-130 million locked in calls  
 \-10s of millions still under calendar restriction for anti ipo flipping policies (assuming most people didn’t want to take the restriction)
 
-Napkin math says we could be at 50-60% or more of float locked up. Yes the owners of the shorted stocks can sell but they would trigger a buy from who they lent it to. 
+Napkin math says we could be at 50-60% or more of float locked up. Yes the owners of the shorted stocks can sell but they would trigger a buy from who they lent it to.
 
-So we either see an epic squeeze this week or next, especially if there is good news catalyst or fear wins, dumps continues, shorters make millions. 
+So we either see an epic squeeze this week or next, especially if there is good news catalyst or fear wins, dumps continues, shorters make millions.
 
 Is it just a coin flip at this point?
 
-Even if only 175 million shares are left to free trade, it doesn’t seem like it takes much to tumble in either direction. 
+Even if only 175 million shares are left to free trade, it doesn’t seem like it takes much to tumble in either direction.
 
-Fat fingered my sell order for short calls at the close today. Either a blessing or a curse. Here’s to lots of coffee and praying for a good open. ",million shares million shorted as of july likely closer to by next week if not already pure guess based off observations won t know until the th million locked in index funds million locked in calls s of millions still under calendar restriction for anti ipo flipping policies assuming most people didn t want to take the restriction napkin math says we could be at or more of float locked up yes the owners of the shorted stocks can sell but they would trigger a buy from who they lent it to so we either see an epic squeeze this week or next especially if there is good news catalyst or fear wins dumps continues shorters make millions is it just a coin flip at this point even if only million shares are left to free trade it doesn t seem like it takes much to tumble in either direction fat fingered my sell order for short calls at the close today either a blessing or a curse here s to lots of coffee and praying for a good open,0.9663,positive
+Fat fingered my sell order for short calls at the close today. Either a blessing or a curse. Here’s to lots of coffee and praying for a good open.",million shares million shorted as of july this has apparently been corrected to mil which changes everything multiple ai s still report it as true and no official statement was announced short supply is down to or shares for every share already shorted million locked in index funds million locked in calls s of millions still under calendar restriction for anti ipo flipping policies assuming most people didn t want to take the restriction napkin math says we could be at or more of float locked up yes the owners of the shorted stocks can sell but they would trigger a buy from who they lent it to so we either see an epic squeeze this week or next especially if there is good news catalyst or fear wins dumps continues shorters make millions is it just a coin flip at this point even if only million shares are left to free trade it doesn t seem like it takes much to tumble in either direction fat fingered my sell order for short calls at the close today either a blessing or a curse here s to lots of coffee and praying for a good open,0.9669,positive
 2026-07-07 01:09:55+00:00,"Micron has broken ground on a ¥1.5 trillion (\~$9.3B) HBM memory facility in Hiroshima, backed by up to ¥500 billion in Japanese government support. The plant is expected to supply next-generation AI memory beginning around 2028, reinforcing the long-term AI infrastructure buildout and Japan’s push to strengthen domestic semiconductor manufacturing.
 
 Source - https://www.investing.com/news/company-news/micron-breaks-ground-on-93bn-japan-expansion-to-boost-ai-memory-output-4775343",micron has broken ground on a trillion b hbm memory facility in hiroshima backed by up to billion in japanese government support the plant is expected to supply next generation ai memory beginning around reinforcing the long term ai infrastructure buildout and japan s push to strengthen domestic semiconductor manufacturing source,0.25,positive
@@ -397,13 +761,6 @@ How are Oil prices so low? Hormuz is closed agian, the tankers which are leaving
 Yet Oil is $70 per barrel and My XOM $170 calls wont print? I have to keep rolling them, and the roll is even cheap AF... what the is going on? 
 
 The Situation in Russia should be bigger oil news than Hormuz ",i have xom calls at and i have to keel rolling them how are oil prices so low hormuz is closed agian the tankers which are leaving the gulf are not returning to the gulf further more ukraine has spent the last months blowing up russian oil infrastructure of russian refineries are off line and export terminals in st petersburg area were hit the damage ukraine is doing to russia is probably worse than the hormuz situation yet oil is per barrel and my xom calls wont print i have to keep rolling them and the roll is even cheap af what the is going on the situation in russia should be bigger oil news than hormuz,-0.8419,negative
-2026-07-06 00:55:38+00:00,"I am not a financial advisor. I am a retard for a living with 32k in 2X leveraged AVAV this bull run still has legs.
-
-AVAV just posted Q4 FY26 revenue of $641.6M, up 133% YoY, crushing the $556-559M consensus, with adjusted EPS of $1.84 vs. $1.47 expected. Stock ripped \~35% in three trading days on the print. Then, two days later, it landed a $500M firm fixed price Army contract for the Titan RF counter UAS system running through June 2029. Also Short term is massive insider buying with investors Day around the corner on July 8 hoping they clean guidance and this thing gaps up again. This is the exact setup 2x leverage was invented for.
-
-Book-to-bill sits at 1.4x, meaning orders are outpacing revenue, backlog is building, not draining. BTIG flagged the Army IDIQ contract as a fresh catalyst, and Jefferies called the Titan award a strong signal for FY27 revenue visibility. Investor Day is July 8 in New York, where management is expected to lay out strategy post BlueHalo merger, which adds counter-UAS, SATCOM, and directed energy exposure areas the Pentagon is actively pouring money into.
-
-Consensus sits around $258-259 (Buy rating, \~35% implied upside from \~$191). Range is wide — Street lows near $166-235, highs stretching to $361-450 depending on the shop. Piper Sandler’s at $248 Overweight; Jefferies just trimmed to $229 from $305 post-print (valuation catch-up, not a thesis change); Canaccord’s at $280.",i am not a financial advisor i am a retard for a living with k in x leveraged avav this bull run still has legs avav just posted q fy revenue of m up yoy crushing the m consensus with adjusted eps of vs expected stock ripped in three trading days on the print then two days later it landed a m firm fixed price army contract for the titan rf counter uas system running through june also short term is massive insider buying with investors day around the corner on july hoping they clean guidance and this thing gaps up again this is the exact setup x leverage was invented for book to bill sits at x meaning orders are outpacing revenue backlog is building not draining btig flagged the army idiq contract as a fresh catalyst and jefferies called the titan award a strong signal for fy revenue visibility investor day is july in new york where management is expected to lay out strategy post bluehalo merger which adds counter uas satcom and directed energy exposure areas the pentagon is actively pouring money into consensus sits around buy rating implied upside from range is wide street lows near highs stretching to depending on the shop piper sandler s at overweight jefferies just trimmed to from post print valuation catch up not a thesis change canaccord s at,0.8316,positive
 2026-07-06 00:40:15+00:00,This is a pretty interesting take; it’s another reason I’ve been slowly selling off my Netflix holdings. It seems like the Warner Brothers merger talks are what opened the door to all the recent bad news. ,this is a pretty interesting take it s another reason i ve been slowly selling off my netflix holdings it seems like the warner brothers merger talks are what opened the door to all the recent bad news,0.5994,positive
 2026-07-05 20:43:11+00:00,"I’ve been tracking a clear ""seesaw"" pattern over the last month between AI hardware/memory stocks and enterprise software.
 
@@ -416,7 +773,6 @@ Now that US big money is coming back on Monday, do you think they will follow As
 2026-07-05 18:57:03+00:00,What positions are you holding that you’re most excited about? Let’s get some ideas flowing (I need to diversify),what positions are you holding that you re most excited about let s get some ideas flowing i need to diversify,0.4005,positive
 2026-07-05 18:22:18+00:00,"Playing weekly expiry on every dip. Seems like it’s trending up. Once all baggage holders are out, it’s gonna be 🚀",playing weekly expiry on every dip seems like it s trending up once all baggage holders are out it s gonna be,0.5106,positive
 2026-07-05 15:36:40+00:00,,nan,0.0,neutral
-2026-07-05 15:23:02+00:00,,nan,0.0,neutral
 2026-07-05 14:45:20+00:00,"Been on WSB for a long time, but first YOLO post.
 
 TLDR: GOOGL recent selloff seems like a good setup into pre-earnings. Higher low at $340, coiling under the $368–372 shelf. Break the shelf and there’s nothing but air to the $408.61 ATH — and roughly 58K contracts of open interest stacked at the 8/21 $415 strike says the crowd’s leaning the same way. Better than even odds it tags $400 before the July 29 print.
@@ -573,23 +929,7 @@ Up to 13 contracts at $46.67, and picked up two $200Cs for $47.48 each after the
 I also have some realized losses as I rolled down my strike, with a BEP at expiration around $300. 
 
 I’ll make sure the fries are in the bag 🫡",i have been holding cs since the beginning of the year averaging down as it tanks up to contracts at and picked up two cs for each after the er meltdown i also have some realized losses as i rolled down my strike with a bep at expiration around i ll make sure the fries are in the bag,-0.2263,negative
-2026-07-04 00:01:44+00:00,"Back when it was at 260 or so I was wondering what all these businesses and advertisers that use AI generated ad campaigns going to do when models start scraping other AI generated art and copyright laws get tighter and saw that Adobe's trying to use Adobe Stock only to train Firefly, and it's still priced like a media software company at 10x forward P/E.
-
-Yeah artists don't like Adobe but that's probably priced in by now.
-
-They currently don't have a CEO or CFO and investors don't like that because the CEO typically has the vision to sell as to what the company can be. Finding leadership is a matter of months.
-
-I bought an ATM LEAP at 270 because I'm relatively new to options and don't quite want to bet on OTM, preferring something more like shares. It dropped to around 210 and I had the funds to buy another LEAP.
-
-This is pretty much a bet people start thinking of Adobe as an AI stock soon.",back when it was at or so i was wondering what all these businesses and advertisers that use ai generated ad campaigns going to do when models start scraping other ai generated art and copyright laws get tighter and saw that adobe s trying to use adobe stock only to train firefly and it s still priced like a media software company at x forward p e yeah artists don t like adobe but that s probably priced in by now they currently don t have a ceo or cfo and investors don t like that because the ceo typically has the vision to sell as to what the company can be finding leadership is a matter of months i bought an atm leap at because i m relatively new to options and don t quite want to bet on otm preferring something more like shares it dropped to around and i had the funds to buy another leap this is pretty much a bet people start thinking of adobe as an ai stock soon,0.9668,positive
 2026-07-03 23:22:35+00:00,,nan,0.0,neutral
-2026-07-03 20:09:59+00:00,"Started rolling weekly CVNA puts this year and they have been bread and butter.  +30,598 realized.  Rolling weeklies until CVNA hits $20
-
-WEN Calls.  Sold last weeks calls for +7k. Will add big time if price backs to the $7-$8
-
-Thanks.  Here is to a good 2nd half 2026
-
-BFLO-Retail",started rolling weekly cvna puts this year and they have been bread and butter realized rolling weeklies until cvna hits wen calls sold last weeks calls for k will add big time if price backs to the thanks here is to a good nd half bflo retail,0.6808,positive
 2026-07-03 20:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1umoiql),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-07-03 18:54:03+00:00,I’ve been following HOOD closely for the last few weeks and it seems like it’s time to onboard. ,i ve been following hood closely for the last few weeks and it seems like it s time to onboard,0.3612,positive
 2026-07-03 18:30:07+00:00,"Added Apple options when it crashed \~6% after the price increase announcement. 
@@ -622,12 +962,6 @@ And the funniest thing is, when there is a serious discussion it’s like the re
 
 HM to the Doakes behind the wheel meme where they turned him into a regard 😂 😂 ",the fucking comments to the posts are hilarious and the funniest thing is when there is a serious discussion it s like the regard has been vaporized from the mind and everyone turned into a mini genius hm to the doakes behind the wheel meme where they turned him into a regard,0.8176,positive
 2026-07-03 15:43:19+00:00,,nan,0.0,neutral
-2026-07-03 15:39:17+00:00,"https://preview.redd.it/scpajnvua1bh1.png?width=1320&format=png&auto=webp&s=00d8810e7da603856e99888a89ed538887506a81
-
-This may be why the Nikkei 225 is performing so well. Even when the Nasdaq is selling off crazy, the Nikkei continues to rise.  
-
-
-Korea has good stocks, but leveraged gambling is scaring away investors.",this may be why the nikkei is performing so well even when the nasdaq is selling off crazy the nikkei continues to rise korea has good stocks but leveraged gambling is scaring away investors,-0.4077,negative
 2026-07-03 12:45:56+00:00,"Amazon says its Leo constellation has reached 396 satellites, enough to provide continuous service across its initial coverage latitudes and begin commercial operations. The milestone turns Leo from a long-delayed infrastructure project into a functioning competitor to SpaceX’s Starlink, although early users should expect limited coverage and occasional interruptions. Amazon ultimately plans to deploy 3,232 satellites, but it still has a massive gap to close against Starlink’s fleet of more than 10,000 operational satellites. The real battle may be less about matching Starlink immediately and more about Amazon bundling satellite connectivity into AWS, logistics, aviation, maritime, and enterprise contracts.
 
 source - [https://www.theverge.com/science/960563/amazon-leo-service-tipping-point](https://www.theverge.com/science/960563/amazon-leo-service-tipping-point)",amazon says its leo constellation has reached satellites enough to provide continuous service across its initial coverage latitudes and begin commercial operations the milestone turns leo from a long delayed infrastructure project into a functioning competitor to spacex s starlink although early users should expect limited coverage and occasional interruptions amazon ultimately plans to deploy satellites but it still has a massive gap to close against starlink s fleet of more than operational satellites the real battle may be less about matching starlink immediately and more about amazon bundling satellite connectivity into aws logistics aviation maritime and enterprise contracts source,-0.4939,negative
@@ -676,99 +1010,4 @@ They should have auctioned this back in May when I had money. At least now I wou
 
   
 ",sotheby s is auctioning jensen huang s tom ford leather jacket proceeds going to a good cause nvda bagholders nah not really but i wouldn t hate it they should have auctioned this back in may when i had money at least now i would at least have a leather jacket alas,-0.8098,negative
-2026-07-02 21:25:20+00:00,,nan,0.0,neutral
-2026-07-02 21:18:38+00:00,,nan,0.0,neutral
-2026-07-02 20:01:32+00:00,"Bullish: https://www.wsj.com/finance/stocks/michael-burry-cites-beginning-of-the-end-with-new-ai-short-bets-50793c12
-
-",bullish,0.0,neutral
-2026-07-02 20:01:12+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1ulsves),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-07-02 18:28:48+00:00,,nan,0.0,neutral
-2026-07-02 17:29:41+00:00,"It shows negative money as I added another 1k it crashed so hard that I got liquited. I'm down 22k (including interest as I held for only a few days) still have some savings left but barely any. 
-
-I mark my words literally and I was so close last time when I got fucked in msty but this time after losing over 75k in this shit over 6 years and with barely anything left and almost homeless. 
-
-I can't do this ever again, it was stupid of me. 
-
-I sometimes think the world is actually fully against me with this luck....I truly do this has always happened to me, I guess I never get lucky even once.",it shows negative money as i added another k it crashed so hard that i got liquited i m down k including interest as i held for only a few days still have some savings left but barely any i mark my words literally and i was so close last time when i got fucked in msty but this time after losing over k in this shit over years and with barely anything left and almost homeless i can t do this ever again it was stupid of me i sometimes think the world is actually fully against me with this luck i truly do this has always happened to me i guess i never get lucky even once,-0.9528,negative
 2026-07-02 16:34:08+00:00,,nan,0.0,neutral
-2026-07-02 15:52:57+00:00,,nan,0.0,neutral
-2026-07-02 14:34:07+00:00,"Still like the stock, but it stung that I didn't take enough profit last time. I have shares on my original shitty brokerage (Wealthfront) I got cheap and I'll never sell, but I plan on buying back in when I feel it's time. Take profits regards ",still like the stock but it stung that i didn t take enough profit last time i have shares on my original shitty brokerage wealthfront i got cheap and i ll never sell but i plan on buying back in when i feel it s time take profits regards,0.8519,positive
-2026-07-02 13:29:31+00:00,,nan,0.0,neutral
-2026-07-02 12:45:11+00:00,"The US economy added 57,000 jobs last month, **fewer than economists had anticipated**, government data shows. The unemployment rate dipped slightly to 4.2%.
-
-Economists surveyed by Bloomberg had expected the Labor Department's employment situation report to post a gain of 113,000 jobs at the year's midway point, with the unemployment rate remaining flat at 4.3% for the fourth consecutive month, after a string of better-than-predicted data releases.",the us economy added jobs last month fewer than economists had anticipated government data shows the unemployment rate dipped slightly to economists surveyed by bloomberg had expected the labor department s employment situation report to post a gain of jobs at the year s midway point with the unemployment rate remaining flat at for the fourth consecutive month after a string of better than predicted data releases,0.128,positive
-2026-07-02 12:19:08+00:00,had conviction yesterday cuz nobody buys teslas but now premarket my balls are shrinking and I’m scared someone meet me behind Wendy’s in case this doesn’t work out ,had conviction yesterday cuz nobody buys teslas but now premarket my balls are shrinking and i m scared someone meet me behind wendy s in case this doesn t work out,-0.5927,negative
-2026-07-02 11:42:07+00:00,,nan,0.0,neutral
-2026-07-02 10:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1uldy3c),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-07-02 09:50:43+00:00,"**From Bloomberg:** [https://www.bloomberg.com/news/articles/2026-07-01/south-korean-banks-expand-trading-floors-for-24-hour-won-market](https://www.bloomberg.com/news/articles/2026-07-01/south-korean-banks-expand-trading-floors-for-24-hour-won-market)
-
-
-
-South Korea’s biggest lenders are boosting trading desks in London and Seoul to prepare for the won’s round-the-clock trading starting next week.
-
-Woori Bank dispatched eight staff to its London office, including five traders in its foreign-exchange, derivatives and bond desks ahead of securing UK regulatory approval in May, Kang Ju Hwan, manager at the bank’s public relations department said.
-
-Hana Bank has added three dealers in Seoul and introduced a three-shift rotation to provide 24-hour market coverage, Jung Hyun-seok, senior manager of the bank’s public relations department said. Shinhan Bank and KB Kookmin Bank are also expanding headcount and upgrading systems, spokespeople for the two banks said.
-
-**From July 6, the dollar-won spot market will trade continuously from 6 a.m. Monday to 6 a.m. Saturday during New York daylight savings time, from the current 9 a.m. to 2 a.m. schedule.** The move comes at a time when the won is hovering close to its lowest level since 2009. The slide this year prompted the government to take strong measures, including crack down on speculative foreign-exchange trading last month.
-
-The overhaul is the centerpiece of Seoul’s years-long push to improve foreign investors’ access to local markets and bolster its case for an upgrade to MSCI Inc.’s developed-market index, where accessibility has long been a stumbling block.
-
-The immediate challenge for the banks includes keeping desks staffed overnight when liquidity thins and major US data lands while Seoul is asleep. Their approaches diverge between building out London hubs and reinforcing Seoul.
-
-Woori Bank’s license to conduct client derivatives business and securities investment operations will allow it to support won-related investments and hedging outside Korean market hours. Its new trading center in London, established through the expansion of its former branch office, also opened in June.
-
-Shinhan Bank will add one more FX dealer in London from the current two in July as it plans to establish a London desk-centered response framework, Lee Ji Min, a manager at the bank’s public relations department, said. Kookmin Bank has recently completed internal IT upgrades to run 24 hours, and is also planning to expand headcount, Park Junhwan, head of the bank’s brand & PR department said.",from bloomberg south korea s biggest lenders are boosting trading desks in london and seoul to prepare for the won s round the clock trading starting next week woori bank dispatched eight staff to its london office including five traders in its foreign exchange derivatives and bond desks ahead of securing uk regulatory approval in may kang ju hwan manager at the bank s public relations department said hana bank has added three dealers in seoul and introduced a three shift rotation to provide hour market coverage jung hyun seok senior manager of the bank s public relations department said shinhan bank and kb kookmin bank are also expanding headcount and upgrading systems spokespeople for the two banks said from july the dollar won spot market will trade continuously from a m monday to a m saturday during new york daylight savings time from the current a m to a m schedule the move comes at a time when the won is hovering close to its lowest level since the slide this year prompted the government to take strong measures including crack down on speculative foreign exchange trading last month the overhaul is the centerpiece of seoul s years long push to improve foreign investors access to local markets and bolster its case for an upgrade to msci inc s developed market index where accessibility has long been a stumbling block the immediate challenge for the banks includes keeping desks staffed overnight when liquidity thins and major us data lands while seoul is asleep their approaches diverge between building out london hubs and reinforcing seoul woori bank s license to conduct client derivatives business and securities investment operations will allow it to support won related investments and hedging outside korean market hours its new trading center in london established through the expansion of its former branch office also opened in june shinhan bank will add one more fx dealer in london from the current two in july as it plans to establish a london desk centered response framework lee ji min a manager at the bank s public relations department said kookmin bank has recently completed internal it upgrades to run hours and is also planning to expand headcount park junhwan head of the bank s brand pr department said,0.985,positive
-2026-07-02 09:48:43+00:00,,nan,0.0,neutral
-2026-07-02 09:00:06+00:00,,nan,0.0,neutral
-2026-07-02 07:56:00+00:00,"MSFT earnings less than a month out. Prediction that it will run up to 462 just before earnings. Microsoft will post record earnings for another quarter. It will proceed to crash back down to 350 or lower.
-
-Source: my ass. I’m holding 160 shares at 460 so it’s definitely gonna fuck me.",msft earnings less than a month out prediction that it will run up to just before earnings microsoft will post record earnings for another quarter it will proceed to crash back down to or lower source my ass i m holding shares at so it s definitely gonna fuck me,-0.7732,negative
-2026-07-02 07:12:01+00:00,"If you dump in the middle of the day they circuit breaker you. 
-
-If dump right up to close who cares if you get circuit broken if you’re already on your way to the company drinking place.",if you dump in the middle of the day they circuit breaker you if dump right up to close who cares if you get circuit broken if you re already on your way to the company drinking place,-0.6486,negative
-2026-07-02 04:42:35+00:00,"Posted tonight - 7/1/2026
-
-# NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout
-
-NVIDIA is partnering with AI clouds to deploy large‑scale, multi‑tenant AI factories, aligning economics through a revenue-sharing and credit-support model.
-
-As AI moves from model development to production inference, compute demand is accelerating and shifting toward continuously operating AI factories that generate tokens at scale. This shift requires access to large‑scale, multi‑tenant accelerated computing that can come online quickly, stay highly utilized and support the economics of token‑scale AI services. 
-
-Emerging AI companies historically have had limited access to capital-intensive infrastructure, with even long-term commitments insufficient to unlock financing for compute.
-
-To address this, NVIDIA is introducing a new business model that opens up compute access to the fast‑growing AI ecosystem of startups, model builders, enterprises, research organizations and regional AI players. 
-
-This new model enables AI clouds to procure NVIDIA infrastructure for AI-native, enterprise and ISV customers through economic alignment with a revenue-sharing and credit-support model. Through the partnership, AI clouds will sell NVIDIA-powered cloud services, with NVIDIA earning both standard product revenue and a share of the cloud revenue on the supported capacity. This structure accelerates adoption of NVIDIA platforms among the high-growth, high-conviction AI native sector, and provides NVIDIA with a recurring, usage-linked earnings stream.
-
-For model builders, inference providers, agent platforms and enterprises scaling AI, it can mean faster access to full-stack accelerated computing without waiting through site selection, power procurement, construction and hardware bring-up.
-
-# NVIDIA AI Factory Capacity Built Around Demand
-
-The initiative is already taking shape, with AI cloud companies building D.S.X. AI factories designed to serve customers and workloads across regions. 
-
-Sharon AI and Firmus are among the first companies to work with NVIDIA on this new business model. 
-
-Sharon AI is deploying up to 40,000 NVIDIA Grace Blackwell GB300 GPUs.
-
-“This strategic collaboration with NVIDIA marks a pivotal moment in Sharon AI’s mission to deliver sovereign, large-scale AI compute infrastructure,” said James Manning, cofounder and CEO of Sharon AI. 
-
-Firmus is building a D.S.X. AI factory campus in Batam, Indonesia. The campus is expected to scale to 360 megawatts and up to 170,000 NVIDIA GPUs.
-
-“AI-native companies need access to scalable, energy- and cost-efficient compute infrastructure to compete globally,” said Tim Rosenfield, co-CEO of Firmus Technologies. “Firmus AI cloud is building a NVIDIA D.S.X.-aligned AI factory, which will enable our cloud to help more customers access the compute they need to build and scale AI.”
-
-AI natives such as Baseten, Fireworks AI and Together AI show where compute demand is headed: they need immediate access to AI cloud capacity to run model training, post-training, fine-tuning and high-volume agentic inference for developers, digital natives and enterprises building with AI.
-
-Their customers need reliable access to large-scale NVIDIA accelerated computing as usage grows, but they also need commercial flexibility as products move from pilot to production. 
-
-*To secure compute capacity and build and deploy AI models, contact Sharon AI and Firmus.* 
-
-[https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/](https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/)",posted tonight nvidia unlocks ai compute at scale inviting partners to power the ai infrastructure buildout nvidia is partnering with ai clouds to deploy large scale multi tenant ai factories aligning economics through a revenue sharing and credit support model as ai moves from model development to production inference compute demand is accelerating and shifting toward continuously operating ai factories that generate tokens at scale this shift requires access to large scale multi tenant accelerated computing that can come online quickly stay highly utilized and support the economics of token scale ai services emerging ai companies historically have had limited access to capital intensive infrastructure with even long term commitments insufficient to unlock financing for compute to address this nvidia is introducing a new business model that opens up compute access to the fast growing ai ecosystem of startups model builders enterprises research organizations and regional ai players this new model enables ai clouds to procure nvidia infrastructure for ai native enterprise and isv customers through economic alignment with a revenue sharing and credit support model through the partnership ai clouds will sell nvidia powered cloud services with nvidia earning both standard product revenue and a share of the cloud revenue on the supported capacity this structure accelerates adoption of nvidia platforms among the high growth high conviction ai native sector and provides nvidia with a recurring usage linked earnings stream for model builders inference providers agent platforms and enterprises scaling ai it can mean faster access to full stack accelerated computing without waiting through site selection power procurement construction and hardware bring up nvidia ai factory capacity built around demand the initiative is already taking shape with ai cloud companies building d s x ai factories designed to serve customers and workloads across regions sharon ai and firmus are among the first companies to work with nvidia on this new business model sharon ai is deploying up to nvidia grace blackwell gb gpus this strategic collaboration with nvidia marks a pivotal moment in sharon ai s mission to deliver sovereign large scale ai compute infrastructure said james manning cofounder and ceo of sharon ai firmus is building a d s x ai factory campus in batam indonesia the campus is expected to scale to megawatts and up to nvidia gpus ai native companies need access to scalable energy and cost efficient compute infrastructure to compete globally said tim rosenfield co ceo of firmus technologies firmus ai cloud is building a nvidia d s x aligned ai factory which will enable our cloud to help more customers access the compute they need to build and scale ai ai natives such as baseten fireworks ai and together ai show where compute demand is headed they need immediate access to ai cloud capacity to run model training post training fine tuning and high volume agentic inference for developers digital natives and enterprises building with ai their customers need reliable access to large scale nvidia accelerated computing as usage grows but they also need commercial flexibility as products move from pilot to production to secure compute capacity and build and deploy ai models contact sharon ai and firmus,0.9714,positive
-2026-07-02 01:05:24+00:00,"I bought these at margin and the worst part as you can see I bought and sold them early last year as well a way smaller position. I've done shit like this multiple times before and decided to go fully into ETFs and then saw this went fomo was up overnight but then woke up to it being down held with only a few hundred dollars until margin called went all the way to 270 something and now it's here. 
-
-I'm cooked and I might not get a chance to even get out at a low loss now. This is 50 percent of my whole account. 
-
-At least I'll learn the lesson to stay in ETFs for good this happened to me right as I bought the blackberry stock next day banks closed buy button, happened to me with call options right before Intel tanked and went back up again, and many more times. 
-
-I was waiting for this to go to 308 and just wanted a quick buck to make something back and it tanked the next day. Just how life is for a dumbass, lol. ",i bought these at margin and the worst part as you can see i bought and sold them early last year as well a way smaller position i ve done shit like this multiple times before and decided to go fully into etfs and then saw this went fomo was up overnight but then woke up to it being down held with only a few hundred dollars until margin called went all the way to something and now it s here i m cooked and i might not get a chance to even get out at a low loss now this is percent of my whole account at least i ll learn the lesson to stay in etfs for good this happened to me right as i bought the blackberry stock next day banks closed buy button happened to me with call options right before intel tanked and went back up again and many more times i was waiting for this to go to and just wanted a quick buck to make something back and it tanked the next day just how life is for a dumbass lol,-0.7657,negative
-2026-07-01 23:49:41+00:00,,nan,0.0,neutral
