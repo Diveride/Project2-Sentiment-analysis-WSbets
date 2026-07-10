@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-09T23:38:45.308111+00:00`
+- Generated at (UTC): `2026-07-10T23:15:00.007006+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | AMD | 12 | 6 | 0.258 | 546.72 | 11.50% | 23.115 |
-| 2 | HBM | 11 | 5 | 0.651 | 21.58 | -17.35% | 0.885 |
-| 3 | NVDA | 6 | 5 | 0.182 | 202.78 | -2.81% | 2.920 |
-| 4 | SPY | 5 | 4 | 0.363 | 751.71 | 1.69% | 2.400 |
-| 5 | NBIS | 7 | 3 | 0.658 | 216.20 | -0.83% | 13.744 |
-| 6 | NKE | 14 | 1 | 0.999 | 42.78 | -1.04% | 0.974 |
-| 7 | VECO | 8 | 1 | 0.972 | 57.45 | -5.88% | 3.867 |
-| 8 | WULF | 4 | 2 | 0.255 | 23.20 | -10.29% | 1.177 |
-| 9 | IBM | 4 | 2 | 0.457 | 295.30 | 5.16% | 7.331 |
-| 10 | USAR | 7 | 1 | 0.487 | 18.87 | -15.04% | 0.574 |
+| 1 | AMD | 12 | 6 | 0.258 | 557.89 | 17.32% | 24.024 |
+| 2 | HBM | 11 | 5 | 0.597 | 21.64 | -15.44% | 0.924 |
+| 3 | SPY | 7 | 6 | 0.145 | 754.95 | 2.43% | 4.794 |
+| 4 | NVDA | 5 | 4 | 0.092 | 210.96 | 1.33% | 2.433 |
+| 5 | META | 5 | 4 | -0.085 | 669.21 | 14.48% | 4.488 |
+| 6 | NBIS | 7 | 3 | 0.658 | 219.65 | -0.21% | 17.172 |
+| 7 | NKE | 14 | 1 | 0.999 | 44.37 | -0.63% | 0.750 |
+| 8 | SPCX | 3 | 3 | 0.075 | 145.30 | n/a | n/a |
+| 9 | MSFT | 6 | 2 | -0.495 | 385.10 | -4.54% | 5.904 |
+| 10 | VECO | 8 | 1 | 0.972 | 57.40 | -14.57% | 3.826 |
 
 ### Aggregate Charts
 
@@ -190,13 +190,17 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
 
+#### SPY
+
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
 #### NVDA
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### SPY
+#### META
 
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
 
 #### NBIS
 
@@ -206,19 +210,15 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NKE Dashboard](outputs/latest_wsb_analysis/charts/nke_dashboard.png)
 
+#### SPCX
+
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+
+#### MSFT
+
+![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
+
 #### VECO
 
 ![VECO Dashboard](outputs/latest_wsb_analysis/charts/veco_dashboard.png)
-
-#### WULF
-
-![WULF Dashboard](outputs/latest_wsb_analysis/charts/wulf_dashboard.png)
-
-#### IBM
-
-![IBM Dashboard](outputs/latest_wsb_analysis/charts/ibm_dashboard.png)
-
-#### USAR
-
-![USAR Dashboard](outputs/latest_wsb_analysis/charts/usar_dashboard.png)
 <!-- AUTO_TOP10_END -->
