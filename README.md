@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-11T23:13:12.009829+00:00`
+- Generated at (UTC): `2026-07-12T23:11:28.802525+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -165,14 +165,14 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1 | SPY | 9 | 7 | 0.264 | 754.95 | 2.43% | 4.794 |
 | 2 | AMD | 12 | 6 | 0.258 | 557.89 | 17.32% | 24.024 |
-| 3 | HBM | 11 | 5 | 0.597 | 21.64 | -15.44% | 0.924 |
-| 4 | META | 9 | 5 | 0.131 | 669.21 | 14.48% | 4.498 |
-| 5 | MSFT | 10 | 3 | 0.002 | 385.10 | -4.54% | 5.905 |
-| 6 | NFLX | 6 | 4 | 0.231 | 73.37 | -9.88% | 1.553 |
-| 7 | NKE | 14 | 1 | 0.999 | 44.37 | -0.63% | 0.750 |
-| 8 | SPCX | 4 | 3 | 0.319 | 145.30 | n/a | n/a |
-| 9 | NVDA | 3 | 3 | -0.186 | 210.96 | 1.33% | 2.433 |
-| 10 | NBIS | 6 | 2 | 0.740 | 219.65 | -0.21% | 17.172 |
+| 3 | META | 9 | 5 | 0.131 | 669.21 | 14.48% | 4.498 |
+| 4 | MSFT | 10 | 3 | 0.002 | 385.10 | -4.54% | 5.905 |
+| 5 | NFLX | 6 | 4 | 0.231 | 73.37 | -9.88% | 1.553 |
+| 6 | SPCX | 5 | 4 | 0.174 | 145.30 | n/a | n/a |
+| 7 | HBM | 4 | 4 | 0.497 | 21.64 | -15.44% | 0.924 |
+| 8 | NKE | 14 | 1 | 0.999 | 44.37 | -0.63% | 0.750 |
+| 9 | NBIS | 6 | 2 | 0.740 | 219.65 | -0.21% | 17.172 |
+| 10 | VECO | 8 | 1 | 0.972 | 57.40 | -14.57% | 3.826 |
 
 ### Aggregate Charts
 
@@ -190,10 +190,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### HBM
-
-![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
-
 #### META
 
 ![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
@@ -206,19 +202,23 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NFLX Dashboard](outputs/latest_wsb_analysis/charts/nflx_dashboard.png)
 
-#### NKE
-
-![NKE Dashboard](outputs/latest_wsb_analysis/charts/nke_dashboard.png)
-
 #### SPCX
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
-#### NVDA
+#### HBM
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
+
+#### NKE
+
+![NKE Dashboard](outputs/latest_wsb_analysis/charts/nke_dashboard.png)
 
 #### NBIS
 
 ![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+
+#### VECO
+
+![VECO Dashboard](outputs/latest_wsb_analysis/charts/veco_dashboard.png)
 <!-- AUTO_TOP10_END -->
