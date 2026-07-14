@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-13T23:16:13.571086+00:00`
+- Generated at (UTC): `2026-07-14T23:13:53.948149+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 10 | 7 | 0.167 | 749.17 | 3.27% | 2.445 |
-| 2 | MSFT | 13 | 5 | 0.219 | 390.99 | -1.60% | 6.310 |
-| 3 | META | 9 | 5 | 0.131 | 656.73 | 15.02% | 5.624 |
-| 4 | NFLX | 6 | 4 | 0.231 | 73.83 | -9.96% | 1.646 |
-| 5 | AMD | 4 | 4 | 0.356 | 534.39 | 18.12% | 15.388 |
-| 6 | HBM | 4 | 4 | 0.497 | 20.87 | -15.44% | 0.908 |
-| 7 | NKE | 14 | 1 | 0.999 | 43.76 | -0.45% | 0.764 |
-| 8 | SPCX | 4 | 3 | 0.008 | 139.14 | n/a | n/a |
-| 9 | AFL | 11 | 1 | 0.993 | 123.30 | 5.29% | 1.035 |
-| 10 | NBIS | 6 | 2 | 0.740 | 210.51 | -0.56% | 14.842 |
+| 1 | MSFT | 16 | 6 | 0.102 | 384.93 | -1.39% | 5.822 |
+| 2 | META | 9 | 5 | 0.131 | 661.04 | 16.29% | 5.401 |
+| 3 | IBM | 9 | 5 | 0.263 | 217.07 | -21.02% | 7.439 |
+| 4 | NFLX | 9 | 5 | 0.379 | 73.53 | -9.52% | 1.590 |
+| 5 | SPY | 7 | 5 | 0.079 | 751.83 | 1.91% | 5.828 |
+| 6 | SPCX | 4 | 3 | 0.008 | 136.08 | n/a | n/a |
+| 7 | AFL | 11 | 1 | 0.995 | 122.05 | 4.81% | 0.514 |
+| 8 | BE | 7 | 2 | 0.933 | 243.40 | -2.20% | 21.158 |
+| 9 | HBM | 3 | 3 | 0.580 | 22.50 | -15.54% | 0.895 |
+| 10 | RAM | 5 | 2 | 0.475 | 16.72 | n/a | n/a |
 
 ### Aggregate Charts
 
@@ -182,10 +182,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### SPY
-
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
 #### MSFT
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
@@ -194,21 +190,17 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
 
+#### IBM
+
+![IBM Dashboard](outputs/latest_wsb_analysis/charts/ibm_dashboard.png)
+
 #### NFLX
 
 ![NFLX Dashboard](outputs/latest_wsb_analysis/charts/nflx_dashboard.png)
 
-#### AMD
+#### SPY
 
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
-#### HBM
-
-![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
-
-#### NKE
-
-![NKE Dashboard](outputs/latest_wsb_analysis/charts/nke_dashboard.png)
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
 #### SPCX
 
@@ -218,7 +210,15 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![AFL Dashboard](outputs/latest_wsb_analysis/charts/afl_dashboard.png)
 
-#### NBIS
+#### BE
 
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+![BE Dashboard](outputs/latest_wsb_analysis/charts/be_dashboard.png)
+
+#### HBM
+
+![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
+
+#### RAM
+
+![RAM Dashboard](outputs/latest_wsb_analysis/charts/ram_dashboard.png)
 <!-- AUTO_TOP10_END -->
