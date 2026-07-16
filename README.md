@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-15T23:15:06.664195+00:00`
+- Generated at (UTC): `2026-07-16T23:13:32.993233+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | MSFT | 17 | 6 | 0.075 | 395.63 | 1.25% | 7.315 |
-| 2 | IBM | 11 | 5 | 0.230 | 211.20 | -22.42% | 7.660 |
-| 3 | NFLX | 10 | 5 | 0.354 | 73.68 | -8.29% | 1.281 |
-| 4 | SPY | 8 | 5 | 0.079 | 754.81 | 1.76% | 6.415 |
-| 5 | META | 8 | 4 | 0.163 | 681.31 | 20.16% | 5.201 |
-| 6 | SPCX | 5 | 4 | 0.090 | 135.27 | -15.96% | n/a |
-| 7 | FOR | 5 | 3 | 0.321 | 30.44 | 4.25% | 0.243 |
-| 8 | AFL | 11 | 1 | 0.997 | 121.01 | 2.72% | 0.368 |
-| 9 | ORCL | 6 | 2 | -0.031 | 132.49 | -28.05% | 7.933 |
-| 10 | HOOD | 5 | 2 | 0.472 | 115.54 | 23.98% | 3.869 |
+| 1 | NFLX | 13 | 6 | 0.463 | 74.35 | -8.96% | 1.573 |
+| 2 | MSFT | 15 | 5 | 0.384 | 401.10 | 0.34% | 5.970 |
+| 3 | IBM | 10 | 5 | 0.166 | 219.05 | -18.48% | 7.833 |
+| 4 | SNDK | 4 | 4 | -0.145 | 1411.08 | -33.06% | 132.291 |
+| 5 | ASTS | 6 | 3 | 0.460 | 55.01 | -37.18% | 4.073 |
+| 6 | SPCX | 5 | 3 | 0.476 | 131.11 | -31.89% | n/a |
+| 7 | RKLB | 4 | 3 | 0.773 | 67.35 | -38.35% | 8.673 |
+| 8 | SPY | 4 | 3 | -0.193 | 750.72 | -0.54% | 3.787 |
+| 9 | AFL | 11 | 1 | 0.998 | 123.02 | 5.18% | 0.386 |
+| 10 | ORCL | 6 | 2 | -0.031 | 124.21 | -35.52% | 8.105 |
 
 ### Aggregate Charts
 
@@ -182,6 +182,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
+#### NFLX
+
+![NFLX Dashboard](outputs/latest_wsb_analysis/charts/nflx_dashboard.png)
+
 #### MSFT
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
@@ -190,25 +194,25 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![IBM Dashboard](outputs/latest_wsb_analysis/charts/ibm_dashboard.png)
 
-#### NFLX
+#### SNDK
 
-![NFLX Dashboard](outputs/latest_wsb_analysis/charts/nflx_dashboard.png)
+![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
 
-#### SPY
+#### ASTS
 
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
-#### META
-
-![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
+![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
 
 #### SPCX
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
-#### FOR
+#### RKLB
 
-![FOR Dashboard](outputs/latest_wsb_analysis/charts/for_dashboard.png)
+![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
+
+#### SPY
+
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
 #### AFL
 
@@ -217,8 +221,4 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### ORCL
 
 ![ORCL Dashboard](outputs/latest_wsb_analysis/charts/orcl_dashboard.png)
-
-#### HOOD
-
-![HOOD Dashboard](outputs/latest_wsb_analysis/charts/hood_dashboard.png)
 <!-- AUTO_TOP10_END -->
