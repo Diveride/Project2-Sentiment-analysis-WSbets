@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-18T23:13:44.057222+00:00`
+- Generated at (UTC): `2026-07-19T23:13:55.832027+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -164,15 +164,15 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1 | SPY | 7 | 5 | 0.097 | 743.29 | -0.94% | 4.214 |
-| 2 | SPCX | 6 | 5 | 0.324 | 123.99 | -41.35% | n/a |
-| 3 | IBM | 5 | 4 | 0.415 | 212.67 | -21.47% | 7.655 |
-| 4 | ASTS | 6 | 3 | 0.460 | 57.80 | -29.73% | 3.887 |
-| 5 | AFL | 11 | 1 | 0.998 | 124.72 | 6.23% | 0.651 |
-| 6 | RKLB | 3 | 3 | 0.322 | 67.62 | -35.37% | 6.579 |
-| 7 | SNDK | 3 | 3 | -0.546 | 1354.82 | -31.97% | 140.160 |
-| 8 | TSM | 3 | 3 | 0.100 | 398.37 | -6.45% | 8.075 |
-| 9 | QQQ | 3 | 3 | -0.359 | 695.33 | -4.73% | 9.936 |
-| 10 | MSFT | 5 | 2 | 0.877 | 393.82 | -0.00% | 6.246 |
+| 2 | SPCX | 6 | 5 | 0.193 | 123.99 | -41.35% | n/a |
+| 3 | IREN | 21 | 1 | -0.918 | 33.62 | -43.19% | 1.250 |
+| 4 | IBM | 5 | 4 | 0.415 | 212.67 | -21.47% | 7.655 |
+| 5 | ASTS | 6 | 3 | 0.460 | 57.80 | -29.73% | 3.887 |
+| 6 | AFL | 11 | 1 | 0.998 | 124.72 | 6.23% | 0.651 |
+| 7 | RKLB | 3 | 3 | 0.322 | 67.62 | -35.37% | 6.579 |
+| 8 | SNDK | 3 | 3 | -0.546 | 1354.82 | -31.97% | 140.160 |
+| 9 | TSM | 3 | 3 | 0.100 | 398.37 | -6.45% | 8.075 |
+| 10 | QQQ | 3 | 3 | -0.359 | 695.33 | -4.73% | 9.936 |
 
 ### Aggregate Charts
 
@@ -189,6 +189,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### SPCX
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+
+#### IREN
+
+![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
 
 #### IBM
 
@@ -217,8 +221,4 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### QQQ
 
 ![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
-
-#### MSFT
-
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 <!-- AUTO_TOP10_END -->
