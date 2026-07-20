@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-19T23:13:55.832027+00:00`
+- Generated at (UTC): `2026-07-20T23:17:32.603526+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 7 | 5 | 0.097 | 743.29 | -0.94% | 4.214 |
-| 2 | SPCX | 6 | 5 | 0.193 | 123.99 | -41.35% | n/a |
-| 3 | IREN | 21 | 1 | -0.918 | 33.62 | -43.19% | 1.250 |
-| 4 | IBM | 5 | 4 | 0.415 | 212.67 | -21.47% | 7.655 |
-| 5 | ASTS | 6 | 3 | 0.460 | 57.80 | -29.73% | 3.887 |
-| 6 | AFL | 11 | 1 | 0.998 | 124.72 | 6.23% | 0.651 |
-| 7 | RKLB | 3 | 3 | 0.322 | 67.62 | -35.37% | 6.579 |
-| 8 | SNDK | 3 | 3 | -0.546 | 1354.82 | -31.97% | 140.160 |
-| 9 | TSM | 3 | 3 | 0.100 | 398.37 | -6.45% | 8.075 |
-| 10 | QQQ | 3 | 3 | -0.359 | 695.33 | -4.73% | 9.936 |
+| 1 | IREN | 37 | 1 | -0.525 | 40.20 | -30.82% | 1.253 |
+| 2 | SPY | 10 | 7 | 0.083 | 742.09 | 0.15% | 3.503 |
+| 3 | SPCX | 7 | 6 | 0.080 | 119.85 | -37.52% | n/a |
+| 4 | RKLB | 4 | 4 | 0.241 | 65.74 | -39.12% | 7.750 |
+| 5 | ASTS | 6 | 3 | 0.460 | 57.42 | -32.79% | 3.898 |
+| 6 | IBM | 4 | 3 | 0.296 | 213.00 | -18.81% | 7.546 |
+| 7 | GOOGL | 4 | 3 | 0.713 | 351.99 | -3.24% | 8.710 |
+| 8 | SNDK | 3 | 3 | -0.546 | 1390.95 | -28.99% | 142.862 |
+| 9 | META | 3 | 3 | -0.137 | 645.85 | 13.79% | 6.228 |
+| 10 | TSM | 3 | 3 | 0.100 | 402.30 | -6.91% | 7.845 |
 
 ### Aggregate Charts
 
@@ -182,6 +182,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
+#### IREN
+
+![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
+
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
@@ -190,35 +194,31 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
-#### IREN
+#### RKLB
 
-![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
-
-#### IBM
-
-![IBM Dashboard](outputs/latest_wsb_analysis/charts/ibm_dashboard.png)
+![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
 #### ASTS
 
 ![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
 
-#### AFL
+#### IBM
 
-![AFL Dashboard](outputs/latest_wsb_analysis/charts/afl_dashboard.png)
+![IBM Dashboard](outputs/latest_wsb_analysis/charts/ibm_dashboard.png)
 
-#### RKLB
+#### GOOGL
 
-![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
+![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
 
 #### SNDK
 
 ![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
 
+#### META
+
+![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
+
 #### TSM
 
 ![TSM Dashboard](outputs/latest_wsb_analysis/charts/tsm_dashboard.png)
-
-#### QQQ
-
-![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 <!-- AUTO_TOP10_END -->

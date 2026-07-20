@@ -1,3 +1,3 @@
-ticker,rows,rmse,result_csv,chart_png,error
-SPCX,24,,,,Not enough price rows to train the LSTM.
-SPY,501,64.36763838369208,/home/runner/work/Project2-Sentiment-analysis-WSbets/Project2-Sentiment-analysis-WSbets/outputs/latest_wsb_analysis/prices/spy_pytorch_lstm_results.csv,/home/runner/work/Project2-Sentiment-analysis-WSbets/Project2-Sentiment-analysis-WSbets/outputs/latest_wsb_analysis/charts/spy_pytorch_lstm.png,
+ticker,rows,rmse,result_csv,chart_png
+IREN,500,6.267573255880003,/home/runner/work/Project2-Sentiment-analysis-WSbets/Project2-Sentiment-analysis-WSbets/outputs/latest_wsb_analysis/prices/iren_pytorch_lstm_results.csv,/home/runner/work/Project2-Sentiment-analysis-WSbets/Project2-Sentiment-analysis-WSbets/outputs/latest_wsb_analysis/charts/iren_pytorch_lstm.png
+SPY,500,67.63774284977656,/home/runner/work/Project2-Sentiment-analysis-WSbets/Project2-Sentiment-analysis-WSbets/outputs/latest_wsb_analysis/prices/spy_pytorch_lstm_results.csv,/home/runner/work/Project2-Sentiment-analysis-WSbets/Project2-Sentiment-analysis-WSbets/outputs/latest_wsb_analysis/charts/spy_pytorch_lstm.png
