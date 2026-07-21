@@ -1,6 +1,84 @@
 created_utc,body,clean_body,body_sentiment,body_label
+2026-07-21 23:01:50+00:00,,nan,0.0,neutral
+2026-07-21 22:29:07+00:00,,nan,0.0,neutral
+2026-07-21 22:09:19+00:00,,nan,0.0,neutral
+2026-07-21 21:23:54+00:00,,nan,0.0,neutral
+2026-07-21 20:42:35+00:00,,nan,0.0,neutral
+2026-07-21 20:38:07+00:00,"https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html
+
+Ladder is getting pulled up boys. No more worrying about the next TSLA, AMD, etc. It will be found for you (and bought before you too). 
+
+If you haven't made it yet...well...I hope you like the taste of the subscription-based insect food product you'll soon be living off of.",ladder is getting pulled up boys no more worrying about the next tsla amd etc it will be found for you and bought before you too if you haven t made it yet well i hope you like the taste of the subscription based insect food product you ll soon be living off of,0.3832,positive
+2026-07-21 20:31:07+00:00,,nan,0.0,neutral
+2026-07-21 20:26:54+00:00,"I’ve lost over **$5,800** trading options, and it’s clear what I’m doing isn’t working.
+
+For those of you who are consistently profitable, what strategy or setup do you recommend? Any tips, rules, or habits that made a big difference for you?  
+I’m looking for something simple and repeatable, not a get-rich-quick strategy. If you’ve been in my position before, what helped you turn things around?
+
+Any advice is appreciated. Thanks",i ve lost over trading options and it s clear what i m doing isn t working for those of you who are consistently profitable what strategy or setup do you recommend any tips rules or habits that made a big difference for you i m looking for something simple and repeatable not a get rich quick strategy if you ve been in my position before what helped you turn things around any advice is appreciated thanks,0.8392,positive
+2026-07-21 20:25:12+00:00,Bought 25C expires in July 2027 a few days ago.. full porting yolo,bought c expires in july a few days ago full porting yolo,0.2732,positive
+2026-07-21 20:23:13+00:00,,nan,0.0,neutral
+2026-07-21 20:21:02+00:00,Flip flopped this morning between calls and puts. Thank Wendy’s for the tendies ,flip flopped this morning between calls and puts thank wendy s for the tendies,0.3612,positive
+2026-07-21 20:18:17+00:00,Seriously WTF,seriously wtf,-0.6705,negative
+2026-07-21 20:00:53+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1v2thsx),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-07-21 18:58:46+00:00,"Snack maker Utz Brands — which [owns Zapp's](https://www.utzsnacks.com/pages/ourbrands?srsltid=AfmBOooB-cWZFFt_pzSfdgKtB20Jb8HpIncRjlEhI3ZBxYkzR_XR6gc8) and several other brands, including its eponymous chip line — [has agreed](https://www.wsj.com/business/deals/utz-brands-to-be-taken-private-for-about-2-9billion-b6e8df8d) to be taken private by Germany's Intersnack Group in a deal worth about $2.9 billion. 
+
+Intersnack will pay $14.25 a share in cash, a premium of more than 90% to Utz's last closing price of $7.45. 
+
+Shares of the chip maker surged early Tuesday, jumping as much as 89% at one point. 
+
+The deal will leave the founding Rice and Lissette family with ownership of half of Utz.",snack maker utz brands which owns zapp s and several other brands including its eponymous chip line has agreed to be taken private by germany s intersnack group in a deal worth about billion intersnack will pay a share in cash a premium of more than to utz s last closing price of shares of the chip maker surged early tuesday jumping as much as at one point the deal will leave the founding rice and lissette family with ownership of half of utz,0.7003,positive
+2026-07-21 15:54:12+00:00,"52 MRVL $210 calls.
+
+Bought at $6.12, now $8.65.
+
+P&L +$13,156 (+41.33%).
+
+3 days left.
+
+Target $220.
+
+Moon or dirt.
+
+No plan B",mrvl calls bought at now p l days left target moon or dirt no plan b,-0.5574,negative
+2026-07-21 13:34:34+00:00,Gona ride the lightning on this one for a bit ,gona ride the lightning on this one for a bit,0.0,neutral
+2026-07-21 13:12:44+00:00,,nan,0.0,neutral
+2026-07-21 12:27:12+00:00,,nan,0.0,neutral
+2026-07-21 11:21:15+00:00,,nan,0.0,neutral
+2026-07-21 10:01:34+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1v2e15m),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-07-21 07:29:54+00:00,,nan,0.0,neutral
+2026-07-21 06:46:21+00:00,"Apologies for the stream of consciousness. It's almost 3AM and I've been benchmarking LLMs for the past 8 hours:  
+  
+Back when DeepSeek R1 came out, we saw the market react to the realization that a viable LLM doesn't need to be trained on the volume of cutting edge nVidia hardware you can only get on the white market. R1 was good. It wasn't the best, but it was a wake-up call for the west... that rhyme was not intentional...
+
+Over the past few days, we saw 2 insane releases from Chinese labs.  
+  
+Kimi, which was trained on a mix of nVidia and Chinese chips, crept up to Opus 4.8 territory.  
+  
+And Qwen3.8, which came out Monday morning (Chinese time) and performs similarly to Kimi, and it was trained exclusively on domestic Chinese hardware -- proving nVidia's not even needed to train a SotA model.
+
+Even domestically (in the US), Everyone and their mother has been working on training and inference ASICs and infra which will eventually displace nVidia hardware. Jensen's not dumb, so he's trying to keep nVidia in the conversation by continuing the trend of ""acquisitions"" (Groq), investments (Marvell), and partnerships (Intel), by now desperately squeezing itself onto the hype train of would-be competitors (d-Matrix). It's almost coming off desperate.
+
+On top of the deterioration of nVidia's moat, add the fact that their stock price is based on the sales figures that came with reckless datacenter spending. Datacenter roll-outs are at a point, now, where we don't even need the hardware yet because we can't even power it for 5+ years! They've already saturated the grid where they *want* to build. We can't generate power fast enough, we can't run transmission lines fast enough, and residents are fed up with data center construction creeping up on their residential areas. There's just so much friction.
+
+And my last point is, this shit isn't even profitable for the labs! The operational net losses of these labs is just... insane. They all hoarded nVidia's proverbial shovels and pickaxes early on as if they'd be the last one standing, but what happens when these labs begin to wind down? Are they going to be keeping up, buying overpriced nVidia chips at the current volume of their collective? Probably not. This is all just way too expensive to keep up. And increasingly, the public just ain't buying it.
+
+</rant>
+
+I can't fight the feeling that our favorite pickaxe salesman is losing his market, and I've been losing confidence that nVidia will have another Covid-era Crypto or AI moment to keep pace for the rest of the decade.
+
+TL;DR: Chinese labs are now competitive using domestic hardware, and I think the practical market is much smaller and already saturated. Where are tomorrow's customers?
+
+I *want* to be wrong, so by all means, tell me why I'm wrong lol",apologies for the stream of consciousness it s almost am and i ve been benchmarking llms for the past hours back when deepseek r came out we saw the market react to the realization that a viable llm doesn t need to be trained on the volume of cutting edge nvidia hardware you can only get on the white market r was good it wasn t the best but it was a wake up call for the west that rhyme was not intentional over the past few days we saw insane releases from chinese labs kimi which was trained on a mix of nvidia and chinese chips crept up to opus territory and qwen which came out monday morning chinese time and performs similarly to kimi and it was trained exclusively on domestic chinese hardware proving nvidia s not even needed to train a sota model even domestically in the us everyone and their mother has been working on training and inference asics and infra which will eventually displace nvidia hardware jensen s not dumb so he s trying to keep nvidia in the conversation by continuing the trend of acquisitions groq investments marvell and partnerships intel by now desperately squeezing itself onto the hype train of would be competitors d matrix it s almost coming off desperate on top of the deterioration of nvidia s moat add the fact that their stock price is based on the sales figures that came with reckless datacenter spending datacenter roll outs are at a point now where we don t even need the hardware yet because we can t even power it for years they ve already saturated the grid where they want to build we can t generate power fast enough we can t run transmission lines fast enough and residents are fed up with data center construction creeping up on their residential areas there s just so much friction and my last point is this shit isn t even profitable for the labs the operational net losses of these labs is just insane they all hoarded nvidia s proverbial shovels and pickaxes early on as if they d be the last one standing but what happens when these labs begin to wind down are they going to be keeping up buying overpriced nvidia chips at the current volume of their collective probably not this is all just way too expensive to keep up and increasingly the public just ain t buying it rant i can t fight the feeling that our favorite pickaxe salesman is losing his market and i ve been losing confidence that nvidia will have another covid era crypto or ai moment to keep pace for the rest of the decade tl dr chinese labs are now competitive using domestic hardware and i think the practical market is much smaller and already saturated where are tomorrow s customers i want to be wrong so by all means tell me why i m wrong lol,-0.9632,negative
+2026-07-21 02:09:51+00:00,"Full port calls into earnings. Easy.
+
+Every 500 likes, I will make HOOD go up by 1%",full port calls into earnings easy every likes i will make hood go up by,0.6908,positive
+2026-07-21 00:41:45+00:00,"Meta always fucks up internal development (VR, Metaverse) but they've been successful with their big acquisitions (WhatsApp, Instagram). 
+
+Why doesn't Meta just make a bid to OpenAI / Anthorpic instead of trying to develop things in house?",meta always fucks up internal development vr metaverse but they ve been successful with their big acquisitions whatsapp instagram why doesn t meta just make a bid to openai anthorpic instead of trying to develop things in house,0.631,positive
+2026-07-20 23:45:55+00:00,"New to trading type behavior, haven’t been mentally",new to trading type behavior haven t been mentally,0.0,neutral
 2026-07-20 22:16:57+00:00,,nan,0.0,neutral
-2026-07-20 20:26:48+00:00,Stay tuned to find out. Bottomed out at $1200 last week. ,stay tuned to find out bottomed out at last week,0.0,neutral
+2026-07-20 20:41:59+00:00,Bled to NVDA and MSFT. $10K loss from opening position. I miss the days when markets would go up or down. Everything trades like memecoins now…,bled to nvda and msft k loss from opening position i miss the days when markets would go up or down everything trades like memecoins now,-0.1027,negative
 2026-07-20 20:22:50+00:00,"One of the shittiest trade ever.. Wondering if I'll get this shit assigned (it's deep in the money already)? Long call will be worth nothing in a few days once they start unlocking. 
 
 Stock might go down even further to 75-80 range next month (today it closed at 119)... By the end of this year below 40.... Moral of the story - do not open IBKR app drunk. Do not mix trading and drinks 🤣",one of the shittiest trade ever wondering if i ll get this shit assigned it s deep in the money already long call will be worth nothing in a few days once they start unlocking stock might go down even further to range next month today it closed at by the end of this year below moral of the story do not open ibkr app drunk do not mix trading and drinks,-0.8793,negative
@@ -106,7 +184,9 @@ Believe it or not, calls.",with the strait of hormuz shut again us crude invento
 2026-07-20 04:44:43+00:00,I only have 7 cents left.,i only have cents left,0.0,neutral
 2026-07-20 04:31:11+00:00,No crying in the casino.,no crying in the casino,-0.6486,negative
 2026-07-20 04:15:30+00:00,Down almost $300k across lulu and nflx. Turns out yoga pants and chill cant pay the rent.,down almost k across lulu and nflx turns out yoga pants and chill cant pay the rent,0.0762,positive
-2026-07-20 00:42:32+00:00,I kept buying the dip but it kept dipping ,i kept buying the dip but it kept dipping,0.0,neutral
+2026-07-20 00:42:32+00:00,"I kept buying the dip but it kept dipping
+
+Edit: Everyone saying I’m fked and sell. INVERSE WSB.",i kept buying the dip but it kept dipping edit everyone saying i m fked and sell inverse wsb,0.0,neutral
 2026-07-20 00:23:46+00:00,"As with the last few amazing earnings, Google is likely to have extreme blowout earnings with all the increased ad revenue and their other offshoots and investments recording record highs.
 
 How much are they going to drop after earnings for no reason do we think? ",as with the last few amazing earnings google is likely to have extreme blowout earnings with all the increased ad revenue and their other offshoots and investments recording record highs how much are they going to drop after earnings for no reason do we think,0.3818,positive
@@ -339,24 +419,7 @@ But also ow",dca d from ea this morning still like my odds of profiting off this
 2026-07-17 13:41:38+00:00,,nan,0.0,neutral
 2026-07-17 10:17:29+00:00,,nan,0.0,neutral
 2026-07-17 10:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1uyvcri),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-07-17 05:44:52+00:00,"Might sound funny but hear me out for a moment:  
-The rise in AAPL this week is exactly the same as someone selling computers and used furniture on craigslist to put the funds into their chequing account, only to buy more stuff a few days later.  
-The only reason AAPL is up is because market players are parking their money there.
-
-Today we will see a sharp decline across all markets at opening which will go towards a slight recovery at the end of the day. Bears and puts happy. MM job complete. Where is this ATM? AAPL. Liquidity will be pulled away from AAPL to feed the rest of the market. $10K position to start but adding another $5K (probably more) on opening bell. If you feel degen then this is the play for today.
-
-I bought 20 SPY 7/16 750P just before market close yesterday so on market open i’m selling and loading up more AAPL puts. GLHF.
-
-Disclaimer: DD is from my dreams and there absolutely no logical analysis here. The whole market feels irrational so what’s the point of DD for this play",might sound funny but hear me out for a moment the rise in aapl this week is exactly the same as someone selling computers and used furniture on craigslist to put the funds into their chequing account only to buy more stuff a few days later the only reason aapl is up is because market players are parking their money there today we will see a sharp decline across all markets at opening which will go towards a slight recovery at the end of the day bears and puts happy mm job complete where is this atm aapl liquidity will be pulled away from aapl to feed the rest of the market k position to start but adding another k probably more on opening bell if you feel degen then this is the play for today i bought spy p just before market close yesterday so on market open i m selling and loading up more aapl puts glhf disclaimer dd is from my dreams and there absolutely no logical analysis here the whole market feels irrational so what s the point of dd for this play,0.8863,positive
-2026-07-17 05:35:23+00:00,"How low can these memory stocks drop. Seems like theres no true catalyst besides negative market sentiment, considering TSM’s strong earnings ( 10:52 edit, down another 2%)",how low can these memory stocks drop seems like theres no true catalyst besides negative market sentiment considering tsm s strong earnings edit down another,-0.128,negative
-2026-07-17 04:12:24+00:00,,nan,0.0,neutral
-2026-07-17 03:30:39+00:00,Basically did nothing for a whole month,basically did nothing for a whole month,0.0,neutral
 2026-07-17 01:54:43+00:00,,nan,0.0,neutral
-2026-07-17 00:27:47+00:00,"I’ve been holding this bag too long and I see another opportunity to lose more money shorting Elon.
-
-Should I finally dump this bag, loss harvest it, and buy SPCG with the proceeds? 
-
-Give me your most regarded advice please. ",i ve been holding this bag too long and i see another opportunity to lose more money shorting elon should i finally dump this bag loss harvest it and buy spcg with the proceeds give me your most regarded advice please,-0.3041,negative
 2026-07-17 00:03:32+00:00,,nan,0.0,neutral
 2026-07-16 23:45:18+00:00,"I was doing ok this year and had some good money in AMD, Humana. I regretted not riding the sandisk train. I saw it was up and down 10% every other day. Bought PUTS at 2300 and covered when was 20k positive then wanted other way round too and bought short term calls. here we go. ",i was doing ok this year and had some good money in amd humana i regretted not riding the sandisk train i saw it was up and down every other day bought puts at and covered when was k positive then wanted other way round too and bought short term calls here we go,0.7269,positive
 2026-07-16 23:13:02+00:00,,nan,0.0,neutral
@@ -378,7 +441,6 @@ Anyways, calls. Onward!",in case you re wondering why it feels like every higher
 2026-07-16 20:52:49+00:00,,nan,0.0,neutral
 2026-07-16 20:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1uydllp),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-07-16 19:39:00+00:00,SSPC is 2x Short SPCX etf ,sspc is x short spcx etf,0.0,neutral
-2026-07-16 19:21:44+00:00,Sheeeeeeeeeeesh lol,sheeeeeeeeeeesh lol,0.4215,positive
 2026-07-16 18:42:41+00:00,">Trump Media & Technology Group has unveiled a paid-for, licensed data feed that will give banks ​and trading firms ""the fastest"" access to posts from influential Truth Social ‌accounts, such as President Donald Trump's, whose posts often move global markets.
 
 >The product, called 'Truth API', will deliver posts from the 10 most influential accounts to customers at a significantly ​faster pace than a regular push notification on the Truth Social ​platform, a spokesperson said.
@@ -386,16 +448,7 @@ Anyways, calls. Onward!",in case you re wondering why it feels like every higher
 Do you think it could be a useful trading signal?
 
 Source: [https://www.reuters.com/technology/trump-media-unveils-data-feed-businesses-tracking-truth-social-posts-2026-07-16/](https://www.reuters.com/technology/trump-media-unveils-data-feed-businesses-tracking-truth-social-posts-2026-07-16/)",trump media technology group has unveiled a paid for licensed data feed that will give banks and trading firms the fastest access to posts from influential truth social accounts such as president donald trump s whose posts often move global markets the product called truth api will deliver posts from the most influential accounts to customers at a significantly faster pace than a regular push notification on the truth social platform a spokesperson said do you think it could be a useful trading signal source,0.9274,positive
-2026-07-16 18:10:31+00:00,Bottom when?,bottom when,0.0,neutral
-2026-07-16 17:59:06+00:00,"I could end all this pain suffering for all of you right now, by selling and flipping my position to short. Hell, I could have done it two hours ago. But I won't.",i could end all this pain suffering for all of you right now by selling and flipping my position to short hell i could have done it two hours ago but i won t,-0.0612,negative
 2026-07-16 17:34:43+00:00,"Bought ITM 1000 calls expiring 09/18 when MU was 1090. At this point, I’m not even looking for making profits. I just don’t want to be in deep loss. What should I do? Is there a different stock I should look into to neutralize my loss? MU has been declining for past 3 weeks.",bought itm calls expiring when mu was at this point i m not even looking for making profits i just don t want to be in deep loss what should i do is there a different stock i should look into to neutralize my loss mu has been declining for past weeks,-0.1027,negative
-2026-07-16 17:21:54+00:00,"Waited for 3rd red day on IBM and threw 200k at the bottom on 8/21 220c
-
-Was planning on holding for a week or so but today’s action was a gift. $158k in a few hours
-
-\- Regards",waited for rd red day on ibm and threw k at the bottom on c was planning on holding for a week or so but today s action was a gift k in a few hours regards,0.5927,positive
-2026-07-16 16:47:28+00:00,"Ok some leveraged but not thaaat much…  
-(Keeping my wdc losses visible so I get reminded to not do it again)",ok some leveraged but not thaaat much keeping my wdc losses visible so i get reminded to not do it again,-0.4497,negative
 2026-07-16 16:16:13+00:00,"EDIT: GUH  
   
 I’ve decided to double down on my original position going into NFLX’s earnings. If you want the DD and to see the original position check my previous YOLO post: [here…](https://www.reddit.com/r/wallstreetbets/comments/1ut7wgf/450000_usd_on_msft_nflx_funded_entirely_by_meta/) But TLDR: I made the decision to invest in Netflix while on the comedown of some LSD that was gifted to me from a hot femboy. While I was tripping I also realized fear is just an illusion… it’s a fake cognitive emotion designed by the poor and force fed to us by society from birth.
@@ -468,7 +521,6 @@ Morgan Stanley Tech Momentum Index 17-day rate of change down -35%, worst ever r
 2026-07-15 22:15:03+00:00,In case anyone curious about ah drop,in case anyone curious about ah drop,0.0516,positive
 2026-07-15 21:24:11+00:00,"SNDK, MU, STX took me to the top and it all came crashing down. I don’t really care if I lose my last 11k I’m just tired.",sndk mu stx took me to the top and it all came crashing down i don t really care if i lose my last k i m just tired,-0.1458,negative
 2026-07-15 21:13:32+00:00,,nan,0.0,neutral
-2026-07-15 20:48:42+00:00,A series of unfortunate events,a series of unfortunate events,-0.4588,negative
 2026-07-15 20:44:23+00:00,"I was swing trading RKLB and ASTS for a while and felt pretty good about big gains in just a few months. Preceding SpaceX they both ripped and I was so excited because I thought with just a little more I could avoid having to take out student loans the next 3 years. This was going to set me up well. And then on IPO everything dumped. Surely it was only momentary, it was going to come back. So I ported into asts calls (I’ve mostly only traded stocks) but it didn’t come back. I held onto shares on margin for the next month, waiting for the bounce but it never came. I had a margin call every week and finally today they diluted and sealed the deal.
 
 I started trading when I was 14. I’ve kept relatively consistent good gains and have safely managed my mom’s savings in a different account for the last 3 years. However, I fell in love with volatility, quick gains and wistful thinking.
@@ -506,58 +558,3 @@ So my Roth IRA is down 25%, I went and made a few options trades in Robinhood th
 https://preview.redd.it/7xz7ajgg4adh1.png?width=933&format=png&auto=webp&s=7f36199211b75b8e52850757b7f0c0c9ede88dce
 
 ",so my roth ira is down i went and made a few options trades in robinhood that also went the other way the first was a call i placed a couple weeks ago that current value is in the second screenshot down k i placed another trade today which is down k,0.34,positive
-2026-07-14 22:54:47+00:00,,nan,0.0,neutral
-2026-07-14 22:54:44+00:00,,nan,0.0,neutral
-2026-07-14 21:49:22+00:00,"Welcome to the first installment of Meet the Legend, a series meant to be dedicated to the absolute disgusting real life degenerates of history, who, if they were a part of this community, would have been made honorary Mods and Gods. 
-
-The first inductee is a legendary man who goes by the name Bill ""Mothafukkin"" Hwang, real name Sung Kook Hwang, a degenerate Korean (yes, the country known for getting into heavy debt and leveraged investing into semiconductors today) investor who trained under the infamous ""Tiger Management"" school of degenerate investing, which no doubt set up the foundation for his love of leveraging to the tits and reckless betting. He was one of Robertson's beloved ""Tiger Cubs""
-
-A little bit of his personal life: He worked as a cuck at McDonalds to fund his education. Probably took it like a champ out back and put the fries in the bag. He is married to a Becky Hwang, who probably gives good neck. Oh Becky!
-
-He is also a profeessed devout and faithful Christian, which he tried to use to reduce his sentence 🤣
-
-This ass chap is known for the Archegos Capital Management collapse, a ""family office"" which is structured to be less regulated than a normal hedge fund (because which fucking gambling degenerate doesn't love not having the SEC tell them ""no, you cannot leverage yourself 25x""). He managed $10B usd in assets, and used total return swaps to leverage himself to the absolute titties. Because he traded in swaps, there were less disclosure requirements which meant he could hide his shit from the public. 
-
-The reason this man is the first inductee is because he managed to turn a $10B initial position and make it into an over $100B at its peak and he was rumored to have been worth $30B himself. He was believed to have been leveraged at a 5:1 ratio. However, the market turned against him and it turned into roughly $30B in losses when he got margin called. What a goddamn fucking retard!
-
-Everything was going good during the latter half of 2020-2021 for stocks. The GREATEST BULL RUN IN HISTORY, some might even say. Viacom had 3x during 2021 up til that March, and that's when everything turned to shit for this man. Viacom, in all their fuckwit wisdom, decided to do a secondary offering which plummeted the stock down 30%. Unbeknownst to everyone in the fucking world, Viacom was a huge holding of this man's play house. And that is when the beautiful, fair, and ever so lovely Margin came calling our handsome man, Bill Mothafuggin Hwang.
-
-The beauty is that because of the way the company and investments were structured, the banks and brokers and lenders at the esteemed shitholes such as Nomura, Goldman Sachs, Credit Suisse, UBS, and Morgan Stanley didn't even know each of them had lent this guy cash. The first time margin came a calling he said ""nonsense"". Banks kept calling so he setup a meeting.
-
-He got them all in a call and said ""Don't worry guys, margin called, but I deleted the app and everything is okey dokey smokey"". When everone hung up the call, agreeing to do things together while holding hands and believing in the power of friendship, Goldman then proceeded to liquidate his position before the others and let them hold the bags. Morgan Stanley sold over $5B to their hedge fund buddy bagholders, telling them it was part of a margin call, but conveniently left out that dumping would continue the next day. Things got so bad, Credit Suisse had losses >5.5 billion and shut down their prime brokerage business unit. 💀Fookin legend. At the time of the margin call, he got liquidated with $20B in losses (imagine seeing -$20Billion in the app when you wake up).
-
-What stocks did this guy even buy swaps of? He held shit cos such as the like of ViacomCBS, Baidu, Vipshop, Farfetch, Discovery, Texas Capital Bancshares Inc, Tencent Music Entertainment, IQIYI, among other media and Chinese stocks. On the day he got cucked by margin, the stocks were down over 20%.
-
-Oh, and on July 10, 2024 a jury found him guilty of 11 of the 12 charges he got hit with by the Feds. He was sentenced in November of 2024 to serve 18 years in prison but has posted his $100 million bail, and appealed for a pardon in Jan 2026 to 🌮 (hope he greased the palm enough and has the backing of the Evangelical pastors!). 
-
-FREE BILL MOFUKKIN HWANG! FREE MY MAN!
-
-Edit 1: Added a tldr below
-
-
-TLDR; Bill ""fookin legend"" Hwang. Had $10B and leveraged to the tits. 5x margin, AT LEAST, and got margin called. Helped caused a bank to go bankrupt and caused billions in losses. Read the story",welcome to the first installment of meet the legend a series meant to be dedicated to the absolute disgusting real life degenerates of history who if they were a part of this community would have been made honorary mods and gods the first inductee is a legendary man who goes by the name bill mothafukkin hwang real name sung kook hwang a degenerate korean yes the country known for getting into heavy debt and leveraged investing into semiconductors today investor who trained under the infamous tiger management school of degenerate investing which no doubt set up the foundation for his love of leveraging to the tits and reckless betting he was one of robertson s beloved tiger cubs a little bit of his personal life he worked as a cuck at mcdonalds to fund his education probably took it like a champ out back and put the fries in the bag he is married to a becky hwang who probably gives good neck oh becky he is also a profeessed devout and faithful christian which he tried to use to reduce his sentence this ass chap is known for the archegos capital management collapse a family office which is structured to be less regulated than a normal hedge fund because which fucking gambling degenerate doesn t love not having the sec tell them no you cannot leverage yourself x he managed b usd in assets and used total return swaps to leverage himself to the absolute titties because he traded in swaps there were less disclosure requirements which meant he could hide his shit from the public the reason this man is the first inductee is because he managed to turn a b initial position and make it into an over b at its peak and he was rumored to have been worth b himself he was believed to have been leveraged at a ratio however the market turned against him and it turned into roughly b in losses when he got margin called what a goddamn fucking retard everything was going good during the latter half of for stocks the greatest bull run in history some might even say viacom had x during up til that march and that s when everything turned to shit for this man viacom in all their fuckwit wisdom decided to do a secondary offering which plummeted the stock down unbeknownst to everyone in the fucking world viacom was a huge holding of this man s play house and that is when the beautiful fair and ever so lovely margin came calling our handsome man bill mothafuggin hwang the beauty is that because of the way the company and investments were structured the banks and brokers and lenders at the esteemed shitholes such as nomura goldman sachs credit suisse ubs and morgan stanley didn t even know each of them had lent this guy cash the first time margin came a calling he said nonsense banks kept calling so he setup a meeting he got them all in a call and said don t worry guys margin called but i deleted the app and everything is okey dokey smokey when everone hung up the call agreeing to do things together while holding hands and believing in the power of friendship goldman then proceeded to liquidate his position before the others and let them hold the bags morgan stanley sold over b to their hedge fund buddy bagholders telling them it was part of a margin call but conveniently left out that dumping would continue the next day things got so bad credit suisse had losses billion and shut down their prime brokerage business unit fookin legend at the time of the margin call he got liquidated with b in losses imagine seeing billion in the app when you wake up what stocks did this guy even buy swaps of he held shit cos such as the like of viacomcbs baidu vipshop farfetch discovery texas capital bancshares inc tencent music entertainment iqiyi among other media and chinese stocks on the day he got cucked by margin the stocks were down over oh and on july a jury found him guilty of of the charges he got hit with by the feds he was sentenced in november of to serve years in prison but has posted his million bail and appealed for a pardon in jan to hope he greased the palm enough and has the backing of the evangelical pastors free bill mofukkin hwang free my man edit added a tldr below tldr bill fookin legend hwang had b and leveraged to the tits x margin at least and got margin called helped caused a bank to go bankrupt and caused billions in losses read the story,0.5085,positive
-2026-07-14 20:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1uwjkdt),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-07-14 12:32:27+00:00,"CPI 3.5% YoY, (Est. 3.8%)  
-CPI -0.4% MoM, (Est. 0.0%)
-
-Core CPI 2.6% YoY, (Est. 2.9%)  
-Core CPI 0.0% MoM, (Est. 0.2%)",cpi yoy est cpi mom est core cpi yoy est core cpi mom est,0.0,neutral
-2026-07-14 11:20:18+00:00,,nan,0.0,neutral
-2026-07-14 11:12:48+00:00,"This ratio measures the share of outstanding margin loans that has been flagged for a margin call, where brokers demand additional collateral or forcibly liquidate positions after prices move against borrowers.
-
-This is more than 4 times its typical range of \~1% to 2% over the past 2 years.
-
-Furthermore, brokerage receivables, the total value of outstanding margin loans, have exceeded KRW 2,000 billion (\~$1.34 billion), up from a typical range of KRW 900-1,000 billion (\~$640 million).
-
-This comes as South Korean retail investors have piled into leveraged ETFs at a pace unlike anything seen before.
-
-Meanwhile, \~1.2 million trading accounts have triggered margin calls, with 320,000–360,000 ultimately forcibly liquidated by brokers.
-
-This means hundreds of thousands of retail investors have had their positions forcibly closed, with some still owing money to their brokers after liquidation.
-
-This is becoming one of the most painful unwinds for retail investors in history.",this ratio measures the share of outstanding margin loans that has been flagged for a margin call where brokers demand additional collateral or forcibly liquidate positions after prices move against borrowers this is more than times its typical range of to over the past years furthermore brokerage receivables the total value of outstanding margin loans have exceeded krw billion billion up from a typical range of krw billion million this comes as south korean retail investors have piled into leveraged etfs at a pace unlike anything seen before meanwhile million trading accounts have triggered margin calls with ultimately forcibly liquidated by brokers this means hundreds of thousands of retail investors have had their positions forcibly closed with some still owing money to their brokers after liquidation this is becoming one of the most painful unwinds for retail investors in history,0.8363,positive
-2026-07-14 10:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1uw4ap2),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-07-14 09:47:07+00:00,,nan,0.0,neutral
-2026-07-14 08:14:14+00:00,,nan,0.0,neutral
-2026-07-14 07:57:00+00:00,"All the memory stocks have gone fucking crazy over the last year and now that the pump is slowing down I’m starting to wonder how much of this memory is actually needed. I understand that Ai is expanding and they need more memory for it, but do we really need 600% more memory? That seems like kinda growth and I find it hard to believe that Ai needs 6x more memory this year than last year. I’m probably just regarded but I think this might be overvalued as fuck ",all the memory stocks have gone fucking crazy over the last year and now that the pump is slowing down i m starting to wonder how much of this memory is actually needed i understand that ai is expanding and they need more memory for it but do we really need more memory that seems like kinda growth and i find it hard to believe that ai needs x more memory this year than last year i m probably just regarded but i think this might be overvalued as fuck,-0.2467,negative
-2026-07-14 05:21:21+00:00,"Opened my wealthsimple account and to my surprise there is a million dollar balance, am I the monthly millionaire?",opened my wealthsimple account and to my surprise there is a million dollar balance am i the monthly millionaire,0.2732,positive

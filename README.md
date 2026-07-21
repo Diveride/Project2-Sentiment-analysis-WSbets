@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-20T23:17:32.603526+00:00`
+- Generated at (UTC): `2026-07-21T23:14:41.170660+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | IREN | 37 | 1 | -0.525 | 40.20 | -30.82% | 1.253 |
-| 2 | SPY | 10 | 7 | 0.083 | 742.09 | 0.15% | 3.503 |
-| 3 | SPCX | 7 | 6 | 0.080 | 119.85 | -37.52% | n/a |
-| 4 | RKLB | 4 | 4 | 0.241 | 65.74 | -39.12% | 7.750 |
-| 5 | ASTS | 6 | 3 | 0.460 | 57.42 | -32.79% | 3.898 |
-| 6 | IBM | 4 | 3 | 0.296 | 213.00 | -18.81% | 7.546 |
-| 7 | GOOGL | 4 | 3 | 0.713 | 351.99 | -3.24% | 8.710 |
-| 8 | SNDK | 3 | 3 | -0.546 | 1390.95 | -28.99% | 142.862 |
-| 9 | META | 3 | 3 | -0.137 | 645.85 | 13.79% | 6.228 |
-| 10 | TSM | 3 | 3 | 0.100 | 402.30 | -6.91% | 7.845 |
+| 1 | IREN | 37 | 1 | -0.525 | 41.29 | -31.14% | 1.217 |
+| 2 | SPY | 10 | 7 | 0.040 | 748.28 | 0.21% | 4.866 |
+| 3 | SPCX | 7 | 6 | 0.080 | 123.54 | -33.22% | n/a |
+| 4 | RKLB | 4 | 4 | 0.241 | 69.12 | -35.55% | 8.641 |
+| 5 | DRAM | 6 | 3 | -0.288 | 58.85 | -23.28% | 5.834 |
+| 6 | ASTS | 6 | 3 | 0.460 | 63.34 | -21.47% | 3.952 |
+| 7 | GOOGL | 4 | 3 | 0.713 | 347.15 | -5.67% | 8.503 |
+| 8 | META | 3 | 3 | -0.137 | 643.81 | 11.54% | 5.245 |
+| 9 | TSLA | 3 | 3 | 0.572 | 378.93 | -5.38% | 4.282 |
+| 10 | IRE | 8 | 1 | -0.525 | 12.24 | -58.99% | 4.388 |
 
 ### Aggregate Charts
 
@@ -198,27 +198,27 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
+#### DRAM
+
+![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
+
 #### ASTS
 
 ![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
-
-#### IBM
-
-![IBM Dashboard](outputs/latest_wsb_analysis/charts/ibm_dashboard.png)
 
 #### GOOGL
 
 ![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
 
-#### SNDK
-
-![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
-
 #### META
 
 ![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
 
-#### TSM
+#### TSLA
 
-![TSM Dashboard](outputs/latest_wsb_analysis/charts/tsm_dashboard.png)
+![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
+
+#### IRE
+
+![IRE Dashboard](outputs/latest_wsb_analysis/charts/ire_dashboard.png)
 <!-- AUTO_TOP10_END -->
