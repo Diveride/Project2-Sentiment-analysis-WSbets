@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-22T23:18:07.639381+00:00`
+- Generated at (UTC): `2026-07-23T23:14:24.962226+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | IREN | 47 | 1 | -0.708 | 41.28 | -27.41% | 1.065 |
-| 2 | SPCX | 19 | 8 | -0.127 | 115.26 | -25.45% | n/a |
-| 3 | SPY | 6 | 5 | 0.241 | 747.41 | 0.41% | 2.917 |
-| 4 | NVDA | 5 | 4 | 0.067 | 212.06 | 1.63% | 5.406 |
-| 5 | META | 4 | 4 | 0.101 | 627.17 | 11.23% | 5.608 |
-| 6 | DRAM | 7 | 3 | -0.349 | 57.77 | -28.43% | 6.782 |
-| 7 | MSFT | 4 | 3 | 0.690 | 390.34 | 6.26% | 5.478 |
-| 8 | GOOGL | 4 | 3 | 0.614 | 342.09 | -2.17% | 8.593 |
-| 9 | AMD | 3 | 3 | 0.490 | 552.33 | 0.13% | 13.028 |
-| 10 | SMCI | 3 | 3 | 0.031 | 30.56 | -13.82% | 1.809 |
+| 1 | IREN | 47 | 1 | -0.708 | 40.58 | -25.84% | 1.082 |
+| 2 | SPCX | 12 | 5 | -0.129 | 118.24 | -24.26% | n/a |
+| 3 | GOOGL | 7 | 5 | 0.358 | 317.69 | -8.22% | 8.637 |
+| 4 | AMD | 5 | 4 | 0.482 | 539.69 | 3.82% | 12.924 |
+| 5 | SPY | 5 | 4 | 0.174 | 738.18 | 0.63% | 3.491 |
+| 6 | DRAM | 7 | 3 | -0.349 | 58.30 | -15.78% | 6.437 |
+| 7 | NVDA | 4 | 3 | 0.362 | 208.76 | 4.36% | 2.453 |
+| 8 | META | 3 | 3 | 0.134 | 606.10 | 7.81% | 5.796 |
+| 9 | IRE | 10 | 1 | -0.708 | 11.82 | -52.15% | 4.459 |
+| 10 | TSLA | 3 | 2 | 0.419 | 319.69 | -16.23% | 3.975 |
 
 ### Aggregate Charts
 
@@ -190,9 +190,21 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
+#### GOOGL
+
+![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
+
+#### AMD
+
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
+#### DRAM
+
+![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
 
 #### NVDA
 
@@ -202,23 +214,11 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
 
-#### DRAM
+#### IRE
 
-![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
+![IRE Dashboard](outputs/latest_wsb_analysis/charts/ire_dashboard.png)
 
-#### MSFT
+#### TSLA
 
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
-
-#### GOOGL
-
-![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
-
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
-#### SMCI
-
-![SMCI Dashboard](outputs/latest_wsb_analysis/charts/smci_dashboard.png)
+![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 <!-- AUTO_TOP10_END -->
