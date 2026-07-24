@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-23T23:14:24.962226+00:00`
+- Generated at (UTC): `2026-07-24T23:18:39.344581+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | IREN | 47 | 1 | -0.708 | 40.58 | -25.84% | 1.082 |
-| 2 | SPCX | 12 | 5 | -0.129 | 118.24 | -24.26% | n/a |
-| 3 | GOOGL | 7 | 5 | 0.358 | 317.69 | -8.22% | 8.637 |
-| 4 | AMD | 5 | 4 | 0.482 | 539.69 | 3.82% | 12.924 |
-| 5 | SPY | 5 | 4 | 0.174 | 738.18 | 0.63% | 3.491 |
-| 6 | DRAM | 7 | 3 | -0.349 | 58.30 | -15.78% | 6.437 |
-| 7 | NVDA | 4 | 3 | 0.362 | 208.76 | 4.36% | 2.453 |
-| 8 | META | 3 | 3 | 0.134 | 606.10 | 7.81% | 5.796 |
-| 9 | IRE | 10 | 1 | -0.708 | 11.82 | -52.15% | 4.459 |
-| 10 | TSLA | 3 | 2 | 0.419 | 319.69 | -16.23% | 3.975 |
+| 1 | IREN | 47 | 1 | -0.708 | 37.07 | -26.30% | 1.017 |
+| 2 | SPCX | 12 | 5 | -0.129 | 115.07 | -25.54% | n/a |
+| 3 | GOOGL | 8 | 6 | 0.407 | 319.74 | -7.40% | 8.371 |
+| 4 | AMD | 8 | 4 | 0.462 | 521.95 | 0.43% | 13.108 |
+| 5 | NVDA | 5 | 4 | 0.435 | 206.84 | 3.94% | 5.573 |
+| 6 | META | 4 | 4 | 0.264 | 595.19 | 6.73% | 5.454 |
+| 7 | MSFT | 4 | 4 | 0.268 | 381.70 | 4.44% | 4.891 |
+| 8 | DRAM | 7 | 3 | -0.349 | 53.20 | -23.92% | 6.122 |
+| 9 | TSLA | 4 | 3 | 0.497 | 313.03 | -16.64% | 4.429 |
+| 10 | IBM | 4 | 3 | -0.010 | 214.19 | -18.55% | 7.313 |
 
 ### Aggregate Charts
 
@@ -198,14 +198,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### SPY
-
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
-#### DRAM
-
-![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
-
 #### NVDA
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
@@ -214,11 +206,19 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
 
-#### IRE
+#### MSFT
 
-![IRE Dashboard](outputs/latest_wsb_analysis/charts/ire_dashboard.png)
+![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
+
+#### DRAM
+
+![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
 
 #### TSLA
 
 ![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
+
+#### IBM
+
+![IBM Dashboard](outputs/latest_wsb_analysis/charts/ibm_dashboard.png)
 <!-- AUTO_TOP10_END -->

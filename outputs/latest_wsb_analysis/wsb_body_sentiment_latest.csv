@@ -1,34 +1,182 @@
 created_utc,body,clean_body,body_sentiment,body_label
-2026-07-23 23:09:31+00:00,,nan,0.0,neutral
-2026-07-23 23:06:24+00:00,,nan,0.0,neutral
+2026-07-24 20:46:31+00:00,"I know this not much of a loss by WSB standards, but it genuinely hurts when you’re only 18. Fortunately, it was all gifted money rather than money I worked hard for. I guess I’ll just consider it tuition for a lesson that’ll hopefully pay off in the future.",i know this not much of a loss by wsb standards but it genuinely hurts when you re only fortunately it was all gifted money rather than money i worked hard for i guess i ll just consider it tuition for a lesson that ll hopefully pay off in the future,-0.3224,negative
+2026-07-24 20:33:50+00:00,"Chased the loses and averaged down like a fucking moron
+
+Im amazed by my utter stupidity
+
+100 0DTE MU 1000 calls",chased the loses and averaged down like a fucking moron im amazed by my utter stupidity dte mu calls,-0.4077,negative
+2026-07-24 20:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1v5m9je),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-07-24 19:10:14+00:00,It just makes no fucking sense,it just makes no fucking sense,-0.296,negative
+2026-07-24 18:59:01+00:00,"I spent all day making my own little Claude bot WSB Bloomberg terminal / platform .. giving me signals , taking a look at volume , VWAP some shit I never heard of til now. 
+
+Bought $738 strike puts when it broke the VWAP. Contract got up to $1.15 originally but whatever gain is gain ",i spent all day making my own little claude bot wsb bloomberg terminal platform giving me signals taking a look at volume vwap some shit i never heard of til now bought strike puts when it broke the vwap contract got up to originally but whatever gain is gain,0.8151,positive
+2026-07-24 18:26:59+00:00,,nan,0.0,neutral
+2026-07-24 18:01:45+00:00,,nan,0.0,neutral
+2026-07-24 17:59:41+00:00,"In his [1997 OOPSLA talk, The Computer Revolution Hasn’t Happened Yet](https://www.youtube.com/watch?v=oKg1hTOQXoY), Alan Kay warned that scaling a doghouse does not create a cathedral. That is the risk in hyperscaler AI strategy today: more GPUs, more data centers, more tokens, and more power, without a clear architecture for value. Scale can increase capacity, but it cannot replace design. A cathedral is not a very large doghouse. It is a different system.
+
+As one example, Yann LeCun argues that simply scaling large language models is unlikely to produce AGI because LLMs lack robust understanding of the physical world.
+
+The question in 2028 is going to be: did MSFT/GOOG/ORCL/AMZN try to scale a doghouse?",in his oopsla talk the computer revolution hasn t happened yet alan kay warned that scaling a doghouse does not create a cathedral that is the risk in hyperscaler ai strategy today more gpus more data centers more tokens and more power without a clear architecture for value scale can increase capacity but it cannot replace design a cathedral is not a very large doghouse it is a different system as one example yann lecun argues that simply scaling large language models is unlikely to produce agi because llms lack robust understanding of the physical world the question in is going to be did msft goog orcl amzn try to scale a doghouse,-0.6287,negative
+2026-07-24 17:47:58+00:00,"Listen up highly regarded folks
+
+I did some napkin math on the whole AI data center demand along with help from AI on numbers etc. Here is what i did:
+
+Lets assume 1 billion daily active Human AI users, however, all these 1 billion people are not gonna use at same time 24x7. They might use it 8 hours a day at best. So divide 1billy by 3, we get roughly 350milly rounded.
+
+Next, we have power users who will run agents etc all day long, lets optimistically assume 50milly more for them. 
+
+so now we are at 400milly active users every minute or hour. We will call them organic users (aka living regards)
+
+Next we have AI demand from robotics, driverless cars, your own computer spying on you etc.. these are all multi fold higher than any human user base and run 24x7 mostly. 
+
+Lets assume a userbase of 2 to 3billy machines needing constant AI use every hour. since machine and non human use cases outnumber human usage vastly. Now this represents non organic users (aka machine regards). Note that this user base is conservative at best once there ends up being a robot in every house or office for every purpose. this can go even higher to 5bn users. but lets assume conservatively at 2.5billy
+
+Now Living regards + Machine regards = 400mn + 2.5bn = roughly 2.9bn or 3bn active AI users per minute or hour continuously. 
+
+Now it is not easy to give AI inference. we can assume 1 high end AI GPU for 1 active user who uses AI 24x7. this gives a need of roughly 3bn AI GPUs across all AI data centers world over to meet existing and future market demand
+
+Now coming to power usage, \~1000 GPUs draw 1MW at 700kw to 1000kw per GPU average. this results in 3billy/1000 = 3 milly MW of AI data center build out.
+
+A number so big we simply cannot meet that demand realistically
+
+Now, we also have a issue where these GPUs are not one and done, because they run continuously on inference, they wear very fast with a realistic life of 3 years. now since we are regards, we can be optimistic and if we assume they can run for 6 years instead of 3, we will need 3milly MW of AI data center build out every 6 years or roughly 0.5 milly every year
+
+But like how we get margin called, this demand also gets margin called by reality. We can currently only produce \~100milly AI GPUs a year with maybe expansion on the way to 150milly a year in couple of years (by couple i mean atleast 5-6 years) 
+
+So ground reality is we can only sustainably build and run about 0.6million MW of AI data centres for next 2-3 decades unless we make some breakthrough in manufacturing as we already nearing 2nm nodes beyond which electrons start to have issues and GPUs cannot function
+
+Maybe we will get light GPUs instead of electron based GPUs and even Quantum GPUs, but those are realistically decades away 
+
+And above all this, we are severly limited on below aspects with current annual capacity vs. what is needed.
+
+|Material / Capability|Constraint Level|
+|:-|:-|
+
+
+|Electricity generation|**Extreme**|
+|:-|:-|
+
+
+|Grid expansion|**Extreme**|
+|:-|:-|
+
+
+|Semiconductor fabs|**Extreme**|
+|:-|:-|
+
+
+|Advanced packaging|**Extreme**|
+|:-|:-|
+
+
+|EUV lithography tools|**Extreme**|
+|:-|:-|
+
+
+|Tantalum|**Extreme**|
+|:-|:-|
+
+
+|Gallium|**Extreme**|
+|:-|:-|
+
+
+|Germanium|**Extreme**|
+|:-|:-|
+
+
+|Indium|**High**|
+|:-|:-|
+
+
+|Copper refining|**High**|
+|:-|:-|
+
+
+|Tin|**High**|
+|:-|:-|
+
+
+|Rare-earth processing|**High**|
+|:-|:-|
+
+
+
+
+Now, while this is happening, parallely we also have people losing jobs to AI , now as they lose jobs to AI and go to give handies behind a wendies, they stop making money to spend on AI. now if they cannot spend money on AI, who will buy the shit AI or any company makes? Thats right , no one. Money has to circulate for economy to function. Even a K shaped economy is K shaped, it functions at both ends with constant circulation. However, with AI, it will become more like L shaped, (and everyone takes a Big L ) and money simply stops flowing to 99% of people, this will result in mega giga depression unlike levels never seen, not even in 1929 great depression.
+
+Now, does any highly regarded people here have any insights into how this will playout, i think the bottom will fall, AI expansion will pause as demand and capacity constraints play out and a decade of fast growth will become a decade of depression.",listen up highly regarded folks i did some napkin math on the whole ai data center demand along with help from ai on numbers etc here is what i did lets assume billion daily active human ai users however all these billion people are not gonna use at same time x they might use it hours a day at best so divide billy by we get roughly milly rounded next we have power users who will run agents etc all day long lets optimistically assume milly more for them so now we are at milly active users every minute or hour we will call them organic users aka living regards next we have ai demand from robotics driverless cars your own computer spying on you etc these are all multi fold higher than any human user base and run x mostly lets assume a userbase of to billy machines needing constant ai use every hour since machine and non human use cases outnumber human usage vastly now this represents non organic users aka machine regards note that this user base is conservative at best once there ends up being a robot in every house or office for every purpose this can go even higher to bn users but lets assume conservatively at billy now living regards machine regards mn bn roughly bn or bn active ai users per minute or hour continuously now it is not easy to give ai inference we can assume high end ai gpu for active user who uses ai x this gives a need of roughly bn ai gpus across all ai data centers world over to meet existing and future market demand now coming to power usage gpus draw mw at kw to kw per gpu average this results in billy milly mw of ai data center build out a number so big we simply cannot meet that demand realistically now we also have a issue where these gpus are not one and done because they run continuously on inference they wear very fast with a realistic life of years now since we are regards we can be optimistic and if we assume they can run for years instead of we will need milly mw of ai data center build out every years or roughly milly every year but like how we get margin called this demand also gets margin called by reality we can currently only produce milly ai gpus a year with maybe expansion on the way to milly a year in couple of years by couple i mean atleast years so ground reality is we can only sustainably build and run about million mw of ai data centres for next decades unless we make some breakthrough in manufacturing as we already nearing nm nodes beyond which electrons start to have issues and gpus cannot function maybe we will get light gpus instead of electron based gpus and even quantum gpus but those are realistically decades away and above all this we are severly limited on below aspects with current annual capacity vs what is needed material capability constraint level electricity generation extreme grid expansion extreme semiconductor fabs extreme advanced packaging extreme euv lithography tools extreme tantalum extreme gallium extreme germanium extreme indium high copper refining high tin high rare earth processing high now while this is happening parallely we also have people losing jobs to ai now as they lose jobs to ai and go to give handies behind a wendies they stop making money to spend on ai now if they cannot spend money on ai who will buy the shit ai or any company makes thats right no one money has to circulate for economy to function even a k shaped economy is k shaped it functions at both ends with constant circulation however with ai it will become more like l shaped and everyone takes a big l and money simply stops flowing to of people this will result in mega giga depression unlike levels never seen not even in great depression now does any highly regarded people here have any insights into how this will playout i think the bottom will fall ai expansion will pause as demand and capacity constraints play out and a decade of fast growth will become a decade of depression,-0.5719,negative
+2026-07-24 17:23:09+00:00,"Listen folks, I'm not a tech bro and I know nothing about this AI stuff. I don't care how it works, it's just hype and buzzwords for me. However, I've never made so much easy money in my life and I wanted to share a few insights on how I did it.
+
+My strategy for the past 3 years has been to invest in a company as soon as they use the word AI in their brand. This has worked very well for me and a few of my friends across several stocks. For example, as soon as Intel has rebranded to ""Built for AI"", we knew that it was about to skyrocket, and sure enough, the green candles started to show up in the next weeks. 
+
+It worked so well that I've created an index called the Frequency AI Ratio Tracker (FART). It's basically the amount of time the word ""AI"" is used on a company's homepage. For example, AMD currently has 60 occurrences of the word ""AI"" on their homepage for roughly 876 words in total, meaning a ratio of 6.85%.
+
+To put that in perspective: statistically, 1 out of every 15 words on AMD's homepage is ""AI"". That is a **critical-level**, enterprise-grade FART score and it was a no-brainer once I discovered that out. The higher the score is, the greater the potential was.
+
+However, for the first time in the past 3 years, I have a strange feeling that this strategy is no longer working and the momentum is starting to fade away. Looking at all the OG companies from the .com bubble, it sure looks like a peak to me, and I've actually started to use a reversed-FART strategy since July 4th. The higher the score is, the greater the risk of a downfall once the AI bubble pops.
+
+[Some OG stocks](https://preview.redd.it/yqpbos7uo7fh1.png?width=1080&format=png&auto=webp&s=40823c3fb4c3a05d4f200f85395622ed3ece69ae)
+
+The General Rule of Thumb for the reversed-FART stategy:
+
+    0%: Low risk
+    0.1% – 2%: Medium risk
+    2% – 5%: High risk
+    > 5%: Extreme risk
+
+Here's the most recent compiled version of FART for some tech companies as of July 24th. 
+
+    ==========================================================================
+    Name of company       | Stock    | Total Words | AI Mentions | FART Score 
+    ==========================================================================
+    AMD                   | AMD      | 876         | 60          | 6.85     % 
+    NVIDIA                | NVDA     | 2663        | 115         | 4.32     % 
+    Oracle                | ORCL     | 786         | 27          | 3.44     % 
+    ServiceNow            | NOW      | 651         | 22          | 3.38     % 
+    Qualcomm              | QCOM     | 765         | 24          | 3.14     % 
+    Arm Holdings          | ARM      | 862         | 26          | 3.02     % 
+    Cisco Systems         | CSCO     | 450         | 13          | 2.89     % 
+    SAP                   | SAP      | 1004        | 25          | 2.49     % 
+    IBM                   | IBM      | 560         | 11          | 1.96     % 
+    Micron Technology     | MU       | 635         | 12          | 1.89     % 
+    Microsoft             | MSFT     | 645         | 10          | 1.55     % 
+    Broadcom              | AVGO     | 462         | 7           | 1.52     % 
+    Salesforce            | CRM      | 936         | 14          | 1.50     % 
+    Samsung Electronics   | 005930.KS| 375         | 5           | 1.33     % 
+    Meta Platforms        | META     | 303         | 4           | 1.32     % 
+    Alphabet (Google)     | GOOGL    | 422         | 4           | 0.95     % 
+    TSMC                  | TSM      | 688         | 6           | 0.87     % 
+    Intel                 | INTC     | 245         | 2           | 0.82     % 
+    Palantir              | PLTR     | 3151        | 23          | 0.73     % 
+    SK Hynix              | 000660.KS| 167         | 1           | 0.60     % 
+    Amazon                | AMZN     | 355         | 2           | 0.56     % 
+    Applied Materials     | AMAT     | 209         | 1           | 0.48     % 
+    ASML                  | ASML     | 596         | 1           | 0.17     % 
+    Corning               | GLW      | 576         | 1           | 0.17     % 
+    Apple                 | AAPL     | 883         | 1           | 0.11     % 
+    Tesla                 | TSLA     | 181         | 0           | 0.00     % 
+    Lam Research          | LRCX     | 275         | 0           | 0.00     % 
+
+*Legal notice: I am dumb and this is not financial advise. This was compiled by hand by copy-pasting in Microsoft Word like a fool and searching for the word AI. Consider compiling your own data and use FART at your own risk. I am not responsable for any loss based on this strategy. The level of risk estimated by FART was established out of thin air. Ask your financial adviser about FART.*",listen folks i m not a tech bro and i know nothing about this ai stuff i don t care how it works it s just hype and buzzwords for me however i ve never made so much easy money in my life and i wanted to share a few insights on how i did it my strategy for the past years has been to invest in a company as soon as they use the word ai in their brand this has worked very well for me and a few of my friends across several stocks for example as soon as intel has rebranded to built for ai we knew that it was about to skyrocket and sure enough the green candles started to show up in the next weeks it worked so well that i ve created an index called the frequency ai ratio tracker fart it s basically the amount of time the word ai is used on a company s homepage for example amd currently has occurrences of the word ai on their homepage for roughly words in total meaning a ratio of to put that in perspective statistically out of every words on amd s homepage is ai that is a critical level enterprise grade fart score and it was a no brainer once i discovered that out the higher the score is the greater the potential was however for the first time in the past years i have a strange feeling that this strategy is no longer working and the momentum is starting to fade away looking at all the og companies from the com bubble it sure looks like a peak to me and i ve actually started to use a reversed fart strategy since july th the higher the score is the greater the risk of a downfall once the ai bubble pops some og stocks the general rule of thumb for the reversed fart stategy low risk medium risk high risk extreme risk here s the most recent compiled version of fart for some tech companies as of july th name of company stock total words ai mentions fart score amd amd nvidia nvda oracle orcl servicenow now qualcomm qcom arm holdings arm cisco systems csco sap sap ibm ibm micron technology mu microsoft msft broadcom avgo salesforce crm samsung electronics ks meta platforms meta alphabet google googl tsmc tsm intel intc palantir pltr sk hynix ks amazon amzn applied materials amat asml asml corning glw apple aapl tesla tsla lam research lrcx legal notice i am dumb and this is not financial advise this was compiled by hand by copy pasting in microsoft word like a fool and searching for the word ai consider compiling your own data and use fart at your own risk i am not responsable for any loss based on this strategy the level of risk estimated by fart was established out of thin air ask your financial adviser about fart,0.8,positive
+2026-07-24 16:53:17+00:00,"I see a lot of folks just lose absolute mad amounts because they see Robinhood's glorious ""simulated returns"" for options and somehow think they'll be heroes.
+
+Sometimes, just be content with a few hundred a day. I trade a few times a day to scalp at resistance levels. Probably hold for 2 min max. Tbh had I magically timed the peak with all my options...we're talking $400k or so. But it's whatever, just subsidizing myself to get more passive income. Looking to get maybe $5-6k extra a month as a goal.
+
+Some days tho, I look around here and think, am i not regarded enough? Do I belong? I should probably risk my kids' 529s, right?",i see a lot of folks just lose absolute mad amounts because they see robinhood s glorious simulated returns for options and somehow think they ll be heroes sometimes just be content with a few hundred a day i trade a few times a day to scalp at resistance levels probably hold for min max tbh had i magically timed the peak with all my options we re talking k or so but it s whatever just subsidizing myself to get more passive income looking to get maybe k extra a month as a goal some days tho i look around here and think am i not regarded enough do i belong i should probably risk my kids s right,0.1997,positive
+2026-07-24 16:34:03+00:00,"President is expected to host CEOs from leading advanced nuclear companies at the White House to mark a major milestone in the administration’s push to accelerate next-generation reactors. The event follows the recent achievement of multiple U.S. microreactors reaching first criticality under the Reactor Pilot Program, highlighting progress toward commercial deployment. It also reinforces the administration’s broader pro-nuclear agenda, including recent executive actions, AI-focused nuclear initiatives, and efforts to streamline licensing and deployment. While the meeting is symbolic, it signals continued high-level White House support for advanced nuclear and companies developing next-generation reactors.",president is expected to host ceos from leading advanced nuclear companies at the white house to mark a major milestone in the administration s push to accelerate next generation reactors the event follows the recent achievement of multiple u s microreactors reaching first criticality under the reactor pilot program highlighting progress toward commercial deployment it also reinforces the administration s broader pro nuclear agenda including recent executive actions ai focused nuclear initiatives and efforts to streamline licensing and deployment while the meeting is symbolic it signals continued high level white house support for advanced nuclear and companies developing next generation reactors,0.8979,positive
+2026-07-24 14:30:40+00:00,"Consistency is key! Please take your time to trade.Few things I learned.  
+1. Conviction. Have a bias set for the day, but be ready for any 180 turns.  
+2. Follow the trend instead of trying to catch the reversal.  
+3. Set the trade and forget about it. Hits your SL? Walk away. I only trade the same direction but I start small and avg down if my fill was bad.  
+4. Take profits when you can. I’ve had multiple times where I could take +1k but I thought it could’ve went higher. One single opposite candle and you’re done buddy.   
+5. Patience. After you enter, look at the higher timeframes and see if there are any supports or resistance.  
+Have a great weekend!",consistency is key please take your time to trade few things i learned conviction have a bias set for the day but be ready for any turns follow the trend instead of trying to catch the reversal set the trade and forget about it hits your sl walk away i only trade the same direction but i start small and avg down if my fill was bad take profits when you can i ve had multiple times where i could take k but i thought it could ve went higher one single opposite candle and you re done buddy patience after you enter look at the higher timeframes and see if there are any supports or resistance have a great weekend,0.8847,positive
+2026-07-24 13:39:45+00:00,I didn't hear no bell,i didn t hear no bell,-0.296,negative
+2026-07-24 10:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1v5703x),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-07-24 05:33:39+00:00,,nan,0.0,neutral
 2026-07-23 21:53:50+00:00,Ouch.  Cash secured puts $TSLA.  ,ouch cash secured puts tsla,0.4019,positive
-2026-07-23 21:45:26+00:00,"You can see where I started trading 0DTE puts and then where Robinhood got rid of pattern day trading.  
-
-I break pretty much every rule as I have a day job. 
-
-I only keep 300-500 in my account at a time.  
-
-I don’t journal or back test.  
-
-I rarely hold overnight since PDT is gone and I’m buying 0DTE.   1 out of 50 trades I’ll go out another day. .   
-
-I use market orders only.   
-
-Set ups I look for are all based on EW retracements and volume. 
-
-I use a one day chart with 5 minute candles with 9d ema and 50 day ema and vwap
-
-After the PDT rule is gone I believe I have an edge even with my sloppy trading off phone with marker orders.  
-
-My goal is to make $300 a week.  
-
-I have 25 years of investing experience.  Took 15 years off after the financial crisis.   
-
-Am I lucky? 🍀 
-
-The oxy call is just me piggybacking a friend because I liked the set up.  ",you can see where i started trading dte puts and then where robinhood got rid of pattern day trading i break pretty much every rule as i have a day job i only keep in my account at a time i don t journal or back test i rarely hold overnight since pdt is gone and i m buying dte out of trades i ll go out another day i use market orders only set ups i look for are all based on ew retracements and volume i use a one day chart with minute candles with d ema and day ema and vwap after the pdt rule is gone i believe i have an edge even with my sloppy trading off phone with marker orders my goal is to make a week i have years of investing experience took years off after the financial crisis am i lucky the oxy call is just me piggybacking a friend because i liked the set up,0.7845,positive
 2026-07-23 21:39:36+00:00,,nan,0.0,neutral
-2026-07-23 21:25:39+00:00,,nan,0.0,neutral
 2026-07-23 21:12:33+00:00,"The U.S. Department of Energy (DOE) startup authorization allows Oklo to load nuclear fuel, conduct startup testing, and proceed toward first criticality.
 
 In just over 10 months, Oklo progressed from groundbreaking to receiving DOE startup authorization for its first reactor at the Groves site.
@@ -68,7 +216,7 @@ Their dividend payout ratio is 26% which isn't great, but its OK. I think this p
 
 My position is 2000 shares at 21.965 per share. I'm targeting a 0.50 dollars move to the upside to make $1000. I think the odds of this occurring between now and the next earnings report are very likely.
 
-This is the definition of picking up pennies in front of a steamroller (risk $44000 to make $1000) and nobody should do this. The copium case: the shares can depreciate by $1.72 from the current price and after 1 quarter I'll still have matched the performance of a money market fund with this position, even factoring in that dividends just subtract money from the stock price and pay it back to you.
+This is the definition of picking up pennies in front of a steamroller (risk $44000 to make $1000) and nobody should do this. The copium case: the shares can depreciate by $0.43 from the current price and after 1 quarter I'll still have matched the performance of a money market fund with this position, even factoring in that dividends just subtract money from the stock price and pay it back to you.
 
 NFA
 
@@ -107,7 +255,37 @@ If my account makes one of you sleep better tonight, you're welcome.
 
 As for me, it's back to the boring life: automating buys into low-cost index funds and not looking at them. Hopefully I don't end up trading again. (Oops... I mean gambling on stocks and options.)
 
-Hopefully never see you regards!",always thought how people manage to lose this much and here i am the funny thing is no matter how much you gain or lose if you re not out of the game it can still happen to you today you re laughing at my chart tomorrow your broker might be sending you the wellness check let s be honest most of us come here for two reasons to see if there s someone even more regarded than us to feel a little better about our own losses if my account makes one of you sleep better tonight you re welcome as for me it s back to the boring life automating buys into low cost index funds and not looking at them hopefully i don t end up trading again oops i mean gambling on stocks and options hopefully never see you regards,0.9404,positive
+Hopefully never see you regards!
+
+EDIT:
+I've traded for years. I know option pricing, stock fundamentals, technical analysis, and risk management. 
+I've traded covered calls, protective puts, collars, credit spreads, butterflies, iron condors... pretty much every strategy you can think of.
+
+Knowledge wasn't the problem.
+
+For four years I was disciplined. I sized positions properly, respected risk, and followed my rules.
+
+Then knowledge turned into ego.
+The ego that says, ""I've seen this setup a thousand times.""
+The ego that says, ""I know exactly what's about to happen.""
+
+So one day I bought QQQ puts based on a 5-second candle. I had about $90k of available margin, so instead of taking a normal-sized position, I full-ported it.
+
+On Interactive Brokers I always used bracket orders, so my stop loss went in with the trade. I switched to Wealthsimple because of the commission-free trades, but you can't place the sell order until the buy fills.
+
+Those few seconds were all it took.
+
+QQQ did what QQQ does - violent swings. Before I could even enter my stop, the option was already down around 70%. Seconds later it was down about 90%.
+At that point there was nothing left to ""manage."" The risk management should have happened before I clicked Buy.
+
+The lesson isn't that options are evil or that technical analysis doesn't work.
+The lesson is that one moment of ego can erase years of discipline.
+
+If you open your brokerage app every day looking for trades, don't think you're immune because you're experienced. I certainly did.
+
+If this post makes even one person think twice before revenge trading or going all-in because they're ""sure,"" then losing this money wasn't completely wasted.
+
+As for me, I'm going back to the boring life: automatic purchases of low-cost index funds and not looking at them.",always thought how people manage to lose this much and here i am the funny thing is no matter how much you gain or lose if you re not out of the game it can still happen to you today you re laughing at my chart tomorrow your broker might be sending you the wellness check let s be honest most of us come here for two reasons to see if there s someone even more regarded than us to feel a little better about our own losses if my account makes one of you sleep better tonight you re welcome as for me it s back to the boring life automating buys into low cost index funds and not looking at them hopefully i don t end up trading again oops i mean gambling on stocks and options hopefully never see you regards edit i ve traded for years i know option pricing stock fundamentals technical analysis and risk management i ve traded covered calls protective puts collars credit spreads butterflies iron condors pretty much every strategy you can think of knowledge wasn t the problem for four years i was disciplined i sized positions properly respected risk and followed my rules then knowledge turned into ego the ego that says i ve seen this setup a thousand times the ego that says i know exactly what s about to happen so one day i bought qqq puts based on a second candle i had about k of available margin so instead of taking a normal sized position i full ported it on interactive brokers i always used bracket orders so my stop loss went in with the trade i switched to wealthsimple because of the commission free trades but you can t place the sell order until the buy fills those few seconds were all it took qqq did what qqq does violent swings before i could even enter my stop the option was already down around seconds later it was down about at that point there was nothing left to manage the risk management should have happened before i clicked buy the lesson isn t that options are evil or that technical analysis doesn t work the lesson is that one moment of ego can erase years of discipline if you open your brokerage app every day looking for trades don t think you re immune because you re experienced i certainly did if this post makes even one person think twice before revenge trading or going all in because they re sure then losing this money wasn t completely wasted as for me i m going back to the boring life automatic purchases of low cost index funds and not looking at them,-0.9675,negative
 2026-07-23 18:46:15+00:00,"100% MUD.
 
 Kept some money for pasta dinners",mud kept some money for pasta dinners,0.0,neutral
@@ -215,8 +393,8 @@ no wonder he just wears glasses all the time
 And yes, insider buys are bullish, ceo bought back into his stock 3M, around 104 a share, and service now is not easily replaced by AI, and actually benefits from AI research, and govt buys as well
 
 ",idk if im supposed to put this as a yolo or a loss but i am in now so much as you can see i bought the high at oops but today i opened up some positions right before earnings did some research on the ceo and dude is a stellar guy not only a predator positive connotation not diddler connotation but also a kind guy obviously the ceo can not control then entire company but he has an outsized effect on it s structure and direction dude this guy is a super hero missing one eye no wonder he just wears glasses all the time and yes insider buys are bullish ceo bought back into his stock m around a share and service now is not easily replaced by ai and actually benefits from ai research and govt buys as well,0.951,positive
-2026-07-22 18:00:12+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1v3ntyr),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-07-22 18:00:12+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1v3ntyw),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-07-22 18:00:12+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1v3ntyr),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-07-22 17:30:44+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1v3mz0l),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-07-22 17:20:40+00:00,"bought some random stocks just to watch them but never made a serious play. basically I'm sitting on ""cash"" (SGOV) waiting for ""something to happen"". collecting \~3.56% so like $3,500 a month right now. which at this point i feel is safer than whatever the hell is about to happen.
 
@@ -379,21 +557,6 @@ https://www.reddit.com/r/mtgfinance/comments/1r0ertm/mtg_and_dd_parent_company_h
 2026-07-20 18:39:05+00:00,Got this for insurance but have a hunch the hyperscalers are going to announce sustained or elevated capex. Do I just hold it though and basically pay the insurance or kick it and live or die by the next two weeks?,got this for insurance but have a hunch the hyperscalers are going to announce sustained or elevated capex do i just hold it though and basically pay the insurance or kick it and live or die by the next two weeks,-0.7876,negative
 2026-07-20 17:43:17+00:00,4 year cycle. Tom Lee just started buying back shares again. Eth at ath = bmnr at $50+ minimum. This is the way,year cycle tom lee just started buying back shares again eth at ath bmnr at minimum this is the way,0.296,positive
 2026-07-20 17:09:27+00:00,,nan,0.0,neutral
-2026-07-20 16:15:28+00:00,"I've been getting my butt kicked by $BE and the $SPY.  
-I am parking my port into $AMPG.
-
-The stock seems solid, that's about all the DD I can provide.  
-This is a $214K dollar Yolo (I have to put this to satisfy the auto-mod).
-
-https://preview.redd.it/jdndws50teeh1.png?width=870&format=png&auto=webp&s=292b0d57681406ae84547c49566c6be4975d503e
-
-  
-It wicked off the 50sma on the 1d chart.
-
-https://preview.redd.it/eehnc273teeh1.png?width=1232&format=png&auto=webp&s=d173f855fc848484bbd5f730b1948eac1e5cffe9
-
-The plan right now is to sell => 9.00  
-Or maybe sell before Google earnings... not sure yet.",i ve been getting my butt kicked by be and the spy i am parking my port into ampg the stock seems solid that s about all the dd i can provide this is a k dollar yolo i have to put this to satisfy the auto mod it wicked off the sma on the d chart the plan right now is to sell or maybe sell before google earnings not sure yet,0.0869,positive
 2026-07-20 14:47:38+00:00,"**TL;DR:** GOOGL lost $200B in about 30 hours because a model is late and some engineers changed badges. This started the morning after Buffett told CNBC the $31B stake was his idea, including a $10B check written straight to Google funding the exact capex everyone is scared of. META meanwhile gained $125B this month on a leaked memo about maybe renting out spare GPUs someday. Google's actual cloud did $20B last quarter, up 63%, record margins, $462B backlog, and they're turning away customers because they can't build compute fast enough. Earnings Wednesday, 25x forward, expectations conveniently reset. Sold the machine, bought the memo.
 
 July 15, Buffett goes on CNBC and says the thing nobody expected. The $31 billion Alphabet position everyone assumed was Greg Abel flexing his new job? ""I initiated it."" Said not buying sooner was a mistake, said Google is more likely to succeed than 90-95% of Wall Street's picks. Stock ran from the 358 area to close near 372 and kept climbing the next morning, touching 380.
@@ -532,38 +695,3 @@ If the pattern holds, we should go full bull until June 30, 2027, which should f
 Full port calls. Joinemigo ",every release of shrek has been followed by a local top and every other shrek release has coincided with a market crash shrek and shrek if the pattern holds we should go full bull until june which should follow with a big market crash full port calls joinemigo,-0.5574,negative
 2026-07-18 00:25:24+00:00,"Kept trying to recover what I lost, then 0DTEs, now I’m broke with debt… classic",kept trying to recover what i lost then dtes now i m broke with debt classic,-0.765,negative
 2026-07-17 23:22:06+00:00,[I wanted a 20x. ](https://www.reddit.com/r/wallstreetbets/s/ITuOQ7JelN)I was [diamond handed af.  ](https://www.reddit.com/r/wallstreetbets/comments/1uujmwy/comment/oxbga9i/?context=3&utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)Didnt take enough [screenshots](https://www.reddit.com/r/wallstreetbets/comments/1uujmwy/comment/oxbgxi8/?context=3&utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) along the way. Went from [0k to like 350k](https://www.reddit.com/r/wallstreetbets/s/Fo1ylgFupP) back down to 100k and now im at 500k+. Deleted the app. See you all monday once I reinstall.  ,i wanted a x was diamond handed af take enough screenshots along the way went from k to like k back down to k and now im at k deleted the app see you all monday once i reinstall,0.5994,positive
-2026-07-17 22:06:15+00:00,Biggest swing I've had so far. Finally made some regard gains.,biggest swing i ve had so far finally made some regard gains,0.34,positive
-2026-07-17 21:05:35+00:00,I just know that win is right around the corner just gotta keep full porting options. Maybe August will be better? 🤡,i just know that win is right around the corner just gotta keep full porting options maybe august will be better,0.7717,positive
-2026-07-17 21:01:27+00:00,"Started the year with 6 figures invested in SLV & miner leaps, lost 80%. Then went to tech calls, made some lost most. 
-
-Slides 2/3 are the last 2 positions I’m holding. 
-
-MU will either save my port or finish the job. 
-
-If you’re having a bad day/week/month I hope this made it feel less bad.
-
-No cry casino 🫡",started the year with figures invested in slv miner leaps lost then went to tech calls made some lost most slides are the last positions i m holding mu will either save my port or finish the job if you re having a bad day week month i hope this made it feel less bad no cry casino,-0.8503,negative
-2026-07-17 20:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1uzahhv),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-07-17 19:17:05+00:00,,nan,0.0,neutral
-2026-07-17 19:16:55+00:00,"  
-  
-maybe we get a repricing of hygiene and sanitation securities now that we're all crapping our brains out from coast to coast ",maybe we get a repricing of hygiene and sanitation securities now that we re all crapping our brains out from coast to coast,0.296,positive
-2026-07-17 19:01:28+00:00,"https://preview.redd.it/3arf1w4u7udh1.png?width=1150&format=png&auto=webp&s=e1f539ca59276de5e7336d6c8cc57a58fc41c0a4
-
-Just sharing an update for those keeping tabs on TE. **I borrowed $150,000 from my wife**. Our agreement was simple. If I'm wrong, I'll sell the Lamborghini and pay her back. 😂
-
-I'm now sitting at roughly 118,000 common shares (low 9 average per share) and 866 long call contracts (I have some July 31st $7.50 and September 18 $12 which I bought when it was in the 9-10s), representing exposure to over 200,000 shares if the calls become deep in the money.
-
-Lambo energy = bulls energy. I'm bullish asf.
-
-Edit: The ""borrowing 150k"" was a joke as I said in the comments ""my money is her money and her money is her money"" so I'm borrowing my own money lmao. Your comments are funny asf keep the roast up plz. ",just sharing an update for those keeping tabs on te i borrowed from my wife our agreement was simple if i m wrong i ll sell the lamborghini and pay her back i m now sitting at roughly common shares low average per share and long call contracts i have some july st and september which i bought when it was in the s representing exposure to over shares if the calls become deep in the money lambo energy bulls energy i m bullish asf edit the borrowing k was a joke as i said in the comments my money is her money and her money is her money so i m borrowing my own money lmao your comments are funny asf keep the roast up plz,0.9552,positive
-2026-07-17 17:57:25+00:00,,nan,0.0,neutral
-2026-07-17 16:32:03+00:00,,nan,0.0,neutral
-2026-07-17 13:41:43+00:00,Safe to say I’m no longer watching Bridgerton,safe to say i m no longer watching bridgerton,0.1779,positive
-2026-07-17 13:41:38+00:00,,nan,0.0,neutral
-2026-07-17 10:17:29+00:00,,nan,0.0,neutral
-2026-07-17 10:00:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1uyvcri),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-07-17 05:35:23+00:00,"How low can these memory stocks drop. Seems like theres no true catalyst besides negative market sentiment, considering TSM’s strong earnings ( 10:52 edit, down another 2%)",how low can these memory stocks drop seems like theres no true catalyst besides negative market sentiment considering tsm s strong earnings edit down another,-0.128,negative
-2026-07-17 01:54:43+00:00,,nan,0.0,neutral
-2026-07-17 00:03:32+00:00,,nan,0.0,neutral
-2026-07-16 23:45:18+00:00,"I was doing ok this year and had some good money in AMD, Humana. I regretted not riding the sandisk train. I saw it was up and down 10% every other day. Bought PUTS at 2300 and covered when was 20k positive then wanted other way round too and bought short term calls. here we go. ",i was doing ok this year and had some good money in amd humana i regretted not riding the sandisk train i saw it was up and down every other day bought puts at and covered when was k positive then wanted other way round too and bought short term calls here we go,0.7269,positive
