@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-24T23:18:39.344581+00:00`
+- Generated at (UTC): `2026-07-25T23:15:05.409907+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -164,15 +164,15 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1 | IREN | 47 | 1 | -0.708 | 37.07 | -26.30% | 1.017 |
-| 2 | SPCX | 12 | 5 | -0.129 | 115.07 | -25.54% | n/a |
-| 3 | GOOGL | 8 | 6 | 0.407 | 319.74 | -7.40% | 8.371 |
-| 4 | AMD | 8 | 4 | 0.462 | 521.95 | 0.43% | 13.108 |
-| 5 | NVDA | 5 | 4 | 0.435 | 206.84 | 3.94% | 5.573 |
-| 6 | META | 4 | 4 | 0.264 | 595.19 | 6.73% | 5.454 |
-| 7 | MSFT | 4 | 4 | 0.268 | 381.70 | 4.44% | 4.891 |
-| 8 | DRAM | 7 | 3 | -0.349 | 53.20 | -23.92% | 6.122 |
-| 9 | TSLA | 4 | 3 | 0.497 | 313.03 | -16.64% | 4.429 |
-| 10 | IBM | 4 | 3 | -0.010 | 214.19 | -18.55% | 7.313 |
+| 2 | GOOGL | 9 | 7 | 0.495 | 317.69 | -8.22% | 8.562 |
+| 3 | SPCX | 11 | 4 | -0.386 | 115.07 | -25.54% | n/a |
+| 4 | IBM | 6 | 5 | 0.341 | 214.19 | -18.55% | 7.314 |
+| 5 | AMD | 8 | 4 | 0.462 | 521.95 | 0.43% | 13.108 |
+| 6 | TSLA | 6 | 4 | 0.228 | 313.03 | -16.64% | 4.429 |
+| 7 | SPY | 6 | 4 | 0.180 | 738.93 | 0.78% | 2.519 |
+| 8 | NVDA | 5 | 4 | 0.367 | 206.84 | 3.94% | 5.573 |
+| 9 | SAP | 8 | 3 | 0.795 | 160.00 | 4.75% | 2.710 |
+| 10 | DRAM | 7 | 3 | -0.349 | 53.20 | -23.92% | 6.121 |
 
 ### Aggregate Charts
 
@@ -186,39 +186,39 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
 
+#### GOOGL
+
+![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
+
 #### SPCX
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
-#### GOOGL
+#### IBM
 
-![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
+![IBM Dashboard](outputs/latest_wsb_analysis/charts/ibm_dashboard.png)
 
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
-#### META
-
-![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
-
-#### MSFT
-
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
-
-#### DRAM
-
-![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
-
 #### TSLA
 
 ![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 
-#### IBM
+#### SPY
 
-![IBM Dashboard](outputs/latest_wsb_analysis/charts/ibm_dashboard.png)
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+
+#### SAP
+
+![SAP Dashboard](outputs/latest_wsb_analysis/charts/sap_dashboard.png)
+
+#### DRAM
+
+![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
 <!-- AUTO_TOP10_END -->

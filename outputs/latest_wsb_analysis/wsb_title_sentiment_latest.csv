@@ -1,4 +1,21 @@
 created_utc,title,clean_title,title_sentiment,title_label
+2026-07-25 22:58:37+00:00,Million dollar SLS yolo (two slides),million dollar sls yolo two slides,0.2732,positive
+2026-07-25 21:54:02+00:00,IMMINENT,imminent,0.0,neutral
+2026-07-25 21:39:44+00:00,Strait of Hormuz TA,strait of hormuz ta,0.0,neutral
+2026-07-25 19:24:35+00:00,Apparently SpaceX launched a rocket at my portfolio.,apparently spacex launched a rocket at my portfolio,0.128,positive
+2026-07-25 18:02:12+00:00,Smooth brained activity.,smooth brained activity,0.0,neutral
+2026-07-25 16:06:28+00:00,Meta and Microsoft earnings this week,meta and microsoft earnings this week,0.0,neutral
+2026-07-25 14:39:19+00:00,Debt mgmt to wealth mgmt: $15k to $1.5M in < 2 months,debt mgmt to wealth mgmt k to m in months,0.1779,positive
+2026-07-25 14:01:10+00:00,Oracle signs 10-year software contract with Pentagon worth up to $7 billion,oracle signs year software contract with pentagon worth up to billion,0.2263,positive
+2026-07-25 08:16:21+00:00,Qualcomm's AI robot presentation,qualcomm s ai robot presentation,0.0,neutral
+2026-07-25 04:49:48+00:00,Samsung Electronics Signs $200 Billion Five Year Semiconductor Supply Agreement with Broadcom,samsung electronics signs billion five year semiconductor supply agreement with broadcom,0.4939,positive
+2026-07-25 04:35:42+00:00,Observe as I go fuck myself,observe as i go fuck myself,-0.5423,negative
+2026-07-25 04:28:32+00:00,"Thank you, regards!",thank you regards,0.3612,positive
+2026-07-25 01:19:06+00:00,Sk Hynix NVDA partnership,sk hynix nvda partnership,0.0,neutral
+2026-07-25 00:53:06+00:00,319k GOOGL Yolo,k googl yolo,0.2732,positive
+2026-07-25 00:21:04+00:00,It only took a few years,it only took a few years,0.0,neutral
+2026-07-25 00:02:03+00:00,"Good idea me, leaving this over the weekend",good idea me leaving this over the weekend,0.4404,positive
+2026-07-24 23:55:39+00:00,Cooking or copium? TSLA Calls (After earnings) Averaged down from 19.55 to 11.24,cooking or copium tsla calls after earnings averaged down from to,0.0,neutral
 2026-07-24 20:46:31+00:00,Your daily reminder not to fuck around with options,your daily reminder not to fuck around with options,0.431,positive
 2026-07-24 20:33:50+00:00,Im so fucking retarded,im so fucking retarded,-0.6453,negative
 2026-07-24 20:00:37+00:00,Weekend Discussion Thread for the Weekend of July 25-26,weekend discussion thread for the weekend of july,0.0,neutral
@@ -6,7 +23,6 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-07-24 18:59:01+00:00,$SPY 0DE Gains - Claude Bot Making Me Money Now,spy de gains claude bot making me money now,0.34,positive
 2026-07-24 18:26:59+00:00,Weekly Earnings Thread 7/27 - 7/31,weekly earnings thread,0.0,neutral
 2026-07-24 18:01:45+00:00,"no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.",no no no no no no no no no no no no no no no no,-0.9803,negative
-2026-07-24 17:59:41+00:00,Introduction to Hyperscalers: Scaling a Doghouse to Build a Cathedral,introduction to hyperscalers scaling a doghouse to build a cathedral,0.0,neutral
 2026-07-24 17:47:58+00:00,AI demand and sustainability of the demand,ai demand and sustainability of the demand,-0.25,negative
 2026-07-24 17:23:09+00:00,Frequency AI Ratio Tracker (FART) stategy,frequency ai ratio tracker fart stategy,0.0,neutral
 2026-07-24 16:53:17+00:00,"Sometimes, scalping options for a bit a day works.",sometimes scalping options for a bit a day works,0.0,neutral
@@ -60,10 +76,12 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-07-22 17:30:44+00:00,Alphabet Q2 Earnings Call Live Transcript,alphabet q earnings call live transcript,0.0,neutral
 2026-07-22 17:20:40+00:00,To all the Loss Porn - CASH GANG holding strong. still waiting for the dip,to all the loss porn cash gang holding strong still waiting for the dip,0.25,positive
 2026-07-22 17:18:39+00:00,34% of the S&P is 10 stocks making the same bet. We're basically all in a leveraged ETF with extra steps.,of the s p is stocks making the same bet we re basically all in a leveraged etf with extra steps,0.0,neutral
+2026-07-22 13:52:51+00:00,"SAP to the moon, not",sap to the moon not,0.0,neutral
 2026-07-22 12:53:08+00:00,"AMD to invest up to $5 billion in Anthropic, WSJ reports",amd to invest up to billion in anthropic wsj reports,0.0,neutral
 2026-07-22 12:25:32+00:00,Time to go short in the most manipulated market in history,time to go short in the most manipulated market in history,-0.4391,negative
 2026-07-22 11:47:54+00:00,SMCI 100k in,smci k in,0.0,neutral
 2026-07-22 10:00:37+00:00,"Daily Discussion Thread for July 22, 2026",daily discussion thread for july,0.0,neutral
+2026-07-22 08:42:43+00:00,SAP earnings tomorrow - your take/expectations,sap earnings tomorrow your take expectations,0.0,neutral
 2026-07-22 04:32:49+00:00,"Roast Me or Help Me, Your Choice",roast me or help me your choice,0.4019,positive
 2026-07-22 01:44:11+00:00,Day after I sold off my AI stock which lost me 30% over last 2 months.,day after i sold off my ai stock which lost me over last months,-0.3182,negative
 2026-07-22 01:44:01+00:00,Was SPCX launch cancelled on purpose?,was spcx launch cancelled on purpose,-0.25,negative
@@ -86,18 +104,13 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-07-21 11:21:15+00:00,Happens,happens,0.0,neutral
 2026-07-21 10:01:34+00:00,"Daily Discussion Thread for July 21, 2026",daily discussion thread for july,0.0,neutral
 2026-07-21 07:29:54+00:00,A victim of the regards,a victim of the regards,-0.2732,negative
-2026-07-21 06:46:21+00:00,My Bear Case for nVidia,my bear case for nvidia,0.0,neutral
 2026-07-21 02:09:51+00:00,"HOOD: Past 2 years, EVERY earnings had a run up of 10-20% before tanking shortly after",hood past years every earnings had a run up of before tanking shortly after,0.0,neutral
 2026-07-21 00:41:45+00:00,Why doesn't Meta acquire OpenAI / Anthropic?,why doesn t meta acquire openai anthropic,0.0,neutral
 2026-07-20 23:45:55+00:00,"I panic bought/sold NBIS 7 times today, is there a limit for how many times I can do this?",i panic bought sold nbis times today is there a limit for how many times i can do this,-0.5106,negative
 2026-07-20 22:16:57+00:00,.,,0.0,neutral
-2026-07-20 20:41:59+00:00,$10K Loss for Your Joy,k loss for your joy,0.3612,positive
 2026-07-20 20:22:50+00:00,SPCX puts - early assignment,spcx puts early assignment,0.0,neutral
 2026-07-20 20:01:31+00:00,"What Are Your Moves Tomorrow, July 21, 2026",what are your moves tomorrow july,0.0,neutral
 2026-07-20 20:00:56+00:00,"Which one of you, regards, did this technical analysis of Bitcoin?",which one of you regards did this technical analysis of bitcoin,0.0,neutral
-2026-07-20 18:44:21+00:00,"Magic the Gathering ($HAS) ER pre-market Tuesday, UB product strength and 2027 revealed sets show a WotC focused on growth and big names",magic the gathering has er pre market tuesday ub product strength and revealed sets show a wotc focused on growth and big names,0.8126,positive
-2026-07-20 18:39:05+00:00,Kick the put?,kick the put,0.0,neutral
-2026-07-20 17:43:17+00:00,$BMNR to the moon 🚀,bmnr to the moon,0.0,neutral
 2026-07-20 17:09:27+00:00,Judge puts temporary pause on Paramount-Warner Bros. merger,judge puts temporary pause on paramount warner bros merger,0.0,neutral
 2026-07-20 14:47:38+00:00,Google's recent dump and upcoming earnings play,google s recent dump and upcoming earnings play,-0.0516,negative
 2026-07-20 14:25:57+00:00,"1DTE Realized 20K Loss, SPY Puts",dte realized k loss spy puts,-0.3182,negative
@@ -109,7 +122,6 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-07-20 04:44:43+00:00,"Went all in DRAM, NBIS and RKLB last month",went all in dram nbis and rklb last month,0.0,neutral
 2026-07-20 04:31:11+00:00,"'Give me my money back': South Korean traders' leveraged SK Hynix, Samsung bets unravel after selloff",give me my money back south korean traders leveraged sk hynix samsung bets unravel after selloff,0.0,neutral
 2026-07-20 04:15:30+00:00,Stretchy pants couldn't hold up this bag,stretchy pants couldn t hold up this bag,0.0,neutral
-2026-07-20 00:42:32+00:00,When do I start praying,when do i start praying,0.3612,positive
 2026-07-20 00:23:46+00:00,Google is about to report record earnings on Wednesday. How much do we think they will drop?,google is about to report record earnings on wednesday how much do we think they will drop,-0.2732,negative
 2026-07-19 23:49:55+00:00,Oil’s back above $90,oil s back above,0.0,neutral
 2026-07-19 20:00:45+00:00,"What Are Your Moves Tomorrow, July 20, 2026",what are your moves tomorrow july,0.0,neutral
@@ -117,12 +129,3 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-07-19 07:55:40+00:00,INFINITE MONEY GLITCH,infinite money glitch,0.0,neutral
 2026-07-19 05:17:46+00:00,"D-1, ARE YOU READY?",d are you ready,0.3612,positive
 2026-07-19 01:21:07+00:00,Technical analysis of where we're are and where we're heading: keep buying AI stocks,technical analysis of where we re are and where we re heading keep buying ai stocks,0.0,neutral
-2026-07-18 21:37:23+00:00,LEAPS is the way to go,leaps is the way to go,0.0,neutral
-2026-07-18 16:12:59+00:00,Anyone else have a 20% rule?,anyone else have a rule,0.0,neutral
-2026-07-18 10:55:17+00:00,GOOGL earnings 7/22 the GAAP number is going to look insane,googl earnings the gaap number is going to look insane,-0.34,negative
-2026-07-18 10:04:18+00:00,321k SPACEX PUTS GAINS REALIZED.,k spacex puts gains realized,0.34,positive
-2026-07-18 08:37:12+00:00,Loss porn for July +130% YTD -> 10% in 2 weeks,loss porn for july ytd in weeks,-0.3182,negative
-2026-07-18 06:44:55+00:00,First one is free,first one is free,0.5106,positive
-2026-07-18 02:52:47+00:00,Every Release of Shrek Happens Right Before a Market Top,every release of shrek happens right before a market top,0.2023,positive
-2026-07-18 00:25:24+00:00,Welp that’s my life screwed up forever,welp that s my life screwed up forever,-0.4939,negative
-2026-07-17 23:22:06+00:00,10x returns on my SPXC puts. Sorry I let you all down and didnt 20x like I promised.,x returns on my spxc puts sorry i let you all down and didnt x like i promised,-0.5454,negative

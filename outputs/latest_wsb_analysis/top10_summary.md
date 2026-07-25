@@ -3,22 +3,22 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-07-24T23:18:39.346512+00:00`
+- Generated at (UTC): `2026-07-25T23:15:05.412094+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
 | 1 | IREN | 47 | 1 | -0.708 |
-| 2 | SPCX | 12 | 5 | -0.129 |
-| 3 | GOOGL | 8 | 6 | 0.407 |
-| 4 | AMD | 8 | 4 | 0.462 |
-| 5 | NVDA | 5 | 4 | 0.435 |
-| 6 | META | 4 | 4 | 0.264 |
-| 7 | MSFT | 4 | 4 | 0.268 |
-| 8 | DRAM | 7 | 3 | -0.349 |
-| 9 | TSLA | 4 | 3 | 0.497 |
-| 10 | IBM | 4 | 3 | -0.010 |
+| 2 | GOOGL | 9 | 7 | 0.495 |
+| 3 | SPCX | 11 | 4 | -0.386 |
+| 4 | IBM | 6 | 5 | 0.341 |
+| 5 | AMD | 8 | 4 | 0.462 |
+| 6 | TSLA | 6 | 4 | 0.228 |
+| 7 | SPY | 6 | 4 | 0.180 |
+| 8 | NVDA | 5 | 4 | 0.367 |
+| 9 | SAP | 8 | 3 | 0.795 |
+| 10 | DRAM | 7 | 3 | -0.349 |
 
 ## Reddit fetch diagnostics
 
@@ -37,12 +37,12 @@
 ## Market snapshot
 
 - **IREN**: close `37.07`, 1M return `-26.30%` if available, RSI `39.12` and regression RMSE `1.017`
+- **GOOGL**: close `317.69`, 1M return `-8.22%` if available, RSI `31.02` and regression RMSE `8.562`
 - **SPCX**: close `115.07`, 1M return `-25.54%` if available, RSI `60.81`
-- **GOOGL**: close `319.74`, 1M return `-7.40%` if available, RSI `32.46` and regression RMSE `8.371`
+- **IBM**: close `214.19`, 1M return `-18.55%` if available, RSI `34.92` and regression RMSE `7.314`
 - **AMD**: close `521.95`, 1M return `0.43%` if available, RSI `50.04` and regression RMSE `13.108`
-- **NVDA**: close `206.84`, 1M return `3.94%` if available, RSI `51.07` and regression RMSE `5.573`
-- **META**: close `595.19`, 1M return `6.73%` if available, RSI `43.82` and regression RMSE `5.454`
-- **MSFT**: close `381.70`, 1M return `4.44%` if available, RSI `44.74` and regression RMSE `4.891`
-- **DRAM**: close `53.20`, 1M return `-23.92%` if available, RSI `41.89` and regression RMSE `6.122`
 - **TSLA**: close `313.03`, 1M return `-16.64%` if available, RSI `27.99` and regression RMSE `4.429`
-- **IBM**: close `214.19`, 1M return `-18.55%` if available, RSI `34.92` and regression RMSE `7.313`
+- **SPY**: close `738.93`, 1M return `0.78%` if available, RSI `45.23` and regression RMSE `2.519`
+- **NVDA**: close `206.84`, 1M return `3.94%` if available, RSI `51.07` and regression RMSE `5.573`
+- **SAP**: close `160.00`, 1M return `4.75%` if available, RSI `51.16` and regression RMSE `2.710`
+- **DRAM**: close `53.20`, 1M return `-23.92%` if available, RSI `41.89` and regression RMSE `6.121`
