@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-26T23:13:41.787581+00:00`
+- Generated at (UTC): `2026-07-27T23:21:49.251556+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | GOOGL | 11 | 8 | 0.476 | 319.74 | -7.40% | 8.371 |
-| 2 | IBM | 7 | 6 | 0.341 | 214.19 | -18.55% | 7.314 |
-| 3 | AMD | 10 | 5 | 0.437 | 521.95 | 0.43% | 13.108 |
-| 4 | SPCX | 12 | 4 | -0.124 | 115.07 | -25.54% | n/a |
-| 5 | TSLA | 8 | 5 | 0.250 | 313.03 | -16.64% | 4.429 |
-| 6 | NVDA | 7 | 5 | 0.361 | 206.84 | 3.94% | 5.573 |
-| 7 | AMZN | 5 | 4 | 0.700 | 232.11 | -0.92% | 1.938 |
-| 8 | META | 5 | 4 | 0.577 | 595.19 | 6.73% | 5.454 |
-| 9 | SAP | 8 | 3 | 0.795 | 160.00 | 4.75% | 2.710 |
-| 10 | MSFT | 4 | 3 | 0.602 | 381.70 | 4.44% | 4.892 |
+| 1 | GOOGL | 10 | 7 | 0.478 | 326.56 | -4.99% | 8.124 |
+| 2 | NVDA | 9 | 6 | 0.212 | 196.51 | 0.39% | 2.132 |
+| 3 | AMD | 10 | 5 | 0.437 | 494.95 | -7.06% | 13.581 |
+| 4 | TSLA | 8 | 5 | 0.212 | 309.22 | -17.57% | 5.971 |
+| 5 | IBM | 6 | 5 | 0.235 | 216.28 | -16.26% | 7.748 |
+| 6 | AMZN | 5 | 4 | 0.700 | 231.39 | 1.93% | 2.094 |
+| 7 | AAPL | 5 | 4 | 0.682 | 336.91 | 22.45% | 3.467 |
+| 8 | AVGO | 5 | 4 | 0.600 | 383.22 | 1.14% | 8.218 |
+| 9 | META | 4 | 3 | 0.602 | 593.87 | 9.39% | 6.853 |
+| 10 | MSFT | 4 | 3 | 0.602 | 389.10 | 10.28% | 5.033 |
 
 ### Aggregate Charts
 
@@ -186,37 +186,37 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
 
-#### IBM
+#### NVDA
 
-![IBM Dashboard](outputs/latest_wsb_analysis/charts/ibm_dashboard.png)
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### SPCX
-
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
-
 #### TSLA
 
 ![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 
-#### NVDA
+#### IBM
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+![IBM Dashboard](outputs/latest_wsb_analysis/charts/ibm_dashboard.png)
 
 #### AMZN
 
 ![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
 
+#### AAPL
+
+![AAPL Dashboard](outputs/latest_wsb_analysis/charts/aapl_dashboard.png)
+
+#### AVGO
+
+![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
+
 #### META
 
 ![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
-
-#### SAP
-
-![SAP Dashboard](outputs/latest_wsb_analysis/charts/sap_dashboard.png)
 
 #### MSFT
 
