@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-27T23:21:49.251556+00:00`
+- Generated at (UTC): `2026-07-28T23:17:36.693554+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | GOOGL | 10 | 7 | 0.478 | 326.56 | -4.99% | 8.124 |
-| 2 | NVDA | 9 | 6 | 0.212 | 196.51 | 0.39% | 2.132 |
-| 3 | AMD | 10 | 5 | 0.437 | 494.95 | -7.06% | 13.581 |
-| 4 | TSLA | 8 | 5 | 0.212 | 309.22 | -17.57% | 5.971 |
-| 5 | IBM | 6 | 5 | 0.235 | 216.28 | -16.26% | 7.748 |
-| 6 | AMZN | 5 | 4 | 0.700 | 231.39 | 1.93% | 2.094 |
-| 7 | AAPL | 5 | 4 | 0.682 | 336.91 | 22.45% | 3.467 |
-| 8 | AVGO | 5 | 4 | 0.600 | 383.22 | 1.14% | 8.218 |
-| 9 | META | 4 | 3 | 0.602 | 593.87 | 9.39% | 6.853 |
-| 10 | MSFT | 4 | 3 | 0.602 | 389.10 | 10.28% | 5.033 |
+| 1 | GOOGL | 10 | 7 | 0.478 | 333.71 | -1.09% | 7.704 |
+| 2 | NVDA | 9 | 6 | 0.212 | 197.01 | 2.33% | 5.891 |
+| 3 | AMD | 10 | 5 | 0.119 | 454.62 | -12.84% | 14.658 |
+| 4 | TSLA | 7 | 4 | 0.081 | 307.44 | -19.03% | 5.544 |
+| 5 | AMZN | 5 | 4 | 0.700 | 230.86 | -0.79% | 2.187 |
+| 6 | AAPL | 5 | 4 | 0.682 | 340.08 | 19.84% | 3.493 |
+| 7 | AVGO | 5 | 4 | 0.600 | 380.91 | 4.35% | 8.647 |
+| 8 | PLTR | 4 | 3 | 0.152 | 123.53 | 9.39% | 2.492 |
+| 9 | META | 4 | 3 | 0.602 | 593.41 | 7.84% | 5.893 |
+| 10 | MSFT | 4 | 3 | 0.602 | 393.35 | 5.46% | 5.186 |
 
 ### Aggregate Charts
 
@@ -198,10 +198,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 
-#### IBM
-
-![IBM Dashboard](outputs/latest_wsb_analysis/charts/ibm_dashboard.png)
-
 #### AMZN
 
 ![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
@@ -213,6 +209,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### AVGO
 
 ![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
+
+#### PLTR
+
+![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
 
 #### META
 
