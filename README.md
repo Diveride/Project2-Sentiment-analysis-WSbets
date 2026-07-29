@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-28T23:17:36.693554+00:00`
+- Generated at (UTC): `2026-07-29T23:15:52.787101+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | GOOGL | 10 | 7 | 0.478 | 333.71 | -1.09% | 7.704 |
-| 2 | NVDA | 9 | 6 | 0.212 | 197.01 | 2.33% | 5.891 |
-| 3 | AMD | 10 | 5 | 0.119 | 454.62 | -12.84% | 14.658 |
-| 4 | TSLA | 7 | 4 | 0.081 | 307.44 | -19.03% | 5.544 |
-| 5 | AMZN | 5 | 4 | 0.700 | 230.86 | -0.79% | 2.187 |
-| 6 | AAPL | 5 | 4 | 0.682 | 340.08 | 19.84% | 3.493 |
-| 7 | AVGO | 5 | 4 | 0.600 | 380.91 | 4.35% | 8.647 |
-| 8 | PLTR | 4 | 3 | 0.152 | 123.53 | 9.39% | 2.492 |
-| 9 | META | 4 | 3 | 0.602 | 593.41 | 7.84% | 5.893 |
-| 10 | MSFT | 4 | 3 | 0.602 | 393.35 | 5.46% | 5.186 |
+| 1 | GOOGL | 9 | 6 | 0.484 | 336.71 | -4.79% | 7.147 |
+| 2 | AMD | 9 | 4 | 0.149 | 429.56 | -20.38% | 15.891 |
+| 3 | TSLA | 7 | 4 | 0.081 | 298.32 | -27.56% | 6.119 |
+| 4 | NVDA | 6 | 4 | 0.114 | 190.01 | -2.54% | 1.999 |
+| 5 | AAPL | 5 | 4 | 0.682 | 338.19 | 20.04% | 3.472 |
+| 6 | PLTR | 4 | 3 | 0.152 | 123.00 | 6.31% | 1.870 |
+| 7 | AVGO | 4 | 3 | 0.654 | 370.32 | -0.57% | 5.228 |
+| 8 | AMZN | 4 | 3 | 0.662 | 226.65 | -5.62% | 1.789 |
+| 9 | SNDK | 3 | 2 | -0.296 | 1015.89 | -50.45% | 141.494 |
+| 10 | CSCO | 3 | 2 | 0.496 | 112.48 | -4.43% | 2.145 |
 
 ### Aggregate Charts
 
@@ -186,10 +186,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
 
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
@@ -198,27 +194,31 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 
-#### AMZN
+#### NVDA
 
-![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### AAPL
 
 ![AAPL Dashboard](outputs/latest_wsb_analysis/charts/aapl_dashboard.png)
 
-#### AVGO
-
-![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
-
 #### PLTR
 
 ![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
 
-#### META
+#### AVGO
 
-![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
+![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
 
-#### MSFT
+#### AMZN
 
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
+![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
+
+#### SNDK
+
+![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+
+#### CSCO
+
+![CSCO Dashboard](outputs/latest_wsb_analysis/charts/csco_dashboard.png)
 <!-- AUTO_TOP10_END -->
