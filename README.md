@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-07-30T23:19:55.471906+00:00`
+- Generated at (UTC): `2026-07-31T23:17:43.230111+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | MSFT | 10 | 5 | 0.607 | 451.10 | 20.93% | 6.724 |
-| 2 | AAPL | 5 | 4 | 0.792 | 333.43 | 15.23% | 3.485 |
-| 3 | AMZN | 5 | 4 | 0.637 | 235.50 | -1.19% | 3.295 |
-| 4 | NVDA | 4 | 3 | 0.039 | 195.04 | -2.52% | 3.194 |
-| 5 | GOOGL | 4 | 3 | 0.872 | 333.66 | -6.63% | 7.554 |
-| 6 | AVGO | 3 | 3 | 0.250 | 387.84 | 2.67% | 5.567 |
-| 7 | AMD | 5 | 2 | -0.101 | 485.39 | -16.44% | 16.788 |
-| 8 | AMAT | 3 | 2 | -0.109 | 501.77 | -30.60% | 29.888 |
-| 9 | PLTR | 2 | 2 | 0.058 | 122.26 | 4.79% | 1.333 |
-| 10 | VOO | 2 | 2 | 0.008 | 681.79 | -0.73% | 4.412 |
+| 1 | AAPL | 6 | 5 | 0.602 | 308.91 | 4.94% | 3.855 |
+| 2 | MSFT | 8 | 4 | 0.593 | 464.72 | 20.93% | 8.153 |
+| 3 | GOOGL | 5 | 4 | 0.972 | 356.13 | -1.41% | 7.149 |
+| 4 | AMZN | 5 | 4 | 0.494 | 271.58 | 12.36% | 3.149 |
+| 5 | AVGO | 3 | 3 | 0.033 | 389.28 | 5.40% | 10.988 |
+| 6 | NVDA | 3 | 2 | -0.268 | 200.75 | 1.60% | 7.022 |
+| 7 | VOO | 2 | 2 | 0.008 | 686.65 | 0.17% | 3.783 |
+| 8 | SNDK | 2 | 2 | 0.041 | 1214.83 | -40.22% | 164.407 |
+| 9 | CCS | 5 | 1 | 0.340 | 67.16 | -3.84% | 1.110 |
+| 10 | EXP | 5 | 1 | 0.340 | 204.94 | -6.48% | 1.754 |
 
 ### Aggregate Charts
 
@@ -182,43 +182,43 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### MSFT
-
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
-
 #### AAPL
 
 ![AAPL Dashboard](outputs/latest_wsb_analysis/charts/aapl_dashboard.png)
 
-#### AMZN
+#### MSFT
 
-![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
-
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
 #### GOOGL
 
 ![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
 
+#### AMZN
+
+![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
+
 #### AVGO
 
 ![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
 
-#### AMD
+#### NVDA
 
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
-#### AMAT
-
-![AMAT Dashboard](outputs/latest_wsb_analysis/charts/amat_dashboard.png)
-
-#### PLTR
-
-![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### VOO
 
 ![VOO Dashboard](outputs/latest_wsb_analysis/charts/voo_dashboard.png)
+
+#### SNDK
+
+![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+
+#### CCS
+
+![CCS Dashboard](outputs/latest_wsb_analysis/charts/ccs_dashboard.png)
+
+#### EXP
+
+![EXP Dashboard](outputs/latest_wsb_analysis/charts/exp_dashboard.png)
 <!-- AUTO_TOP10_END -->
