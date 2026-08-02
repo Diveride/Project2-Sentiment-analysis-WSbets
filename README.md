@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-08-01T23:13:14.260342+00:00`
+- Generated at (UTC): `2026-08-02T23:14:07.976199+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | MSFT | 11 | 5 | 0.262 | 464.72 | 20.93% | 8.182 |
-| 2 | SPCX | 18 | 2 | 0.920 | 108.37 | -31.21% | n/a |
-| 3 | AMZN | 4 | 4 | 0.063 | 271.58 | 12.36% | 3.149 |
-| 4 | NVDA | 4 | 3 | 0.401 | 200.75 | 1.60% | 7.022 |
-| 5 | AAPL | 4 | 3 | 0.540 | 308.91 | 4.94% | 3.857 |
-| 6 | RDDT | 5 | 2 | 0.666 | 140.67 | -28.87% | 5.911 |
-| 7 | SPY | 4 | 2 | 0.069 | 747.03 | 0.17% | 4.018 |
-| 8 | SOXL | 4 | 2 | 0.234 | 114.72 | -47.27% | 26.763 |
-| 9 | TSLA | 7 | 1 | 0.998 | 311.21 | -26.83% | 4.540 |
-| 10 | SNDK | 2 | 2 | 0.041 | 1214.83 | -40.22% | 164.417 |
+| 1 | SPCX | 18 | 2 | 0.920 | 108.37 | -31.21% | n/a |
+| 2 | MSFT | 10 | 4 | 0.488 | 464.72 | 20.93% | 8.182 |
+| 3 | NVDA | 5 | 4 | 0.060 | 200.75 | 1.60% | 7.022 |
+| 4 | SPY | 8 | 3 | 0.368 | 747.03 | 0.17% | 4.018 |
+| 5 | SNDK | 5 | 3 | -0.294 | 1214.83 | -40.22% | 164.417 |
+| 6 | AAPL | 4 | 3 | 0.540 | 308.91 | 4.94% | 3.857 |
+| 7 | AMZN | 3 | 3 | 0.299 | 271.58 | 12.36% | 3.149 |
+| 8 | RDDT | 5 | 2 | 0.666 | 140.67 | -28.87% | 5.911 |
+| 9 | JPY | 5 | 2 | 0.012 | 37.32 | 1.17% | 0.320 |
+| 10 | SOXL | 4 | 2 | 0.234 | 114.72 | -47.27% | 26.763 |
 
 ### Aggregate Charts
 
@@ -182,43 +182,43 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### MSFT
-
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
-
 #### SPCX
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
-#### AMZN
+#### MSFT
 
-![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
+![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
 #### NVDA
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
+#### SPY
+
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
+#### SNDK
+
+![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+
 #### AAPL
 
 ![AAPL Dashboard](outputs/latest_wsb_analysis/charts/aapl_dashboard.png)
+
+#### AMZN
+
+![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
 
 #### RDDT
 
 ![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
 
-#### SPY
+#### JPY
 
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+![JPY Dashboard](outputs/latest_wsb_analysis/charts/jpy_dashboard.png)
 
 #### SOXL
 
 ![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
-
-#### TSLA
-
-![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
-
-#### SNDK
-
-![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
 <!-- AUTO_TOP10_END -->
