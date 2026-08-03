@@ -1,9 +1,39 @@
 created_utc,title,clean_title,title_sentiment,title_label
+2026-08-03 23:17:22+00:00,Had a hunch,had a hunch,0.0,neutral
+2026-08-03 23:15:49+00:00,eating good thanks $amc,eating good thanks amc,0.7003,positive
+2026-08-03 22:50:47+00:00,-$79K : Should I still trust Anthony Noto - SOFI?,k should i still trust anthony noto sofi,0.5106,positive
+2026-08-03 22:42:43+00:00,AMC Gains ;),amc gains,0.34,positive
+2026-08-03 22:37:09+00:00,THE CRASH IS CANCELLED,the crash is cancelled,-0.5719,negative
+2026-08-03 22:05:15+00:00,YOLO - Market Doesn't Understand SoFi (SOFI),yolo market doesn t understand sofi sofi,0.2732,positive
+2026-08-03 21:45:04+00:00,Can you guys keep buying NVDA Tuesday?,can you guys keep buying nvda tuesday,0.0,neutral
+2026-08-03 20:53:48+00:00,I think the AI bottom is in,i think the ai bottom is in,0.0,neutral
+2026-08-03 20:36:39+00:00,Lost 107k in 15 mins doing SpX 0DTE,lost k in mins doing spx dte,-0.3182,negative
+2026-08-03 20:26:05+00:00,"Palantir posts blowout Q2 numbers, with U.S. commercial revenue soaring nearly 150%",palantir posts blowout q numbers with u s commercial revenue soaring nearly,0.0,neutral
+2026-08-03 20:25:23+00:00,"Palantir raises outlook on blowout Q2 numbers, U.S. commercial revenue soaring nearly 150%; Karp calls business sales 'otherworldly'",palantir raises outlook on blowout q numbers u s commercial revenue soaring nearly karp calls business sales otherworldly,0.0,neutral
+2026-08-03 20:19:26+00:00,Dangers of Groupon GRPN,dangers of groupon grpn,-0.4939,negative
+2026-08-03 20:00:40+00:00,"What Are Your Moves Tomorrow, August 4, 2026",what are your moves tomorrow august,0.0,neutral
+2026-08-03 18:32:41+00:00,Bearish is bullish,bearish is bullish,0.0,neutral
+2026-08-03 18:14:17+00:00,SPY Puts,spy puts,0.0,neutral
+2026-08-03 17:42:44+00:00,Why the actual fuck is SPY pushing ATHs this week?,why the actual fuck is spy pushing aths this week,-0.5423,negative
+2026-08-03 17:34:04+00:00,MSFU Gain$ after being in the toilet for 2 months,msfu gain after being in the toilet for months,0.5267,positive
+2026-08-03 17:27:25+00:00,Imagine turning $2k into $50k,imagine turning k into k,0.0,neutral
+2026-08-03 17:26:44+00:00,"Still have hope, switching to options",still have hope switching to options,0.4404,positive
+2026-08-03 17:17:25+00:00,"I’m done, last yolo",i m done last yolo,0.2732,positive
+2026-08-03 17:01:10+00:00,FOLLOW UP POST - Full Port Microsoft - Undervalued !!! 🚀📈,follow up post full port microsoft undervalued,0.0,neutral
+2026-08-03 16:53:46+00:00,Am I allowed to still yolo this stock 😉,am i allowed to still yolo this stock,0.2732,positive
+2026-08-03 15:51:41+00:00,"Thanks MSFT, 20k gain",thanks msft k gain,0.743,positive
+2026-08-03 15:23:10+00:00,Microsoft LEAPS,microsoft leaps,0.0,neutral
+2026-08-03 15:06:21+00:00,What am I doing,what am i doing,0.0,neutral
+2026-08-03 14:54:37+00:00,Almost flew too close to the sun in the Roth IRA,almost flew too close to the sun in the roth ira,0.0,neutral
+2026-08-03 14:08:15+00:00,Cheesecake Factory $CAKE,cheesecake factory cake,0.0,neutral
+2026-08-03 13:00:10+00:00,"Welcome to August, “investors”",welcome to august investors,0.4588,positive
+2026-08-03 10:00:41+00:00,"Daily Discussion Thread for August 3, 2026",daily discussion thread for august,0.0,neutral
+2026-08-03 04:15:18+00:00,"If SNAP prints today, I'm Warren Buffett. If not, I'm just buffet. Let's go!",if snap prints today i m warren buffett if not i m just buffet let s go,0.0,neutral
+2026-08-03 03:41:04+00:00,JOMO Trumps FOMO as KOSPI Crash Fuels Zero-Loss Satisfaction - Joy of Missing Out :),jomo trumps fomo as kospi crash fuels zero loss satisfaction joy of missing out,0.128,positive
+2026-08-03 02:59:08+00:00,Cheap Leverage: Krispy Kreme’s ($DNUT) Turnaround Story,cheap leverage krispy kreme s dnut turnaround story,0.0,neutral
+2026-08-03 00:52:11+00:00,The best setup in the market right now is a gay dating app,the best setup in the market right now is a gay dating app,0.6369,positive
 2026-08-02 23:00:29+00:00,Cooking both Vegas and Wall st.,cooking both vegas and wall st,0.0,neutral
-2026-08-02 22:59:17+00:00,Not stress- for 8/3,not stress for,0.3252,positive
-2026-08-02 22:48:06+00:00,Live look at the latest negotiations,live look at the latest negotiations,0.0,neutral
 2026-08-02 22:46:04+00:00,Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War,oil prices plummet as investors digest pause in fighting in iran war,-0.7506,negative
-2026-08-02 22:38:06+00:00,y'all gambling on earnings this week?,y all gambling on earnings this week,0.0,neutral
 2026-08-02 21:00:05+00:00,"Thank you, Timmy!",thank you timmy,0.3612,positive
 2026-08-02 20:51:56+00:00,"If earnings only drop twice a year now, what the hell are we supposed to gamble on?",if earnings only drop twice a year now what the hell are we supposed to gamble on,-0.7717,negative
 2026-08-02 20:00:41+00:00,"What Are Your Moves Tomorrow, August 3, 2026",what are your moves tomorrow august,0.0,neutral
@@ -42,7 +72,6 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-07-31 20:17:33+00:00,Why did RH auto sell my LEAP and buy the CC that I sold that was going to expire worthless??,why did rh auto sell my leap and buy the cc that i sold that was going to expire worthless,-0.4404,negative
 2026-07-31 20:04:19+00:00,SPX Spreads July Gains +148k,spx spreads july gains k,0.34,positive
 2026-07-31 20:00:42+00:00,Weekend Discussion Thread for the Weekend of August 1-2,weekend discussion thread for the weekend of august,0.0,neutral
-2026-07-31 19:52:36+00:00,Guess how long ago I bought Goog and held,guess how long ago i bought goog and held,0.0,neutral
 2026-07-31 19:35:15+00:00,Today’s wins,today s wins,0.5719,positive
 2026-07-31 19:15:14+00:00,If I waited I could’ve made 30k on these contracts,if i waited i could ve made k on these contracts,0.0,neutral
 2026-07-31 18:55:05+00:00,Weekly Earnings Thread 8/3 - 8/7,weekly earnings thread,0.0,neutral
@@ -53,9 +82,7 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-07-31 16:56:32+00:00,Reddit DAU decline due to AI bots and Google,reddit dau decline due to ai bots and google,0.0,neutral
 2026-07-31 16:50:28+00:00,RDDT GUH,rddt guh,0.0,neutral
 2026-07-31 16:25:15+00:00,Fuck Reddit,fuck reddit,-0.5423,negative
-2026-07-31 15:36:24+00:00,Peace out Gamblers,peace out gamblers,0.5423,positive
 2026-07-31 15:14:48+00:00,Apple Earnings saved my port,apple earnings saved my port,0.4215,positive
-2026-07-31 15:13:48+00:00,Survived the GOOGL stalemate,survived the googl stalemate,0.5106,positive
 2026-07-31 14:48:07+00:00,Inflation going up - Labor costs rise faster than expected,inflation going up labor costs rise faster than expected,0.0,neutral
 2026-07-31 14:05:02+00:00,Memory valuations peaked. Increased capex won’t help anymore. Money is rotating to different parts of the AI buildout.,memory valuations peaked increased capex won t help anymore money is rotating to different parts of the ai buildout,0.8176,positive
 2026-07-31 13:54:55+00:00,"US Treasury informed banks that it may intervene in yen, source says",us treasury informed banks that it may intervene in yen source says,0.2023,positive
@@ -73,32 +100,17 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-07-31 00:07:18+00:00,CAVA and the shit sandwich you will eat when SPCX shares unlock (and the price pops),cava and the shit sandwich you will eat when spcx shares unlock and the price pops,0.7351,positive
 2026-07-30 23:13:54+00:00,I thought putting on 4x leverage on AI stocks already up 1000% YTD was safe!,i thought putting on x leverage on ai stocks already up ytd was safe,0.4404,positive
 2026-07-30 22:12:12+00:00,Thoughts on Leopold going tits up - big lesson in this,thoughts on leopold going tits up big lesson in this,-0.2263,negative
-2026-07-30 21:42:23+00:00,Apple ride from ~165 to ~334.,apple ride from to,0.0,neutral
-2026-07-30 21:07:39+00:00,AMZN-Explain to me like I'm regarded,amzn explain to me like i m regarded,0.3612,positive
-2026-07-30 21:06:40+00:00,"Microsoft's $480 billion rally fuels a debate: financial nihilism or the true AI moat, finally coming into view?",microsoft s billion rally fuels a debate financial nihilism or the true ai moat finally coming into view,0.4215,positive
 2026-07-30 20:48:06+00:00,Japan carries out yen-buying intervention as US executes rate check,japan carries out yen buying intervention as us executes rate check,0.0,neutral
 2026-07-30 20:47:07+00:00,"Revenge traded a NFLX loss into a $700,000 MSFT profit 💰",revenge traded a nflx loss into a msft profit,-0.4215,negative
-2026-07-30 20:40:07+00:00,"I want you to put the word out, that we back up (SNDK/MU)",i want you to put the word out that we back up sndk mu,0.0772,positive
 2026-07-30 20:25:14+00:00,"Reddit crushes revenue and earnings estimates, issues strong guidance",reddit crushes revenue and earnings estimates issues strong guidance,0.1027,positive
-2026-07-30 20:00:57+00:00,Take me to heaven Jeffrey Bezos,take me to heaven jeffrey bezos,0.5106,positive
 2026-07-30 20:00:37+00:00,"What Are Your Moves Tomorrow, July 31, 2026",what are your moves tomorrow july,0.0,neutral
-2026-07-30 19:57:15+00:00,some option plays since my last msft stock play wasn’t good enough,some option plays since my last msft stock play wasn t good enough,0.743,positive
-2026-07-30 18:51:22+00:00,Heavy AI CapEx isn't a mistake. It's Amazon's character,heavy ai capex isn t a mistake it s amazon s character,-0.1779,negative
 2026-07-30 18:37:51+00:00,Thoughts on Leopold selling all his stocks today,thoughts on leopold selling all his stocks today,0.0,neutral
-2026-07-30 18:00:12+00:00,Apple Q3 Earnings Call Live Transcript,apple q earnings call live transcript,0.0,neutral
-2026-07-30 18:00:12+00:00,Amazon Q2 Earnings Call Live Transcript,amazon q earnings call live transcript,0.1779,positive
-2026-07-30 17:59:38+00:00,"I fucking did it again, Im not learning!!!",i fucking did it again im not learning,0.0,neutral
-2026-07-30 17:40:16+00:00,143K yolo on Zuck,k yolo on zuck,0.2732,positive
 2026-07-30 17:32:02+00:00,Microsoft $MSFT win +$1M gain,microsoft msft win m gain,0.802,positive
 2026-07-30 17:25:36+00:00,Leopold Being Welcomed Home,leopold being welcomed home,0.34,positive
-2026-07-30 16:20:11+00:00,"Never thought I too would post crazy losses, so over this.",never thought i too would post crazy losses so over this,-0.6249,negative
 2026-07-30 15:36:05+00:00,Citadel Buys Situational Awareness’s Stock Portfolio After Big Losses in AI,citadel buys situational awareness s stock portfolio after big losses in ai,-0.4019,negative
 2026-07-30 14:59:06+00:00,Thank you Satya,thank you satya,0.3612,positive
-2026-07-30 14:35:25+00:00,USD.JPY Short (+94k),usd jpy short k,0.0,neutral
 2026-07-30 14:28:59+00:00,Full ported MU calls last night,full ported mu calls last night,0.0,neutral
-2026-07-30 14:10:34+00:00,Today 100% win rate - highest is zero DTE !,today win rate highest is zero dte,0.5859,positive
 2026-07-30 14:09:32+00:00,"AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",ai investor leopold aschenbrenner forced to unwind all public stock positions after steep losses sources say,-0.6908,negative
-2026-07-30 14:05:25+00:00,"CRWV up +20% today - negotiated better interest on debt, fed rates maintained, meta competition eating dust, new defense partner Leidos",crwv up today negotiated better interest on debt fed rates maintained meta competition eating dust new defense partner leidos,0.5994,positive
 2026-07-30 13:28:34+00:00,US Economic Growth slows to 1.5% in the second quarter,us economic growth slows to in the second quarter,0.3818,positive
 2026-07-30 11:23:52+00:00,Fuck you zuck,fuck you zuck,-0.5423,negative
 2026-07-30 10:00:37+00:00,"Daily Discussion Thread for July 30, 2026",daily discussion thread for july,0.0,neutral
@@ -131,7 +143,6 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-07-28 20:40:00+00:00,Seagate Profit Soars as AI Boom Drives Data Storage Demand,seagate profit soars as ai boom drives data storage demand,0.34,positive
 2026-07-28 19:37:05+00:00,Meta is reporting tomorrow,meta is reporting tomorrow,0.0,neutral
 2026-07-28 19:01:08+00:00,"Cava Founders, Board Hit With $2.2 Billion Insider Trading Case",cava founders board hit with billion insider trading case,0.0,neutral
-2026-07-28 16:13:12+00:00,Tech stocks are all crashing  but I'm choosing to believe in them one more time,tech stocks are all crashing but i m choosing to believe in them one more time,0.0,neutral
 2026-07-28 15:09:04+00:00,"Goldman's high beta momentum basket on track for worst monthly performance in history, worse than 2000 and 2009",goldman s high beta momentum basket on track for worst monthly performance in history worse than and,-0.802,negative
 2026-07-28 13:48:25+00:00,Never trust Jensen Huang,never trust jensen huang,-0.4023,negative
 2026-07-28 13:35:31+00:00,Short Term Memory loss,short term memory loss,-0.3182,negative
@@ -141,16 +152,3 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-07-28 04:10:29+00:00,Market tomorrow,market tomorrow,0.0,neutral
 2026-07-28 01:54:27+00:00,Kospi plunges 8% as South Korea halts trading with circuit breaker,kospi plunges as south korea halts trading with circuit breaker,0.0,neutral
 2026-07-28 00:05:44+00:00,"100,000% returns on APPL",returns on appl,0.0,neutral
-2026-07-27 22:03:11+00:00,"Michael Burry has been shorting NVDA since November, stock is up 30% since then. At what point do we stop treating this guy like a prophet?",michael burry has been shorting nvda since november stock is up since then at what point do we stop treating this guy like a prophet,0.0772,positive
-2026-07-27 21:49:10+00:00,"Apple ends day as world's most valuable company, passing Nvidia",apple ends day as world s most valuable company passing nvidia,0.5256,positive
-2026-07-27 20:43:50+00:00,Here’s that “Loss Porn” you requested (4 slides),here s that loss porn you requested slides,-0.3182,negative
-2026-07-27 18:48:16+00:00,Nvidia and OpenAI in talks for up to $250 billion dollar backstop to fund AI infrastructure plans,nvidia and openai in talks for up to billion dollar backstop to fund ai infrastructure plans,0.0,neutral
-2026-07-27 18:39:05+00:00,0DTE SPX Puts 2335% gains on port,dte spx puts gains on port,0.34,positive
-2026-07-27 17:37:05+00:00,Why the fuck is Apple booming so much this year?,why the fuck is apple booming so much this year,-0.5423,negative
-2026-07-27 15:35:57+00:00,Thanks Elon for the 16 bandos,thanks elon for the bandos,0.4404,positive
-2026-07-27 15:14:30+00:00,China begins making homegrown DUV chipmaking tools,china begins making homegrown duv chipmaking tools,0.0,neutral
-2026-07-27 14:38:57+00:00,"Couldn't have done it without Nana, I'm finally free.",couldn t have done it without nana i m finally free,-0.4023,negative
-2026-07-27 14:23:44+00:00,I don't feel so good Mr. Stark.,i don t feel so good mr stark,0.5777,positive
-2026-07-27 10:00:37+00:00,"Daily Discussion Thread for July 27, 2026",daily discussion thread for july,0.0,neutral
-2026-07-27 06:11:54+00:00,"Memory chip maker CXMT debuts in Shanghai, up 470% at open and becomes the largest listed company in China",memory chip maker cxmt debuts in shanghai up at open and becomes the largest listed company in china,0.0,neutral
-2026-07-26 23:55:17+00:00,Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center,nvidia in talks with openai to guarantee billion financing for data center,0.25,positive
