@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-08-03T23:21:30.462127+00:00`
+- Generated at (UTC): `2026-08-04T23:20:29.498609+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | MSFT | 13 | 7 | 0.384 | 487.65 | 24.88% | 8.215 |
-| 2 | SPY | 13 | 6 | 0.048 | 757.67 | 1.73% | 1.878 |
-| 3 | SPCX | 18 | 2 | 0.920 | 114.53 | -29.30% | n/a |
-| 4 | NVDA | 4 | 4 | 0.304 | 206.64 | 6.06% | 2.228 |
-| 5 | SNDK | 6 | 3 | -0.490 | 1288.03 | -26.19% | 180.442 |
-| 6 | AMZN | 3 | 3 | 0.451 | 284.02 | 17.04% | 2.905 |
-| 7 | SNAP | 6 | 2 | 0.486 | 5.04 | 4.13% | 0.238 |
-| 8 | RDDT | 5 | 2 | 0.666 | 154.71 | -20.53% | 7.583 |
-| 9 | SOXL | 4 | 2 | 0.234 | 116.71 | -35.69% | 28.041 |
-| 10 | TSLA | 7 | 1 | 0.998 | 322.08 | -18.14% | 4.662 |
+| 1 | SPY | 16 | 8 | 0.029 | 771.33 | 2.67% | 3.312 |
+| 2 | MSFT | 11 | 6 | 0.446 | 492.81 | 27.43% | 8.587 |
+| 3 | AMD | 4 | 4 | 0.085 | 518.58 | -6.06% | 21.205 |
+| 4 | AMZN | 3 | 3 | 0.471 | 277.42 | 13.62% | 2.553 |
+| 5 | DTE | 4 | 2 | 0.189 | 141.72 | -6.37% | 0.905 |
+| 6 | RKLB | 3 | 2 | 0.405 | 74.48 | -19.99% | 9.609 |
+| 7 | GRND | 6 | 1 | 1.000 | 17.94 | 12.69% | 0.291 |
+| 8 | DNUT | 6 | 1 | 0.998 | 3.08 | -11.49% | 0.052 |
+| 9 | DRAM | 2 | 2 | -0.365 | 54.89 | -15.24% | 5.873 |
+| 10 | NVDA | 2 | 2 | 0.591 | 211.94 | 8.38% | 3.031 |
 
 ### Aggregate Charts
 
@@ -182,43 +182,43 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### MSFT
-
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
-
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### SPCX
+#### MSFT
 
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### NVDA
+#### AMD
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
-#### SNDK
-
-![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
 #### AMZN
 
 ![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
 
-#### SNAP
+#### DTE
 
-![SNAP Dashboard](outputs/latest_wsb_analysis/charts/snap_dashboard.png)
+![DTE Dashboard](outputs/latest_wsb_analysis/charts/dte_dashboard.png)
 
-#### RDDT
+#### RKLB
 
-![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
+![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
-#### SOXL
+#### GRND
 
-![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
+![GRND Dashboard](outputs/latest_wsb_analysis/charts/grnd_dashboard.png)
 
-#### TSLA
+#### DNUT
 
-![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
+![DNUT Dashboard](outputs/latest_wsb_analysis/charts/dnut_dashboard.png)
+
+#### DRAM
+
+![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 <!-- AUTO_TOP10_END -->
