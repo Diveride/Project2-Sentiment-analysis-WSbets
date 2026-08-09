@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-08-08T22:48:51.045899+00:00`
+- Generated at (UTC): `2026-08-09T22:52:20.072083+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -166,13 +166,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 | 1 | HTZ | 15 | 9 | 0.373 | 2.27 | 4.61% | 0.271 |
 | 2 | SPY | 9 | 7 | 0.023 | 773.26 | 2.87% | 2.060 |
 | 3 | SPCX | 14 | 4 | 0.609 | 133.11 | -12.52% | n/a |
-| 4 | PLTR | 12 | 3 | 0.665 | 172.01 | 33.30% | 2.122 |
-| 5 | MSFT | 12 | 3 | 0.944 | 499.99 | 30.08% | 10.323 |
-| 6 | SNDK | 8 | 4 | 0.438 | 1212.21 | -34.77% | 214.581 |
+| 4 | SNDK | 9 | 5 | 0.544 | 1212.21 | -34.77% | 214.581 |
+| 5 | HBM | 20 | 2 | 0.985 | 27.61 | 27.94% | 0.784 |
+| 6 | PLTR | 12 | 3 | 0.604 | 172.01 | 33.30% | 2.122 |
 | 7 | AMD | 5 | 4 | 0.018 | 483.36 | -11.59% | 24.639 |
 | 8 | SMCI | 11 | 2 | 0.722 | 31.13 | 10.23% | 1.496 |
-| 9 | NBIS | 4 | 2 | 0.712 | 187.97 | -13.06% | 51.649 |
-| 10 | TLT | 7 | 1 | -0.826 | 82.76 | -2.05% | 0.363 |
+| 9 | NEU | 13 | 1 | 0.997 | 889.71 | 16.08% | 16.240 |
+| 10 | DRAM | 6 | 2 | 0.724 | 50.60 | -21.38% | 4.784 |
 
 ### Aggregate Charts
 
@@ -194,17 +194,17 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
-#### PLTR
-
-![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
-
-#### MSFT
-
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
-
 #### SNDK
 
 ![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+
+#### HBM
+
+![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
+
+#### PLTR
+
+![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
 
 #### AMD
 
@@ -214,11 +214,11 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SMCI Dashboard](outputs/latest_wsb_analysis/charts/smci_dashboard.png)
 
-#### NBIS
+#### NEU
 
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+![NEU Dashboard](outputs/latest_wsb_analysis/charts/neu_dashboard.png)
 
-#### TLT
+#### DRAM
 
-![TLT Dashboard](outputs/latest_wsb_analysis/charts/tlt_dashboard.png)
+![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
 <!-- AUTO_TOP10_END -->
