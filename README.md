@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-08-10T22:58:00.838865+00:00`
+- Generated at (UTC): `2026-08-11T23:06:08.129795+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | HTZ | 15 | 9 | 0.373 | 2.12 | 3.41% | 0.318 |
-| 2 | SPCX | 14 | 4 | 0.609 | 138.74 | -4.51% | n/a |
-| 3 | PLTR | 12 | 3 | 0.604 | 175.23 | 38.20% | 3.682 |
-| 4 | SNDK | 8 | 4 | 0.622 | 1237.92 | -35.39% | 226.363 |
-| 5 | HBM | 17 | 1 | 0.972 | 27.91 | 28.97% | 0.786 |
-| 6 | AMD | 5 | 4 | 0.018 | 469.56 | -15.83% | 27.295 |
-| 7 | SPY | 4 | 4 | 0.209 | 773.03 | 2.39% | 2.994 |
-| 8 | MSFT | 5 | 3 | 0.927 | 506.06 | 31.41% | 10.029 |
-| 9 | DRAM | 6 | 2 | 0.724 | 49.60 | -21.32% | 5.647 |
-| 10 | NBIS | 5 | 2 | 0.621 | 184.11 | -16.18% | 56.171 |
+| 1 | HTZ | 14 | 9 | 0.368 | 2.45 | 33.88% | 0.383 |
+| 2 | SPCX | 14 | 4 | 0.514 | 133.29 | -4.20% | n/a |
+| 3 | SNDK | 9 | 5 | 0.671 | 1271.05 | -24.07% | 289.716 |
+| 4 | MSFT | 7 | 5 | 0.759 | 503.81 | 28.85% | 11.208 |
+| 5 | PLTR | 12 | 3 | 0.279 | 174.94 | 34.53% | 2.332 |
+| 6 | HBM | 17 | 1 | 0.972 | 27.67 | 32.58% | 0.745 |
+| 7 | ARE | 3 | 3 | 0.635 | 48.12 | 0.08% | 0.842 |
+| 8 | SPY | 3 | 3 | -0.042 | 770.56 | 2.86% | 2.347 |
+| 9 | BSP | 10 | 1 | 0.968 | 53.44 | 68.16% | n/a |
+| 10 | DRAM | 6 | 2 | 0.724 | 50.89 | -11.19% | 6.670 |
 
 ### Aggregate Charts
 
@@ -190,35 +190,35 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
-#### PLTR
-
-![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
-
 #### SNDK
 
 ![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
-
-#### HBM
-
-![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
-
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
-#### SPY
-
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
 #### MSFT
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
+#### PLTR
+
+![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
+
+#### HBM
+
+![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
+
+#### ARE
+
+![ARE Dashboard](outputs/latest_wsb_analysis/charts/are_dashboard.png)
+
+#### SPY
+
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
+#### BSP
+
+![BSP Dashboard](outputs/latest_wsb_analysis/charts/bsp_dashboard.png)
+
 #### DRAM
 
 ![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
-
-#### NBIS
-
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 <!-- AUTO_TOP10_END -->
