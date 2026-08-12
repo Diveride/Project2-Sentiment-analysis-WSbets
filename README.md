@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-08-11T23:06:08.129795+00:00`
+- Generated at (UTC): `2026-08-12T23:03:59.955620+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | HTZ | 14 | 9 | 0.368 | 2.45 | 33.88% | 0.383 |
-| 2 | SPCX | 14 | 4 | 0.514 | 133.29 | -4.20% | n/a |
-| 3 | SNDK | 9 | 5 | 0.671 | 1271.05 | -24.07% | 289.716 |
-| 4 | MSFT | 7 | 5 | 0.759 | 503.81 | 28.85% | 11.208 |
-| 5 | PLTR | 12 | 3 | 0.279 | 174.94 | 34.53% | 2.332 |
-| 6 | HBM | 17 | 1 | 0.972 | 27.67 | 32.58% | 0.745 |
-| 7 | ARE | 3 | 3 | 0.635 | 48.12 | 0.08% | 0.842 |
-| 8 | SPY | 3 | 3 | -0.042 | 770.56 | 2.86% | 2.347 |
-| 9 | BSP | 10 | 1 | 0.968 | 53.44 | 68.16% | n/a |
-| 10 | DRAM | 6 | 2 | 0.724 | 50.89 | -11.19% | 6.670 |
+| 1 | HTZ | 14 | 9 | 0.392 | 2.80 | 52.17% | 0.391 |
+| 2 | SPCX | 14 | 4 | 0.617 | 146.15 | 7.40% | n/a |
+| 3 | PLTR | 13 | 4 | 0.141 | 171.04 | 27.91% | 2.272 |
+| 4 | NBIS | 9 | 5 | 0.642 | 259.20 | 33.55% | 45.879 |
+| 5 | MSFT | 6 | 4 | 0.700 | 492.43 | 27.93% | 11.621 |
+| 6 | HBM | 17 | 1 | 0.972 | 27.87 | 23.87% | 0.702 |
+| 7 | META | 7 | 2 | 0.481 | 578.85 | -12.43% | 6.757 |
+| 8 | ARE | 3 | 3 | 0.635 | 48.06 | -0.93% | 0.887 |
+| 9 | SPY | 3 | 3 | -0.042 | 772.49 | 2.75% | 2.154 |
+| 10 | CSCO | 3 | 3 | 0.610 | 123.88 | 5.80% | 1.651 |
 
 ### Aggregate Charts
 
@@ -190,21 +190,25 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
-#### SNDK
+#### PLTR
 
-![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
+
+#### NBIS
+
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 
 #### MSFT
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### PLTR
-
-![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
-
 #### HBM
 
 ![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
+
+#### META
+
+![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
 
 #### ARE
 
@@ -214,11 +218,7 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### BSP
+#### CSCO
 
-![BSP Dashboard](outputs/latest_wsb_analysis/charts/bsp_dashboard.png)
-
-#### DRAM
-
-![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
+![CSCO Dashboard](outputs/latest_wsb_analysis/charts/csco_dashboard.png)
 <!-- AUTO_TOP10_END -->
