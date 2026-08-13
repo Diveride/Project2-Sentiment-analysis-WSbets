@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-08-12T23:03:59.955620+00:00`
+- Generated at (UTC): `2026-08-13T23:05:07.155535+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | HTZ | 14 | 9 | 0.392 | 2.80 | 52.17% | 0.391 |
-| 2 | SPCX | 14 | 4 | 0.617 | 146.15 | 7.40% | n/a |
-| 3 | PLTR | 13 | 4 | 0.141 | 171.04 | 27.91% | 2.272 |
-| 4 | NBIS | 9 | 5 | 0.642 | 259.20 | 33.55% | 45.879 |
-| 5 | MSFT | 6 | 4 | 0.700 | 492.43 | 27.93% | 11.621 |
-| 6 | HBM | 17 | 1 | 0.972 | 27.87 | 23.87% | 0.702 |
-| 7 | META | 7 | 2 | 0.481 | 578.85 | -12.43% | 6.757 |
-| 8 | ARE | 3 | 3 | 0.635 | 48.06 | -0.93% | 0.887 |
-| 9 | SPY | 3 | 3 | -0.042 | 772.49 | 2.75% | 2.154 |
-| 10 | CSCO | 3 | 3 | 0.610 | 123.88 | 5.80% | 1.651 |
+| 1 | PLTR | 12 | 3 | -0.137 | 179.01 | 33.83% | 2.270 |
+| 2 | NBIS | 8 | 4 | 0.686 | 255.04 | 27.83% | 47.089 |
+| 3 | ONDS | 5 | 4 | 0.713 | 8.91 | 26.38% | 0.222 |
+| 4 | SPCX | 12 | 2 | 0.762 | 141.29 | 4.45% | n/a |
+| 5 | HTZ | 4 | 4 | 0.300 | 2.35 | 23.42% | 0.412 |
+| 6 | RDDT | 7 | 3 | -0.041 | 158.12 | -20.15% | 6.886 |
+| 7 | MSFT | 3 | 3 | 0.612 | 496.88 | 25.59% | 12.487 |
+| 8 | SPY | 3 | 3 | -0.042 | 777.88 | 3.06% | 2.304 |
+| 9 | CSCO | 3 | 3 | 0.610 | 113.47 | 1.52% | 1.798 |
+| 10 | CRWV | 3 | 3 | 0.760 | 106.29 | 37.82% | 2.428 |
 
 ### Aggregate Charts
 
@@ -182,14 +182,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### HTZ
-
-![HTZ Dashboard](outputs/latest_wsb_analysis/charts/htz_dashboard.png)
-
-#### SPCX
-
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
-
 #### PLTR
 
 ![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
@@ -198,21 +190,25 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 
+#### ONDS
+
+![ONDS Dashboard](outputs/latest_wsb_analysis/charts/onds_dashboard.png)
+
+#### SPCX
+
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+
+#### HTZ
+
+![HTZ Dashboard](outputs/latest_wsb_analysis/charts/htz_dashboard.png)
+
+#### RDDT
+
+![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
+
 #### MSFT
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
-
-#### HBM
-
-![HBM Dashboard](outputs/latest_wsb_analysis/charts/hbm_dashboard.png)
-
-#### META
-
-![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
-
-#### ARE
-
-![ARE Dashboard](outputs/latest_wsb_analysis/charts/are_dashboard.png)
 
 #### SPY
 
@@ -221,4 +217,8 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### CSCO
 
 ![CSCO Dashboard](outputs/latest_wsb_analysis/charts/csco_dashboard.png)
+
+#### CRWV
+
+![CRWV Dashboard](outputs/latest_wsb_analysis/charts/crwv_dashboard.png)
 <!-- AUTO_TOP10_END -->
