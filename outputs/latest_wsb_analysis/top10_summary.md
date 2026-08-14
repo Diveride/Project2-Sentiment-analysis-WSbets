@@ -3,22 +3,22 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-08-13T23:05:07.157580+00:00`
+- Generated at (UTC): `2026-08-14T22:43:08.218372+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
-| 1 | PLTR | 12 | 3 | -0.137 |
-| 2 | NBIS | 8 | 4 | 0.686 |
+| 1 | SPY | 5 | 5 | -0.035 |
+| 2 | RDDT | 8 | 4 | 0.375 |
 | 3 | ONDS | 5 | 4 | 0.713 |
-| 4 | SPCX | 12 | 2 | 0.762 |
-| 5 | HTZ | 4 | 4 | 0.300 |
-| 6 | RDDT | 7 | 3 | -0.041 |
-| 7 | MSFT | 3 | 3 | 0.612 |
-| 8 | SPY | 3 | 3 | -0.042 |
-| 9 | CSCO | 3 | 3 | 0.610 |
-| 10 | CRWV | 3 | 3 | 0.760 |
+| 4 | NBIS | 5 | 4 | 0.699 |
+| 5 | CSCO | 4 | 4 | 0.318 |
+| 6 | MSFT | 4 | 3 | 0.382 |
+| 7 | PLTR | 4 | 3 | -0.252 |
+| 8 | CRWV | 3 | 3 | 0.760 |
+| 9 | SNDK | 3 | 3 | -0.015 |
+| 10 | BSP | 10 | 1 | 0.968 |
 
 ## Reddit fetch diagnostics
 
@@ -36,13 +36,13 @@
 
 ## Market snapshot
 
-- **PLTR**: close `179.01`, 1M return `33.83%` if available, RSI `72.89` and regression RMSE `2.270`
-- **NBIS**: close `255.04`, 1M return `27.83%` if available, RSI `60.83` and regression RMSE `47.089`
-- **ONDS**: close `8.91`, 1M return `26.38%` if available, RSI `54.57` and regression RMSE `0.222`
-- **SPCX**: close `141.29`, 1M return `4.45%` if available, RSI `63.16`
-- **HTZ**: close `2.35`, 1M return `23.42%` if available, RSI `52.05` and regression RMSE `0.412`
-- **RDDT**: close `158.12`, 1M return `-20.15%` if available, RSI `44.45` and regression RMSE `6.886`
-- **MSFT**: close `496.88`, 1M return `25.59%` if available, RSI `71.84` and regression RMSE `12.487`
-- **SPY**: close `777.88`, 1M return `3.06%` if available, RSI `67.36` and regression RMSE `2.304`
-- **CSCO**: close `113.47`, 1M return `1.52%` if available, RSI `44.08` and regression RMSE `1.798`
-- **CRWV**: close `106.29`, 1M return `37.82%` if available, RSI `63.76` and regression RMSE `2.428`
+- **SPY**: close `776.34`, 1M return `3.41%` if available, RSI `65.70` and regression RMSE `2.204`
+- **RDDT**: close `178.09`, 1M return `-3.87%` if available, RSI `55.30` and regression RMSE `7.193`
+- **ONDS**: close `9.24`, 1M return `38.95%` if available, RSI `57.41` and regression RMSE `0.229`
+- **NBIS**: close `277.68`, 1M return `61.66%` if available, RSI `64.63` and regression RMSE `40.383`
+- **CSCO**: close `111.68`, 1M return `1.84%` if available, RSI `41.76` and regression RMSE `1.447`
+- **MSFT**: close `495.40`, 1M return `23.51%` if available, RSI `70.92` and regression RMSE `12.779`
+- **PLTR**: close `174.04`, 1M return `29.46%` if available, RSI `68.14` and regression RMSE `2.532`
+- **CRWV**: close `105.26`, 1M return `44.37%` if available, RSI `62.81` and regression RMSE `2.506`
+- **SNDK**: close `1641.11`, 1M return `16.30%` if available, RSI `57.00` and regression RMSE `344.940`
+- **BSP**: close `39.31`, 1M return `22.38%` if available, RSI `40.29`
