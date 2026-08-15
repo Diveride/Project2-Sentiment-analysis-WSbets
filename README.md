@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-08-14T22:43:08.216120+00:00`
+- Generated at (UTC): `2026-08-15T22:40:28.304540+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 5 | 5 | -0.035 | 776.34 | 3.41% | 2.204 |
-| 2 | RDDT | 8 | 4 | 0.375 | 178.09 | -3.87% | 7.193 |
-| 3 | ONDS | 5 | 4 | 0.713 | 9.24 | 38.95% | 0.229 |
-| 4 | NBIS | 5 | 4 | 0.699 | 277.68 | 61.66% | 40.383 |
-| 5 | CSCO | 4 | 4 | 0.318 | 111.68 | 1.84% | 1.447 |
-| 6 | MSFT | 4 | 3 | 0.382 | 495.40 | 23.51% | 12.779 |
-| 7 | PLTR | 4 | 3 | -0.252 | 174.04 | 29.46% | 2.532 |
-| 8 | CRWV | 3 | 3 | 0.760 | 105.26 | 44.37% | 2.506 |
-| 9 | SNDK | 3 | 3 | -0.015 | 1641.11 | 16.30% | 344.940 |
-| 10 | BSP | 10 | 1 | 0.968 | 39.31 | 22.38% | n/a |
+| 1 | NBIS | 5 | 4 | 0.618 | 277.68 | 61.66% | 40.383 |
+| 2 | SPY | 4 | 4 | -0.017 | 776.34 | 3.41% | 2.204 |
+| 3 | CSCO | 4 | 4 | 0.318 | 111.68 | 1.84% | 1.447 |
+| 4 | RDDT | 5 | 3 | 0.568 | 178.09 | -3.87% | 7.200 |
+| 5 | HTZ | 5 | 3 | 0.851 | 2.24 | 19.79% | 0.482 |
+| 6 | MSFT | 4 | 3 | 0.382 | 495.40 | 23.51% | 12.785 |
+| 7 | ONDS | 4 | 3 | 0.696 | 9.24 | 38.95% | 0.229 |
+| 8 | QQQ | 3 | 3 | -0.561 | 731.07 | 3.56% | 6.298 |
+| 9 | SNDK | 3 | 3 | -0.015 | 1641.11 | 16.30% | 344.949 |
+| 10 | PLTR | 3 | 2 | -0.071 | 174.04 | 29.46% | 2.532 |
 
 ### Aggregate Charts
 
@@ -182,43 +182,43 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### SPY
-
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
-#### RDDT
-
-![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
-
-#### ONDS
-
-![ONDS Dashboard](outputs/latest_wsb_analysis/charts/onds_dashboard.png)
-
 #### NBIS
 
 ![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+
+#### SPY
+
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
 #### CSCO
 
 ![CSCO Dashboard](outputs/latest_wsb_analysis/charts/csco_dashboard.png)
 
+#### RDDT
+
+![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
+
+#### HTZ
+
+![HTZ Dashboard](outputs/latest_wsb_analysis/charts/htz_dashboard.png)
+
 #### MSFT
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### PLTR
+#### ONDS
 
-![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
+![ONDS Dashboard](outputs/latest_wsb_analysis/charts/onds_dashboard.png)
 
-#### CRWV
+#### QQQ
 
-![CRWV Dashboard](outputs/latest_wsb_analysis/charts/crwv_dashboard.png)
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
 #### SNDK
 
 ![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
 
-#### BSP
+#### PLTR
 
-![BSP Dashboard](outputs/latest_wsb_analysis/charts/bsp_dashboard.png)
+![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
 <!-- AUTO_TOP10_END -->
