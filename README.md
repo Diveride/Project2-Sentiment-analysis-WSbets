@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-08-15T22:40:28.304540+00:00`
+- Generated at (UTC): `2026-08-16T22:38:47.234287+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -166,13 +166,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 | 1 | NBIS | 5 | 4 | 0.618 | 277.68 | 61.66% | 40.383 |
 | 2 | SPY | 4 | 4 | -0.017 | 776.34 | 3.41% | 2.204 |
 | 3 | CSCO | 4 | 4 | 0.318 | 111.68 | 1.84% | 1.447 |
-| 4 | RDDT | 5 | 3 | 0.568 | 178.09 | -3.87% | 7.200 |
-| 5 | HTZ | 5 | 3 | 0.851 | 2.24 | 19.79% | 0.482 |
-| 6 | MSFT | 4 | 3 | 0.382 | 495.40 | 23.51% | 12.785 |
-| 7 | ONDS | 4 | 3 | 0.696 | 9.24 | 38.95% | 0.229 |
-| 8 | QQQ | 3 | 3 | -0.561 | 731.07 | 3.56% | 6.298 |
-| 9 | SNDK | 3 | 3 | -0.015 | 1641.11 | 16.30% | 344.949 |
-| 10 | PLTR | 3 | 2 | -0.071 | 174.04 | 29.46% | 2.532 |
+| 4 | MSTR | 9 | 2 | 0.369 | 93.04 | -1.05% | 8.383 |
+| 5 | RDDT | 5 | 3 | 0.568 | 178.09 | -3.87% | 7.200 |
+| 6 | HTZ | 5 | 3 | 0.851 | 2.24 | 19.79% | 0.482 |
+| 7 | KLAR | 5 | 3 | 0.096 | 20.79 | 8.17% | 0.930 |
+| 8 | MSFT | 4 | 3 | 0.382 | 495.40 | 23.51% | 12.785 |
+| 9 | PLTR | 4 | 3 | -0.266 | 174.04 | 29.46% | 2.532 |
+| 10 | QQQ | 3 | 3 | -0.561 | 731.07 | 3.56% | 6.298 |
 
 ### Aggregate Charts
 
@@ -194,6 +194,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![CSCO Dashboard](outputs/latest_wsb_analysis/charts/csco_dashboard.png)
 
+#### MSTR
+
+![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
+
 #### RDDT
 
 ![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
@@ -202,23 +206,19 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![HTZ Dashboard](outputs/latest_wsb_analysis/charts/htz_dashboard.png)
 
+#### KLAR
+
+![KLAR Dashboard](outputs/latest_wsb_analysis/charts/klar_dashboard.png)
+
 #### MSFT
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### ONDS
+#### PLTR
 
-![ONDS Dashboard](outputs/latest_wsb_analysis/charts/onds_dashboard.png)
+![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
 
 #### QQQ
 
 ![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
-
-#### SNDK
-
-![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
-
-#### PLTR
-
-![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
 <!-- AUTO_TOP10_END -->
