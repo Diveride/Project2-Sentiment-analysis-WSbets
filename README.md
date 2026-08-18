@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-08-17T22:43:13.738043+00:00`
+- Generated at (UTC): `2026-08-18T22:44:03.912276+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | RDDT | 15 | 4 | 0.487 | 164.50 | -9.21% | 6.960 |
-| 2 | SPY | 5 | 5 | 0.035 | 772.67 | 3.95% | 2.843 |
-| 3 | SNDK | 4 | 4 | 0.074 | 1786.85 | 31.89% | 295.607 |
-| 4 | MSTR | 9 | 2 | 0.369 | 97.68 | 2.98% | 8.395 |
-| 5 | HTZ | 5 | 3 | 0.851 | 2.16 | 20.00% | 0.455 |
-| 6 | KLAR | 5 | 3 | 0.096 | 19.51 | 4.05% | 0.954 |
-| 7 | MSFT | 4 | 3 | 0.382 | 480.35 | 21.97% | 12.641 |
-| 8 | QQQ | 3 | 3 | -0.561 | 729.87 | 4.97% | 7.342 |
-| 9 | BTC | 4 | 2 | 0.369 | 28.43 | 0.18% | 0.627 |
-| 10 | PLTR | 3 | 2 | -0.071 | 172.55 | 30.34% | 4.065 |
+| 1 | RDDT | 15 | 4 | 0.487 | 158.25 | -12.88% | 6.970 |
+| 2 | SPY | 5 | 5 | 0.035 | 767.45 | 3.42% | 2.269 |
+| 3 | KLAR | 6 | 4 | 0.258 | 15.06 | -19.72% | 1.020 |
+| 4 | NBIS | 5 | 4 | 0.252 | 248.43 | 36.04% | 34.893 |
+| 5 | QQQ | 4 | 4 | -0.382 | 717.51 | 3.08% | 5.946 |
+| 6 | SNDK | 4 | 4 | 0.074 | 1625.78 | 16.88% | 204.553 |
+| 7 | MSTR | 9 | 2 | 0.369 | 92.52 | -5.42% | 6.168 |
+| 8 | BTC | 4 | 2 | 0.369 | 28.57 | -0.80% | 0.525 |
+| 9 | HTZ | 4 | 2 | 0.868 | 2.08 | 18.18% | 0.524 |
+| 10 | PLTR | 3 | 2 | -0.071 | 171.54 | 27.21% | 4.187 |
 
 ### Aggregate Charts
 
@@ -190,6 +190,18 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
+#### KLAR
+
+![KLAR Dashboard](outputs/latest_wsb_analysis/charts/klar_dashboard.png)
+
+#### NBIS
+
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+
+#### QQQ
+
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
+
 #### SNDK
 
 ![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
@@ -198,25 +210,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
 
-#### HTZ
-
-![HTZ Dashboard](outputs/latest_wsb_analysis/charts/htz_dashboard.png)
-
-#### KLAR
-
-![KLAR Dashboard](outputs/latest_wsb_analysis/charts/klar_dashboard.png)
-
-#### MSFT
-
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
-
-#### QQQ
-
-![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
-
 #### BTC
 
 ![BTC Dashboard](outputs/latest_wsb_analysis/charts/btc_dashboard.png)
+
+#### HTZ
+
+![HTZ Dashboard](outputs/latest_wsb_analysis/charts/htz_dashboard.png)
 
 #### PLTR
 
