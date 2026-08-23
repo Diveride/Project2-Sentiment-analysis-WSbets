@@ -3,7 +3,7 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-08-22T22:40:45.681339+00:00`
+- Generated at (UTC): `2026-08-23T22:39:53.962240+00:00`
 
 ## Top tickers
 
@@ -12,10 +12,10 @@
 | 1 | MRNA | 16 | 7 | -0.016 |
 | 2 | PGJ | 25 | 1 | 0.995 |
 | 3 | RDDT | 16 | 3 | 0.004 |
-| 4 | BTC | 9 | 3 | 0.226 |
+| 4 | BTC | 8 | 3 | 0.221 |
 | 5 | NBIS | 4 | 4 | 0.081 |
 | 6 | SNDK | 4 | 4 | -0.264 |
-| 7 | MSTR | 10 | 2 | 0.130 |
+| 7 | MSTR | 10 | 2 | 0.122 |
 | 8 | MAAS | 13 | 1 | 0.995 |
 | 9 | HOOD | 5 | 3 | 0.633 |
 | 10 | SPY | 3 | 3 | 0.581 |

@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-08-22T22:40:45.679132+00:00`
+- Generated at (UTC): `2026-08-23T22:39:53.960542+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -166,10 +166,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 | 1 | MRNA | 16 | 7 | -0.016 | 145.13 | 154.52% | 10.231 |
 | 2 | PGJ | 25 | 1 | 0.995 | 24.32 | 2.57% | 0.146 |
 | 3 | RDDT | 16 | 3 | 0.004 | 153.29 | -9.18% | 6.528 |
-| 4 | BTC | 9 | 3 | 0.226 | 34.08 | 18.99% | 0.618 |
+| 4 | BTC | 8 | 3 | 0.221 | 34.08 | 18.99% | 0.618 |
 | 5 | NBIS | 4 | 4 | 0.081 | 219.13 | -0.83% | 32.692 |
 | 6 | SNDK | 4 | 4 | -0.264 | 1596.08 | -0.88% | 156.771 |
-| 7 | MSTR | 10 | 2 | 0.130 | 119.25 | 27.36% | 7.261 |
+| 7 | MSTR | 10 | 2 | 0.122 | 119.25 | 27.36% | 7.261 |
 | 8 | MAAS | 13 | 1 | 0.995 | 15.62 | -6.77% | 1.227 |
 | 9 | HOOD | 5 | 3 | 0.633 | 108.13 | 6.45% | 3.104 |
 | 10 | SPY | 3 | 3 | 0.581 | 765.72 | 3.73% | 1.976 |
