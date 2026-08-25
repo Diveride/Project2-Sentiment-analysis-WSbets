@@ -3,22 +3,22 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-08-24T22:47:01.553917+00:00`
+- Generated at (UTC): `2026-08-25T22:47:26.484321+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
-| 1 | MRNA | 16 | 7 | -0.016 |
+| 1 | MRNA | 18 | 8 | -0.004 |
 | 2 | PGJ | 25 | 1 | 0.995 |
-| 3 | NBIS | 5 | 5 | 0.253 |
-| 4 | SNDK | 5 | 5 | -0.022 |
-| 5 | MAAS | 13 | 1 | 0.995 |
-| 6 | HOOD | 5 | 3 | 0.633 |
-| 7 | SPY | 4 | 3 | 0.577 |
-| 8 | QQQ | 3 | 3 | 0.645 |
-| 9 | RDDT | 6 | 2 | -0.115 |
-| 10 | BTC | 6 | 2 | -0.150 |
+| 3 | SNDK | 6 | 5 | 0.061 |
+| 4 | DKS | 14 | 2 | 0.617 |
+| 5 | NBIS | 4 | 4 | 0.341 |
+| 6 | MAAS | 13 | 1 | 0.995 |
+| 7 | HOOD | 5 | 3 | 0.633 |
+| 8 | SPY | 4 | 3 | 0.577 |
+| 9 | NVDA | 4 | 3 | 0.078 |
+| 10 | RDDT | 6 | 2 | -0.115 |
 
 ## Reddit fetch diagnostics
 
@@ -31,18 +31,18 @@
 | --- | --- | --- | ---: | --- |
 | hot | oauth | success | 100 |  |
 | new | oauth | success | 100 |  |
-| rising | oauth | success | 26 |  |
+| rising | oauth | success | 25 |  |
 | top | oauth | success | 100 |  |
 
 ## Market snapshot
 
-- **MRNA**: close `138.89`, 1M return `156.87%` if available, RSI `68.82` and regression RMSE `10.773`
-- **PGJ**: close `23.92`, 1M return `1.53%` if available, RSI `42.29` and regression RMSE `0.140`
-- **NBIS**: close `210.91`, 1M return `12.32%` if available, RSI `47.65` and regression RMSE `32.139`
-- **SNDK**: close `1493.12`, 1M return `3.94%` if available, RSI `49.65` and regression RMSE `135.147`
-- **MAAS**: close `15.80`, 1M return `-5.67%` if available, RSI `45.07` and regression RMSE `1.148`
-- **HOOD**: close `103.62`, 1M return `9.18%` if available, RSI `56.81` and regression RMSE `3.098`
-- **SPY**: close `763.47`, 1M return `3.32%` if available, RSI `52.14` and regression RMSE `3.745`
-- **QQQ**: close `706.32`, 1M return `3.23%` if available, RSI `46.42` and regression RMSE `10.917`
-- **RDDT**: close `152.70`, 1M return `-9.50%` if available, RSI `43.65` and regression RMSE `6.352`
-- **BTC**: close `34.84`, 1M return `22.81%` if available, RSI `81.20` and regression RMSE `0.496`
+- **MRNA**: close `158.83`, 1M return `185.51%` if available, RSI `72.50` and regression RMSE `11.086`
+- **PGJ**: close `24.20`, 1M return `0.19%` if available, RSI `46.17` and regression RMSE `0.127`
+- **SNDK**: close `1480.77`, 1M return `15.85%` if available, RSI `49.17` and regression RMSE `124.357`
+- **DKS**: close `124.31`, 1M return `-39.54%` if available, RSI `15.38` and regression RMSE `5.214`
+- **NBIS**: close `221.97`, 1M return `18.14%` if available, RSI `50.55` and regression RMSE `31.198`
+- **MAAS**: close `15.01`, 1M return `-13.32%` if available, RSI `42.11` and regression RMSE `1.251`
+- **HOOD**: close `112.09`, 1M return `17.19%` if available, RSI `63.52` and regression RMSE `2.980`
+- **SPY**: close `765.91`, 1M return `3.63%` if available, RSI `54.20` and regression RMSE `3.554`
+- **NVDA**: close `213.05`, 1M return `8.42%` if available, RSI `49.61` and regression RMSE `1.893`
+- **RDDT**: close `162.45`, 1M return `-9.36%` if available, RSI `49.58` and regression RMSE `6.305`

@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-08-24T22:47:01.551851+00:00`
+- Generated at (UTC): `2026-08-25T22:47:26.482075+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | MRNA | 16 | 7 | -0.016 | 138.89 | 156.87% | 10.773 |
-| 2 | PGJ | 25 | 1 | 0.995 | 23.92 | 1.53% | 0.140 |
-| 3 | NBIS | 5 | 5 | 0.253 | 210.91 | 12.32% | 32.139 |
-| 4 | SNDK | 5 | 5 | -0.022 | 1493.12 | 3.94% | 135.147 |
-| 5 | MAAS | 13 | 1 | 0.995 | 15.80 | -5.67% | 1.148 |
-| 6 | HOOD | 5 | 3 | 0.633 | 103.62 | 9.18% | 3.098 |
-| 7 | SPY | 4 | 3 | 0.577 | 763.47 | 3.32% | 3.745 |
-| 8 | QQQ | 3 | 3 | 0.645 | 706.32 | 3.23% | 10.917 |
-| 9 | RDDT | 6 | 2 | -0.115 | 152.70 | -9.50% | 6.352 |
-| 10 | BTC | 6 | 2 | -0.150 | 34.84 | 22.81% | 0.496 |
+| 1 | MRNA | 18 | 8 | -0.004 | 158.83 | 185.51% | 11.086 |
+| 2 | PGJ | 25 | 1 | 0.995 | 24.20 | 0.19% | 0.127 |
+| 3 | SNDK | 6 | 5 | 0.061 | 1480.77 | 15.85% | 124.357 |
+| 4 | DKS | 14 | 2 | 0.617 | 124.31 | -39.54% | 5.214 |
+| 5 | NBIS | 4 | 4 | 0.341 | 221.97 | 18.14% | 31.198 |
+| 6 | MAAS | 13 | 1 | 0.995 | 15.01 | -13.32% | 1.251 |
+| 7 | HOOD | 5 | 3 | 0.633 | 112.09 | 17.19% | 2.980 |
+| 8 | SPY | 4 | 3 | 0.577 | 765.91 | 3.63% | 3.554 |
+| 9 | NVDA | 4 | 3 | 0.078 | 213.05 | 8.42% | 1.893 |
+| 10 | RDDT | 6 | 2 | -0.115 | 162.45 | -9.36% | 6.305 |
 
 ### Aggregate Charts
 
@@ -190,13 +190,17 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![PGJ Dashboard](outputs/latest_wsb_analysis/charts/pgj_dashboard.png)
 
-#### NBIS
-
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
-
 #### SNDK
 
 ![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+
+#### DKS
+
+![DKS Dashboard](outputs/latest_wsb_analysis/charts/dks_dashboard.png)
+
+#### NBIS
+
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 
 #### MAAS
 
@@ -210,15 +214,11 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### QQQ
+#### NVDA
 
-![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### RDDT
 
 ![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
-
-#### BTC
-
-![BTC Dashboard](outputs/latest_wsb_analysis/charts/btc_dashboard.png)
 <!-- AUTO_TOP10_END -->
