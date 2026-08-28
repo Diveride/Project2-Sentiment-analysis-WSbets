@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-08-27T03:21:03.305815+00:00`
+- Generated at (UTC): `2026-08-28T06:09:54.252952+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | PGJ | 25 | 1 | 0.995 | 24.03 | -1.52% | 0.126 |
-| 2 | DKS | 14 | 2 | 0.617 | 129.66 | -38.66% | 4.109 |
-| 3 | NVDA | 5 | 4 | 0.103 | 209.66 | 6.42% | 3.413 |
-| 4 | NBIS | 4 | 4 | 0.341 | 213.93 | 26.07% | 26.878 |
-| 5 | MAAS | 13 | 1 | 0.995 | 14.79 | -13.51% | 1.154 |
-| 6 | SNDK | 4 | 3 | 0.010 | 1499.37 | 36.79% | 136.366 |
-| 7 | SPY | 4 | 3 | 0.577 | 766.08 | 3.40% | 3.883 |
-| 8 | CBRS | 7 | 1 | 0.691 | 182.15 | -5.48% | 2.189 |
-| 9 | IREN | 7 | 1 | 0.902 | 39.58 | 16.65% | 1.063 |
-| 10 | SPCX | 3 | 2 | 0.507 | 139.63 | 19.95% | n/a |
+| 1 | NVDA | 16 | 9 | 0.046 | 227.98 | 19.98% | 7.423 |
+| 2 | DKS | 14 | 2 | 0.617 | 131.77 | -36.03% | 7.029 |
+| 3 | MRVL | 6 | 4 | -0.094 | 241.45 | 47.77% | 16.780 |
+| 4 | SPY | 4 | 3 | 0.349 | 771.10 | 5.71% | 2.239 |
+| 5 | NBIS | 3 | 3 | 0.058 | 218.48 | 47.40% | 29.699 |
+| 6 | META | 5 | 2 | -0.221 | 571.10 | -2.48% | 6.687 |
+| 7 | MSFT | 8 | 1 | 0.800 | 505.06 | 29.32% | 13.542 |
+| 8 | CBRS | 7 | 1 | 0.691 | 186.67 | 10.20% | 2.290 |
+| 9 | IREN | 7 | 1 | 0.902 | 40.53 | 38.28% | 1.157 |
+| 10 | SNDK | 3 | 2 | -0.244 | 1484.95 | 46.17% | 134.930 |
 
 ### Aggregate Charts
 
@@ -182,33 +182,33 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### PGJ
+#### NVDA
 
-![PGJ Dashboard](outputs/latest_wsb_analysis/charts/pgj_dashboard.png)
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### DKS
 
 ![DKS Dashboard](outputs/latest_wsb_analysis/charts/dks_dashboard.png)
 
-#### NVDA
+#### MRVL
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+![MRVL Dashboard](outputs/latest_wsb_analysis/charts/mrvl_dashboard.png)
+
+#### SPY
+
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
 #### NBIS
 
 ![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 
-#### MAAS
+#### META
 
-![MAAS Dashboard](outputs/latest_wsb_analysis/charts/maas_dashboard.png)
+![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
 
-#### SNDK
+#### MSFT
 
-![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
-
-#### SPY
-
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
 #### CBRS
 
@@ -218,7 +218,7 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
 
-#### SPCX
+#### SNDK
 
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
 <!-- AUTO_TOP10_END -->
