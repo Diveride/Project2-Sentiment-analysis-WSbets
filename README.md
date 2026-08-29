@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-08-28T06:09:54.252952+00:00`
+- Generated at (UTC): `2026-08-29T03:45:08.209174+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 16 | 9 | 0.046 | 227.98 | 19.98% | 7.423 |
-| 2 | DKS | 14 | 2 | 0.617 | 131.77 | -36.03% | 7.029 |
-| 3 | MRVL | 6 | 4 | -0.094 | 241.45 | 47.77% | 16.780 |
-| 4 | SPY | 4 | 3 | 0.349 | 771.10 | 5.71% | 2.239 |
-| 5 | NBIS | 3 | 3 | 0.058 | 218.48 | 47.40% | 29.699 |
-| 6 | META | 5 | 2 | -0.221 | 571.10 | -2.48% | 6.687 |
-| 7 | MSFT | 8 | 1 | 0.800 | 505.06 | 29.32% | 13.542 |
-| 8 | CBRS | 7 | 1 | 0.691 | 186.67 | 10.20% | 2.290 |
-| 9 | IREN | 7 | 1 | 0.902 | 40.53 | 38.28% | 1.157 |
-| 10 | SNDK | 3 | 2 | -0.244 | 1484.95 | 46.17% | 134.930 |
+| 1 | NVDA | 17 | 9 | 0.239 | 217.55 | 11.54% | 5.021 |
+| 2 | MRVL | 8 | 5 | -0.094 | 216.62 | 18.18% | 12.942 |
+| 3 | SPY | 6 | 5 | 0.453 | 769.35 | 3.73% | 2.253 |
+| 4 | DKS | 13 | 1 | 0.960 | 135.09 | -32.42% | 7.187 |
+| 5 | CCS | 9 | 1 | 0.567 | 69.16 | 0.86% | 0.626 |
+| 6 | EXP | 9 | 1 | 0.567 | 197.56 | -3.85% | 1.866 |
+| 7 | META | 5 | 2 | -0.221 | 578.02 | 7.23% | 6.441 |
+| 8 | MSFT | 8 | 1 | 0.800 | 513.53 | 13.84% | 13.696 |
+| 9 | CBRS | 7 | 1 | 0.691 | 179.08 | -11.81% | 2.066 |
+| 10 | SNDK | 3 | 2 | -0.244 | 1484.98 | 16.02% | 134.714 |
 
 ### Aggregate Charts
 
@@ -186,10 +186,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### DKS
-
-![DKS Dashboard](outputs/latest_wsb_analysis/charts/dks_dashboard.png)
-
 #### MRVL
 
 ![MRVL Dashboard](outputs/latest_wsb_analysis/charts/mrvl_dashboard.png)
@@ -198,9 +194,17 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### NBIS
+#### DKS
 
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+![DKS Dashboard](outputs/latest_wsb_analysis/charts/dks_dashboard.png)
+
+#### CCS
+
+![CCS Dashboard](outputs/latest_wsb_analysis/charts/ccs_dashboard.png)
+
+#### EXP
+
+![EXP Dashboard](outputs/latest_wsb_analysis/charts/exp_dashboard.png)
 
 #### META
 
@@ -213,10 +217,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### CBRS
 
 ![CBRS Dashboard](outputs/latest_wsb_analysis/charts/cbrs_dashboard.png)
-
-#### IREN
-
-![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
 
 #### SNDK
 
