@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-08-29T03:45:08.209174+00:00`
+- Generated at (UTC): `2026-08-30T00:22:57.471332+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 17 | 9 | 0.239 | 217.55 | 11.54% | 5.021 |
-| 2 | MRVL | 8 | 5 | -0.094 | 216.62 | 18.18% | 12.942 |
-| 3 | SPY | 6 | 5 | 0.453 | 769.35 | 3.73% | 2.253 |
+| 1 | NVDA | 17 | 8 | 0.443 | 217.55 | 11.54% | 5.021 |
+| 2 | MRVL | 8 | 5 | -0.094 | 216.62 | 18.18% | 12.943 |
+| 3 | SPY | 5 | 4 | 0.430 | 769.35 | 3.73% | 2.253 |
 | 4 | DKS | 13 | 1 | 0.960 | 135.09 | -32.42% | 7.187 |
 | 5 | CCS | 9 | 1 | 0.567 | 69.16 | 0.86% | 0.626 |
 | 6 | EXP | 9 | 1 | 0.567 | 197.56 | -3.85% | 1.866 |
-| 7 | META | 5 | 2 | -0.221 | 578.02 | 7.23% | 6.441 |
+| 7 | META | 5 | 2 | -0.221 | 578.02 | 7.23% | 6.440 |
 | 8 | MSFT | 8 | 1 | 0.800 | 513.53 | 13.84% | 13.696 |
-| 9 | CBRS | 7 | 1 | 0.691 | 179.08 | -11.81% | 2.066 |
-| 10 | SNDK | 3 | 2 | -0.244 | 1484.98 | 16.02% | 134.714 |
+| 9 | ARR | 4 | 2 | 0.952 | 16.32 | -0.79% | 0.049 |
+| 10 | SNDK | 3 | 2 | 0.491 | 1484.98 | 16.02% | 134.715 |
 
 ### Aggregate Charts
 
@@ -214,9 +214,9 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### CBRS
+#### ARR
 
-![CBRS Dashboard](outputs/latest_wsb_analysis/charts/cbrs_dashboard.png)
+![ARR Dashboard](outputs/latest_wsb_analysis/charts/arr_dashboard.png)
 
 #### SNDK
 

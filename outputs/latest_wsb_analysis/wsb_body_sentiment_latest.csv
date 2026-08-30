@@ -1,4 +1,166 @@
 created_utc,body,clean_body,body_sentiment,body_label
+2026-08-29 21:40:07+00:00,"​It has been an interesting journey analysing OCL, with plenty of ups and downs along the way before reaching an investment decision. My view is that the company has developed a credible strategy to address a significant challenge that is already here: Microsoft 365. This threat is real and material, but management appears to have positioned the business as well as reasonably possible to respond to it. This challenge exists alongside the recent loss of the Defence contract.
+
+Personally, I do not consider the Defence contract loss to be a major factor in my long term investment thesis. I prefer to base long term investment decisions on the overall health of the business, the strength of its moat, and its ability to create value over time. A single contract loss, while meaningful in the short term, does not fundamentally alter that assessment. For that reason, I focused much more attention on Microsoft's impact, as I believe it represents the largest strategic threat to the business over the next decade.
+
+\*\*The Investment Strategy\*\*
+
+It is obvious to everyone that the stock has fallen sharply and is now trading at earnings multiples it has not traded at in more than a decade. Technically, it is also respecting the June 2020 support level around $5.97. My analysis therefore focuses on the opportunity presented by current price levels and what the business could look like over the next decade.
+
+The key questions I set out to answer were:
+
+•	⁠Is the business healthy?  
+•	⁠Does it have a strong and durable moat?  
+•	⁠Is the market overreacting to Microsoft 365 and the Defence contract loss?
+
+The answers to these questions determine whether the company can maintain the level of financial performance it has achieved historically.
+
+The threat from Microsoft 365 is certainly not a secret. The company discusses it openly, including in its annual reports. The reason is straightforward: Microsoft represents a direct challenge to Objective's moat. In my opinion, management has been candid about this risk and has responded with a sensible strategy.
+
+Rather than fighting Microsoft directly, Objective has chosen to integrate with it. The acquisition of Simflofy strengthened the Content Solutions segment by reinforcing governance and information management capabilities. The strategy appears to be to allow Microsoft to own the user interface while Objective retains control of data governance, compliance, records management, and the workflows required by government and regulated customers.
+
+To me, this is the best possible response. There is little value in entering a direct confrontation with Microsoft in a market where Microsoft is likely to win. Instead, Objective is focusing on protecting what matters most: the governance, organisation, and compliance layer surrounding customer data.
+
+This strategy will almost certainly result in slower growth for Content Solutions and potentially fewer end users over time. I modelled this effect extensively. The conclusion was clear: Content Solutions is likely to slow, which by itself gives a negative answer to one of my key questions. However, the company has two other segments that are currently growing at impressive rates:
+
+•	⁠Planning & Building: \\\~30% ARR growth  
+•	⁠Regulatory Solutions: \\\~16% ARR growth
+
+At that point, the maths becomes relatively simple. If Content Solutions slows while the other two divisions continue growing strongly, overall ARR growth can still remain comfortably in double digits.
+
+The critical question then becomes:
+
+Can those growth rates be sustained?
+
+To answer that, I undertook a market analysis of both segments. The findings were surprising.
+
+In Planning & Building, the competition is often not another software company. In many cases, councils and government organisations still rely on spreadsheets, manual processes, and internally developed tools. Regulatory Solutions faces a similar situation. These are relatively immature markets with substantial room for digitisation.
+
+Planning & Building, in particular, appears to have a very large addressable market. Objective has a meaningful head start and operates in a market with significant greenfield opportunities and relatively few specialised competitors. The same can be said, albeit to a lesser extent, for Regulatory Solutions.
+
+\*\*How Does This Play Out?\*\*
+
+To answer that question, I built a dynamic 10 year growth model.
+
+The model incorporates:
+
+•	⁠A slowing Content Solutions segment  
+•	⁠Slowing but still healthy Regulatory Solutions growth  
+•	⁠Moderating Planning & Building growth
+
+Rather than assuming current growth rates continue forever, I tapered each segment's growth over time.
+
+The result was three scenarios:
+
+Scenario	|Annual Growth  
+Bear Case	|11%  
+Base Case	|13.50%  
+Bull Case	|15%	 
+
+ 
+
+For the bear case, I assumed Content Solutions slows from approximately 12% growth to around 5%. For the base and bull cases, I assumed Content Solutions slows to around 7%. To further account for the risks facing OCL, including Microsoft 365 competition, contract concentration, and execution risk, I applied an additional reduction of 2% to the bear case and 1% to both the base and bull cases. I also assumed Regulatory Solutions slows into the low teens and planning building slows to the mid 20’s.
+
+The most important variable in the entire model was Planning & Building. As a result, my long term investment thesis hinges on the continued success of this segment. If Planning and Building can continue scaling, Objective can offset the slowdown in Content Solutions. If it cannot, the thesis weakens considerably.
+
+\*\*Valuation\*\*
+
+I valued the business using three different approaches:
+
+1. Forward PE
+2. PE Trend Analysis
+3. Discounted Cash Flow (DCF)
+
+All three approaches produced valuations that were reasonably close to one another, resulting in a base case intrinsic value of approximately $12 per share.
+
+At current prices, the stock trades at roughly a 50% discount to that valuation. In my view, that represents a reasonable margin of safety for a business with a strong operating history, recurring revenue, high returns on capital, and management that has demonstrated strong capital allocation skills over a long period.
+
+My position sizing will range between 25% and 75% of my intended allocation depending on the technical setup. I monitor this using a custom TradingView script.
+
+My current plan is to accumulate shares when the market offers a 30% to 50% margin of safety relative to my base case valuation, which corresponds to a share price between approximately $6 and $8.
+
+\*\*Final Thoughts\*\*
+
+This is simply how I am allocating my own capital. I am not a financial adviser, nor do I claim to be. I write these posts because they provide an opportunity to challenge my assumptions and gather perspectives that I would not otherwise encounter while researching alone.
+
+As always, it is paramount that everyone conducts their own research. I welcome disagreement and criticism because investing is far from an exact science, and some of the best insights come from people who see the risks differently.
+
+For me, the key question is no longer whether Microsoft 365 is a threat. It clearly is.
+
+The real question is whether Objective's strategy works.
+
+If Content Solutions stabilises while Planning and Building and Regulatory Solutions continue to scale, today's share price could prove to be a significant overreaction. If Planning and Building fails to become a meaningful growth engine, then the bear case becomes much more likely.
+
+That's the bet.
+
+Are you planning to invest in OCL, or would you rather stay miles away from it? What's your take?
+
+Now that I've wrapped up OCL, I'm on the hunt for my next company to analyse. If you have any interesting ideas, drop them in the comments and I'll take a look.
+
+ [OCL Research](https://stocksdeepdive.com/research?ticker=OCL.AX&section=Fundamentals)
+
+ ",it has been an interesting journey analysing ocl with plenty of ups and downs along the way before reaching an investment decision my view is that the company has developed a credible strategy to address a significant challenge that is already here microsoft this threat is real and material but management appears to have positioned the business as well as reasonably possible to respond to it this challenge exists alongside the recent loss of the defence contract personally i do not consider the defence contract loss to be a major factor in my long term investment thesis i prefer to base long term investment decisions on the overall health of the business the strength of its moat and its ability to create value over time a single contract loss while meaningful in the short term does not fundamentally alter that assessment for that reason i focused much more attention on microsoft s impact as i believe it represents the largest strategic threat to the business over the next decade the investment strategy it is obvious to everyone that the stock has fallen sharply and is now trading at earnings multiples it has not traded at in more than a decade technically it is also respecting the june support level around my analysis therefore focuses on the opportunity presented by current price levels and what the business could look like over the next decade the key questions i set out to answer were is the business healthy does it have a strong and durable moat is the market overreacting to microsoft and the defence contract loss the answers to these questions determine whether the company can maintain the level of financial performance it has achieved historically the threat from microsoft is certainly not a secret the company discusses it openly including in its annual reports the reason is straightforward microsoft represents a direct challenge to objective s moat in my opinion management has been candid about this risk and has responded with a sensible strategy rather than fighting microsoft directly objective has chosen to integrate with it the acquisition of simflofy strengthened the content solutions segment by reinforcing governance and information management capabilities the strategy appears to be to allow microsoft to own the user interface while objective retains control of data governance compliance records management and the workflows required by government and regulated customers to me this is the best possible response there is little value in entering a direct confrontation with microsoft in a market where microsoft is likely to win instead objective is focusing on protecting what matters most the governance organisation and compliance layer surrounding customer data this strategy will almost certainly result in slower growth for content solutions and potentially fewer end users over time i modelled this effect extensively the conclusion was clear content solutions is likely to slow which by itself gives a negative answer to one of my key questions however the company has two other segments that are currently growing at impressive rates planning building arr growth regulatory solutions arr growth at that point the maths becomes relatively simple if content solutions slows while the other two divisions continue growing strongly overall arr growth can still remain comfortably in double digits the critical question then becomes can those growth rates be sustained to answer that i undertook a market analysis of both segments the findings were surprising in planning building the competition is often not another software company in many cases councils and government organisations still rely on spreadsheets manual processes and internally developed tools regulatory solutions faces a similar situation these are relatively immature markets with substantial room for digitisation planning building in particular appears to have a very large addressable market objective has a meaningful head start and operates in a market with significant greenfield opportunities and relatively few specialised competitors the same can be said albeit to a lesser extent for regulatory solutions how does this play out to answer that question i built a dynamic year growth model the model incorporates a slowing content solutions segment slowing but still healthy regulatory solutions growth moderating planning building growth rather than assuming current growth rates continue forever i tapered each segment s growth over time the result was three scenarios scenario annual growth bear case base case bull case for the bear case i assumed content solutions slows from approximately growth to around for the base and bull cases i assumed content solutions slows to around to further account for the risks facing ocl including microsoft competition contract concentration and execution risk i applied an additional reduction of to the bear case and to both the base and bull cases i also assumed regulatory solutions slows into the low teens and planning building slows to the mid s the most important variable in the entire model was planning building as a result my long term investment thesis hinges on the continued success of this segment if planning and building can continue scaling objective can offset the slowdown in content solutions if it cannot the thesis weakens considerably valuation i valued the business using three different approaches forward pe pe trend analysis discounted cash flow dcf all three approaches produced valuations that were reasonably close to one another resulting in a base case intrinsic value of approximately per share at current prices the stock trades at roughly a discount to that valuation in my view that represents a reasonable margin of safety for a business with a strong operating history recurring revenue high returns on capital and management that has demonstrated strong capital allocation skills over a long period my position sizing will range between and of my intended allocation depending on the technical setup i monitor this using a custom tradingview script my current plan is to accumulate shares when the market offers a to margin of safety relative to my base case valuation which corresponds to a share price between approximately and final thoughts this is simply how i am allocating my own capital i am not a financial adviser nor do i claim to be i write these posts because they provide an opportunity to challenge my assumptions and gather perspectives that i would not otherwise encounter while researching alone as always it is paramount that everyone conducts their own research i welcome disagreement and criticism because investing is far from an exact science and some of the best insights come from people who see the risks differently for me the key question is no longer whether microsoft is a threat it clearly is the real question is whether objective s strategy works if content solutions stabilises while planning and building and regulatory solutions continue to scale today s share price could prove to be a significant overreaction if planning and building fails to become a meaningful growth engine then the bear case becomes much more likely that s the bet are you planning to invest in ocl or would you rather stay miles away from it what s your take now that i ve wrapped up ocl i m on the hunt for my next company to analyse if you have any interesting ideas drop them in the comments and i ll take a look ocl research,0.9995,positive
+2026-08-29 19:16:13+00:00,,nan,0.0,neutral
+2026-08-29 18:20:42+00:00,"
+https://finance.yahoo.com/technology/articles/memory-now-accounts-50-global-160649380.html",,0.0,neutral
+2026-08-29 18:11:45+00:00,https://insight.factset.com/mag-7-companies-reported-earnings-growth-above-100-boosted-by-investment-gains,,0.0,neutral
+2026-08-29 17:57:39+00:00,"I posted this in another sub and people were saying it’s DD worth mentioning here. 
+
+Some of my best trades have come from Chris Camillo’s social arbitrage method. Identifying social trends around you before the street catches on. Despite a 280% gain in the last year, I think there is still room to run in Victoria’s Secret with the release of GTA VI.
+
+Now how could GTA VI possibly relate to Victoria’s Secret? The answer is simple, Lucia’s Thong. In the extended trailer, Lucia is seen wearing a thong that had the little perverts salivating at the image. After extensive research, I identified it as the V-String black thong on Victoria’s Secret website. It’s the same exact product.
+
+On the last earnings call, mgmt has highlighted a majority of their comp sales growth was seen in the “panties” category. I expect panty growth to continue to accelerate through the end of the calendar year. Not to mention VS’ PINK brand has also blow up with double digit sales growth. In the extended release, Lucia’s room is pink as shit. I think VSXY’s sales growth will continue to accelerate as Lucia continues to promote new panties and even toenail paint.
+
+My forward estimates next quarter:
+
+\- V-string sales growth of 44% yoy  
+\- Panty segment adj EBITDA growth of 56%
+
+The stock is trading at 15x EV/EBITDA. I expect continue re-rating with the adoption of more panties in GTA VI.
+
+Positions  
+\- 200 shares of VSXY @ $88  
+\- 8x $100 calls expiring Jan 27. ",i posted this in another sub and people were saying it s dd worth mentioning here some of my best trades have come from chris camillo s social arbitrage method identifying social trends around you before the street catches on despite a gain in the last year i think there is still room to run in victoria s secret with the release of gta vi now how could gta vi possibly relate to victoria s secret the answer is simple lucia s thong in the extended trailer lucia is seen wearing a thong that had the little perverts salivating at the image after extensive research i identified it as the v string black thong on victoria s secret website it s the same exact product on the last earnings call mgmt has highlighted a majority of their comp sales growth was seen in the panties category i expect panty growth to continue to accelerate through the end of the calendar year not to mention vs pink brand has also blow up with double digit sales growth in the extended release lucia s room is pink as shit i think vsxy s sales growth will continue to accelerate as lucia continues to promote new panties and even toenail paint my forward estimates next quarter v string sales growth of yoy panty segment adj ebitda growth of the stock is trading at x ev ebitda i expect continue re rating with the adoption of more panties in gta vi positions shares of vsxy x calls expiring jan,0.9276,positive
+2026-08-29 17:34:16+00:00,"Everyone is afraid of losing money on the stock market, but sometimes a loss is the best thing that can happen to you.   
+  
+Today, I'm down over $8k on an extremely risky and regarded bet on IREN Stock, but without losses like this, I will not learn the important decision-making skills for the future.   
+  
+  
+Think about it: in the future, WE, yes YOU and I are gonna have so much more money. So if we make the same regarded mistakes, we're gonna lose so much more money. So better to make the mistakes now and learn from them now. 
+
+
+
+Here are the three mistakes that I made on this trade. 
+
+1: I got greedy and I put too much money into a bet that was very risky that I did not have high certainty on because I didn't fully understand it. If I want to gamble on something like that, I should do $2,000, maybe $3,000. That's still a lot, but much less than $15,000 fucking dollars. You know why I did that? Because I got greedy. I thought about how much money I could make if it hit and it smashed earnings, but I didn't think about how much I could lose. 
+
+2: I didn't fully understand the bear case. Why is the stock suppressed? Why are people bearish on the stock? Why are there, like, 30% of shares being shorted, why are so many people shorting the stock? I need to fully understand that. 
+
+3: I couldn't simply say what the business does and why the bear case is wrong. For example, ServiceNow stock, I entered at $90 a share and now it's like around $40 a share. I made a lot of money off that. The bear case was that AI was going to replace the software. It was going to kill the software. My rebuttal to that is that's regarded. ServiceNow is an AI integration platform. (not fully sure of what that means but) That means basically a business would put all of their information, finance, HR, inventory, operations, they plug it into ServiceNow, and then ServiceNow helps them run their business. I don't know about you, but if I'm some, like, 100, 500, 1,000-employee company, I don't want to trust some vibe coded bs that someone tries to build for me. You're not getting replaced by AI. And that was so simple. It doesn't take, like, a rocket scientist to understand that. So if I can't simply say that, I should not be gambling in the stock. 
+
+
+
+So the next time you have a loss, don't freak out. Don't start trying to numb your mind with video games and doomscrolling, and then you start checking your ex's Instagram, and then you start seeing how she got married to her new boyfriend, and then you start g00ning because you're depressed, and then you just waste the entire day, and you don't work out, and you're a loser. 
+
+Not that that's, like, ever happened to me. But instead, slow down and consider why your decision-making and your strategy was wrong.
+
+  
+This was just a setback. We are still going to get that 7 fig portfolio. Meta is ripping. We're going to be okay. 
+
+Here's my original bullish iren post: [https://www.reddit.com/r/wallstreetbets/s/5wqSYlhjuz](https://www.reddit.com/r/wallstreetbets/s/5wqSYlhjuz) 
+
+Not realized loss, hoping it will bounce up and greatly minimize my loss.  
+",everyone is afraid of losing money on the stock market but sometimes a loss is the best thing that can happen to you today i m down over k on an extremely risky and regarded bet on iren stock but without losses like this i will not learn the important decision making skills for the future think about it in the future we yes you and i are gonna have so much more money so if we make the same regarded mistakes we re gonna lose so much more money so better to make the mistakes now and learn from them now here are the three mistakes that i made on this trade i got greedy and i put too much money into a bet that was very risky that i did not have high certainty on because i didn t fully understand it if i want to gamble on something like that i should do maybe that s still a lot but much less than fucking dollars you know why i did that because i got greedy i thought about how much money i could make if it hit and it smashed earnings but i didn t think about how much i could lose i didn t fully understand the bear case why is the stock suppressed why are people bearish on the stock why are there like of shares being shorted why are so many people shorting the stock i need to fully understand that i couldn t simply say what the business does and why the bear case is wrong for example servicenow stock i entered at a share and now it s like around a share i made a lot of money off that the bear case was that ai was going to replace the software it was going to kill the software my rebuttal to that is that s regarded servicenow is an ai integration platform not fully sure of what that means but that means basically a business would put all of their information finance hr inventory operations they plug it into servicenow and then servicenow helps them run their business i don t know about you but if i m some like employee company i don t want to trust some vibe coded bs that someone tries to build for me you re not getting replaced by ai and that was so simple it doesn t take like a rocket scientist to understand that so if i can t simply say that i should not be gambling in the stock so the next time you have a loss don t freak out don t start trying to numb your mind with video games and doomscrolling and then you start checking your ex s instagram and then you start seeing how she got married to her new boyfriend and then you start g ning because you re depressed and then you just waste the entire day and you don t work out and you re a loser not that that s like ever happened to me but instead slow down and consider why your decision making and your strategy was wrong this was just a setback we are still going to get that fig portfolio meta is ripping we re going to be okay here s my original bullish iren post not realized loss hoping it will bounce up and greatly minimize my loss,-0.9958,negative
+2026-08-29 16:55:08+00:00,"From CNBC:
+
+""Warsh at Jackson Hole gave a more hawkish reading of the economy than he had in July. He said elevated prices needed to be the Fed’s main focus and described financial conditions as not being broadly restrictive, a change from his July news conference, when he said they were uneven. He did that while swiping back at his critics and insisting his policy of deliberate ambiguity about Fed policy is here to stay."" 
+
+How will this affect next week's markets? What stocks will go up? What stocks will go down? 
+
+What are your bets for next week?",from cnbc warsh at jackson hole gave a more hawkish reading of the economy than he had in july he said elevated prices needed to be the fed s main focus and described financial conditions as not being broadly restrictive a change from his july news conference when he said they were uneven he did that while swiping back at his critics and insisting his policy of deliberate ambiguity about fed policy is here to stay how will this affect next week s markets what stocks will go up what stocks will go down what are your bets for next week,-0.296,negative
+2026-08-29 16:17:25+00:00,,nan,0.0,neutral
+2026-08-29 07:45:21+00:00,What y’all blowing the rent money on Monday?,what y all blowing the rent money on monday,0.0,neutral
 2026-08-29 02:11:43+00:00,"Hear me out.
 
 DELL just got smoked \~3.4% today to close around $456, but this wasn’t really a Dell-specific collapse. The Nasdaq was down \~0.5% after Kevin Warsh’s Jackson Hole speech came across more hawkish and pushed September rate-hike expectations higher.
@@ -83,9 +245,6 @@ SPY 09/30 $760 P (light size, just a small hedge while watching the data)
 Source:  
 [https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm](https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm)",alright regards gather around everyone is arguing about whether warsh was hawkish or dovish on september that is the most npc way to read this speech warsh wasn t handing out a september rate call coupon he was laying out the fed s reaction function the actual rulebook for when they move here s the smooth brain translation persistent this shit isn t going away price stability is not automatic inflation does not magically mean revert underlying trend inflation is what matters progress over the past two years has been modest the data does not show that underlying inflation trends have meaningfully improved temporary maybe noise maybe not idiosyncratic factors can distort the data the recent rise in commodity prices still bears watching this summer s pce and cpi readings were better than expected when does the fed actually move they need confidence that underlying inflation is moving toward the objective clearly and fast enough otherwise there is still work to do they have already expressed a joint readiness to act if circumstances require it the key question is whether five plus years of inflation have become embedded in expectations rising commodity prices matter if they signal renewed upside inflation risk the point is not whether warsh gave you a clean september cut or no september cut headline the point is that the fed s reaction function is the regime a rate call is the headline the reaction function is the game so no the speech was not obvious just because warsh avoids forward guidance the entire point was identifying what he considers temporary what he considers persistent and what would force the fed to act what does this mean for september and beyond you beautiful degenerates don t just comment hawkish or dovish like an npc use your remaining two brain cells and explain the reaction function my position spy p light size just a small hedge while watching the data source,0.7992,positive
 2026-08-28 23:31:55+00:00,,nan,0.0,neutral
-2026-08-28 21:50:35+00:00,"I’m not sharing this to flex. I know it’s hard to make money in this casino right now tbh. I just want to ask everyone whether I should give my friend money or buy him a gift.  
-My friend gave me this signal last week. He told me to buy the 9/4 $140 NOW calls, but I didn’t buy until Monday morning. When I sold today, I asked him first, and he told me to decide for myself. I actually wanted to sell yesterday, but he told me to wait one more day, so I sold today and ended up making $45K  
-That’s the whole story. He’s coming over tomorrow. What should I get him?🙏",i m not sharing this to flex i know it s hard to make money in this casino right now tbh i just want to ask everyone whether i should give my friend money or buy him a gift my friend gave me this signal last week he told me to buy the now calls but i didn t buy until monday morning when i sold today i asked him first and he told me to decide for myself i actually wanted to sell yesterday but he told me to wait one more day so i sold today and ended up making k that s the whole story he s coming over tomorrow what should i get him,0.5321,positive
 2026-08-28 20:36:56+00:00,,nan,0.0,neutral
 2026-08-28 20:36:44+00:00,"To be frank with you all when I was screenshotting this it wasn’t a yolo feeling. More of a “I might throw up a bit”. The truth is I think it’s more of a “minimum wage guy hands over his hard earnings to the ultra wealthy”. One thing that makes sense is that if the ai hype dies that Ionq will be the first to plummet. I think the hype is on the verge of a break down and I’ve got in at the wrong point-quite clearly. Their revenue is respectable. They’ve got good leadership, but actual everyday use case is, in my view, light years away. Whilst everyone is talking about big daddy $NVDA, their relationship with IonQ could potentially lead IonQ on a positive trajectory. Thats my dd. ",to be frank with you all when i was screenshotting this it wasn t a yolo feeling more of a i might throw up a bit the truth is i think it s more of a minimum wage guy hands over his hard earnings to the ultra wealthy one thing that makes sense is that if the ai hype dies that ionq will be the first to plummet i think the hype is on the verge of a break down and i ve got in at the wrong point quite clearly their revenue is respectable they ve got good leadership but actual everyday use case is in my view light years away whilst everyone is talking about big daddy nvda their relationship with ionq could potentially lead ionq on a positive trajectory thats my dd,0.8944,positive
 2026-08-28 20:00:44+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1w1156x),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
@@ -118,7 +277,9 @@ What do you think?",what s your take initially i was really sold on iren but gra
 2026-08-28 17:22:31+00:00,"On August 26 I saw MRVL’s MACD starting to weaken so I bought 19 $240 put contracts Today I closed the entire position for a $14,896 profit
 
 The technical setup gave me a solid entry but MACD is still a lagging indicator For short term trades do you rely more on MACD or volume and price action",on august i saw mrvl s macd starting to weaken so i bought put contracts today i closed the entire position for a profit the technical setup gave me a solid entry but macd is still a lagging indicator for short term trades do you rely more on macd or volume and price action,-0.3182,negative
-2026-08-28 17:06:01+00:00,"If ya'll could stop dumping semi's before end of day, that'd be great. TIA!",if ya ll could stop dumping semi s before end of day that d be great tia,0.5994,positive
+2026-08-28 17:06:01+00:00,"If ya'll could stop dumping semi's before end of day, that'd be great. TIA!
+
+Update: You didn't stop, these went to 0. Unluck in the casino",if ya ll could stop dumping semi s before end of day that d be great tia update you didn t stop these went to unluck in the casino,0.4019,positive
 2026-08-28 17:05:51+00:00,,nan,0.0,neutral
 2026-08-28 16:24:33+00:00,"Slowly increasing long term McDonald's leaps. 
 
@@ -351,11 +512,6 @@ Current state of affairs, I’ve thought 6-7% range and I’d start moving.",i m
 2026-08-25 20:08:37+00:00,Sold a put before earnings and tried to buy the dip all day today. Lesson learned. Don’t get dicked like me,sold a put before earnings and tried to buy the dip all day today lesson learned don t get dicked like me,0.3612,positive
 2026-08-25 20:06:46+00:00,,nan,0.0,neutral
 2026-08-25 20:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1vyaq2v),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-08-25 19:47:20+00:00,"I have no idea what I’m doing but this feels right.
-
-$87k btw.
-
-Edit: I sold this morning during market open at $19.10.",i have no idea what i m doing but this feels right k btw edit i sold this morning during market open at,-0.1531,negative
 2026-08-25 19:43:35+00:00,"I ignored proxy statements for about ten years. Figured executive comp was a politics thing, not an investing thing. Turns out I was wrong, but not for the reason most people on here think.  
 Let me get the dumb version of this argument out of the way first, because it’s the one that always shows up and it deserves to get shot down.  
 Average S&P 500 CEO pay last year was $22.8M. That’s the AFL-CIO number, and it excludes Musk’s $158B Tesla package because that thing breaks every average it touches. Multiply $22.8M across 500 companies and you get somewhere around $11B in total CEO pay. The index is worth about $67 trillion.  
@@ -575,15 +731,13 @@ Looks like I entered at a bad time..
 Any hope for me?",all in after losing more than half my nw on options looks like i entered at a bad time any hope for me,-0.1779,negative
 2026-08-25 03:46:01+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1vxov9p),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-08-24 23:07:02+00:00,,nan,0.0,neutral
-2026-08-24 21:06:14+00:00,"Thursday premarket update:
+2026-08-24 21:06:14+00:00,"Weekend 8/29 update:
 
-Nothing's changed, mostly just watching today and will maybe write a new post tonight. The NVDA call was really bad, they have no actual customers that make money and are now buying more AI companies as they dig their heels in. Apparently we are all seeing ""so much intelligence"" and ""so much compute"" and ""so much tokens"". Meanwhile enterprise software companies have already moved on from token maxing. Just look at sentiment of software engineers on Linkedin and Threads.
+One of my thoughts going into Friday, was the potential that this was all a manipulated event to manufacture consent for a rugpull. The mass ad and media NVDA campaign going into earnings and the market reaction to the Warsh speech makes this look more likely. I still like the late 2027 puts strategy NVDA, my mistake was going too heavy on them. I realized there was a risk of NVDA being propped up because they are proxy for the AI trade, and still went a little to hard on that trade.
 
-Also, I'm seeing a massive coordinated media push for AI right now. It was especially excessive yesterday with NVDA earning. These dudes are desperate at this point and trying to manufacture consent for the baghold. The fact is there is just no future where OpenAI and Anthropic recoup these massive trillion dollar investments. Once people realize that, all capital dries up for them, and there is now an over supply of hardware. Don't expect consumers to pick up that supply, they have been screwed with jacked prices for years and simply stopped buying.
+I think this is the potential double top for NVDA, won't know until it break down past support and a pop. Short term neutral on NVDA, more bearish on the Mem, Datacenter debt, storage plays, slight short term bullish on Apple, Microsoft, and Google. Meta is a noob trap, it's appealing because they are down on the year, but they are a joke. They were late to AI, made heavy late investments that will never pay off, and now their big new product is perv glasses.
 
-My take, I think it will drop but not sure short term, so I think long dated puts are still the move. Average in, don't go all in all at once. A 5 trillion dollar bag is hard to pump, that's why they only pump on low premarket volume. These guys are desperate. To me it looks like they are just moving money around to keep NVDA afloat and the other sectors in the market looking healthy enough.
-
-And to the NVDA call bag holders gloating, uuuumm, I saw your insane 240, 260, and 300 FD call strikes. You are unhinged 🤡
+I'm mostly long-dated puts and liquid at this point. My 401k play looks decent so far, I just feel there is so much more downside than upside (my 401k was in the Russell mostly, not the S&P). The Russell is super at risk atm with how heavily it has benefitted from medium cap AI plays (hyperscalers have seen much less growth this year).
 
 \---------------------------------------------------------------
 
@@ -606,7 +760,7 @@ Late 2027 SNDK, NVDA, PLTR, TQQQ, and ORCL puts.
 
 Other good options are NBIS, MU, and CRWV
 
-One last thought...name just one company that has become more profitable with LLMs. There are none.",thursday premarket update nothing s changed mostly just watching today and will maybe write a new post tonight the nvda call was really bad they have no actual customers that make money and are now buying more ai companies as they dig their heels in apparently we are all seeing so much intelligence and so much compute and so much tokens meanwhile enterprise software companies have already moved on from token maxing just look at sentiment of software engineers on linkedin and threads also i m seeing a massive coordinated media push for ai right now it was especially excessive yesterday with nvda earning these dudes are desperate at this point and trying to manufacture consent for the baghold the fact is there is just no future where openai and anthropic recoup these massive trillion dollar investments once people realize that all capital dries up for them and there is now an over supply of hardware don t expect consumers to pick up that supply they have been screwed with jacked prices for years and simply stopped buying my take i think it will drop but not sure short term so i think long dated puts are still the move average in don t go all in all at once a trillion dollar bag is hard to pump that s why they only pump on low premarket volume these guys are desperate to me it looks like they are just moving money around to keep nvda afloat and the other sectors in the market looking healthy enough and to the nvda call bag holders gloating uuuumm i saw your insane and fd call strikes you are unhinged part is now posted on my reddit user page r wallstreetbets has begun removing my new posts normally big money can stay irrational longer than you can stay solvent this time it s flipped for those who don t work in the tech industry the hype for cutting edge models is already completely dead we got a taste of what it was capable of with fable but it turns out it s mostly just good at making stuff that already exists like minecraft and tinder clones it was kinda neat for the weeks it was freely available on plans but ultimately none of these businesses are willing to pay ludicris token prices just to use a slightly better model companies have already switched back to subscription models they d be stupid not to it s free compute even if they were to remove subscriptions entirely it wouldn t help as people can just switch to open source models instead it s a no win situation for anthropic and openai this means that the only ai sector that was going for mass compute llms will definitely not be able to ever pay back all that compute they spent that s trillion down the drain this is where you come in s private equity softbank amazon microsoft cisco and nvda have to hold this massive bag of debt they spent on these worthless models and they want you to buy it from them expect the market to trade sideways or slightly down until this crashes they are trying to slowly offload shares without crashing the market their goal is to hold out until the anthropic ipo so they can short their own shares to cover this let s them get around the day rule they want to offload their shares on you at a trillion evaluation and then rug pull your k pay attention to their strategy it s so obvious they use low volume to pump up pre market so they can start green and sell into the open they then trade the stocks back and forth slowly raising the price over the course of the day creating bull traps and then selling small chunks into that small momentum they are also moving out of semi stocks and into other general s p strength to prop up the market and prevent a crash that s why we are net in everything but the ai trade positions sold my remaining k at open i had been selling in chunks the past month late sndk nvda pltr tqqq and orcl puts other good options are nbis mu and crwv one last thought name just one company that has become more profitable with llms there are none,0.8783,positive
+One last thought...name just one company that has become more profitable with LLMs. There are none.",weekend update one of my thoughts going into friday was the potential that this was all a manipulated event to manufacture consent for a rugpull the mass ad and media nvda campaign going into earnings and the market reaction to the warsh speech makes this look more likely i still like the late puts strategy nvda my mistake was going too heavy on them i realized there was a risk of nvda being propped up because they are proxy for the ai trade and still went a little to hard on that trade i think this is the potential double top for nvda won t know until it break down past support and a pop short term neutral on nvda more bearish on the mem datacenter debt storage plays slight short term bullish on apple microsoft and google meta is a noob trap it s appealing because they are down on the year but they are a joke they were late to ai made heavy late investments that will never pay off and now their big new product is perv glasses i m mostly long dated puts and liquid at this point my k play looks decent so far i just feel there is so much more downside than upside my k was in the russell mostly not the s p the russell is super at risk atm with how heavily it has benefitted from medium cap ai plays hyperscalers have seen much less growth this year part is now posted on my reddit user page r wallstreetbets has begun removing my new posts normally big money can stay irrational longer than you can stay solvent this time it s flipped for those who don t work in the tech industry the hype for cutting edge models is already completely dead we got a taste of what it was capable of with fable but it turns out it s mostly just good at making stuff that already exists like minecraft and tinder clones it was kinda neat for the weeks it was freely available on plans but ultimately none of these businesses are willing to pay ludicris token prices just to use a slightly better model companies have already switched back to subscription models they d be stupid not to it s free compute even if they were to remove subscriptions entirely it wouldn t help as people can just switch to open source models instead it s a no win situation for anthropic and openai this means that the only ai sector that was going for mass compute llms will definitely not be able to ever pay back all that compute they spent that s trillion down the drain this is where you come in s private equity softbank amazon microsoft cisco and nvda have to hold this massive bag of debt they spent on these worthless models and they want you to buy it from them expect the market to trade sideways or slightly down until this crashes they are trying to slowly offload shares without crashing the market their goal is to hold out until the anthropic ipo so they can short their own shares to cover this let s them get around the day rule they want to offload their shares on you at a trillion evaluation and then rug pull your k pay attention to their strategy it s so obvious they use low volume to pump up pre market so they can start green and sell into the open they then trade the stocks back and forth slowly raising the price over the course of the day creating bull traps and then selling small chunks into that small momentum they are also moving out of semi stocks and into other general s p strength to prop up the market and prevent a crash that s why we are net in everything but the ai trade positions sold my remaining k at open i had been selling in chunks the past month late sndk nvda pltr tqqq and orcl puts other good options are nbis mu and crwv one last thought name just one company that has become more profitable with llms there are none,0.9925,positive
 2026-08-24 21:06:11+00:00,"An entire generation of bulls has been wiped out today... and the $SPY has only fallen 0.29%.
 
 You know how this works, >!full port calls tomorrow!<.",an entire generation of bulls has been wiped out today and the spy has only fallen you know how this works full port calls tomorrow,-0.3612,negative
@@ -634,21 +788,3 @@ $50-$100 EOY, fuck cancer.",i m also holding shares and september c s but these 
 TRLV 10k shares at 9.90 cost.  
 VRNO 4,000 shares",weedstonks are the most sadomasochist type of investing that exists it s been a year bear market but the grass can be greener on the other side trlv k shares at cost vrno shares,0.6808,positive
 2026-08-23 18:27:40+00:00,,nan,0.0,neutral
-2026-08-22 23:42:04+00:00,"Thought I'd share and not gatekeep this groundbreaking new research.
-
-Do with this information what you will. NFA
-
-Tldr; to the moon 🚀🌑🌘🌗🌖🌕🌔🌓🌒🌑🚀",thought i d share and not gatekeep this groundbreaking new research do with this information what you will nfa tldr to the moon,0.296,positive
-2026-08-22 23:39:53+00:00,"News released over weekend. Interestingly right before their upcoming earnings on Wednesday.
-
-Guess it might shrek cock next week.",news released over weekend interestingly right before their upcoming earnings on wednesday guess it might shrek cock next week,0.2732,positive
-2026-08-22 22:21:40+00:00,"CBRS goes up, CBRS goes down, CBRS goes back up, CBRS goes back down.... CBRS goes back up.  $90k in CBRS options expiring this week. Down 30% from my buy on Friday, and waiting to see $250/share this week to walk with $500k. $260/share gets me 1 mil. Wish me luck. ",cbrs goes up cbrs goes down cbrs goes back up cbrs goes back down cbrs goes back up k in cbrs options expiring this week down from my buy on friday and waiting to see share this week to walk with k share gets me mil wish me luck,0.8442,positive
-2026-08-22 21:27:57+00:00,"I was reading a [reddit post ](https://www.reddit.com/r/wallstreetbets/comments/1katbrx/visualizing_the_last_10_years_of_spy_daily/)where the author shared this analysis. The author posed a question about selling calls, and - to my surprise - nobody talked about the periodic repetition shown in the column.
-
-I've been thinking on it, and I can't think of a good reason why there are these nearly-periodic contractions of volatility at price points. (magenta curves on the drawing)
-
-They exist at the same levels which we find the greatest price movements (green squares on the drawing) but I can't determine if there's a connection between those.
-
-Looking to anyone who may have some insight -- why are there volatility contractions dependent upon the price of SPY?",i was reading a reddit post the author shared this analysis the author posed a question about selling calls and to my surprise nobody talked about the periodic repetition shown in the column i ve been thinking on it and i can t think of a good reason why there are these nearly periodic contractions of volatility at price points magenta curves on the drawing they exist at the same levels which we find the greatest price movements green squares on the drawing but i can t determine if there s a connection between those looking to anyone who may have some insight why are there volatility contractions dependent upon the price of spy,0.7003,positive
-2026-08-22 20:44:44+00:00,,nan,0.0,neutral
-2026-08-22 18:32:47+00:00,,nan,0.0,neutral
