@@ -3,7 +3,7 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-08-30T00:22:57.473266+00:00`
+- Generated at (UTC): `2026-08-31T00:39:22.723934+00:00`
 
 ## Top tickers
 
@@ -17,8 +17,8 @@
 | 6 | EXP | 9 | 1 | 0.567 |
 | 7 | META | 5 | 2 | -0.221 |
 | 8 | MSFT | 8 | 1 | 0.800 |
-| 9 | ARR | 4 | 2 | 0.952 |
-| 10 | SNDK | 3 | 2 | 0.491 |
+| 9 | SNDK | 3 | 2 | 0.491 |
+| 10 | SPCX | 3 | 2 | 0.507 |
 
 ## Reddit fetch diagnostics
 
@@ -44,5 +44,5 @@
 - **EXP**: close `197.56`, 1M return `-3.85%` if available, RSI `40.06` and regression RMSE `1.866`
 - **META**: close `578.02`, 1M return `7.23%` if available, RSI `49.56` and regression RMSE `6.440`
 - **MSFT**: close `513.53`, 1M return `13.84%` if available, RSI `73.07` and regression RMSE `13.696`
-- **ARR**: close `16.32`, 1M return `-0.79%` if available, RSI `44.08` and regression RMSE `0.049`
 - **SNDK**: close `1484.98`, 1M return `16.02%` if available, RSI `49.32` and regression RMSE `134.715`
+- **SPCX**: close `141.50`, 1M return `26.11%` if available, RSI `60.35`

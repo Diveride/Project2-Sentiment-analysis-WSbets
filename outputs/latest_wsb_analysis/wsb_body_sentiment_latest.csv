@@ -1,106 +1,18 @@
 created_utc,body,clean_body,body_sentiment,body_label
-2026-08-29 21:40:07+00:00,"​It has been an interesting journey analysing OCL, with plenty of ups and downs along the way before reaching an investment decision. My view is that the company has developed a credible strategy to address a significant challenge that is already here: Microsoft 365. This threat is real and material, but management appears to have positioned the business as well as reasonably possible to respond to it. This challenge exists alongside the recent loss of the Defence contract.
-
-Personally, I do not consider the Defence contract loss to be a major factor in my long term investment thesis. I prefer to base long term investment decisions on the overall health of the business, the strength of its moat, and its ability to create value over time. A single contract loss, while meaningful in the short term, does not fundamentally alter that assessment. For that reason, I focused much more attention on Microsoft's impact, as I believe it represents the largest strategic threat to the business over the next decade.
-
-\*\*The Investment Strategy\*\*
-
-It is obvious to everyone that the stock has fallen sharply and is now trading at earnings multiples it has not traded at in more than a decade. Technically, it is also respecting the June 2020 support level around $5.97. My analysis therefore focuses on the opportunity presented by current price levels and what the business could look like over the next decade.
-
-The key questions I set out to answer were:
-
-•	⁠Is the business healthy?  
-•	⁠Does it have a strong and durable moat?  
-•	⁠Is the market overreacting to Microsoft 365 and the Defence contract loss?
-
-The answers to these questions determine whether the company can maintain the level of financial performance it has achieved historically.
-
-The threat from Microsoft 365 is certainly not a secret. The company discusses it openly, including in its annual reports. The reason is straightforward: Microsoft represents a direct challenge to Objective's moat. In my opinion, management has been candid about this risk and has responded with a sensible strategy.
-
-Rather than fighting Microsoft directly, Objective has chosen to integrate with it. The acquisition of Simflofy strengthened the Content Solutions segment by reinforcing governance and information management capabilities. The strategy appears to be to allow Microsoft to own the user interface while Objective retains control of data governance, compliance, records management, and the workflows required by government and regulated customers.
-
-To me, this is the best possible response. There is little value in entering a direct confrontation with Microsoft in a market where Microsoft is likely to win. Instead, Objective is focusing on protecting what matters most: the governance, organisation, and compliance layer surrounding customer data.
-
-This strategy will almost certainly result in slower growth for Content Solutions and potentially fewer end users over time. I modelled this effect extensively. The conclusion was clear: Content Solutions is likely to slow, which by itself gives a negative answer to one of my key questions. However, the company has two other segments that are currently growing at impressive rates:
-
-•	⁠Planning & Building: \\\~30% ARR growth  
-•	⁠Regulatory Solutions: \\\~16% ARR growth
-
-At that point, the maths becomes relatively simple. If Content Solutions slows while the other two divisions continue growing strongly, overall ARR growth can still remain comfortably in double digits.
-
-The critical question then becomes:
-
-Can those growth rates be sustained?
-
-To answer that, I undertook a market analysis of both segments. The findings were surprising.
-
-In Planning & Building, the competition is often not another software company. In many cases, councils and government organisations still rely on spreadsheets, manual processes, and internally developed tools. Regulatory Solutions faces a similar situation. These are relatively immature markets with substantial room for digitisation.
-
-Planning & Building, in particular, appears to have a very large addressable market. Objective has a meaningful head start and operates in a market with significant greenfield opportunities and relatively few specialised competitors. The same can be said, albeit to a lesser extent, for Regulatory Solutions.
-
-\*\*How Does This Play Out?\*\*
-
-To answer that question, I built a dynamic 10 year growth model.
-
-The model incorporates:
-
-•	⁠A slowing Content Solutions segment  
-•	⁠Slowing but still healthy Regulatory Solutions growth  
-•	⁠Moderating Planning & Building growth
-
-Rather than assuming current growth rates continue forever, I tapered each segment's growth over time.
-
-The result was three scenarios:
-
-Scenario	|Annual Growth  
-Bear Case	|11%  
-Base Case	|13.50%  
-Bull Case	|15%	 
-
- 
-
-For the bear case, I assumed Content Solutions slows from approximately 12% growth to around 5%. For the base and bull cases, I assumed Content Solutions slows to around 7%. To further account for the risks facing OCL, including Microsoft 365 competition, contract concentration, and execution risk, I applied an additional reduction of 2% to the bear case and 1% to both the base and bull cases. I also assumed Regulatory Solutions slows into the low teens and planning building slows to the mid 20’s.
-
-The most important variable in the entire model was Planning & Building. As a result, my long term investment thesis hinges on the continued success of this segment. If Planning and Building can continue scaling, Objective can offset the slowdown in Content Solutions. If it cannot, the thesis weakens considerably.
-
-\*\*Valuation\*\*
-
-I valued the business using three different approaches:
-
-1. Forward PE
-2. PE Trend Analysis
-3. Discounted Cash Flow (DCF)
-
-All three approaches produced valuations that were reasonably close to one another, resulting in a base case intrinsic value of approximately $12 per share.
-
-At current prices, the stock trades at roughly a 50% discount to that valuation. In my view, that represents a reasonable margin of safety for a business with a strong operating history, recurring revenue, high returns on capital, and management that has demonstrated strong capital allocation skills over a long period.
-
-My position sizing will range between 25% and 75% of my intended allocation depending on the technical setup. I monitor this using a custom TradingView script.
-
-My current plan is to accumulate shares when the market offers a 30% to 50% margin of safety relative to my base case valuation, which corresponds to a share price between approximately $6 and $8.
-
-\*\*Final Thoughts\*\*
-
-This is simply how I am allocating my own capital. I am not a financial adviser, nor do I claim to be. I write these posts because they provide an opportunity to challenge my assumptions and gather perspectives that I would not otherwise encounter while researching alone.
-
-As always, it is paramount that everyone conducts their own research. I welcome disagreement and criticism because investing is far from an exact science, and some of the best insights come from people who see the risks differently.
-
-For me, the key question is no longer whether Microsoft 365 is a threat. It clearly is.
-
-The real question is whether Objective's strategy works.
-
-If Content Solutions stabilises while Planning and Building and Regulatory Solutions continue to scale, today's share price could prove to be a significant overreaction. If Planning and Building fails to become a meaningful growth engine, then the bear case becomes much more likely.
-
-That's the bet.
-
-Are you planning to invest in OCL, or would you rather stay miles away from it? What's your take?
-
-Now that I've wrapped up OCL, I'm on the hunt for my next company to analyse. If you have any interesting ideas, drop them in the comments and I'll take a look.
-
- [OCL Research](https://stocksdeepdive.com/research?ticker=OCL.AX&section=Fundamentals)
-
- ",it has been an interesting journey analysing ocl with plenty of ups and downs along the way before reaching an investment decision my view is that the company has developed a credible strategy to address a significant challenge that is already here microsoft this threat is real and material but management appears to have positioned the business as well as reasonably possible to respond to it this challenge exists alongside the recent loss of the defence contract personally i do not consider the defence contract loss to be a major factor in my long term investment thesis i prefer to base long term investment decisions on the overall health of the business the strength of its moat and its ability to create value over time a single contract loss while meaningful in the short term does not fundamentally alter that assessment for that reason i focused much more attention on microsoft s impact as i believe it represents the largest strategic threat to the business over the next decade the investment strategy it is obvious to everyone that the stock has fallen sharply and is now trading at earnings multiples it has not traded at in more than a decade technically it is also respecting the june support level around my analysis therefore focuses on the opportunity presented by current price levels and what the business could look like over the next decade the key questions i set out to answer were is the business healthy does it have a strong and durable moat is the market overreacting to microsoft and the defence contract loss the answers to these questions determine whether the company can maintain the level of financial performance it has achieved historically the threat from microsoft is certainly not a secret the company discusses it openly including in its annual reports the reason is straightforward microsoft represents a direct challenge to objective s moat in my opinion management has been candid about this risk and has responded with a sensible strategy rather than fighting microsoft directly objective has chosen to integrate with it the acquisition of simflofy strengthened the content solutions segment by reinforcing governance and information management capabilities the strategy appears to be to allow microsoft to own the user interface while objective retains control of data governance compliance records management and the workflows required by government and regulated customers to me this is the best possible response there is little value in entering a direct confrontation with microsoft in a market where microsoft is likely to win instead objective is focusing on protecting what matters most the governance organisation and compliance layer surrounding customer data this strategy will almost certainly result in slower growth for content solutions and potentially fewer end users over time i modelled this effect extensively the conclusion was clear content solutions is likely to slow which by itself gives a negative answer to one of my key questions however the company has two other segments that are currently growing at impressive rates planning building arr growth regulatory solutions arr growth at that point the maths becomes relatively simple if content solutions slows while the other two divisions continue growing strongly overall arr growth can still remain comfortably in double digits the critical question then becomes can those growth rates be sustained to answer that i undertook a market analysis of both segments the findings were surprising in planning building the competition is often not another software company in many cases councils and government organisations still rely on spreadsheets manual processes and internally developed tools regulatory solutions faces a similar situation these are relatively immature markets with substantial room for digitisation planning building in particular appears to have a very large addressable market objective has a meaningful head start and operates in a market with significant greenfield opportunities and relatively few specialised competitors the same can be said albeit to a lesser extent for regulatory solutions how does this play out to answer that question i built a dynamic year growth model the model incorporates a slowing content solutions segment slowing but still healthy regulatory solutions growth moderating planning building growth rather than assuming current growth rates continue forever i tapered each segment s growth over time the result was three scenarios scenario annual growth bear case base case bull case for the bear case i assumed content solutions slows from approximately growth to around for the base and bull cases i assumed content solutions slows to around to further account for the risks facing ocl including microsoft competition contract concentration and execution risk i applied an additional reduction of to the bear case and to both the base and bull cases i also assumed regulatory solutions slows into the low teens and planning building slows to the mid s the most important variable in the entire model was planning building as a result my long term investment thesis hinges on the continued success of this segment if planning and building can continue scaling objective can offset the slowdown in content solutions if it cannot the thesis weakens considerably valuation i valued the business using three different approaches forward pe pe trend analysis discounted cash flow dcf all three approaches produced valuations that were reasonably close to one another resulting in a base case intrinsic value of approximately per share at current prices the stock trades at roughly a discount to that valuation in my view that represents a reasonable margin of safety for a business with a strong operating history recurring revenue high returns on capital and management that has demonstrated strong capital allocation skills over a long period my position sizing will range between and of my intended allocation depending on the technical setup i monitor this using a custom tradingview script my current plan is to accumulate shares when the market offers a to margin of safety relative to my base case valuation which corresponds to a share price between approximately and final thoughts this is simply how i am allocating my own capital i am not a financial adviser nor do i claim to be i write these posts because they provide an opportunity to challenge my assumptions and gather perspectives that i would not otherwise encounter while researching alone as always it is paramount that everyone conducts their own research i welcome disagreement and criticism because investing is far from an exact science and some of the best insights come from people who see the risks differently for me the key question is no longer whether microsoft is a threat it clearly is the real question is whether objective s strategy works if content solutions stabilises while planning and building and regulatory solutions continue to scale today s share price could prove to be a significant overreaction if planning and building fails to become a meaningful growth engine then the bear case becomes much more likely that s the bet are you planning to invest in ocl or would you rather stay miles away from it what s your take now that i ve wrapped up ocl i m on the hunt for my next company to analyse if you have any interesting ideas drop them in the comments and i ll take a look ocl research,0.9995,positive
-2026-08-29 19:16:13+00:00,,nan,0.0,neutral
+2026-08-31 00:32:37+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1w2ya8c),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-08-31 00:14:01+00:00,Can he taco by tomorrow morning?,can he taco by tomorrow morning,0.0,neutral
+2026-08-30 22:15:47+00:00,,nan,0.0,neutral
+2026-08-30 20:00:42+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1w2rq7l),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-08-30 14:45:46+00:00,"**Why I think the market is mispricing Oracle**  
+Oracle trades at roughly **13.8x forward earnings** while sitting on **$638B of contracted revenue (RPO)**. The obvious concern is that fulfilling those contracts requires an extraordinary amount of capital. That concern is legitimate, but Oracle is not financing the buildout alone.  
+Consider Michigan. The new **$16B data-center campus** is being developed by Related Digital with outside equity and debt; Oracle is the tenant. Across its pipeline, Oracle has committed to roughly **$260B of future data-center lease payments**, generally over 15–19 years. Meanwhile, Oracle says customers are **prepaying for or supplying $75B of computing hardware** tied to large AI contracts. Oracle is effectively combining landlord capital, customer capital and its own capex to build capacity faster than its balance sheet alone would allow.  
+The risk is straightforward: Oracle still owes the rent if demand disappears. So the thesis ultimately depends on utilization.  
+Today, Oracle reports **97.5% GPU utilization**. When 35,000 GPUs across 59 customers recently came up for renewal, customers representing **92% of that capacity renewed**, and Oracle says most of the remainder was resold within the quarter.  
+What about cheaper/open-source AI? That may actually increase infrastructure demand. If AI becomes **10x cheaper** but usage increases **50x**, compute consumption still increases 5x. We have seen this economics before with bandwidth and storage: falling unit costs created vastly more consumption.  
+So my bet isn’t that OpenAI wins.  
+It’s that **global compute consumption grows faster than compute gets cheaper**, while Oracle uses other people’s capital alongside its own to supply it.  
+At **13.8x forward earnings**, I like that bet.",why i think the market is mispricing oracle oracle trades at roughly x forward earnings while sitting on b of contracted revenue rpo the obvious concern is that fulfilling those contracts requires an extraordinary amount of capital that concern is legitimate but oracle is not financing the buildout alone consider michigan the new b data center campus is being developed by related digital with outside equity and debt oracle is the tenant across its pipeline oracle has committed to roughly b of future data center lease payments generally over years meanwhile oracle says customers are prepaying for or supplying b of computing hardware tied to large ai contracts oracle is effectively combining landlord capital customer capital and its own capex to build capacity faster than its balance sheet alone would allow the risk is straightforward oracle still owes the rent if demand disappears so the thesis ultimately depends on utilization today oracle reports gpu utilization when gpus across customers recently came up for renewal customers representing of that capacity renewed and oracle says most of the remainder was resold within the quarter what about cheaper open source ai that may actually increase infrastructure demand if ai becomes x cheaper but usage increases x compute consumption still increases x we have seen this economics before with bandwidth and storage falling unit costs created vastly more consumption so my bet isn t that openai wins it s that global compute consumption grows faster than compute gets cheaper while oracle uses other people s capital alongside its own to supply it at x forward earnings i like that bet,0.7351,positive
+2026-08-30 12:48:56+00:00,"Was down about 50k near the end of july and made it all back and more mostly from Google at first, biggest wins and current holdings for next week listed, all shares no options",was down about k near the end of july and made it all back and more mostly from google at first biggest wins and current holdings for next week listed all shares no options,0.5719,positive
 2026-08-29 18:20:42+00:00,"
 https://finance.yahoo.com/technology/articles/memory-now-accounts-50-global-160649380.html",,0.0,neutral
 2026-08-29 18:11:45+00:00,https://insight.factset.com/mag-7-companies-reported-earnings-growth-above-100-boosted-by-investment-gains,,0.0,neutral
@@ -152,13 +64,6 @@ Here's my original bullish iren post: [https://www.reddit.com/r/wallstreetbets/s
 
 Not realized loss, hoping it will bounce up and greatly minimize my loss.  
 ",everyone is afraid of losing money on the stock market but sometimes a loss is the best thing that can happen to you today i m down over k on an extremely risky and regarded bet on iren stock but without losses like this i will not learn the important decision making skills for the future think about it in the future we yes you and i are gonna have so much more money so if we make the same regarded mistakes we re gonna lose so much more money so better to make the mistakes now and learn from them now here are the three mistakes that i made on this trade i got greedy and i put too much money into a bet that was very risky that i did not have high certainty on because i didn t fully understand it if i want to gamble on something like that i should do maybe that s still a lot but much less than fucking dollars you know why i did that because i got greedy i thought about how much money i could make if it hit and it smashed earnings but i didn t think about how much i could lose i didn t fully understand the bear case why is the stock suppressed why are people bearish on the stock why are there like of shares being shorted why are so many people shorting the stock i need to fully understand that i couldn t simply say what the business does and why the bear case is wrong for example servicenow stock i entered at a share and now it s like around a share i made a lot of money off that the bear case was that ai was going to replace the software it was going to kill the software my rebuttal to that is that s regarded servicenow is an ai integration platform not fully sure of what that means but that means basically a business would put all of their information finance hr inventory operations they plug it into servicenow and then servicenow helps them run their business i don t know about you but if i m some like employee company i don t want to trust some vibe coded bs that someone tries to build for me you re not getting replaced by ai and that was so simple it doesn t take like a rocket scientist to understand that so if i can t simply say that i should not be gambling in the stock so the next time you have a loss don t freak out don t start trying to numb your mind with video games and doomscrolling and then you start checking your ex s instagram and then you start seeing how she got married to her new boyfriend and then you start g ning because you re depressed and then you just waste the entire day and you don t work out and you re a loser not that that s like ever happened to me but instead slow down and consider why your decision making and your strategy was wrong this was just a setback we are still going to get that fig portfolio meta is ripping we re going to be okay here s my original bullish iren post not realized loss hoping it will bounce up and greatly minimize my loss,-0.9958,negative
-2026-08-29 16:55:08+00:00,"From CNBC:
-
-""Warsh at Jackson Hole gave a more hawkish reading of the economy than he had in July. He said elevated prices needed to be the Fed’s main focus and described financial conditions as not being broadly restrictive, a change from his July news conference, when he said they were uneven. He did that while swiping back at his critics and insisting his policy of deliberate ambiguity about Fed policy is here to stay."" 
-
-How will this affect next week's markets? What stocks will go up? What stocks will go down? 
-
-What are your bets for next week?",from cnbc warsh at jackson hole gave a more hawkish reading of the economy than he had in july he said elevated prices needed to be the fed s main focus and described financial conditions as not being broadly restrictive a change from his july news conference when he said they were uneven he did that while swiping back at his critics and insisting his policy of deliberate ambiguity about fed policy is here to stay how will this affect next week s markets what stocks will go up what stocks will go down what are your bets for next week,-0.296,negative
 2026-08-29 16:17:25+00:00,,nan,0.0,neutral
 2026-08-29 07:45:21+00:00,What y’all blowing the rent money on Monday?,what y all blowing the rent money on monday,0.0,neutral
 2026-08-29 02:11:43+00:00,"Hear me out.
@@ -507,7 +412,6 @@ Current state of affairs, I’ve thought 6-7% range and I’d start moving.",i m
 2026-08-26 01:49:24+00:00,"Take-Two sitting around $232.93 (down about 12% from its July peak), I'm trying to decide if this is the final entry window before the GTA VI launch in November, or if the hype is already fully priced in.",take two sitting around down about from its july peak i m trying to decide if this is the final entry window before the gta vi launch in november or if the hype is already fully priced in,0.0,neutral
 2026-08-26 00:38:40+00:00,I’m speculating it’s a non US bank since it is being sanctioned and not sued. Thoughts? ,i m speculating it s a non us bank since it is being sanctioned and not sued thoughts,0.0,neutral
 2026-08-25 21:21:08+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1vycz2n),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-08-25 20:59:48+00:00,,nan,0.0,neutral
 2026-08-25 20:41:42+00:00,,nan,0.0,neutral
 2026-08-25 20:08:37+00:00,Sold a put before earnings and tried to buy the dip all day today. Lesson learned. Don’t get dicked like me,sold a put before earnings and tried to buy the dip all day today lesson learned don t get dicked like me,0.3612,positive
 2026-08-25 20:06:46+00:00,,nan,0.0,neutral
@@ -775,16 +679,3 @@ You know how this works, >!full port calls tomorrow!<.",an entire generation of 
 Earnings for Victoria’s Secret coming up 9/3 ",seems to me that retail like victoria s secret here and big food chains like cheesecake factory are slipping under the radar earnings for victoria s secret coming up,0.6124,positive
 2026-08-24 10:00:45+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1vwyfhg),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-08-24 01:20:39+00:00,"Yes, I max margin. Wish me luck bulls.",yes i max margin wish me luck bulls,0.8126,positive
-2026-08-23 20:00:41+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1vwhbz6),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-08-23 19:59:51+00:00,"I’m also holding 82,500 shares and 425 September $18c’s, but these will always be my greatest trades. And yeah, I probably should’ve gone with October instead of September on the full regard play lmao. 
-
-Full porting pre-revenue biotech, what could possibly go wrong? Scared money don’t make money. 
-
-If your knee jerk reaction is that this is fake then you can check my first LEAPs purchase order in the 3rd slide and my post in late December calling $3 a Christmas miracle. I’ve been out here getting grey hair for almost 10 months.
-
-$50-$100 EOY, fuck cancer.",i m also holding shares and september c s but these will always be my greatest trades and yeah i probably should ve gone with october instead of september on the full regard play lmao full porting pre revenue biotech what could possibly go wrong scared money don t make money if your knee jerk reaction is that this is fake then you can check my first leaps purchase order in the rd slide and my post in late december calling a christmas miracle i ve been out here getting grey hair for almost months eoy fuck cancer,-0.3725,negative
-2026-08-23 19:03:45+00:00,"Weedstonks are the most sadomasochist type of investing that exists. It’s been a 5 year bear market. But…. The grass can be greener on the other side.
-
-TRLV 10k shares at 9.90 cost.  
-VRNO 4,000 shares",weedstonks are the most sadomasochist type of investing that exists it s been a year bear market but the grass can be greener on the other side trlv k shares at cost vrno shares,0.6808,positive
-2026-08-23 18:27:40+00:00,,nan,0.0,neutral

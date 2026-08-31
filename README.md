@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-08-30T00:22:57.471332+00:00`
+- Generated at (UTC): `2026-08-31T00:39:22.721893+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -171,8 +171,8 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 | 6 | EXP | 9 | 1 | 0.567 | 197.56 | -3.85% | 1.866 |
 | 7 | META | 5 | 2 | -0.221 | 578.02 | 7.23% | 6.440 |
 | 8 | MSFT | 8 | 1 | 0.800 | 513.53 | 13.84% | 13.696 |
-| 9 | ARR | 4 | 2 | 0.952 | 16.32 | -0.79% | 0.049 |
-| 10 | SNDK | 3 | 2 | 0.491 | 1484.98 | 16.02% | 134.715 |
+| 9 | SNDK | 3 | 2 | 0.491 | 1484.98 | 16.02% | 134.715 |
+| 10 | SPCX | 3 | 2 | 0.507 | 141.50 | 26.11% | n/a |
 
 ### Aggregate Charts
 
@@ -214,11 +214,11 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### ARR
-
-![ARR Dashboard](outputs/latest_wsb_analysis/charts/arr_dashboard.png)
-
 #### SNDK
 
 ![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+
+#### SPCX
+
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 <!-- AUTO_TOP10_END -->
