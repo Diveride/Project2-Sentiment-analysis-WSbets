@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-08-31T00:39:22.721893+00:00`
+- Generated at (UTC): `2026-09-01T01:20:29.403957+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 17 | 8 | 0.443 | 217.55 | 11.54% | 5.021 |
-| 2 | MRVL | 8 | 5 | -0.094 | 216.62 | 18.18% | 12.943 |
-| 3 | SPY | 5 | 4 | 0.430 | 769.35 | 3.73% | 2.253 |
-| 4 | DKS | 13 | 1 | 0.960 | 135.09 | -32.42% | 7.187 |
-| 5 | CCS | 9 | 1 | 0.567 | 69.16 | 0.86% | 0.626 |
-| 6 | EXP | 9 | 1 | 0.567 | 197.56 | -3.85% | 1.866 |
-| 7 | META | 5 | 2 | -0.221 | 578.02 | 7.23% | 6.440 |
-| 8 | MSFT | 8 | 1 | 0.800 | 513.53 | 13.84% | 13.696 |
-| 9 | SNDK | 3 | 2 | 0.491 | 1484.98 | 16.02% | 134.715 |
-| 10 | SPCX | 3 | 2 | 0.507 | 141.50 | 26.11% | n/a |
+| 1 | NVDA | 11 | 8 | 0.412 | 220.78 | 9.98% | 1.709 |
+| 2 | MRVL | 8 | 5 | -0.094 | 211.66 | 12.85% | 14.295 |
+| 3 | DKS | 13 | 1 | 0.960 | 135.10 | -31.04% | 9.035 |
+| 4 | SPY | 3 | 3 | 0.496 | 767.05 | 2.68% | 6.077 |
+| 5 | CRM | 3 | 3 | 0.452 | 257.54 | 39.95% | 5.717 |
+| 6 | CCS | 9 | 1 | 0.567 | 67.55 | 0.58% | 0.611 |
+| 7 | EXP | 9 | 1 | 0.567 | 194.26 | -5.21% | 1.760 |
+| 8 | META | 5 | 2 | -0.221 | 572.34 | 2.81% | 6.520 |
+| 9 | MSFT | 8 | 1 | 0.800 | 507.29 | 9.16% | 13.413 |
+| 10 | MRNA | 3 | 2 | -0.071 | 140.34 | 156.00% | 12.242 |
 
 ### Aggregate Charts
 
@@ -190,13 +190,17 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MRVL Dashboard](outputs/latest_wsb_analysis/charts/mrvl_dashboard.png)
 
+#### DKS
+
+![DKS Dashboard](outputs/latest_wsb_analysis/charts/dks_dashboard.png)
+
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### DKS
+#### CRM
 
-![DKS Dashboard](outputs/latest_wsb_analysis/charts/dks_dashboard.png)
+![CRM Dashboard](outputs/latest_wsb_analysis/charts/crm_dashboard.png)
 
 #### CCS
 
@@ -214,11 +218,7 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### SNDK
+#### MRNA
 
-![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
-
-#### SPCX
-
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+![MRNA Dashboard](outputs/latest_wsb_analysis/charts/mrna_dashboard.png)
 <!-- AUTO_TOP10_END -->
