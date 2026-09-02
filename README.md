@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-01T01:20:29.403957+00:00`
+- Generated at (UTC): `2026-09-02T00:17:44.075802+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 11 | 8 | 0.412 | 220.78 | 9.98% | 1.709 |
-| 2 | MRVL | 8 | 5 | -0.094 | 211.66 | 12.85% | 14.295 |
-| 3 | DKS | 13 | 1 | 0.960 | 135.10 | -31.04% | 9.035 |
-| 4 | SPY | 3 | 3 | 0.496 | 767.05 | 2.68% | 6.077 |
-| 5 | CRM | 3 | 3 | 0.452 | 257.54 | 39.95% | 5.717 |
-| 6 | CCS | 9 | 1 | 0.567 | 67.55 | 0.58% | 0.611 |
-| 7 | EXP | 9 | 1 | 0.567 | 194.26 | -5.21% | 1.760 |
-| 8 | META | 5 | 2 | -0.221 | 572.34 | 2.81% | 6.520 |
-| 9 | MSFT | 8 | 1 | 0.800 | 507.29 | 9.16% | 13.413 |
-| 10 | MRNA | 3 | 2 | -0.071 | 140.34 | 156.00% | 12.242 |
+| 1 | NVDA | 7 | 6 | 0.667 | 217.44 | 5.23% | 1.745 |
+| 2 | MRVL | 8 | 5 | -0.094 | 210.39 | 8.57% | 14.993 |
+| 3 | SPY | 4 | 4 | 0.580 | 761.78 | 0.54% | 6.426 |
+| 4 | TTWO | 8 | 2 | 0.910 | 216.68 | -10.80% | 3.002 |
+| 5 | CRM | 3 | 3 | 0.452 | 258.11 | 38.81% | 6.019 |
+| 6 | CCS | 9 | 1 | 0.567 | 64.86 | -3.42% | 0.606 |
+| 7 | EXP | 9 | 1 | 0.567 | 191.53 | -6.54% | 1.736 |
+| 8 | META | 5 | 2 | -0.221 | 578.54 | -1.98% | 6.523 |
+| 9 | MSFT | 8 | 1 | 0.800 | 501.02 | 2.74% | 13.664 |
+| 10 | IREN | 3 | 2 | -0.046 | 36.82 | -7.37% | 1.064 |
 
 ### Aggregate Charts
 
@@ -190,13 +190,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MRVL Dashboard](outputs/latest_wsb_analysis/charts/mrvl_dashboard.png)
 
-#### DKS
-
-![DKS Dashboard](outputs/latest_wsb_analysis/charts/dks_dashboard.png)
-
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
+#### TTWO
+
+![TTWO Dashboard](outputs/latest_wsb_analysis/charts/ttwo_dashboard.png)
 
 #### CRM
 
@@ -218,7 +218,7 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### MRNA
+#### IREN
 
-![MRNA Dashboard](outputs/latest_wsb_analysis/charts/mrna_dashboard.png)
+![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
 <!-- AUTO_TOP10_END -->
