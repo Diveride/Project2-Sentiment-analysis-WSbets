@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-02T00:17:44.075802+00:00`
+- Generated at (UTC): `2026-09-03T00:18:24.977730+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 7 | 6 | 0.667 | 217.44 | 5.23% | 1.745 |
-| 2 | MRVL | 8 | 5 | -0.094 | 210.39 | 8.57% | 14.993 |
-| 3 | SPY | 4 | 4 | 0.580 | 761.78 | 0.54% | 6.426 |
-| 4 | TTWO | 8 | 2 | 0.910 | 216.68 | -10.80% | 3.002 |
-| 5 | CRM | 3 | 3 | 0.452 | 258.11 | 38.81% | 6.019 |
-| 6 | CCS | 9 | 1 | 0.567 | 64.86 | -3.42% | 0.606 |
-| 7 | EXP | 9 | 1 | 0.567 | 191.53 | -6.54% | 1.736 |
-| 8 | META | 5 | 2 | -0.221 | 578.54 | -1.98% | 6.523 |
-| 9 | MSFT | 8 | 1 | 0.800 | 501.02 | 2.74% | 13.664 |
-| 10 | IREN | 3 | 2 | -0.046 | 36.82 | -7.37% | 1.064 |
+| 1 | NVDA | 7 | 6 | 0.667 | 217.44 | 5.23% | 1.466 |
+| 2 | MRVL | 8 | 5 | -0.094 | 210.39 | 8.57% | 13.772 |
+| 3 | AVGO | 5 | 4 | 0.054 | 369.68 | -5.75% | 3.051 |
+| 4 | SPY | 4 | 4 | 0.580 | 761.78 | 0.54% | 7.096 |
+| 5 | TTWO | 8 | 2 | 0.910 | 216.68 | -11.61% | 3.056 |
+| 6 | CRM | 3 | 3 | 0.452 | 258.11 | 38.81% | 5.301 |
+| 7 | CCS | 9 | 1 | 0.567 | 64.86 | -5.84% | 0.882 |
+| 8 | EXP | 9 | 1 | 0.567 | 191.53 | -10.81% | 2.326 |
+| 9 | DELL | 5 | 2 | -0.279 | 425.00 | -0.94% | 22.900 |
+| 10 | META | 5 | 2 | -0.221 | 578.54 | -1.98% | 6.854 |
 
 ### Aggregate Charts
 
@@ -189,6 +189,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### MRVL
 
 ![MRVL Dashboard](outputs/latest_wsb_analysis/charts/mrvl_dashboard.png)
+
+#### AVGO
+
+![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
 
 #### SPY
 
@@ -210,15 +214,11 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![EXP Dashboard](outputs/latest_wsb_analysis/charts/exp_dashboard.png)
 
+#### DELL
+
+![DELL Dashboard](outputs/latest_wsb_analysis/charts/dell_dashboard.png)
+
 #### META
 
 ![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
-
-#### MSFT
-
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
-
-#### IREN
-
-![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
 <!-- AUTO_TOP10_END -->
