@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-03T00:18:24.977730+00:00`
+- Generated at (UTC): `2026-09-04T00:09:25.091098+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 7 | 6 | 0.667 | 217.44 | 5.23% | 1.466 |
-| 2 | MRVL | 8 | 5 | -0.094 | 210.39 | 8.57% | 13.772 |
-| 3 | AVGO | 5 | 4 | 0.054 | 369.68 | -5.75% | 3.051 |
-| 4 | SPY | 4 | 4 | 0.580 | 761.78 | 0.54% | 7.096 |
-| 5 | TTWO | 8 | 2 | 0.910 | 216.68 | -11.61% | 3.056 |
-| 6 | CRM | 3 | 3 | 0.452 | 258.11 | 38.81% | 5.301 |
-| 7 | CCS | 9 | 1 | 0.567 | 64.86 | -5.84% | 0.882 |
-| 8 | EXP | 9 | 1 | 0.567 | 191.53 | -10.81% | 2.326 |
-| 9 | DELL | 5 | 2 | -0.279 | 425.00 | -0.94% | 22.900 |
-| 10 | META | 5 | 2 | -0.221 | 578.54 | -1.98% | 6.854 |
+| 1 | IREN | 11 | 4 | 0.333 | 39.60 | -3.06% | 1.050 |
+| 2 | SPY | 4 | 4 | 0.580 | 765.16 | -0.80% | 3.586 |
+| 3 | DELL | 6 | 3 | -0.266 | 492.20 | 5.34% | 26.860 |
+| 4 | TTWO | 8 | 2 | 0.910 | 216.14 | -10.02% | 2.729 |
+| 5 | AVGO | 4 | 3 | -0.163 | 367.24 | -12.18% | 4.780 |
+| 6 | NVDA | 4 | 3 | 0.560 | 224.41 | 5.88% | 5.779 |
+| 7 | CCS | 9 | 1 | 0.567 | 63.63 | -9.54% | 0.533 |
+| 8 | EXP | 9 | 1 | 0.567 | 194.66 | -9.88% | 2.393 |
+| 9 | MRVL | 5 | 2 | -0.509 | 206.48 | -5.54% | 15.297 |
+| 10 | DXYZ | 4 | 2 | 0.053 | 32.70 | 35.12% | 1.536 |
 
 ### Aggregate Charts
 
@@ -182,29 +182,29 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### NVDA
+#### IREN
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
-#### MRVL
-
-![MRVL Dashboard](outputs/latest_wsb_analysis/charts/mrvl_dashboard.png)
-
-#### AVGO
-
-![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
+![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
 
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
+#### DELL
+
+![DELL Dashboard](outputs/latest_wsb_analysis/charts/dell_dashboard.png)
+
 #### TTWO
 
 ![TTWO Dashboard](outputs/latest_wsb_analysis/charts/ttwo_dashboard.png)
 
-#### CRM
+#### AVGO
 
-![CRM Dashboard](outputs/latest_wsb_analysis/charts/crm_dashboard.png)
+![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### CCS
 
@@ -214,11 +214,11 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![EXP Dashboard](outputs/latest_wsb_analysis/charts/exp_dashboard.png)
 
-#### DELL
+#### MRVL
 
-![DELL Dashboard](outputs/latest_wsb_analysis/charts/dell_dashboard.png)
+![MRVL Dashboard](outputs/latest_wsb_analysis/charts/mrvl_dashboard.png)
 
-#### META
+#### DXYZ
 
-![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
+![DXYZ Dashboard](outputs/latest_wsb_analysis/charts/dxyz_dashboard.png)
 <!-- AUTO_TOP10_END -->
