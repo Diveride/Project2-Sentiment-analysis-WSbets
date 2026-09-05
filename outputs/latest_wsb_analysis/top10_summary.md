@@ -3,22 +3,22 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-09-04T00:09:25.092750+00:00`
+- Generated at (UTC): `2026-09-05T00:08:45.581996+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
-| 1 | IREN | 11 | 4 | 0.333 |
-| 2 | SPY | 4 | 4 | 0.580 |
-| 3 | DELL | 6 | 3 | -0.266 |
-| 4 | TTWO | 8 | 2 | 0.910 |
-| 5 | AVGO | 4 | 3 | -0.163 |
-| 6 | NVDA | 4 | 3 | 0.560 |
-| 7 | CCS | 9 | 1 | 0.567 |
-| 8 | EXP | 9 | 1 | 0.567 |
-| 9 | MRVL | 5 | 2 | -0.509 |
-| 10 | DXYZ | 4 | 2 | 0.053 |
+| 1 | DELL | 7 | 4 | -0.113 |
+| 2 | IREN | 10 | 3 | 0.143 |
+| 3 | TTWO | 9 | 3 | 0.607 |
+| 4 | AVGO | 4 | 3 | -0.163 |
+| 5 | SPCX | 3 | 3 | 0.304 |
+| 6 | DXYZ | 4 | 2 | 0.053 |
+| 7 | UUUU | 7 | 1 | -0.965 |
+| 8 | SNOW | 3 | 2 | 0.792 |
+| 9 | SPY | 3 | 2 | 0.795 |
+| 10 | TSLA | 3 | 2 | 0.380 |
 
 ## Reddit fetch diagnostics
 
@@ -32,17 +32,17 @@
 | hot | oauth | success | 100 |  |
 | new | oauth | success | 100 |  |
 | rising | oauth | success | 25 |  |
-| top | oauth | success | 95 |  |
+| top | oauth | success | 100 |  |
 
 ## Market snapshot
 
-- **IREN**: close `39.60`, 1M return `-3.06%` if available, RSI `48.63` and regression RMSE `1.050`
-- **SPY**: close `765.16`, 1M return `-0.80%` if available, RSI `51.93` and regression RMSE `3.586`
-- **DELL**: close `492.20`, 1M return `5.34%` if available, RSI `58.86` and regression RMSE `26.860`
-- **TTWO**: close `216.14`, 1M return `-10.02%` if available, RSI `31.69` and regression RMSE `2.729`
-- **AVGO**: close `367.24`, 1M return `-12.18%` if available, RSI `42.13` and regression RMSE `4.780`
-- **NVDA**: close `224.41`, 1M return `5.88%` if available, RSI `56.67` and regression RMSE `5.779`
-- **CCS**: close `63.63`, 1M return `-9.54%` if available, RSI `36.06` and regression RMSE `0.533`
-- **EXP**: close `194.66`, 1M return `-9.88%` if available, RSI `39.47` and regression RMSE `2.393`
-- **MRVL**: close `206.48`, 1M return `-5.54%` if available, RSI `43.81` and regression RMSE `15.297`
-- **DXYZ**: close `32.70`, 1M return `35.12%` if available, RSI `55.42` and regression RMSE `1.536`
+- **DELL**: close `516.39`, 1M return `11.60%` if available, RSI `62.54` and regression RMSE `26.689`
+- **IREN**: close `41.65`, 1M return `7.10%` if available, RSI `52.29` and regression RMSE `1.037`
+- **TTWO**: close `214.13`, 1M return `-8.85%` if available, RSI `30.48` and regression RMSE `2.707`
+- **AVGO**: close `357.16`, 1M return `-14.61%` if available, RSI `37.51` and regression RMSE `3.996`
+- **SPCX**: close `149.74`, 1M return `38.30%` if available, RSI `64.36`
+- **DXYZ**: close `32.25`, 1M return `35.11%` if available, RSI `53.76` and regression RMSE `1.596`
+- **UUUU**: close `14.35`, 1M return `15.35%` if available, RSI `50.33` and regression RMSE `0.864`
+- **SNOW**: close `356.47`, 1M return `12.51%` if available, RSI `66.17` and regression RMSE `8.854`
+- **SPY**: close `773.17`, 1M return `0.44%` if available, RSI `58.79` and regression RMSE `6.353`
+- **TSLA**: close `376.37`, 1M return `17.05%` if available, RSI `60.54` and regression RMSE `4.655`
