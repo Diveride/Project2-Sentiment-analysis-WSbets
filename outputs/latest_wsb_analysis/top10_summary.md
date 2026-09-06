@@ -3,7 +3,7 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-09-05T23:56:05.679228+00:00`
+- Generated at (UTC): `2026-09-06T23:57:05.121317+00:00`
 
 ## Top tickers
 
@@ -32,7 +32,7 @@
 | hot | oauth | success | 100 |  |
 | new | oauth | success | 100 |  |
 | rising | oauth | success | 25 |  |
-| top | oauth | success | 98 |  |
+| top | oauth | success | 100 |  |
 
 ## Market snapshot
 
