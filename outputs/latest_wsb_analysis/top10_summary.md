@@ -3,7 +3,7 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-09-06T23:57:05.121317+00:00`
+- Generated at (UTC): `2026-09-08T00:27:27.304896+00:00`
 
 ## Top tickers
 
