@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-08T00:27:27.302776+00:00`
+- Generated at (UTC): `2026-09-09T00:18:16.300872+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | TTWO | 9 | 3 | 0.607 | 214.69 | -7.65% | 2.663 |
-| 2 | IREN | 8 | 2 | 0.712 | 44.68 | 17.80% | 1.075 |
-| 3 | AVGO | 4 | 3 | -0.163 | 357.90 | -14.90% | 4.029 |
-| 4 | SPCX | 3 | 3 | 0.304 | 147.95 | 28.74% | n/a |
-| 5 | DELL | 3 | 3 | 0.061 | 524.14 | 19.76% | 20.793 |
-| 6 | DXYZ | 4 | 2 | 0.053 | 32.70 | 29.71% | 1.626 |
-| 7 | UUUU | 7 | 1 | -0.965 | 14.47 | 12.17% | 0.853 |
-| 8 | SNOW | 3 | 2 | 0.792 | 337.18 | 6.03% | 8.732 |
-| 9 | SPY | 3 | 2 | 0.795 | 770.19 | 0.21% | 6.434 |
-| 10 | TSLA | 3 | 2 | 0.380 | 354.08 | 10.81% | 4.713 |
+| 1 | AVGO | 6 | 4 | 0.077 | 357.90 | -14.90% | 5.037 |
+| 2 | SPCX | 4 | 4 | 0.459 | 147.95 | 28.74% | n/a |
+| 3 | IREN | 8 | 2 | 0.712 | 44.68 | 17.80% | 1.147 |
+| 4 | DELL | 3 | 3 | 0.061 | 524.14 | 19.76% | 20.075 |
+| 5 | EXEL | 10 | 1 | 0.972 | 59.01 | 13.05% | 0.656 |
+| 6 | ASST | 10 | 1 | 0.998 | 27.14 | 120.47% | 1.569 |
+| 7 | DXYZ | 4 | 2 | 0.053 | 32.70 | 29.71% | 1.610 |
+| 8 | UUUU | 7 | 1 | -0.965 | 14.47 | 12.17% | 0.844 |
+| 9 | SNOW | 3 | 2 | 0.792 | 337.18 | 6.03% | 8.694 |
+| 10 | BMNR | 3 | 2 | 0.718 | 24.97 | 36.45% | 1.332 |
 
 ### Aggregate Charts
 
@@ -182,14 +182,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### TTWO
-
-![TTWO Dashboard](outputs/latest_wsb_analysis/charts/ttwo_dashboard.png)
-
-#### IREN
-
-![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
-
 #### AVGO
 
 ![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
@@ -198,9 +190,21 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
+#### IREN
+
+![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
+
 #### DELL
 
 ![DELL Dashboard](outputs/latest_wsb_analysis/charts/dell_dashboard.png)
+
+#### EXEL
+
+![EXEL Dashboard](outputs/latest_wsb_analysis/charts/exel_dashboard.png)
+
+#### ASST
+
+![ASST Dashboard](outputs/latest_wsb_analysis/charts/asst_dashboard.png)
 
 #### DXYZ
 
@@ -214,11 +218,7 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SNOW Dashboard](outputs/latest_wsb_analysis/charts/snow_dashboard.png)
 
-#### SPY
+#### BMNR
 
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
-#### TSLA
-
-![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
+![BMNR Dashboard](outputs/latest_wsb_analysis/charts/bmnr_dashboard.png)
 <!-- AUTO_TOP10_END -->
