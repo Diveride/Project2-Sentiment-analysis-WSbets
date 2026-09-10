@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-09T00:18:16.300872+00:00`
+- Generated at (UTC): `2026-09-10T00:17:38.004313+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | AVGO | 6 | 4 | 0.077 | 357.90 | -14.90% | 5.037 |
-| 2 | SPCX | 4 | 4 | 0.459 | 147.95 | 28.74% | n/a |
-| 3 | IREN | 8 | 2 | 0.712 | 44.68 | 17.80% | 1.147 |
-| 4 | DELL | 3 | 3 | 0.061 | 524.14 | 19.76% | 20.075 |
-| 5 | EXEL | 10 | 1 | 0.972 | 59.01 | 13.05% | 0.656 |
-| 6 | ASST | 10 | 1 | 0.998 | 27.14 | 120.47% | 1.569 |
-| 7 | DXYZ | 4 | 2 | 0.053 | 32.70 | 29.71% | 1.610 |
-| 8 | UUUU | 7 | 1 | -0.965 | 14.47 | 12.17% | 0.844 |
-| 9 | SNOW | 3 | 2 | 0.792 | 337.18 | 6.03% | 8.694 |
-| 10 | BMNR | 3 | 2 | 0.718 | 24.97 | 36.45% | 1.332 |
+| 1 | UBER | 17 | 3 | 0.849 | 73.13 | -2.52% | 0.767 |
+| 2 | META | 11 | 4 | 0.490 | 613.48 | 3.61% | 6.404 |
+| 3 | UUUU | 18 | 2 | -0.017 | 14.62 | 3.39% | 0.845 |
+| 4 | NBIS | 6 | 3 | -0.078 | 243.88 | 29.74% | 15.259 |
+| 5 | EXEL | 12 | 1 | 0.982 | 57.67 | 6.66% | 0.986 |
+| 6 | NKE | 4 | 3 | -0.716 | 38.10 | -8.63% | 1.045 |
+| 7 | ASST | 10 | 1 | 0.998 | 27.16 | 117.63% | 1.680 |
+| 8 | SNDK | 6 | 2 | 0.113 | 1737.99 | 43.37% | 273.637 |
+| 9 | IREN | 5 | 2 | 0.708 | 46.93 | 13.82% | 1.104 |
+| 10 | CMPS | 4 | 2 | 0.125 | 14.04 | 3.69% | 0.343 |
 
 ### Aggregate Charts
 
@@ -182,43 +182,43 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### AVGO
+#### UBER
 
-![AVGO Dashboard](outputs/latest_wsb_analysis/charts/avgo_dashboard.png)
+![UBER Dashboard](outputs/latest_wsb_analysis/charts/uber_dashboard.png)
 
-#### SPCX
+#### META
 
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
-
-#### IREN
-
-![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
-
-#### DELL
-
-![DELL Dashboard](outputs/latest_wsb_analysis/charts/dell_dashboard.png)
-
-#### EXEL
-
-![EXEL Dashboard](outputs/latest_wsb_analysis/charts/exel_dashboard.png)
-
-#### ASST
-
-![ASST Dashboard](outputs/latest_wsb_analysis/charts/asst_dashboard.png)
-
-#### DXYZ
-
-![DXYZ Dashboard](outputs/latest_wsb_analysis/charts/dxyz_dashboard.png)
+![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
 
 #### UUUU
 
 ![UUUU Dashboard](outputs/latest_wsb_analysis/charts/uuuu_dashboard.png)
 
-#### SNOW
+#### NBIS
 
-![SNOW Dashboard](outputs/latest_wsb_analysis/charts/snow_dashboard.png)
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 
-#### BMNR
+#### EXEL
 
-![BMNR Dashboard](outputs/latest_wsb_analysis/charts/bmnr_dashboard.png)
+![EXEL Dashboard](outputs/latest_wsb_analysis/charts/exel_dashboard.png)
+
+#### NKE
+
+![NKE Dashboard](outputs/latest_wsb_analysis/charts/nke_dashboard.png)
+
+#### ASST
+
+![ASST Dashboard](outputs/latest_wsb_analysis/charts/asst_dashboard.png)
+
+#### SNDK
+
+![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+
+#### IREN
+
+![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
+
+#### CMPS
+
+![CMPS Dashboard](outputs/latest_wsb_analysis/charts/cmps_dashboard.png)
 <!-- AUTO_TOP10_END -->
