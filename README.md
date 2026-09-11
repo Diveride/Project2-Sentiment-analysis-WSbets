@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-10T00:17:38.004313+00:00`
+- Generated at (UTC): `2026-09-11T00:13:01.732801+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | UBER | 17 | 3 | 0.849 | 73.13 | -2.52% | 0.767 |
-| 2 | META | 11 | 4 | 0.490 | 613.48 | 3.61% | 6.404 |
-| 3 | UUUU | 18 | 2 | -0.017 | 14.62 | 3.39% | 0.845 |
-| 4 | NBIS | 6 | 3 | -0.078 | 243.88 | 29.74% | 15.259 |
-| 5 | EXEL | 12 | 1 | 0.982 | 57.67 | 6.66% | 0.986 |
-| 6 | NKE | 4 | 3 | -0.716 | 38.10 | -8.63% | 1.045 |
-| 7 | ASST | 10 | 1 | 0.998 | 27.16 | 117.63% | 1.680 |
-| 8 | SNDK | 6 | 2 | 0.113 | 1737.99 | 43.37% | 273.637 |
-| 9 | IREN | 5 | 2 | 0.708 | 46.93 | 13.82% | 1.104 |
-| 10 | CMPS | 4 | 2 | 0.125 | 14.04 | 3.69% | 0.343 |
+| 1 | CHTR | 35 | 1 | -0.983 | 133.89 | -12.66% | 3.379 |
+| 2 | UBER | 17 | 3 | 0.849 | 71.08 | -8.91% | 0.675 |
+| 3 | META | 11 | 4 | 0.499 | 653.69 | 9.88% | 6.528 |
+| 4 | UUUU | 18 | 2 | -0.017 | 14.55 | 1.82% | 0.837 |
+| 5 | NBIS | 7 | 4 | 0.190 | 240.35 | 30.55% | 10.740 |
+| 6 | NKE | 5 | 3 | -0.168 | 37.35 | -11.30% | 1.204 |
+| 7 | EXEL | 12 | 1 | 0.982 | 58.33 | 10.14% | 0.794 |
+| 8 | ARR | 4 | 3 | 0.787 | 16.17 | -2.24% | 0.099 |
+| 9 | AAPL | 3 | 3 | 0.043 | 315.34 | 2.30% | 6.528 |
+| 10 | MADE | 3 | 3 | 0.732 | 35.62 | -6.34% | 0.402 |
 
 ### Aggregate Charts
 
@@ -181,6 +181,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 ![Top 10 Relative Performance](outputs/latest_wsb_analysis/charts/top10_relative_performance.png)
 
 ### Per-Ticker Dashboards
+
+#### CHTR
+
+![CHTR Dashboard](outputs/latest_wsb_analysis/charts/chtr_dashboard.png)
 
 #### UBER
 
@@ -198,27 +202,23 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 
-#### EXEL
-
-![EXEL Dashboard](outputs/latest_wsb_analysis/charts/exel_dashboard.png)
-
 #### NKE
 
 ![NKE Dashboard](outputs/latest_wsb_analysis/charts/nke_dashboard.png)
 
-#### ASST
+#### EXEL
 
-![ASST Dashboard](outputs/latest_wsb_analysis/charts/asst_dashboard.png)
+![EXEL Dashboard](outputs/latest_wsb_analysis/charts/exel_dashboard.png)
 
-#### SNDK
+#### ARR
 
-![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+![ARR Dashboard](outputs/latest_wsb_analysis/charts/arr_dashboard.png)
 
-#### IREN
+#### AAPL
 
-![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
+![AAPL Dashboard](outputs/latest_wsb_analysis/charts/aapl_dashboard.png)
 
-#### CMPS
+#### MADE
 
-![CMPS Dashboard](outputs/latest_wsb_analysis/charts/cmps_dashboard.png)
+![MADE Dashboard](outputs/latest_wsb_analysis/charts/made_dashboard.png)
 <!-- AUTO_TOP10_END -->
