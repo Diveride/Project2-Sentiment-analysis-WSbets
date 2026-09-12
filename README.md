@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-11T00:13:01.732801+00:00`
+- Generated at (UTC): `2026-09-12T00:21:00.553452+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | CHTR | 35 | 1 | -0.983 | 133.89 | -12.66% | 3.379 |
-| 2 | UBER | 17 | 3 | 0.849 | 71.08 | -8.91% | 0.675 |
-| 3 | META | 11 | 4 | 0.499 | 653.69 | 9.88% | 6.528 |
-| 4 | UUUU | 18 | 2 | -0.017 | 14.55 | 1.82% | 0.837 |
-| 5 | NBIS | 7 | 4 | 0.190 | 240.35 | 30.55% | 10.740 |
-| 6 | NKE | 5 | 3 | -0.168 | 37.35 | -11.30% | 1.204 |
-| 7 | EXEL | 12 | 1 | 0.982 | 58.33 | 10.14% | 0.794 |
-| 8 | ARR | 4 | 3 | 0.787 | 16.17 | -2.24% | 0.099 |
-| 9 | AAPL | 3 | 3 | 0.043 | 315.34 | 2.30% | 6.528 |
-| 10 | MADE | 3 | 3 | 0.732 | 35.62 | -6.34% | 0.402 |
+| 1 | CHTR | 35 | 1 | -0.983 | 140.56 | -10.86% | 3.962 |
+| 2 | UBER | 17 | 3 | 0.849 | 72.56 | -7.61% | 0.594 |
+| 3 | META | 11 | 4 | 0.503 | 644.38 | 7.55% | 6.566 |
+| 4 | NBIS | 7 | 4 | 0.190 | 228.11 | 18.05% | 10.811 |
+| 5 | NKE | 5 | 3 | -0.168 | 36.62 | -11.37% | 1.158 |
+| 6 | EXEL | 12 | 1 | 0.982 | 57.43 | 11.88% | 0.738 |
+| 7 | ARR | 4 | 3 | 0.787 | 15.83 | -5.04% | 0.065 |
+| 8 | UUUU | 11 | 1 | 0.931 | 13.63 | -7.78% | 0.797 |
+| 9 | AAPL | 3 | 3 | 0.043 | 326.57 | 7.10% | 6.187 |
+| 10 | CASY | 3 | 3 | 0.351 | 627.64 | -24.37% | 21.177 |
 
 ### Aggregate Charts
 
@@ -194,10 +194,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
 
-#### UUUU
-
-![UUUU Dashboard](outputs/latest_wsb_analysis/charts/uuuu_dashboard.png)
-
 #### NBIS
 
 ![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
@@ -214,11 +210,15 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![ARR Dashboard](outputs/latest_wsb_analysis/charts/arr_dashboard.png)
 
+#### UUUU
+
+![UUUU Dashboard](outputs/latest_wsb_analysis/charts/uuuu_dashboard.png)
+
 #### AAPL
 
 ![AAPL Dashboard](outputs/latest_wsb_analysis/charts/aapl_dashboard.png)
 
-#### MADE
+#### CASY
 
-![MADE Dashboard](outputs/latest_wsb_analysis/charts/made_dashboard.png)
+![CASY Dashboard](outputs/latest_wsb_analysis/charts/casy_dashboard.png)
 <!-- AUTO_TOP10_END -->
