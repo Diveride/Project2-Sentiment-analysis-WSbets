@@ -3,7 +3,7 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-09-12T00:21:00.555200+00:00`
+- Generated at (UTC): `2026-09-13T00:02:14.733629+00:00`
 
 ## Top tickers
 
@@ -12,7 +12,7 @@
 | 1 | CHTR | 35 | 1 | -0.983 |
 | 2 | UBER | 17 | 3 | 0.849 |
 | 3 | META | 11 | 4 | 0.503 |
-| 4 | NBIS | 7 | 4 | 0.190 |
+| 4 | NBIS | 7 | 4 | 0.648 |
 | 5 | NKE | 5 | 3 | -0.168 |
 | 6 | EXEL | 12 | 1 | 0.982 |
 | 7 | ARR | 4 | 3 | 0.787 |
@@ -36,13 +36,13 @@
 
 ## Market snapshot
 
-- **CHTR**: close `140.56`, 1M return `-10.86%` if available, RSI `44.93` and regression RMSE `3.962`
-- **UBER**: close `72.56`, 1M return `-7.61%` if available, RSI `43.39` and regression RMSE `0.594`
-- **META**: close `644.38`, 1M return `7.55%` if available, RSI `66.38` and regression RMSE `6.566`
-- **NBIS**: close `228.11`, 1M return `18.05%` if available, RSI `52.70` and regression RMSE `10.811`
-- **NKE**: close `36.62`, 1M return `-11.37%` if available, RSI `32.77` and regression RMSE `1.158`
-- **EXEL**: close `57.43`, 1M return `11.88%` if available, RSI `56.39` and regression RMSE `0.738`
-- **ARR**: close `15.83`, 1M return `-5.04%` if available, RSI `34.23` and regression RMSE `0.065`
-- **UUUU**: close `13.63`, 1M return `-7.78%` if available, RSI `44.10` and regression RMSE `0.797`
-- **AAPL**: close `326.57`, 1M return `7.10%` if available, RSI `58.94` and regression RMSE `6.187`
-- **CASY**: close `627.64`, 1M return `-24.37%` if available, RSI `19.91` and regression RMSE `21.177`
+- **CHTR**: close `145.77`, 1M return `-2.96%` if available, RSI `48.82` and regression RMSE `4.153`
+- **UBER**: close `71.67`, 1M return `-4.90%` if available, RSI `41.42` and regression RMSE `0.594`
+- **META**: close `648.03`, 1M return `11.95%` if available, RSI `67.18` and regression RMSE `6.537`
+- **NBIS**: close `224.55`, 1M return `-13.37%` if available, RSI `51.44` and regression RMSE `10.684`
+- **NKE**: close `36.80`, 1M return `-9.16%` if available, RSI `34.15` and regression RMSE `1.177`
+- **EXEL**: close `56.12`, 1M return `11.39%` if available, RSI `51.11` and regression RMSE `0.749`
+- **ARR**: close `15.80`, 1M return `-5.05%` if available, RSI `33.61` and regression RMSE `0.072`
+- **UUUU**: close `12.95`, 1M return `-10.50%` if available, RSI `39.41` and regression RMSE `0.798`
+- **AAPL**: close `332.27`, 1M return `9.93%` if available, RSI `62.79` and regression RMSE `6.220`
+- **CASY**: close `615.47`, 1M return `-26.65%` if available, RSI `18.98` and regression RMSE `21.306`

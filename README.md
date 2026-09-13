@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-12T00:21:00.553452+00:00`
+- Generated at (UTC): `2026-09-13T00:02:14.732121+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | CHTR | 35 | 1 | -0.983 | 140.56 | -10.86% | 3.962 |
-| 2 | UBER | 17 | 3 | 0.849 | 72.56 | -7.61% | 0.594 |
-| 3 | META | 11 | 4 | 0.503 | 644.38 | 7.55% | 6.566 |
-| 4 | NBIS | 7 | 4 | 0.190 | 228.11 | 18.05% | 10.811 |
-| 5 | NKE | 5 | 3 | -0.168 | 36.62 | -11.37% | 1.158 |
-| 6 | EXEL | 12 | 1 | 0.982 | 57.43 | 11.88% | 0.738 |
-| 7 | ARR | 4 | 3 | 0.787 | 15.83 | -5.04% | 0.065 |
-| 8 | UUUU | 11 | 1 | 0.931 | 13.63 | -7.78% | 0.797 |
-| 9 | AAPL | 3 | 3 | 0.043 | 326.57 | 7.10% | 6.187 |
-| 10 | CASY | 3 | 3 | 0.351 | 627.64 | -24.37% | 21.177 |
+| 1 | CHTR | 35 | 1 | -0.983 | 145.77 | -2.96% | 4.153 |
+| 2 | UBER | 17 | 3 | 0.849 | 71.67 | -4.90% | 0.594 |
+| 3 | META | 11 | 4 | 0.503 | 648.03 | 11.95% | 6.537 |
+| 4 | NBIS | 7 | 4 | 0.648 | 224.55 | -13.37% | 10.684 |
+| 5 | NKE | 5 | 3 | -0.168 | 36.80 | -9.16% | 1.177 |
+| 6 | EXEL | 12 | 1 | 0.982 | 56.12 | 11.39% | 0.749 |
+| 7 | ARR | 4 | 3 | 0.787 | 15.80 | -5.05% | 0.072 |
+| 8 | UUUU | 11 | 1 | 0.931 | 12.95 | -10.50% | 0.798 |
+| 9 | AAPL | 3 | 3 | 0.043 | 332.27 | 9.93% | 6.220 |
+| 10 | CASY | 3 | 3 | 0.351 | 615.47 | -26.65% | 21.306 |
 
 ### Aggregate Charts
 
