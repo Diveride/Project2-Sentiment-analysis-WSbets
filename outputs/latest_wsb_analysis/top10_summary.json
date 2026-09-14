@@ -1,6 +1,6 @@
 {
   "data_source": "reddit_authenticated_api",
-  "generated_at_utc": "2026-09-13T00:02:14.732121+00:00",
+  "generated_at_utc": "2026-09-14T00:14:40.764867+00:00",
   "top_n": 10,
   "fetch_diagnostics": {
     "subreddit": "wallstreetbets",
@@ -40,7 +40,7 @@
             "request": "reddit_feed:hot:oauth",
             "status_code": 200,
             "rate_limit_remaining": "999.0",
-            "rate_limit_reset": "523",
+            "rate_limit_reset": "351",
             "outcome": "success"
           }
         ]
@@ -56,7 +56,7 @@
             "request": "reddit_feed:new:oauth",
             "status_code": 200,
             "rate_limit_remaining": "998.0",
-            "rate_limit_reset": "522",
+            "rate_limit_reset": "351",
             "outcome": "success"
           }
         ]
@@ -72,7 +72,7 @@
             "request": "reddit_feed:rising:oauth",
             "status_code": 200,
             "rate_limit_remaining": "997.0",
-            "rate_limit_reset": "521",
+            "rate_limit_reset": "350",
             "outcome": "success"
           }
         ]
@@ -88,7 +88,7 @@
             "request": "reddit_feed:top:oauth",
             "status_code": 200,
             "rate_limit_remaining": "996.0",
-            "rate_limit_reset": "521",
+            "rate_limit_reset": "349",
             "outcome": "success"
           }
         ]
@@ -105,9 +105,9 @@
       "mention_count": 35,
       "post_count": 1,
       "avg_sentiment": -0.9828,
-      "total_score": 17,
+      "total_score": 20,
       "total_comments": 29,
-      "engagement": 6.2915691395583195,
+      "engagement": 6.4457198193855785,
       "latest_mention": "2026-09-10 00:47:30+00:00",
       "rank_score": 39,
       "last_close": 145.77000427246094,
@@ -115,33 +115,33 @@
       "latest_macd": -0.5637749193168986,
       "return_5d": -0.03705905951512167,
       "return_21d": -0.029623198722414146,
-      "rmse": 4.152656005697159
+      "rmse": 4.152656005697153
     },
     {
       "ticker": "UBER",
-      "mention_count": 17,
-      "post_count": 3,
-      "avg_sentiment": 0.8493333333333334,
-      "total_score": 628,
-      "total_comments": 417,
-      "engagement": 29.738800436646155,
-      "latest_mention": "2026-09-09 16:53:03+00:00",
-      "rank_score": 29,
+      "mention_count": 19,
+      "post_count": 4,
+      "avg_sentiment": 0.8197749999999999,
+      "total_score": 644,
+      "total_comments": 517,
+      "engagement": 34.44558213651523,
+      "latest_mention": "2026-09-13 19:06:40+00:00",
+      "rank_score": 35,
       "last_close": 71.66999816894531,
       "latest_rsi": 41.42201425804547,
       "latest_macd": -0.447945772475947,
       "return_5d": -0.056477105940411776,
       "return_21d": -0.04896500015287131,
-      "rmse": 0.5941310547557545
+      "rmse": 0.5941310547557549
     },
     {
       "ticker": "META",
       "mention_count": 11,
       "post_count": 4,
       "avg_sentiment": 0.5029250000000001,
-      "total_score": 691,
-      "total_comments": 611,
-      "engagement": 38.90694421292628,
+      "total_score": 714,
+      "total_comments": 618,
+      "engagement": 39.10161554109421,
       "latest_mention": "2026-09-09 21:32:18+00:00",
       "rank_score": 27,
       "last_close": 648.030029296875,
@@ -149,16 +149,16 @@
       "latest_macd": 14.018602471406098,
       "return_5d": 0.061161389056548776,
       "return_21d": 0.11951292498701482,
-      "rmse": 6.537326276155597
+      "rmse": 6.537326276155579
     },
     {
       "ticker": "NBIS",
       "mention_count": 7,
       "post_count": 4,
       "avg_sentiment": 0.64815,
-      "total_score": 1173,
-      "total_comments": 383,
-      "engagement": 37.23869101796099,
+      "total_score": 1762,
+      "total_comments": 456,
+      "engagement": 38.157596660153374,
       "latest_mention": "2026-09-12 12:45:55+00:00",
       "rank_score": 23,
       "last_close": 224.5500030517578,
@@ -166,33 +166,16 @@
       "latest_macd": 3.0724519865500213,
       "return_5d": 0.06608744170466085,
       "return_21d": -0.13368058458113563,
-      "rmse": 10.683685655507754
-    },
-    {
-      "ticker": "NKE",
-      "mention_count": 5,
-      "post_count": 3,
-      "avg_sentiment": -0.1681666666666667,
-      "total_score": 987,
-      "total_comments": 616,
-      "engagement": 26.941577022470405,
-      "latest_mention": "2026-09-10 21:00:29+00:00",
-      "rank_score": 17,
-      "last_close": 36.79999923706055,
-      "latest_rsi": 34.15014851976626,
-      "latest_macd": -1.1599436401209076,
-      "return_5d": -0.05081251476510196,
-      "return_21d": -0.09158230654629762,
-      "rmse": 1.177458195718054
+      "rmse": 10.683685655507757
     },
     {
       "ticker": "EXEL",
       "mention_count": 12,
       "post_count": 1,
       "avg_sentiment": 0.9816,
-      "total_score": 24,
+      "total_score": 23,
       "total_comments": 26,
-      "engagement": 6.51471269087253,
+      "engagement": 6.473890696352274,
       "latest_mention": "2026-09-09 19:40:46+00:00",
       "rank_score": 16,
       "last_close": 56.119998931884766,
@@ -200,16 +183,33 @@
       "latest_macd": 0.96839252545508,
       "return_5d": -0.05090482127275919,
       "return_21d": 0.11393405601577666,
-      "rmse": 0.7490769951286524
+      "rmse": 0.7490769951286598
+    },
+    {
+      "ticker": "SPCX",
+      "mention_count": 8,
+      "post_count": 2,
+      "avg_sentiment": 0.8847499999999999,
+      "total_score": 858,
+      "total_comments": 157,
+      "engagement": 19.37954091419706,
+      "latest_mention": "2026-09-13 23:52:52+00:00",
+      "rank_score": 16,
+      "last_close": 151.2100067138672,
+      "latest_rsi": 62.2412072377285,
+      "latest_macd": 4.193675590339097,
+      "return_5d": 0.009817023953363258,
+      "return_21d": 0.03462205288196407,
+      "rmse": NaN
     },
     {
       "ticker": "ARR",
       "mention_count": 4,
       "post_count": 3,
       "avg_sentiment": 0.7871,
-      "total_score": 167,
-      "total_comments": 176,
-      "engagement": 24.0155728501218,
+      "total_score": 170,
+      "total_comments": 178,
+      "engagement": 24.088936937015134,
       "latest_mention": "2026-09-10 18:23:58+00:00",
       "rank_score": 16,
       "last_close": 15.800000190734863,
@@ -217,16 +217,16 @@
       "latest_macd": -0.15459664528471606,
       "return_5d": -0.020458709683903953,
       "return_21d": -0.050480722940178024,
-      "rmse": 0.07180870467904066
+      "rmse": 0.07180870467904048
     },
     {
       "ticker": "UUUU",
       "mention_count": 11,
       "post_count": 1,
       "avg_sentiment": 0.9308,
-      "total_score": 188,
-      "total_comments": 139,
-      "engagement": 10.183389437668946,
+      "total_score": 195,
+      "total_comments": 142,
+      "engagement": 10.240959289490425,
       "latest_mention": "2026-09-09 13:41:17+00:00",
       "rank_score": 15,
       "last_close": 12.949999809265137,
@@ -234,16 +234,16 @@
       "latest_macd": 0.004992689580301857,
       "return_5d": -0.09756101289115104,
       "return_21d": -0.10504495022209015,
-      "rmse": 0.7983773306082121
+      "rmse": 0.7983773306082117
     },
     {
       "ticker": "AAPL",
       "mention_count": 3,
       "post_count": 3,
       "avg_sentiment": 0.04293333333333336,
-      "total_score": 15903,
-      "total_comments": 410,
-      "engagement": 36.53317647066612,
+      "total_score": 16092,
+      "total_comments": 417,
+      "engagement": 36.63788797676352,
       "latest_mention": "2026-09-10 18:06:27+00:00",
       "rank_score": 15,
       "last_close": 332.2699890136719,
@@ -251,16 +251,16 @@
       "latest_macd": 3.226967110460123,
       "return_5d": 0.01237012176440544,
       "return_21d": 0.0993217171668217,
-      "rmse": 6.220134484971086
+      "rmse": 6.220134484971088
     },
     {
       "ticker": "CASY",
       "mention_count": 3,
       "post_count": 3,
       "avg_sentiment": 0.351,
-      "total_score": 122,
+      "total_score": 130,
       "total_comments": 101,
-      "engagement": 20.95121255456664,
+      "engagement": 21.17973199674339,
       "latest_mention": "2026-09-11 15:40:13+00:00",
       "rank_score": 15,
       "last_close": 615.469970703125,
@@ -268,7 +268,7 @@
       "latest_macd": -49.2874029593836,
       "return_5d": -0.18848397382478432,
       "return_21d": -0.26645060461196857,
-      "rmse": 21.30611973181246
+      "rmse": 21.306119731812405
     }
   ]
 }
