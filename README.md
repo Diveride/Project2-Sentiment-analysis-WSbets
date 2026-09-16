@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-15T00:40:34.277642+00:00`
+- Generated at (UTC): `2026-09-16T00:23:34.969857+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | CHTR | 35 | 1 | -0.983 | 145.77 | -2.96% | 3.768 |
-| 2 | UBER | 18 | 3 | 0.842 | 71.67 | -4.90% | 0.863 |
-| 3 | META | 11 | 4 | 0.503 | 648.03 | 11.95% | 6.599 |
-| 4 | NBIS | 7 | 4 | 0.648 | 224.55 | -13.37% | 10.812 |
-| 5 | EXEL | 12 | 1 | 0.982 | 56.12 | 11.39% | 0.833 |
-| 6 | QQQ | 8 | 2 | 0.237 | 714.88 | -1.22% | 7.666 |
-| 7 | UUUU | 11 | 1 | 0.931 | 12.95 | -10.50% | 0.843 |
-| 8 | VRT | 7 | 2 | 0.860 | 257.06 | -10.85% | 7.575 |
-| 9 | AAPL | 3 | 3 | 0.043 | 332.27 | 9.93% | 5.813 |
-| 10 | DECK | 10 | 1 | 0.938 | 81.27 | -10.89% | 0.606 |
+| 1 | CHTR | 35 | 1 | -0.983 | 143.35 | -8.42% | 4.011 |
+| 2 | META | 11 | 4 | 0.503 | 665.60 | 11.87% | 5.690 |
+| 3 | UBER | 17 | 2 | 0.864 | 72.63 | -4.28% | 0.768 |
+| 4 | NBIS | 7 | 4 | 0.648 | 212.19 | -16.80% | 11.620 |
+| 5 | EXEL | 12 | 1 | 0.982 | 56.21 | 11.07% | 1.096 |
+| 6 | QQQ | 8 | 2 | 0.237 | 709.18 | -3.13% | 7.009 |
+| 7 | NVDA | 4 | 3 | 0.621 | 210.96 | -6.36% | 1.701 |
+| 8 | UUUU | 11 | 1 | 0.931 | 12.34 | -15.36% | 0.841 |
+| 9 | COIN | 7 | 2 | 0.899 | 191.45 | 24.40% | 2.941 |
+| 10 | VRT | 7 | 2 | 0.860 | 237.39 | -17.31% | 7.361 |
 
 ### Aggregate Charts
 
@@ -186,13 +186,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![CHTR Dashboard](outputs/latest_wsb_analysis/charts/chtr_dashboard.png)
 
-#### UBER
-
-![UBER Dashboard](outputs/latest_wsb_analysis/charts/uber_dashboard.png)
-
 #### META
 
 ![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
+
+#### UBER
+
+![UBER Dashboard](outputs/latest_wsb_analysis/charts/uber_dashboard.png)
 
 #### NBIS
 
@@ -206,19 +206,19 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+
 #### UUUU
 
 ![UUUU Dashboard](outputs/latest_wsb_analysis/charts/uuuu_dashboard.png)
 
+#### COIN
+
+![COIN Dashboard](outputs/latest_wsb_analysis/charts/coin_dashboard.png)
+
 #### VRT
 
 ![VRT Dashboard](outputs/latest_wsb_analysis/charts/vrt_dashboard.png)
-
-#### AAPL
-
-![AAPL Dashboard](outputs/latest_wsb_analysis/charts/aapl_dashboard.png)
-
-#### DECK
-
-![DECK Dashboard](outputs/latest_wsb_analysis/charts/deck_dashboard.png)
 <!-- AUTO_TOP10_END -->
