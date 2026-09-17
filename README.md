@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-16T00:23:34.969857+00:00`
+- Generated at (UTC): `2026-09-17T00:34:59.202806+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | CHTR | 35 | 1 | -0.983 | 143.35 | -8.42% | 4.011 |
-| 2 | META | 11 | 4 | 0.503 | 665.60 | 11.87% | 5.690 |
-| 3 | UBER | 17 | 2 | 0.864 | 72.63 | -4.28% | 0.768 |
-| 4 | NBIS | 7 | 4 | 0.648 | 212.19 | -16.80% | 11.620 |
-| 5 | EXEL | 12 | 1 | 0.982 | 56.21 | 11.07% | 1.096 |
-| 6 | QQQ | 8 | 2 | 0.237 | 709.18 | -3.13% | 7.009 |
-| 7 | NVDA | 4 | 3 | 0.621 | 210.96 | -6.36% | 1.701 |
-| 8 | UUUU | 11 | 1 | 0.931 | 12.34 | -15.36% | 0.841 |
-| 9 | COIN | 7 | 2 | 0.899 | 191.45 | 24.40% | 2.941 |
-| 10 | VRT | 7 | 2 | 0.860 | 237.39 | -17.31% | 7.361 |
+| 1 | SPY | 8 | 3 | 0.544 | 757.39 | -2.44% | 6.602 |
+| 2 | DELL | 5 | 3 | 0.407 | 543.51 | 10.74% | 14.420 |
+| 3 | QQQ | 8 | 2 | 0.237 | 704.54 | -3.63% | 7.244 |
+| 4 | NVDA | 4 | 3 | 0.710 | 212.17 | -5.77% | 3.301 |
+| 5 | AUR | 11 | 1 | 0.999 | 6.44 | -7.87% | 0.153 |
+| 6 | KDK | 11 | 1 | 0.999 | 3.81 | -8.41% | 0.291 |
+| 7 | COIN | 7 | 2 | 0.899 | 172.11 | 15.92% | 4.037 |
+| 8 | DECK | 10 | 1 | 0.938 | 77.51 | -16.74% | 0.727 |
+| 9 | DXYZ | 10 | 1 | 0.940 | 30.26 | -5.44% | 1.970 |
+| 10 | SOUN | 10 | 1 | 0.995 | 6.15 | -17.23% | 0.253 |
 
 ### Aggregate Charts
 
@@ -182,25 +182,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### CHTR
+#### SPY
 
-![CHTR Dashboard](outputs/latest_wsb_analysis/charts/chtr_dashboard.png)
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### META
+#### DELL
 
-![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
-
-#### UBER
-
-![UBER Dashboard](outputs/latest_wsb_analysis/charts/uber_dashboard.png)
-
-#### NBIS
-
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
-
-#### EXEL
-
-![EXEL Dashboard](outputs/latest_wsb_analysis/charts/exel_dashboard.png)
+![DELL Dashboard](outputs/latest_wsb_analysis/charts/dell_dashboard.png)
 
 #### QQQ
 
@@ -210,15 +198,27 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### UUUU
+#### AUR
 
-![UUUU Dashboard](outputs/latest_wsb_analysis/charts/uuuu_dashboard.png)
+![AUR Dashboard](outputs/latest_wsb_analysis/charts/aur_dashboard.png)
+
+#### KDK
+
+![KDK Dashboard](outputs/latest_wsb_analysis/charts/kdk_dashboard.png)
 
 #### COIN
 
 ![COIN Dashboard](outputs/latest_wsb_analysis/charts/coin_dashboard.png)
 
-#### VRT
+#### DECK
 
-![VRT Dashboard](outputs/latest_wsb_analysis/charts/vrt_dashboard.png)
+![DECK Dashboard](outputs/latest_wsb_analysis/charts/deck_dashboard.png)
+
+#### DXYZ
+
+![DXYZ Dashboard](outputs/latest_wsb_analysis/charts/dxyz_dashboard.png)
+
+#### SOUN
+
+![SOUN Dashboard](outputs/latest_wsb_analysis/charts/soun_dashboard.png)
 <!-- AUTO_TOP10_END -->
