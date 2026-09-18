@@ -3,22 +3,22 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-09-17T00:34:59.204871+00:00`
+- Generated at (UTC): `2026-09-18T00:22:41.999701+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
-| 1 | SPY | 8 | 3 | 0.544 |
-| 2 | DELL | 5 | 3 | 0.407 |
-| 3 | QQQ | 8 | 2 | 0.237 |
-| 4 | NVDA | 4 | 3 | 0.710 |
-| 5 | AUR | 11 | 1 | 0.999 |
-| 6 | KDK | 11 | 1 | 0.999 |
-| 7 | COIN | 7 | 2 | 0.899 |
-| 8 | DECK | 10 | 1 | 0.938 |
-| 9 | DXYZ | 10 | 1 | 0.940 |
-| 10 | SOUN | 10 | 1 | 0.995 |
+| 1 | QQQ | 9 | 3 | 0.440 |
+| 2 | AUR | 11 | 1 | 0.999 |
+| 3 | KDK | 11 | 1 | 0.999 |
+| 4 | SPY | 7 | 2 | 0.816 |
+| 5 | COIN | 7 | 2 | 0.899 |
+| 6 | DXYZ | 10 | 1 | 0.940 |
+| 7 | SOUN | 10 | 1 | 0.995 |
+| 8 | NBIS | 3 | 2 | 0.857 |
+| 9 | DTE | 3 | 2 | 0.675 |
+| 10 | DELL | 3 | 2 | 0.115 |
 
 ## Reddit fetch diagnostics
 
@@ -31,18 +31,18 @@
 | --- | --- | --- | ---: | --- |
 | hot | oauth | success | 100 |  |
 | new | oauth | success | 100 |  |
-| rising | oauth | success | 26 |  |
+| rising | oauth | success | 25 |  |
 | top | oauth | success | 100 |  |
 
 ## Market snapshot
 
-- **SPY**: close `757.39`, 1M return `-2.44%` if available, RSI `44.41` and regression RMSE `6.602`
-- **DELL**: close `543.51`, 1M return `10.74%` if available, RSI `60.57` and regression RMSE `14.420`
-- **QQQ**: close `704.54`, 1M return `-3.63%` if available, RSI `43.98` and regression RMSE `7.244`
-- **NVDA**: close `212.17`, 1M return `-5.77%` if available, RSI `45.07` and regression RMSE `3.301`
-- **AUR**: close `6.44`, 1M return `-7.87%` if available, RSI `54.00` and regression RMSE `0.153`
-- **KDK**: close `3.81`, 1M return `-8.41%` if available, RSI `44.14` and regression RMSE `0.291`
-- **COIN**: close `172.11`, 1M return `15.92%` if available, RSI `49.25` and regression RMSE `4.037`
-- **DECK**: close `77.51`, 1M return `-16.74%` if available, RSI `28.51` and regression RMSE `0.727`
-- **DXYZ**: close `30.26`, 1M return `-5.44%` if available, RSI `44.93` and regression RMSE `1.970`
-- **SOUN**: close `6.15`, 1M return `-17.23%` if available, RSI `36.97` and regression RMSE `0.253`
+- **QQQ**: close `704.72`, 1M return `-3.45%` if available, RSI `44.12` and regression RMSE `6.166`
+- **AUR**: close `6.36`, 1M return `-8.75%` if available, RSI `52.00` and regression RMSE `0.156`
+- **KDK**: close `3.60`, 1M return `-13.25%` if available, RSI `38.00` and regression RMSE `0.289`
+- **SPY**: close `754.05`, 1M return `-2.41%` if available, RSI `41.76` and regression RMSE `5.942`
+- **COIN**: close `164.51`, 1M return `9.27%` if available, RSI `46.01` and regression RMSE `3.441`
+- **DXYZ**: close `30.75`, 1M return `-9.56%` if available, RSI `46.96` and regression RMSE `1.912`
+- **SOUN**: close `5.93`, 1M return `-15.77%` if available, RSI `33.65` and regression RMSE `0.253`
+- **NBIS**: close `209.37`, 1M return `-22.12%` if available, RSI `46.46` and regression RMSE `11.253`
+- **DTE**: close `130.70`, 1M return `-7.40%` if available, RSI `29.04` and regression RMSE `1.165`
+- **DELL**: close `563.29`, 1M return `17.40%` if available, RSI `63.28` and regression RMSE `15.673`

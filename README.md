@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-17T00:34:59.202806+00:00`
+- Generated at (UTC): `2026-09-18T00:22:41.997761+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 8 | 3 | 0.544 | 757.39 | -2.44% | 6.602 |
-| 2 | DELL | 5 | 3 | 0.407 | 543.51 | 10.74% | 14.420 |
-| 3 | QQQ | 8 | 2 | 0.237 | 704.54 | -3.63% | 7.244 |
-| 4 | NVDA | 4 | 3 | 0.710 | 212.17 | -5.77% | 3.301 |
-| 5 | AUR | 11 | 1 | 0.999 | 6.44 | -7.87% | 0.153 |
-| 6 | KDK | 11 | 1 | 0.999 | 3.81 | -8.41% | 0.291 |
-| 7 | COIN | 7 | 2 | 0.899 | 172.11 | 15.92% | 4.037 |
-| 8 | DECK | 10 | 1 | 0.938 | 77.51 | -16.74% | 0.727 |
-| 9 | DXYZ | 10 | 1 | 0.940 | 30.26 | -5.44% | 1.970 |
-| 10 | SOUN | 10 | 1 | 0.995 | 6.15 | -17.23% | 0.253 |
+| 1 | QQQ | 9 | 3 | 0.440 | 704.72 | -3.45% | 6.166 |
+| 2 | AUR | 11 | 1 | 0.999 | 6.36 | -8.75% | 0.156 |
+| 3 | KDK | 11 | 1 | 0.999 | 3.60 | -13.25% | 0.289 |
+| 4 | SPY | 7 | 2 | 0.816 | 754.05 | -2.41% | 5.942 |
+| 5 | COIN | 7 | 2 | 0.899 | 164.51 | 9.27% | 3.441 |
+| 6 | DXYZ | 10 | 1 | 0.940 | 30.75 | -9.56% | 1.912 |
+| 7 | SOUN | 10 | 1 | 0.995 | 5.93 | -15.77% | 0.253 |
+| 8 | NBIS | 3 | 2 | 0.857 | 209.37 | -22.12% | 11.253 |
+| 9 | DTE | 3 | 2 | 0.675 | 130.70 | -7.40% | 1.165 |
+| 10 | DELL | 3 | 2 | 0.115 | 563.29 | 17.40% | 15.673 |
 
 ### Aggregate Charts
 
@@ -182,21 +182,9 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### SPY
-
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
-#### DELL
-
-![DELL Dashboard](outputs/latest_wsb_analysis/charts/dell_dashboard.png)
-
 #### QQQ
 
 ![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
-
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### AUR
 
@@ -206,13 +194,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![KDK Dashboard](outputs/latest_wsb_analysis/charts/kdk_dashboard.png)
 
+#### SPY
+
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
 #### COIN
 
 ![COIN Dashboard](outputs/latest_wsb_analysis/charts/coin_dashboard.png)
-
-#### DECK
-
-![DECK Dashboard](outputs/latest_wsb_analysis/charts/deck_dashboard.png)
 
 #### DXYZ
 
@@ -221,4 +209,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### SOUN
 
 ![SOUN Dashboard](outputs/latest_wsb_analysis/charts/soun_dashboard.png)
+
+#### NBIS
+
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+
+#### DTE
+
+![DTE Dashboard](outputs/latest_wsb_analysis/charts/dte_dashboard.png)
+
+#### DELL
+
+![DELL Dashboard](outputs/latest_wsb_analysis/charts/dell_dashboard.png)
 <!-- AUTO_TOP10_END -->
