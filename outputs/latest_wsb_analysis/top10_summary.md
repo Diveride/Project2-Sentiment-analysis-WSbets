@@ -3,22 +3,22 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-09-18T00:22:41.999701+00:00`
+- Generated at (UTC): `2026-09-19T00:23:44.923897+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
-| 1 | QQQ | 9 | 3 | 0.440 |
-| 2 | AUR | 11 | 1 | 0.999 |
-| 3 | KDK | 11 | 1 | 0.999 |
-| 4 | SPY | 7 | 2 | 0.816 |
+| 1 | SPY | 9 | 4 | 0.726 |
+| 2 | QQQ | 9 | 3 | 0.840 |
+| 3 | AUR | 11 | 1 | 0.999 |
+| 4 | KDK | 11 | 1 | 0.999 |
 | 5 | COIN | 7 | 2 | 0.899 |
 | 6 | DXYZ | 10 | 1 | 0.940 |
 | 7 | SOUN | 10 | 1 | 0.995 |
 | 8 | NBIS | 3 | 2 | 0.857 |
-| 9 | DTE | 3 | 2 | 0.675 |
-| 10 | DELL | 3 | 2 | 0.115 |
+| 9 | IWM | 3 | 2 | 0.727 |
+| 10 | DTE | 3 | 2 | 0.675 |
 
 ## Reddit fetch diagnostics
 
@@ -36,13 +36,13 @@
 
 ## Market snapshot
 
-- **QQQ**: close `704.72`, 1M return `-3.45%` if available, RSI `44.12` and regression RMSE `6.166`
-- **AUR**: close `6.36`, 1M return `-8.75%` if available, RSI `52.00` and regression RMSE `0.156`
-- **KDK**: close `3.60`, 1M return `-13.25%` if available, RSI `38.00` and regression RMSE `0.289`
-- **SPY**: close `754.05`, 1M return `-2.41%` if available, RSI `41.76` and regression RMSE `5.942`
-- **COIN**: close `164.51`, 1M return `9.27%` if available, RSI `46.01` and regression RMSE `3.441`
-- **DXYZ**: close `30.75`, 1M return `-9.56%` if available, RSI `46.96` and regression RMSE `1.912`
-- **SOUN**: close `5.93`, 1M return `-15.77%` if available, RSI `33.65` and regression RMSE `0.253`
-- **NBIS**: close `209.37`, 1M return `-22.12%` if available, RSI `46.46` and regression RMSE `11.253`
-- **DTE**: close `130.70`, 1M return `-7.40%` if available, RSI `29.04` and regression RMSE `1.165`
-- **DELL**: close `563.29`, 1M return `17.40%` if available, RSI `63.28` and regression RMSE `15.673`
+- **SPY**: close `762.60`, 1M return `-0.63%` if available, RSI `49.98` and regression RMSE `6.190`
+- **QQQ**: close `716.92`, 1M return `-0.08%` if available, RSI `53.05` and regression RMSE `5.527`
+- **AUR**: close `6.49`, 1M return `5.53%` if available, RSI `54.93` and regression RMSE `0.218`
+- **KDK**: close `3.83`, 1M return `-4.49%` if available, RSI `46.74` and regression RMSE `0.327`
+- **COIN**: close `173.97`, 1M return `18.97%` if available, RSI `50.38` and regression RMSE `3.389`
+- **DXYZ**: close `31.15`, 1M return `-6.03%` if available, RSI `48.63` and regression RMSE `1.783`
+- **SOUN**: close `6.00`, 1M return `-14.16%` if available, RSI `35.63` and regression RMSE `0.240`
+- **NBIS**: close `217.99`, 1M return `-12.25%` if available, RSI `49.86` and regression RMSE `10.652`
+- **IWM**: close `285.43`, 1M return `-4.93%` if available, RSI `36.09` and regression RMSE `1.644`
+- **DTE**: close `130.44`, 1M return `-6.97%` if available, RSI `28.50` and regression RMSE `1.133`
