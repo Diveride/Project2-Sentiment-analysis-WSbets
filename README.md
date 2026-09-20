@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-19T00:23:44.922202+00:00`
+- Generated at (UTC): `2026-09-20T00:11:08.657173+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 9 | 4 | 0.726 | 762.60 | -0.63% | 6.190 |
-| 2 | QQQ | 9 | 3 | 0.840 | 716.92 | -0.08% | 5.527 |
-| 3 | AUR | 11 | 1 | 0.999 | 6.49 | 5.53% | 0.218 |
-| 4 | KDK | 11 | 1 | 0.999 | 3.83 | -4.49% | 0.327 |
-| 5 | COIN | 7 | 2 | 0.899 | 173.97 | 18.97% | 3.389 |
-| 6 | DXYZ | 10 | 1 | 0.940 | 31.15 | -6.03% | 1.783 |
-| 7 | SOUN | 10 | 1 | 0.995 | 6.00 | -14.16% | 0.240 |
-| 8 | NBIS | 3 | 2 | 0.857 | 217.99 | -12.25% | 10.652 |
-| 9 | IWM | 3 | 2 | 0.727 | 285.43 | -4.93% | 1.644 |
-| 10 | DTE | 3 | 2 | 0.675 | 130.44 | -6.97% | 1.133 |
+| 1 | SPY | 9 | 4 | 0.726 | 761.69 | -0.96% | 6.169 |
+| 2 | QQQ | 9 | 3 | 0.840 | 721.45 | 0.75% | 5.275 |
+| 3 | AUR | 11 | 1 | 0.999 | 6.31 | 1.86% | 0.226 |
+| 4 | KDK | 11 | 1 | 0.999 | 3.28 | -16.01% | 0.355 |
+| 5 | COIN | 7 | 2 | 0.899 | 194.25 | 21.25% | 3.982 |
+| 6 | DXYZ | 10 | 1 | 0.940 | 31.31 | -6.34% | 1.798 |
+| 7 | SOUN | 10 | 1 | 0.995 | 5.93 | -17.18% | 0.233 |
+| 8 | IWM | 3 | 2 | 0.727 | 284.10 | -5.84% | 1.641 |
+| 9 | DTE | 3 | 2 | 0.675 | 128.52 | -7.66% | 1.118 |
+| 10 | SPCX | 2 | 2 | 0.494 | 152.71 | 9.35% | n/a |
 
 ### Aggregate Charts
 
@@ -210,10 +210,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SOUN Dashboard](outputs/latest_wsb_analysis/charts/soun_dashboard.png)
 
-#### NBIS
-
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
-
 #### IWM
 
 ![IWM Dashboard](outputs/latest_wsb_analysis/charts/iwm_dashboard.png)
@@ -221,4 +217,8 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### DTE
 
 ![DTE Dashboard](outputs/latest_wsb_analysis/charts/dte_dashboard.png)
+
+#### SPCX
+
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 <!-- AUTO_TOP10_END -->

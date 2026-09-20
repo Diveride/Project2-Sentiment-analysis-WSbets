@@ -1,16 +1,173 @@
 id,feed,title,body,score,num_comments,created_utc,permalink,url,text,ticker_counts,candidate_mentions,sentiment,engagement
-1wk6bjx,hot,Anthropic shifts public offering to November,,225,56,2026-09-18 23:46:01+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk6bjx/anthropic_shifts_public_offering_to_november/,https://www.wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc,Anthropic shifts public offering to November,Counter(),0,0.0,9.463586267106837
-1wk4xus,hot,Will these puts print Monday?,,51,139,2026-09-18 22:46:54+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk4xus/will_these_puts_print_monday/,https://i.redd.it/rn0ps3jwxcqh1.jpeg,Will these puts print Monday?,Counter(),0,0.0,8.892886141190731
+1wl1f05,hot,If you are tired about trading or charts,"**Stop trading and believe in something.**   
+**Persist Forever**
+
+**SPX6900**",0,7,2026-09-19 23:50:35+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wl1f05/if_you_are_tired_about_trading_or_charts/,https://i.redd.it/mcrmvmc6ekqh1.jpeg,"If you are tired about trading or charts **Stop trading and believe in something.**   
+**Persist Forever**
+
+**SPX6900**",Counter(),0,-0.4404,2.0794415416798357
+1wl0c73,hot,Anthropic Concerns,"I keep thinking about the AI bubble and all the concerns around circular funding, chip purchases, and the enormous amount of money that has to keep flowing through this ecosystem.
+
+And lately I’ve noticed something with newer Claude models that makes me uncomfortable.
+
+I can give Claude extremely clear steering, detailed context, and even explicitly tell it what it does NOT need to investigate. Yet I increasingly watch the reasoning trace go off and independently validate things I already told it—burning credits along the way—before eventually arriving at the answer I asked for.  
+Maybe that’s just a side effect of how newer reasoning models are trained.
+
+But I keep thinking about the financial crisis and the ugly revenue-generating behavior that surfaced as financial institutions pushed for growth. The parallel obviously isn’t perfect, but bubbles create strange incentives when everyone needs the money to keep flowing.
+
+So here’s my increasingly cynical hypothesis:  
+What if some AI models are being optimized not just to produce good answers, but to consume more compute while producing them?
+
+More reasoning → more credits → more compute → more chips → more “AI demand.”
+
+I have no evidence Anthropic is deliberately training Claude to burn credits. But when the company selling you intelligence also decides how much intelligence needs to be consumed to answer your question, I think the incentive is worth questioning.",65,70,2026-09-19 23:01:57+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wl0c73/anthropic_concerns/,https://www.reddit.com/r/wallstreetbets/comments/1wl0c73/anthropic_concerns/,"Anthropic Concerns I keep thinking about the AI bubble and all the concerns around circular funding, chip purchases, and the enormous amount of money that has to keep flowing through this ecosystem.
+
+And lately I’ve noticed something with newer Claude models that makes me uncomfortable.
+
+I can give Claude extremely clear steering, detailed context, and even explicitly tell it what it does NOT need to investigate. Yet I increasingly watch the reasoning trace go off and independently validate things I already told it—burning credits along the way—before eventually arriving at the answer I asked for.  
+Maybe that’s just a side effect of how newer reasoning models are trained.
+
+But I keep thinking about the financial crisis and the ugly revenue-generating behavior that surfaced as financial institutions pushed for growth. The parallel obviously isn’t perfect, but bubbles create strange incentives when everyone needs the money to keep flowing.
+
+So here’s my increasingly cynical hypothesis:  
+What if some AI models are being optimized not just to produce good answers, but to consume more compute while producing them?
+
+More reasoning → more credits → more compute → more chips → more “AI demand.”
+
+I have no evidence Anthropic is deliberately training Claude to burn credits. But when the company selling you intelligence also decides how much intelligence needs to be consumed to answer your question, I think the incentive is worth questioning.",Counter({'NOT': 1}),1,0.9773,8.452334619067742
+1wkzgbl,hot,Labor and management reach an agreement; Micron promises no repercussions and will negotiate again in October.,"Translated to English.
+
+Following their first mediation meeting, Micron and the Micron Memory Taiwan Union in central Taiwan issued a joint statement today (September 19) stating that the two sides had a constructive discussion that helped advance communication and agreed to hold a second mediation meeting on October 22. Micron also promised not to retaliate against any wrongdoing.
+
+Micron Technology Taiwan recently announced a new bonus plan, including a NT$1 million bonus. The union believes that a one-time bonus cannot replace system reform and that a long-term profit-sharing mechanism should be gradually established, similar to other major memory manufacturers. The bonus should be based on 15% of operating profit, and a public, transparent, and verifiable system should be established. If no concrete response is received from management, a strike vote will be initiated.
+
+Following their first mediation meeting on September 18, both parties issued a joint statement today, noting that representatives from both sides discussed a number of issues, including the overall compensation and bonus system structure, the ""No Free Rider"" principle, and the prohibition of ""non-retaliation.""  
+  
+Micron emphasized that, as stated in the ""Micron Global Team Member Handbook,"" ""team members have the right to peacefully assemble, freely associate, form and join unions or labor organizations of their own choosing, and seek collective bargaining or other forms of representation without fear of retaliation.""
+
+Micron stated that both parties will continue to uphold the spirit of mutual respect, support employees and serve customers through positive and pragmatic communication, and jointly promote the company's continued success. They also expressed gratitude to the Central Taiwan Science Park Administration and the Mediation Committee for their assistance and support during this mediation process. (Edited by: Liu Xianghua)
+
+",25,11,2026-09-19 22:23:21+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wkzgbl/labor_and_management_reach_an_agreement_micron/,https://www.rti.org.tw/news?uid=3&pid=232795,"Labor and management reach an agreement; Micron promises no repercussions and will negotiate again in October. Translated to English.
+
+Following their first mediation meeting, Micron and the Micron Memory Taiwan Union in central Taiwan issued a joint statement today (September 19) stating that the two sides had a constructive discussion that helped advance communication and agreed to hold a second mediation meeting on October 22. Micron also promised not to retaliate against any wrongdoing.
+
+Micron Technology Taiwan recently announced a new bonus plan, including a NT$1 million bonus. The union believes that a one-time bonus cannot replace system reform and that a long-term profit-sharing mechanism should be gradually established, similar to other major memory manufacturers. The bonus should be based on 15% of operating profit, and a public, transparent, and verifiable system should be established. If no concrete response is received from management, a strike vote will be initiated.
+
+Following their first mediation meeting on September 18, both parties issued a joint statement today, noting that representatives from both sides discussed a number of issues, including the overall compensation and bonus system structure, the ""No Free Rider"" principle, and the prohibition of ""non-retaliation.""  
+  
+Micron emphasized that, as stated in the ""Micron Global Team Member Handbook,"" ""team members have the right to peacefully assemble, freely associate, form and join unions or labor organizations of their own choosing, and seek collective bargaining or other forms of representation without fear of retaliation.""
+
+Micron stated that both parties will continue to uphold the spirit of mutual respect, support employees and serve customers through positive and pragmatic communication, and jointly promote the company's continued success. They also expressed gratitude to the Central Taiwan Science Park Administration and the Mediation Committee for their assistance and support during this mediation process. (Edited by: Liu Xianghua)",Counter(),0,0.9964,5.7430031878094825
+1wkzafg,hot,Reddit’s upcoming Q3 2026 earnings will crush expectations - Statistical data evidence,"Reddit entered Q3 with **Q2 ad revenue up 64% YoY to $762M**, while total revenue grew **61% to $805M**. [Reddit Q2 earnings](https://investor.redditinc.com/news-events/news-releases/news/details/2026/Reddit-Reports-Second-Quarter-2026-Results/default.aspx)
+
+**July:** Piper Sandler raised its Q3 Reddit ad-spend estimate by **230 bps** after July advertising data came in stronger than expected; users also ended July about **5% above the beginning of the month**. [July data](https://ca.investing.com/news/stock-market-news/piper-sandler-raises-reddit-stock-ad-spending-outlook-on-july-strength-93CH-4801657)
+
+**August:** Average users jumped **8% MoM**, Reddit's strongest monthly increase of 2026, while total audience growth accelerated to **18% YoY from 12.8% in July**; Piper raised its Q3 Reddit ad-spend forecast by **another 30 bps**. [August data](https://www.investing.com/news/stock-market-news/reddit-stock-rises-on-piper-data-showing-8-user-growth-93CH-4895719)
+
+**September:** Reddit opened **Reddit Max to all advertisers on September 3**, which is expanding its broad customer base. Previously it was in beta version and only accessible a small group of advertisers. [September / Reddit Max](https://redditinc.com/news/performance-unlocked-reddit-max-campaigns-are-now-available-to-all-advertisers)
+
+Reddit had already reported that the number of advertisers using Max increased 60%+ QoQ, while revenue through Max increased 150%+ QoQ before the September-wide rollout. So existing customers are already spending more. [Reddit Q2 earnings](https://investor.redditinc.com/news-events/news-releases/news/details/2026/Reddit-Reports-Second-Quarter-2026-Results/default.aspx)
+
+Meanwhile, management's Q3 revenue guidance remains only **$860–870M**. [Q3 guidance](https://investor.redditinc.com/news-events/news-releases/news/details/2026/Reddit-Reports-Second-Quarter-2026-Results/default.aspx)
+
+July ad estimates were revised sharply higher → August users accelerated → September opened Reddit Max to the entire advertiser base.
+
+We don't have complete September revenue/ad-spend data yet, but every measurable Q3 datapoint available so far has made the quarter look extremely stronger.
+
+**Reddit could smash through $1B in revenue this quarter, for the first time in its company history.**",59,59,2026-09-19 22:16:23+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wkzafg/reddits_upcoming_q3_2026_earnings_will_crush/,https://www.reddit.com/r/wallstreetbets/comments/1wkzafg/reddits_upcoming_q3_2026_earnings_will_crush/,"Reddit’s upcoming Q3 2026 earnings will crush expectations - Statistical data evidence Reddit entered Q3 with **Q2 ad revenue up 64% YoY to $762M**, while total revenue grew **61% to $805M**. [Reddit Q2 earnings](https://investor.redditinc.com/news-events/news-releases/news/details/2026/Reddit-Reports-Second-Quarter-2026-Results/default.aspx)
+
+**July:** Piper Sandler raised its Q3 Reddit ad-spend estimate by **230 bps** after July advertising data came in stronger than expected; users also ended July about **5% above the beginning of the month**. [July data](https://ca.investing.com/news/stock-market-news/piper-sandler-raises-reddit-stock-ad-spending-outlook-on-july-strength-93CH-4801657)
+
+**August:** Average users jumped **8% MoM**, Reddit's strongest monthly increase of 2026, while total audience growth accelerated to **18% YoY from 12.8% in July**; Piper raised its Q3 Reddit ad-spend forecast by **another 30 bps**. [August data](https://www.investing.com/news/stock-market-news/reddit-stock-rises-on-piper-data-showing-8-user-growth-93CH-4895719)
+
+**September:** Reddit opened **Reddit Max to all advertisers on September 3**, which is expanding its broad customer base. Previously it was in beta version and only accessible a small group of advertisers. [September / Reddit Max](https://redditinc.com/news/performance-unlocked-reddit-max-campaigns-are-now-available-to-all-advertisers)
+
+Reddit had already reported that the number of advertisers using Max increased 60%+ QoQ, while revenue through Max increased 150%+ QoQ before the September-wide rollout. So existing customers are already spending more. [Reddit Q2 earnings](https://investor.redditinc.com/news-events/news-releases/news/details/2026/Reddit-Reports-Second-Quarter-2026-Results/default.aspx)
+
+Meanwhile, management's Q3 revenue guidance remains only **$860–870M**. [Q3 guidance](https://investor.redditinc.com/news-events/news-releases/news/details/2026/Reddit-Reports-Second-Quarter-2026-Results/default.aspx)
+
+July ad estimates were revised sharply higher → August users accelerated → September opened Reddit Max to the entire advertiser base.
+
+We don't have complete September revenue/ad-spend data yet, but every measurable Q3 datapoint available so far has made the quarter look extremely stronger.
+
+**Reddit could smash through $1B in revenue this quarter, for the first time in its company history.**",Counter(),0,0.8608,8.1886891244442
+1wkyx60,hot,"""Smash that like button and finance the national debt!""","I can already hear the YouTube ad read: *“Yo guys, what is up! Before I step into the ring to box a 73-year-old retired DMV worker, we gotta talk about securing the bag with a 10-Year Treasury Note. It’s got a guaranteed 4% yield! NO CAP! Use promo code BESSENT at TreasuryDirect-dot-gov for a free Prime energy drink with your Series I Savings Bond!”*  
+Are we getting bond unboxing videos now? Are they going to drop limited-edition holographic T-Bills? Imagine trying to log into the Treasury website but it keeps crashing because they dropped the new ""30-Year Maturity Merch.""  
+I can't wait for the inevitable apology video when he accidentally tells his 12-year-old fans that government debt is a crypto moonshot.  
+Honestly, if they get MrBeast to pay off the national deficit by trapping 100 senators in a giant pit, I might actually buy one. 🚀🦅🇺🇸📉",194,35,2026-09-19 22:00:39+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wkyx60/smash_that_like_button_and_finance_the_national/,https://www.reddit.com/gallery/1wkyx60,"""Smash that like button and finance the national debt!"" I can already hear the YouTube ad read: *“Yo guys, what is up! Before I step into the ring to box a 73-year-old retired DMV worker, we gotta talk about securing the bag with a 10-Year Treasury Note. It’s got a guaranteed 4% yield! NO CAP! Use promo code BESSENT at TreasuryDirect-dot-gov for a free Prime energy drink with your Series I Savings Bond!”*  
+Are we getting bond unboxing videos now? Are they going to drop limited-edition holographic T-Bills? Imagine trying to log into the Treasury website but it keeps crashing because they dropped the new ""30-Year Maturity Merch.""  
+I can't wait for the inevitable apology video when he accidentally tells his 12-year-old fans that government debt is a crypto moonshot.  
+Honestly, if they get MrBeast to pay off the national deficit by trapping 100 senators in a giant pit, I might actually buy one. 🚀🦅🇺🇸📉","Counter({'DMV': 1, 'CAP': 1})",2,-0.6536,8.856518497019856
+1wkygh4,hot,10Y yield to the moon?,Technical astrology says it's about to break out.,329,75,2026-09-19 21:40:44+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wkygh4/10y_yield_to_the_moon/,https://i.redd.it/dt63fktrqjqh1.jpeg,10Y yield to the moon? Technical astrology says it's about to break out.,Counter(),0,0.0,10.129825994746856
+1wkycrr,hot,SpaceX Has Already Won More Than $8 Billion From Golden Dome. This Could Be Just the Beginning,,0,27,2026-09-19 21:36:20+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wkycrr/spacex_has_already_won_more_than_8_billion_from/,https://finance.yahoo.com/markets/stocks/articles/spacex-already-won-more-8-175533478.html?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAG-HRKCFrZa4j7qL6QF2kqhZDVhGQfaw2SPg9JamQdcLtThAPLHUiZoft616tPRKd7wQc5t71eNThKKE05GNDM4medcFPaOfGKHvclO-VdS6wrUXixD3JZPibMvswRjlr5X5Uj_zrwCmCfhc67VJsfTGhCzf9GH-QMQKM7sRqITk&_guc_consent_skip=1789853767,SpaceX Has Already Won More Than $8 Billion From Golden Dome. This Could Be Just the Beginning,Counter(),0,0.5719,3.332204510175204
+1wkxvnp,hot,looking for what i lost,,132,44,2026-09-19 21:16:34+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wkxvnp/looking_for_what_i_lost/,https://www.reddit.com/gallery/1wkxvnp,looking for what i lost,Counter(),0,-0.3182,8.697011617992073
+1wkwqah,hot,Gang this has to be horseshit,Rate hikes and the crypto clarity act failing were… bullish? ,28,40,2026-09-19 20:29:55+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wkwqah/gang_this_has_to_be_horseshit/,https://www.reddit.com/gallery/1wkwqah,Gang this has to be horseshit Rate hikes and the crypto clarity act failing were… bullish?,Counter(),0,-0.1531,7.080867896690782
+1wkwk50,hot,"I actually got a job after my last post, and now the gamble is going up again. Not gonna quit my job even if I hit a million this time","Almost recovered half of my losses, didn’t capitulate . Ill slowly start selling, and watch the stock I held go to numbers I cannot possibly comprehend right after I sell my chips. This is how, she goes, after all (first 2 pics are current, last pic is 2 months ago when I made my initial post on wsb. 
+
+If this thing gets converted to an ETF from an ETP, like the Zcash etf, I will genuinely hit max win I believe. I will not quit my job tho(learned that lesson last time)
+
+My post 2 month ago with 60k loss :  
+https://www.reddit.com/r/wallstreetbets/s/gAxihF4iMn",10,30,2026-09-19 20:22:56+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wkwk50/i_actually_got_a_job_after_my_last_post_and_now/,https://www.reddit.com/gallery/1wkwk50,"I actually got a job after my last post, and now the gamble is going up again. Not gonna quit my job even if I hit a million this time Almost recovered half of my losses, didn’t capitulate . Ill slowly start selling, and watch the stock I held go to numbers I cannot possibly comprehend right after I sell my chips. This is how, she goes, after all (first 2 pics are current, last pic is 2 months ago when I made my initial post on wsb. 
+
+If this thing gets converted to an ETF from an ETP, like the Zcash etf, I will genuinely hit max win I believe. I will not quit my job tho(learned that lesson last time)
+
+My post 2 month ago with 60k loss :  
+https://www.reddit.com/r/wallstreetbets/s/gAxihF4iMn",Counter({'ETP': 1}),1,-0.128,5.831882477283517
+1wksysq,hot,WSB vs traditional trader,,1562,101,2026-09-19 18:01:31+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wksysq/wsb_vs_traditional_trader/,https://i.redd.it/w6be90evniqh1.jpeg,WSB vs traditional trader,Counter(),0,0.0,11.979335143705747
+1wkp43d,hot,Just 20k expired,Should have sold early,38,29,2026-09-19 15:27:16+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wkp43d/just_20k_expired/,https://www.reddit.com/gallery/1wkp43d,Just 20k expired Should have sold early,Counter(),0,0.0,7.064759027791801
+1wknskv,hot,Anthropic VIBEITDA,,6186,158,2026-09-19 14:32:36+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wknskv/anthropic_vibeitda/,https://i.redd.it/phhlcikmmhqh1.jpeg,Anthropic VIBEITDA,Counter(),0,0.0,13.799109797751221
+1wkmw1b,hot,"My journey so far, $50k to $150k in 1 month","Long time lurker and fellow r3tard, Finally crawling out of the shadows to share my journey.
+
+Been trading since 2 years, but with small amounts. Ready to try now with a bigger starting hand and see where I go.  
+
+**trading profile:**
+
+mostly been put/call spreads and the occasional hail mary.  I have trauma  from 0-1DTE so avoid those now. 
+
+**my lessons**
+
+If I get lucky two days in a row, I sit out day three. The market always comes to collect.",104,91,2026-09-19 13:55:20+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wkmw1b/my_journey_so_far_50k_to_150k_in_1_month/,https://www.reddit.com/gallery/1wkmw1b,"My journey so far, $50k to $150k in 1 month Long time lurker and fellow r3tard, Finally crawling out of the shadows to share my journey.
+
+Been trading since 2 years, but with small amounts. Ready to try now with a bigger starting hand and see where I go.  
+
+**trading profile:**
+
+mostly been put/call spreads and the occasional hail mary.  I have trauma  from 0-1DTE so avoid those now. 
+
+**my lessons**
+
+If I get lucky two days in a row, I sit out day three. The market always comes to collect.",Counter(),0,0.7004,9.175748927206563
+1wkjim9,hot,"Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",,646,109,2026-09-19 11:15:54+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wkjim9/anthropic_accenture_to_invest_2_billion_in_ai/,https://www.reuters.com/business/anthropic-accenture-invest-2-billion-ai-model-evaluation-safety-concerns-rise-2026-09-18/,"Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",Counter(),0,0.4215,11.172826660293318
+1wkafci,hot,"Oracle's $18 billion data center debt under pressure, FT reports",,1260,146,2026-09-19 02:56:27+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wkafci/oracles_18_billion_data_center_debt_under/,https://www.reuters.com/business/finance/oracles-18-billion-data-center-debt-under-pressure-ft-reports-2026-09-18/,"Oracle's $18 billion data center debt under pressure, FT reports",Counter(),0,-0.5719,12.130092922743655
+1wk8k5x,hot,Googl (some) recovery 4th acct,"Googl calls finally hit.
+
+1st acct tasty trade 30k blow up
+
+2nd Schwab 100k
+
+3rd Robinhood 15k...
+
+I'm slowly recovering ❤️‍🩹",54,18,2026-09-19 01:26:29+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk8k5x/googl_some_recovery_4th_acct/,https://www.reddit.com/gallery/1wk8k5x,"Googl (some) recovery 4th acct Googl calls finally hit.
+
+1st acct tasty trade 30k blow up
+
+2nd Schwab 100k
+
+3rd Robinhood 15k...
+
+I'm slowly recovering ❤️‍🩹",Counter(),0,0.0,6.951772164398911
+1wk6bjx,hot,Anthropic shifts public offering to November,,2015,329,2026-09-18 23:46:01+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk6bjx/anthropic_shifts_public_offering_to_november/,https://www.wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc,Anthropic shifts public offering to November,Counter(),0,0.0,13.407963283651785
+1wk4xus,hot,Will these puts print Monday?,,218,376,2026-09-18 22:46:54+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk4xus/will_these_puts_print_monday/,https://i.redd.it/rn0ps3jwxcqh1.jpeg,Will these puts print Monday?,Counter(),0,0.0,11.321316917264511
 1wk1iut,hot,"Anthropic expects 2026 revenue to be $100 billion, according to the NY Times","That explains the rally at the end, right before options expiry.   Rocketship next week!
 
-CNBC still twiddling their thumbs and hasn’t had the news yet….",352,220,2026-09-18 20:30:28+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk1iut/anthropic_expects_2026_revenue_to_be_100_billion/,https://i.redd.it/4ogu0f8k9cqh1.jpeg,"Anthropic expects 2026 revenue to be $100 billion, according to the NY Times That explains the rally at the end, right before options expiry.   Rocketship next week!
+CNBC still twiddling their thumbs and hasn’t had the news yet….",791,352,2026-09-18 20:30:28+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk1iut/anthropic_expects_2026_revenue_to_be_100_billion/,https://i.redd.it/4ogu0f8k9cqh1.jpeg,"Anthropic expects 2026 revenue to be $100 billion, according to the NY Times That explains the rally at the end, right before options expiry.   Rocketship next week!
 
-CNBC still twiddling their thumbs and hasn’t had the news yet….",Counter({'CNBC': 1}),1,0.0,11.264630758451048
-1wk1did,hot,Not bad this year,"Mostly from SPY puts in June. Godspeed regards, taking a break.",0,5,2026-09-18 20:24:44+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk1did/not_bad_this_year/,https://www.reddit.com/gallery/1wk1did,"Not bad this year Mostly from SPY puts in June. Godspeed regards, taking a break.",Counter({'SPY': 1}),1,0.431,1.791759469228055
-1wk0wat,hot,Sold amd covered call at 19 cents and had to cover at $9.61 ( -4957.90%),,879,243,2026-09-18 20:06:24+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk0wat/sold_amd_covered_call_at_19_cents_and_had_to/,https://i.redd.it/pos7kiq95cqh1.jpeg,Sold amd covered call at 19 cents and had to cover at $9.61 ( -4957.90%),Counter(),0,0.0,12.277090132765455
-1wk0vjg,hot,AVGO what’s the exit strategy,How long should I hold this?,11,22,2026-09-18 20:05:38+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk0vjg/avgo_whats_the_exit_strategy/,https://i.redd.it/plvt57r45cqh1.jpeg,AVGO what’s the exit strategy How long should I hold this?,Counter({'AVGO': 1}),1,0.0,5.62040086571715
-1wk0qkd,hot,Weekend Discussion Thread for the Weekend of September 19-20,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wk0qkd),44,2215,2026-09-18 20:00:39+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk0qkd/weekend_discussion_thread_for_the_weekend_of/,https://www.reddit.com/r/wallstreetbets/comments/1wk0qkd/weekend_discussion_thread_for_the_weekend_of/,Weekend Discussion Thread for the Weekend of September 19-20 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wk0qkd),Counter(),0,-0.2411,11.510121537637495
-1wk0jco,hot,33k in 15 minutes,Nearly cratered my options account in the process ,25,23,2026-09-18 19:53:15+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk0jco/33k_in_15_minutes/,https://www.reddit.com/gallery/1wk0jco,33k in 15 minutes Nearly cratered my options account in the process,Counter(),0,0.0,6.436150368369428
+CNBC still twiddling their thumbs and hasn’t had the news yet….",Counter({'CNBC': 1}),1,0.0,12.541029448747722
+1wk1did,hot,Not bad this year,"Mostly from SPY puts in June. Godspeed regards, taking a break.",0,10,2026-09-18 20:24:44+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk1did/not_bad_this_year/,https://www.reddit.com/gallery/1wk1did,"Not bad this year Mostly from SPY puts in June. Godspeed regards, taking a break.",Counter({'SPY': 1}),1,0.431,2.3978952727983707
+1wk0wat,hot,Sold amd covered call at 19 cents and had to cover at $9.61 ( -4957.90%),,1726,391,2026-09-18 20:06:24+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk0wat/sold_amd_covered_call_at_19_cents_and_had_to/,https://i.redd.it/pos7kiq95cqh1.jpeg,Sold amd covered call at 19 cents and had to cover at $9.61 ( -4957.90%),Counter(),0,0.0,13.425402917937141
+1wk0vjg,hot,AVGO what’s the exit strategy,How long should I hold this?,43,32,2026-09-18 20:05:38+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk0vjg/avgo_whats_the_exit_strategy/,https://i.redd.it/plvt57r45cqh1.jpeg,AVGO what’s the exit strategy How long should I hold this?,Counter({'AVGO': 1}),1,0.0,7.280697195384741
+1wk0qkd,hot,Weekend Discussion Thread for the Weekend of September 19-20,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wk0qkd),86,7212,2026-09-18 20:00:39+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk0qkd/weekend_discussion_thread_for_the_weekend_of/,https://www.reddit.com/r/wallstreetbets/comments/1wk0qkd/weekend_discussion_thread_for_the_weekend_of/,Weekend Discussion Thread for the Weekend of September 19-20 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wk0qkd),Counter(),0,-0.2411,13.349548351158257
+1wk0jco,hot,33k in 15 minutes,Nearly cratered my options account in the process ,178,70,2026-09-18 19:53:15+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk0jco/33k_in_15_minutes/,https://www.reddit.com/gallery/1wk0jco,33k in 15 minutes Nearly cratered my options account in the process,Counter(),0,0.0,9.45006568288207
 1wk0g6a,hot,Sometimes an “oops” turns $8k into $83k,"\*\*Other photos of proof in this link:
 
 [https://imgur.com/a/9Ct8A7k](https://imgur.com/a/9Ct8A7k)
@@ -58,7 +215,7 @@ Imagine waking up one morning and finding out you basically had an extra $95,000
 
 Now I know obviously there is long term capital tax on this, but am hoping to diversify someone these funds into a safer long term investment position as I won’t be able to feel comfortable with it all in Palantir.
 
-Any advise what I should consider diversifying it into?",359,62,2026-09-18 19:49:52+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk0g6a/sometimes_an_oops_turns_8k_into_83k/,https://i.redd.it/dxdyf1jb2cqh1.jpeg,"Sometimes an “oops” turns $8k into $83k \*\*Other photos of proof in this link:
+Any advise what I should consider diversifying it into?",1497,152,2026-09-18 19:49:52+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk0g6a/sometimes_an_oops_turns_8k_into_83k/,https://i.redd.it/dxdyf1jb2cqh1.jpeg,"Sometimes an “oops” turns $8k into $83k \*\*Other photos of proof in this link:
 
 [https://imgur.com/a/9Ct8A7k](https://imgur.com/a/9Ct8A7k)
 
@@ -105,40 +262,40 @@ Imagine waking up one morning and finding out you basically had an extra $95,000
 
 Now I know obviously there is long term capital tax on this, but am hoping to diversify someone these funds into a safer long term investment position as I won’t be able to feel comfortable with it all in Palantir.
 
-Any advise what I should consider diversifying it into?",Counter(),0,0.9836,10.02923875784169
+Any advise what I should consider diversifying it into?",Counter(),0,0.9836,12.342324085469599
 1wk0037,hot,During which year did you accept the fact that the market does whatever the hell it wants despite no news?,"Like theres absolutely no reason for bitcoin to be 5% today, especially cause the clarity act failed, yet it is.
 
 We've also recovered from the AI shock where AI DOOMER said AI is moving too quickly, just cause why not
 
-When did you accept that the market will do whatever and we can't do anything about it?",1,47,2026-09-18 19:32:55+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk0037/during_which_year_did_you_accept_the_fact_that/,https://www.reddit.com/r/wallstreetbets/comments/1wk0037/during_which_year_did_you_accept_the_fact_that/,"During which year did you accept the fact that the market does whatever the hell it wants despite no news? Like theres absolutely no reason for bitcoin to be 5% today, especially cause the clarity act failed, yet it is.
+When did you accept that the market will do whatever and we can't do anything about it?",67,67,2026-09-18 19:32:55+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wk0037/during_which_year_did_you_accept_the_fact_that/,https://www.reddit.com/r/wallstreetbets/comments/1wk0037/during_which_year_did_you_accept_the_fact_that/,"During which year did you accept the fact that the market does whatever the hell it wants despite no news? Like theres absolutely no reason for bitcoin to be 5% today, especially cause the clarity act failed, yet it is.
 
 We've also recovered from the AI shock where AI DOOMER said AI is moving too quickly, just cause why not
 
-When did you accept that the market will do whatever and we can't do anything about it?",Counter(),0,-0.4643,4.564348191467836
-1wjxt17,hot,META gains 2026,"META has had a great run this year. I trimmed my position down to my last 225 shares. I’m currently down about $6K on those, with a cost basis around $700/share. Hoping META finishes the year around $800 so I can get my total gains up to $100K. Of course, I’d look to re-enter if it dips again.",0,10,2026-09-18 18:12:09+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjxt17/meta_gains_2026/,https://i.redd.it/ddylkegbkbqh1.png,"META gains 2026 META has had a great run this year. I trimmed my position down to my last 225 shares. I’m currently down about $6K on those, with a cost basis around $700/share. Hoping META finishes the year around $800 so I can get my total gains up to $100K. Of course, I’d look to re-enter if it dips again.",Counter({'META': 3}),3,0.9169,2.3978952727983707
-1wjxito,hot,Happy trade,I sold my sandisk calls. I think it might go more up if it breaks 1760 but there is a big wall there.,34,13,2026-09-18 18:01:41+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjxito/happy_trade/,https://i.redd.it/99n6jom0jbqh1.jpeg,Happy trade I sold my sandisk calls. I think it might go more up if it breaks 1760 but there is a big wall there.,Counter(),0,0.3291,6.194405391104672
-1wjvukg,hot,"Weekly Earnings Thread Sep 21 - Sep 25, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wjvukg),26,63,2026-09-18 17:01:00+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjvukg/weekly_earnings_thread_sep_21_sep_25_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wjvukg/weekly_earnings_thread_sep_21_sep_25_2026/,"Weekly Earnings Thread Sep 21 - Sep 25, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wjvukg)",Counter(),0,-0.2411,7.454719949364001
+When did you accept that the market will do whatever and we can't do anything about it?",Counter(),0,-0.4643,8.439015410352214
+1wjxt17,hot,META gains 2026,"META has had a great run this year. I trimmed my position down to my last 225 shares. I’m currently down about $6K on those, with a cost basis around $700/share. Hoping META finishes the year around $800 so I can get my total gains up to $100K. Of course, I’d look to re-enter if it dips again.",9,13,2026-09-18 18:12:09+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjxt17/meta_gains_2026/,https://i.redd.it/ddylkegbkbqh1.png,"META gains 2026 META has had a great run this year. I trimmed my position down to my last 225 shares. I’m currently down about $6K on those, with a cost basis around $700/share. Hoping META finishes the year around $800 so I can get my total gains up to $100K. Of course, I’d look to re-enter if it dips again.",Counter({'META': 3}),3,0.9169,4.941642422609305
+1wjxito,hot,Happy trade,I sold my sandisk calls. I think it might go more up if it breaks 1760 but there is a big wall there.,58,17,2026-09-18 18:01:41+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjxito/happy_trade/,https://i.redd.it/99n6jom0jbqh1.jpeg,Happy trade I sold my sandisk calls. I think it might go more up if it breaks 1760 but there is a big wall there.,Counter(),0,0.3291,6.967909201801884
+1wjvukg,hot,"Weekly Earnings Thread Sep 21 - Sep 25, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wjvukg),35,83,2026-09-18 17:01:00+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjvukg/weekly_earnings_thread_sep_21_sep_25_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wjvukg/weekly_earnings_thread_sep_21_sep_25_2026/,"Weekly Earnings Thread Sep 21 - Sep 25, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wjvukg)",Counter(),0,-0.2411,8.014335737299422
 1wjvbny,hot,69k->10k->204k,"It's been quite the month. Goal is still a milly, but at this point going to take some out to buy myself something nice and set some aside for the tax man.
 
-Pretty much all 0dte/1dte IWM/QQQ/SPY options, heavy on IWM. ",760,151,2026-09-18 16:41:26+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjvbny/69k10k204k/,https://www.reddit.com/gallery/1wjvbny,"69k->10k->204k It's been quite the month. Goal is still a milly, but at this point going to take some out to buy myself something nice and set some aside for the tax man.
+Pretty much all 0dte/1dte IWM/QQQ/SPY options, heavy on IWM. ",1215,241,2026-09-18 16:41:26+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjvbny/69k10k204k/,https://www.reddit.com/gallery/1wjvbny,"69k->10k->204k It's been quite the month. Goal is still a milly, but at this point going to take some out to buy myself something nice and set some aside for the tax man.
 
-Pretty much all 0dte/1dte IWM/QQQ/SPY options, heavy on IWM.","Counter({'IWM': 2, 'QQQ': 1, 'SPY': 1})",4,0.8402,11.658513878707963
+Pretty much all 0dte/1dte IWM/QQQ/SPY options, heavy on IWM.","Counter({'IWM': 2, 'QQQ': 1, 'SPY': 1})",4,0.8402,12.5922597886828
 1wjtx6i,hot,Saudi Aramco halts crude oil supply to European customers,"And to think, I almost went full regard and tried to short oil earlier this week…  
 Still might..
 
 TL;DR  
 Saudi Aramco is cutting off crude-oil deliveries to European customers next month after attacks disrupted a major Saudi pipeline supplying oil through the Red Sea.
 
-Saudi production reportedly fell by about 1.9 million barrels/day to 6.24 million bpd, its lowest level since 1990. European refiners, including Poland’s Orlen, are now scrambling to buy replacement oil on the spot market",1745,264,2026-09-18 15:50:04+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjtx6i/saudi_aramco_halts_crude_oil_supply_to_european/,https://ground.news/article/saudi-aramco-halts-crude-oil-supply-to-european-customers_9b154a?utm_source=mobile-app&utm_medium=article-share,"Saudi Aramco halts crude oil supply to European customers And to think, I almost went full regard and tried to short oil earlier this week…  
+Saudi production reportedly fell by about 1.9 million barrels/day to 6.24 million bpd, its lowest level since 1990. European refiners, including Poland’s Orlen, are now scrambling to buy replacement oil on the spot market",2400,317,2026-09-18 15:50:04+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjtx6i/saudi_aramco_halts_crude_oil_supply_to_european/,https://ground.news/article/saudi-aramco-halts-crude-oil-supply-to-european-customers_9b154a?utm_source=mobile-app&utm_medium=article-share,"Saudi Aramco halts crude oil supply to European customers And to think, I almost went full regard and tried to short oil earlier this week…  
 Still might..
 
 TL;DR  
 Saudi Aramco is cutting off crude-oil deliveries to European customers next month after attacks disrupted a major Saudi pipeline supplying oil through the Red Sea.
 
-Saudi production reportedly fell by about 1.9 million barrels/day to 6.24 million bpd, its lowest level since 1990. European refiners, including Poland’s Orlen, are now scrambling to buy replacement oil on the spot market",Counter(),0,-0.8658,13.044812562385768
-1wjsi48,hot,Kylian Mbappe ends long-term Nike partnership to lead On’s football boots expansion,"Just another blow to Nike! How does this company ever turn it around, or do they? ",1298,124,2026-09-18 14:57:44+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjsi48/kylian_mbappe_ends_longterm_nike_partnership_to/,https://www.nytimes.com/athletic/7607099/2026/09/18/kylian-mbappe-on-nike-brand-partnership/,"Kylian Mbappe ends long-term Nike partnership to lead On’s football boots expansion Just another blow to Nike! How does this company ever turn it around, or do they?",Counter(),0,0.0,11.997663753972901
-1wjqva9,hot,AVGO 1dte gain,80k gain held overnight,48,15,2026-09-18 13:54:04+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjqva9/avgo_1dte_gain/,https://www.reddit.com/gallery/1wjqva9,AVGO 1dte gain 80k gain held overnight,Counter({'AVGO': 1}),1,0.7783,6.664409020350408
-1wjqedy,hot,Piggy is going to sell it off today,Today is a good time to sell it off.,42,16,2026-09-18 13:35:24+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjqedy/piggy_is_going_to_sell_it_off_today/,https://i.redd.it/11s8b9tb7aqh1.png,Piggy is going to sell it off today Today is a good time to sell it off.,Counter(),0,0.4404,6.594413459749779
+Saudi production reportedly fell by about 1.9 million barrels/day to 6.24 million bpd, its lowest level since 1990. European refiners, including Poland’s Orlen, are now scrambling to buy replacement oil on the spot market",Counter(),0,-0.8658,13.545691979001429
+1wjsi48,hot,Kylian Mbappe ends long-term Nike partnership to lead On’s football boots expansion,"Just another blow to Nike! How does this company ever turn it around, or do they? ",1817,138,2026-09-18 14:57:44+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjsi48/kylian_mbappe_ends_longterm_nike_partnership_to/,https://www.nytimes.com/athletic/7607099/2026/09/18/kylian-mbappe-on-nike-brand-partnership/,"Kylian Mbappe ends long-term Nike partnership to lead On’s football boots expansion Just another blow to Nike! How does this company ever turn it around, or do they?",Counter(),0,0.0,12.439966207868116
+1wjqva9,hot,AVGO 1dte gain,80k gain held overnight,61,15,2026-09-18 13:54:04+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjqva9/avgo_1dte_gain/,https://www.reddit.com/gallery/1wjqva9,AVGO 1dte gain 80k gain held overnight,Counter({'AVGO': 1}),1,0.7783,6.899723107284872
+1wjqedy,hot,Piggy is going to sell it off today,Today is a good time to sell it off.,45,18,2026-09-18 13:35:24+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjqedy/piggy_is_going_to_sell_it_off_today/,https://i.redd.it/11s8b9tb7aqh1.png,Piggy is going to sell it off today Today is a good time to sell it off.,Counter(),0,0.4404,6.773080375655535
 1wjnmog,hot,"Is Qualcomm actually capable of building a $15B+ data-center business, or are we underestimating Nvidia/Broadcom/hyperscaler competition?","Qualcomm is making a pretty aggressive bet on data centers.
 
 Management is targeting **>$15B of Data Center revenue by FY2029**, with the business spanning server CPUs, AI accelerators, custom silicon, high-bandwidth compute and connectivity.
@@ -193,7 +350,7 @@ And what is the biggest thing that could prevent it?
 
 I’d especially like to hear from people who understand data-center hardware rather than just QCOM/NVDA stock bulls.
 
-**Bull case vs bear case — what am I missing?**",34,33,2026-09-18 11:29:20+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjnmog/is_qualcomm_actually_capable_of_building_a_15b/,https://www.reddit.com/r/wallstreetbets/comments/1wjnmog/is_qualcomm_actually_capable_of_building_a_15b/,"Is Qualcomm actually capable of building a $15B+ data-center business, or are we underestimating Nvidia/Broadcom/hyperscaler competition? Qualcomm is making a pretty aggressive bet on data centers.
+**Bull case vs bear case — what am I missing?**",43,48,2026-09-18 11:29:20+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjnmog/is_qualcomm_actually_capable_of_building_a_15b/,https://www.reddit.com/r/wallstreetbets/comments/1wjnmog/is_qualcomm_actually_capable_of_building_a_15b/,"Is Qualcomm actually capable of building a $15B+ data-center business, or are we underestimating Nvidia/Broadcom/hyperscaler competition? Qualcomm is making a pretty aggressive bet on data centers.
 
 Management is targeting **>$15B of Data Center revenue by FY2029**, with the business spanning server CPUs, AI accelerators, custom silicon, high-bandwidth compute and connectivity.
 
@@ -247,31 +404,31 @@ And what is the biggest thing that could prevent it?
 
 I’d especially like to hear from people who understand data-center hardware rather than just QCOM/NVDA stock bulls.
 
-**Bull case vs bear case — what am I missing?**","Counter({'CPU': 4, 'AMD': 3, 'QCOM': 2, 'CUDA': 1, 'ASIC': 1, 'ARM': 1, 'NVDA': 1})",13,0.9858,7.0817085861055755
-1wjmi75,hot,Warren Buffett Steps Down as Berkshire Chairman,,5833,370,2026-09-18 10:29:29+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjmi75/warren_buffett_steps_down_as_berkshire_chairman/,https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html?searchResultPosition=1,Warren Buffett Steps Down as Berkshire Chairman,Counter(),0,0.0,14.5876602130351
-1wjlzs2,hot,"Daily Discussion Thread for September 18, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wjlzs2),113,8725,2026-09-18 10:00:40+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjlzs2/daily_discussion_thread_for_september_18_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wjlzs2/daily_discussion_thread_for_september_18_2026/,"Daily Discussion Thread for September 18, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wjlzs2)",Counter(),0,-0.2411,13.810260802078052
+**Bull case vs bear case — what am I missing?**","Counter({'CPU': 4, 'AMD': 3, 'QCOM': 2, 'CUDA': 1, 'ASIC': 1, 'ARM': 1, 'NVDA': 1})",13,0.9858,7.6760099320288875
+1wjmi75,hot,Warren Buffett Steps Down as Berkshire Chairman,,6610,399,2026-09-18 10:29:29+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjmi75/warren_buffett_steps_down_as_berkshire_chairman/,https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html?searchResultPosition=1,Warren Buffett Steps Down as Berkshire Chairman,Counter(),0,0.0,14.78795475444156
+1wjlzs2,hot,"Daily Discussion Thread for September 18, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wjlzs2),113,8672,2026-09-18 10:00:40+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjlzs2/daily_discussion_thread_for_september_18_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wjlzs2/daily_discussion_thread_for_september_18_2026/,"Daily Discussion Thread for September 18, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wjlzs2)",Counter(),0,-0.2411,13.804168479078953
 1wjkzg8,hot,Wells Fargo casually leaking APLD's tenant names,"https://preview.redd.it/k0fg8rueu8qh1.png?width=1108&format=png&auto=webp&s=bf4800282404232d1585b561c4094475ca02ec44
 
-APLD always kept the name of the Hyperscalers secret, but Wells Fargo said nha",108,20,2026-09-18 09:01:23+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjkzg8/wells_fargo_casually_leaking_aplds_tenant_names/,https://www.reddit.com/r/wallstreetbets/comments/1wjkzg8/wells_fargo_casually_leaking_aplds_tenant_names/,"Wells Fargo casually leaking APLD's tenant names https://preview.redd.it/k0fg8rueu8qh1.png?width=1108&format=png&auto=webp&s=bf4800282404232d1585b561c4094475ca02ec44
+APLD always kept the name of the Hyperscalers secret, but Wells Fargo said nha",134,22,2026-09-18 09:01:23+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjkzg8/wells_fargo_casually_leaking_aplds_tenant_names/,https://www.reddit.com/r/wallstreetbets/comments/1wjkzg8/wells_fargo_casually_leaking_aplds_tenant_names/,"Wells Fargo casually leaking APLD's tenant names https://preview.redd.it/k0fg8rueu8qh1.png?width=1108&format=png&auto=webp&s=bf4800282404232d1585b561c4094475ca02ec44
 
-APLD always kept the name of the Hyperscalers secret, but Wells Fargo said nha",Counter({'APLD': 2}),2,0.5187,7.735870319952566
+APLD always kept the name of the Hyperscalers secret, but Wells Fargo said nha",Counter({'APLD': 2}),2,0.5187,8.040768994367578
 1wjinmc,hot,friendly reminder to use light mode,"for those of us living in crawlspaces our cellphones are the only source of light we have. it's much easier to eat ramen with the warm white and red glow of a screen than the blinding shine of a phones flashlight. sometimes I eat one cup plain and use two ramen packets in the next cup as a special treat.
 
-thank you for your attention to this matter",738,34,2026-09-18 06:42:13+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjinmc/friendly_reminder_to_use_light_mode/,https://www.reddit.com/r/wallstreetbets/comments/1wjinmc/friendly_reminder_to_use_light_mode/,"friendly reminder to use light mode for those of us living in crawlspaces our cellphones are the only source of light we have. it's much easier to eat ramen with the warm white and red glow of a screen than the blinding shine of a phones flashlight. sometimes I eat one cup plain and use two ramen packets in the next cup as a special treat.
+thank you for your attention to this matter",902,37,2026-09-18 06:42:13+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wjinmc/friendly_reminder_to_use_light_mode/,https://www.reddit.com/r/wallstreetbets/comments/1wjinmc/friendly_reminder_to_use_light_mode/,"friendly reminder to use light mode for those of us living in crawlspaces our cellphones are the only source of light we have. it's much easier to eat ramen with the warm white and red glow of a screen than the blinding shine of a phones flashlight. sometimes I eat one cup plain and use two ramen packets in the next cup as a special treat.
 
-thank you for your attention to this matter",Counter(),0,0.9316,10.160645982437615
-1wj9yf7,hot,Should I sell now?,Bought these calls when meta was in the mist of all those court cases. 🥲,775,292,2026-09-17 23:34:01+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj9yf7/should_i_sell_now/,https://i.redd.it/ufm94hde16qh1.jpeg,Should I sell now? Bought these calls when meta was in the mist of all those court cases. 🥲,Counter(),0,0.0,12.334325129200288
-1wj9y05,hot,Jensen Huang says Nvidia will sell twice as many chips next year,,1938,318,2026-09-17 23:33:28+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj9y05/jensen_huang_says_nvidia_will_sell_twice_as_many/,https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html,Jensen Huang says Nvidia will sell twice as many chips next year,Counter(),0,0.0,13.335118758027496
-1wj9dd0,hot,A friendly reminder to use dark mode,I'm seeing all these blinding white charts while I'm trying to sleep and also use my phone. It's bad for my circadian rhythm to get random flashes of bright white charts while I'm trying to sleep. If we could keep that to a minimum that'd be great. Thanks.,3155,113,2026-09-17 23:08:28+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj9dd0/a_friendly_reminder_to_use_dark_mode/,https://www.reddit.com/r/wallstreetbets/comments/1wj9dd0/a_friendly_reminder_to_use_dark_mode/,A friendly reminder to use dark mode I'm seeing all these blinding white charts while I'm trying to sleep and also use my phone. It's bad for my circadian rhythm to get random flashes of bright white charts while I'm trying to sleep. If we could keep that to a minimum that'd be great. Thanks.,Counter(),0,0.8625,12.793259130360262
+thank you for your attention to this matter",Counter(),0,0.9316,10.44330871314337
+1wj9yf7,hot,Should I sell now?,Bought these calls when meta was in the mist of all those court cases. 🥲,822,311,2026-09-17 23:34:01+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj9yf7/should_i_sell_now/,https://i.redd.it/ufm94hde16qh1.jpeg,Should I sell now? Bought these calls when meta was in the mist of all those court cases. 🥲,Counter(),0,0.0,12.455959388486551
+1wj9y05,hot,Jensen Huang says Nvidia will sell twice as many chips next year,,2049,326,2026-09-17 23:33:28+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj9y05/jensen_huang_says_nvidia_will_sell_twice_as_many/,https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html,Jensen Huang says Nvidia will sell twice as many chips next year,Counter(),0,0.0,13.415555243029708
+1wj9dd0,hot,A friendly reminder to use dark mode,I'm seeing all these blinding white charts while I'm trying to sleep and also use my phone. It's bad for my circadian rhythm to get random flashes of bright white charts while I'm trying to sleep. If we could keep that to a minimum that'd be great. Thanks.,3449,116,2026-09-17 23:08:28+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj9dd0/a_friendly_reminder_to_use_dark_mode/,https://www.reddit.com/r/wallstreetbets/comments/1wj9dd0/a_friendly_reminder_to_use_dark_mode/,A friendly reminder to use dark mode I'm seeing all these blinding white charts while I'm trying to sleep and also use my phone. It's bad for my circadian rhythm to get random flashes of bright white charts while I'm trying to sleep. If we could keep that to a minimum that'd be great. Thanks.,Counter(),0,0.8625,12.908303444823161
 1wj6afj,hot,Space X awarded 1 Billion Nasa Contract,"source; [https://science.nasa.gov/mission/starburst/](https://science.nasa.gov/mission/starburst/)
 
 https://preview.redd.it/m061vjhja5qh1.png?width=1362&format=png&auto=webp&s=fdf98d97ecd33798095f3bf89203ee01cce0c682
 
-",730,126,2026-09-17 21:04:00+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj6afj/space_x_awarded_1_billion_nasa_contract/,https://www.reddit.com/r/wallstreetbets/comments/1wj6afj/space_x_awarded_1_billion_nasa_contract/,"Space X awarded 1 Billion Nasa Contract source; [https://science.nasa.gov/mission/starburst/](https://science.nasa.gov/mission/starburst/)
+",766,131,2026-09-17 21:04:00+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj6afj/space_x_awarded_1_billion_nasa_contract/,https://www.reddit.com/r/wallstreetbets/comments/1wj6afj/space_x_awarded_1_billion_nasa_contract/,"Space X awarded 1 Billion Nasa Contract source; [https://science.nasa.gov/mission/starburst/](https://science.nasa.gov/mission/starburst/)
 
-https://preview.redd.it/m061vjhja5qh1.png?width=1362&format=png&auto=webp&s=fdf98d97ecd33798095f3bf89203ee01cce0c682",Counter(),0,0.4019,11.43860054620837
-1wj4s18,hot,Kept losing on both sides,,233,169,2026-09-17 20:06:44+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj4s18/kept_losing_on_both_sides/,https://www.reddit.com/gallery/1wj4s18,Kept losing on both sides,Counter(),0,-0.3818,10.591119552407964
-1wj4lrb,hot,"What Are Your Moves Tomorrow, September 18, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wj4lrb),93,6009,2026-09-17 20:00:38+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj4lrb/what_are_your_moves_tomorrow_september_18_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wj4lrb/what_are_your_moves_tomorrow_september_18_2026/,"What Are Your Moves Tomorrow, September 18, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wj4lrb)",Counter(),0,-0.2411,13.244474809799257
+https://preview.redd.it/m061vjhja5qh1.png?width=1362&format=png&auto=webp&s=fdf98d97ecd33798095f3bf89203ee01cce0c682",Counter(),0,0.4019,11.525288723953626
+1wj4s18,hot,Kept losing on both sides,,247,170,2026-09-17 20:06:44+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj4s18/kept_losing_on_both_sides/,https://www.reddit.com/gallery/1wj4s18,Kept losing on both sides,Counter(),0,-0.3818,10.655092302667644
+1wj4lrb,hot,"What Are Your Moves Tomorrow, September 18, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wj4lrb),90,5969,2026-09-17 20:00:38+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj4lrb/what_are_your_moves_tomorrow_september_18_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wj4lrb/what_are_your_moves_tomorrow_september_18_2026/,"What Are Your Moves Tomorrow, September 18, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wj4lrb)",Counter(),0,-0.2411,13.205361712903498
 1wj3v93,hot,Hot Take: The Fed Hiking Rates is Bullish,"I think if the Fed were actually going to reduce the money supply, then it would be prudent to reduce leverage and be cautious. But since Warsh, Powell, and pretty much everyone working for the Fed since 2008 has made it clear that they don't ever want to reduce the money supply, just maybe possibly someday eventually slow its rate of growth, then I think ""not fighting the Fed"" has come to mean back up the truck everyday always.
 
 Until then, every rate hike is already priced in. Goldman sachs is already pricing in 3 rate hikes into June 2027.
@@ -280,7 +437,7 @@ These little blimps of a dip during the day confirms it. We shoot straight back 
 
 Tonight we will see BOJ hike rates as well. We will be so green in the morning. 
 
-Tldr: bears are going to get wiped. Huge move day tomorrow. 7700c",433,129,2026-09-17 19:33:24+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj3v93/hot_take_the_fed_hiking_rates_is_bullish/,https://www.reddit.com/r/wallstreetbets/comments/1wj3v93/hot_take_the_fed_hiking_rates_is_bullish/,"Hot Take: The Fed Hiking Rates is Bullish I think if the Fed were actually going to reduce the money supply, then it would be prudent to reduce leverage and be cautious. But since Warsh, Powell, and pretty much everyone working for the Fed since 2008 has made it clear that they don't ever want to reduce the money supply, just maybe possibly someday eventually slow its rate of growth, then I think ""not fighting the Fed"" has come to mean back up the truck everyday always.
+Tldr: bears are going to get wiped. Huge move day tomorrow. 7700c",459,131,2026-09-17 19:33:24+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj3v93/hot_take_the_fed_hiking_rates_is_bullish/,https://www.reddit.com/r/wallstreetbets/comments/1wj3v93/hot_take_the_fed_hiking_rates_is_bullish/,"Hot Take: The Fed Hiking Rates is Bullish I think if the Fed were actually going to reduce the money supply, then it would be prudent to reduce leverage and be cautious. But since Warsh, Powell, and pretty much everyone working for the Fed since 2008 has made it clear that they don't ever want to reduce the money supply, just maybe possibly someday eventually slow its rate of growth, then I think ""not fighting the Fed"" has come to mean back up the truck everyday always.
 
 Until then, every rate hike is already priced in. Goldman sachs is already pricing in 3 rate hikes into June 2027.
 
@@ -288,7 +445,7 @@ These little blimps of a dip during the day confirms it. We shoot straight back 
 
 Tonight we will see BOJ hike rates as well. We will be so green in the morning. 
 
-Tldr: bears are going to get wiped. Huge move day tomorrow. 7700c",Counter({'BOJ': 1}),1,0.9523,10.940578984555987
+Tldr: bears are going to get wiped. Huge move day tomorrow. 7700c",Counter({'BOJ': 1}),1,0.9523,11.01402841206951
 1wj2id2,hot,Why is nike posting more jobs now than it did in december,"nike is at like 37 bucks and most people here have written it off, but the hiring data is not acting like a company thats giving up.
 
 
@@ -309,7 +466,7 @@ i did not use the year over year postings number because there is a gap in summe
 
 
 
-so which is it, are they spending into a turnaround or just backfilling the same roles because people keep walking?",25,14,2026-09-17 18:43:45+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj2id2/why_is_nike_posting_more_jobs_now_than_it_did_in/,https://i.redd.it/hv9ikelil4qh1.png,"Why is nike posting more jobs now than it did in december nike is at like 37 bucks and most people here have written it off, but the hiring data is not acting like a company thats giving up.
+so which is it, are they spending into a turnaround or just backfilling the same roles because people keep walking?",27,14,2026-09-17 18:43:45+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj2id2/why_is_nike_posting_more_jobs_now_than_it_did_in/,https://i.redd.it/hv9ikelil4qh1.png,"Why is nike posting more jobs now than it did in december nike is at like 37 bucks and most people here have written it off, but the hiring data is not acting like a company thats giving up.
 
 
 
@@ -329,7 +486,7 @@ i did not use the year over year postings number because there is a gap in summe
 
 
 
-so which is it, are they spending into a turnaround or just backfilling the same roles because people keep walking?",Counter({'NKE': 1}),1,0.9273,5.966146739123692
+so which is it, are they spending into a turnaround or just backfilling the same roles because people keep walking?",Counter({'NKE': 1}),1,0.9273,6.040254711277414
 1wj293q,hot,Is keeping Chinese EVs out of the US actually making Detroit stronger?,"Here's an automotive bear case I've been thinking about.
 
 The US has effectively removed Chinese automakers from the competitive equation.
@@ -362,7 +519,7 @@ Does excluding Chinese automakers give Detroit the time it needs to become more 
 
 Or does removing one of its strongest sources of price competition make US manufacturers more comfortable domestically while their international competitiveness deteriorates?
 
-Because those produce very different long-term outcomes for GM, Ford and Stellantis.",619,469,2026-09-17 18:34:20+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj293q/is_keeping_chinese_evs_out_of_the_us_actually/,https://www.reddit.com/r/wallstreetbets/comments/1wj293q/is_keeping_chinese_evs_out_of_the_us_actually/,"Is keeping Chinese EVs out of the US actually making Detroit stronger? Here's an automotive bear case I've been thinking about.
+Because those produce very different long-term outcomes for GM, Ford and Stellantis.",674,501,2026-09-17 18:34:20+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj293q/is_keeping_chinese_evs_out_of_the_us_actually/,https://www.reddit.com/r/wallstreetbets/comments/1wj293q/is_keeping_chinese_evs_out_of_the_us_actually/,"Is keeping Chinese EVs out of the US actually making Detroit stronger? Here's an automotive bear case I've been thinking about.
 
 The US has effectively removed Chinese automakers from the competitive equation.
 
@@ -394,32 +551,32 @@ Does excluding Chinese automakers give Detroit the time it needs to become more 
 
 Or does removing one of its strongest sources of price competition make US manufacturers more comfortable domestically while their international competitiveness deteriorates?
 
-Because those produce very different long-term outcomes for GM, Ford and Stellantis.","Counter({'BYD': 3, 'GWM': 1, 'SUV': 1})",5,0.7698,12.582452172743242
-1wj03rr,hot,BWET is down today but for a month straight it was free money,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wj03rr),0,77,2026-09-17 17:15:49+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj03rr/bwet_is_down_today_but_for_a_month_straight_it/,https://www.reddit.com/r/wallstreetbets/comments/1wj03rr/bwet_is_down_today_but_for_a_month_straight_it/,BWET is down today but for a month straight it was free money This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wj03rr),Counter({'BWET': 1}),1,0.655,4.356708826689592
+Because those produce very different long-term outcomes for GM, Ford and Stellantis.","Counter({'BYD': 3, 'GWM': 1, 'SUV': 1})",5,0.7698,12.733312810564259
+1wj03rr,hot,BWET is down today but for a month straight it was free money,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wj03rr),0,81,2026-09-17 17:15:49+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wj03rr/bwet_is_down_today_but_for_a_month_straight_it/,https://www.reddit.com/r/wallstreetbets/comments/1wj03rr/bwet_is_down_today_but_for_a_month_straight_it/,BWET is down today but for a month straight it was free money This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wj03rr),Counter({'BWET': 1}),1,0.655,4.406719247264253
 1wixncp,hot,Sandisk $$ 170% gain!,"Bought majority during the dip yesterday , this time it worked out quite well :) will treat myself with fine Wagyu beef 🥩 
 
 It’s all LUCK 🍀 
 
-Happy trading .. overall good day for most of tech stocks it seems. ",542,55,2026-09-17 15:46:49+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wixncp/sandisk_170_gain/,https://i.redd.it/01rk9yn1q3qh1.jpeg,"Sandisk $$ 170% gain! Bought majority during the dip yesterday , this time it worked out quite well :) will treat myself with fine Wagyu beef 🥩 
+Happy trading .. overall good day for most of tech stocks it seems. ",563,59,2026-09-17 15:46:49+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wixncp/sandisk_170_gain/,https://i.redd.it/01rk9yn1q3qh1.jpeg,"Sandisk $$ 170% gain! Bought majority during the dip yesterday , this time it worked out quite well :) will treat myself with fine Wagyu beef 🥩 
 
 It’s all LUCK 🍀 
 
-Happy trading .. overall good day for most of tech stocks it seems.",Counter({'LUCK': 1}),1,0.9726,10.322461010669084
-1wiw27y,hot,lmao you BUMS dogged on me for going mega long SPCX but now I’m up +1 million year on year,I put my entire Roth IRA into SpaceX and have been spamming bullish call options ever since along with Nvidia trades and am now mega in the green thank you rocket man,4308,556,2026-09-17 14:47:36+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wiw27y/lmao_you_bums_dogged_on_me_for_going_mega_long/,https://www.reddit.com/gallery/1wiw27y,lmao you BUMS dogged on me for going mega long SPCX but now I’m up +1 million year on year I put my entire Roth IRA into SpaceX and have been spamming bullish call options ever since along with Nvidia trades and am now mega in the green thank you rocket man,"Counter({'BUMS': 1, 'SPCX': 1, 'IRA': 1})",3,0.1406,14.691026377543123
+Happy trading .. overall good day for most of tech stocks it seems.",Counter({'LUCK': 1}),1,0.9726,10.429398813720159
+1wiw27y,hot,lmao you BUMS dogged on me for going mega long SPCX but now I’m up +1 million year on year,I put my entire Roth IRA into SpaceX and have been spamming bullish call options ever since along with Nvidia trades and am now mega in the green thank you rocket man,4586,578,2026-09-17 14:47:36+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wiw27y/lmao_you_bums_dogged_on_me_for_going_mega_long/,https://www.reddit.com/gallery/1wiw27y,lmao you BUMS dogged on me for going mega long SPCX but now I’m up +1 million year on year I put my entire Roth IRA into SpaceX and have been spamming bullish call options ever since along with Nvidia trades and am now mega in the green thank you rocket man,"Counter({'BUMS': 1, 'SPCX': 1, 'IRA': 1})",3,0.1406,14.792283972170168
 1wiv91y,hot,Successfully fooled the algos for $280k,"Since they target ONLY me, said I went short. But what the algos didn't know, was I also went long. I fooooled the computers just enough to walk away for the year. I am done with this tomfoolery dagnabbit 
 
   
-See you tomorrow",1331,145,2026-09-17 14:16:24+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wiv91y/successfully_fooled_the_algos_for_280k/,https://i.redd.it/rwci7aoj93qh1.png,"Successfully fooled the algos for $280k Since they target ONLY me, said I went short. But what the algos didn't know, was I also went long. I fooooled the computers just enough to walk away for the year. I am done with this tomfoolery dagnabbit 
+See you tomorrow",1367,150,2026-09-17 14:16:24+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wiv91y/successfully_fooled_the_algos_for_280k/,https://i.redd.it/rwci7aoj93qh1.png,"Successfully fooled the algos for $280k Since they target ONLY me, said I went short. But what the algos didn't know, was I also went long. I fooooled the computers just enough to walk away for the year. I am done with this tomfoolery dagnabbit 
 
   
-See you tomorrow",Counter({'ONLY': 1}),1,0.0772,12.178043472808671
-1wiuynh,hot,SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment,https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment,145,54,2026-09-17 14:05:32+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wiuynh/sec_issues_innovation_exemption_to_facilitate_the/,https://www.reddit.com/r/wallstreetbets/comments/1wiuynh/sec_issues_innovation_exemption_to_facilitate_the/,SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment,Counter({'NMS': 1}),1,0.0,8.990939806940808
+See you tomorrow",Counter({'ONLY': 1}),1,0.0772,12.23838493499742
+1wiuynh,hot,SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment,https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment,149,55,2026-09-17 14:05:32+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wiuynh/sec_issues_innovation_exemption_to_facilitate_the/,https://www.reddit.com/r/wallstreetbets/comments/1wiuynh/sec_issues_innovation_exemption_to_facilitate_the/,SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment,Counter({'NMS': 1}),1,0.0,9.035986984831405
 1wiu5c9,hot,GAIN: PANW $372.5 9/18 puts,"&#x200B;
 
-Thanks to the Berenstein Bears Analyst that moved it down today ",98,46,2026-09-17 13:33:38+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wiu5c9/gain_panw_3725_918_puts/,https://i.redd.it/p05e7k7a23qh1.png,"GAIN: PANW $372.5 9/18 puts &#x200B;
+Thanks to the Berenstein Bears Analyst that moved it down today ",101,47,2026-09-17 13:33:38+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wiu5c9/gain_panw_3725_918_puts/,https://i.redd.it/p05e7k7a23qh1.png,"GAIN: PANW $372.5 9/18 puts &#x200B;
 
-Thanks to the Berenstein Bears Analyst that moved it down today","Counter({'GAIN': 1, 'PANW': 1})",2,0.7925,8.445267451844648
-1wipq3z,hot,"Daily Discussion Thread for September 17, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wipq3z),144,9091,2026-09-17 10:00:39+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wipq3z/daily_discussion_thread_for_september_17_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wipq3z/daily_discussion_thread_for_september_17_2026/,"Daily Discussion Thread for September 17, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wipq3z)",Counter(),0,-0.2411,14.091883927393008
+Thanks to the Berenstein Bears Analyst that moved it down today","Counter({'GAIN': 1, 'PANW': 1})",2,0.7925,8.496173824192162
+1wipq3z,hot,"Daily Discussion Thread for September 17, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wipq3z),144,9070,2026-09-17 10:00:39+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wipq3z/daily_discussion_thread_for_september_17_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wipq3z/daily_discussion_thread_for_september_17_2026/,"Daily Discussion Thread for September 17, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wipq3z)",Counter(),0,-0.2411,14.08957153303552
 1wim9fb,hot,Is Sable Corp (SOC) a good play,"Hi guys this is my first post here. Please forgive me for my formatting. 
 
 Sable corp is an oil producer in the Santa Ynez unit in California. They have 2 platforms online currently producing 40k BPD. They had been fighting about the Santa ynez pipeline system for a long time but the Defense Production Act allowed them to restart oil transportation through the pipe line. 
@@ -438,7 +595,7 @@ Moreover, the oil produced in the first 2 platforms were sour and the refineries
 
 Secondly, since they took the loan they had to hedge their oil. For the 2H of 2026, they have the crude hedged from $65 floor to $89.39 ceiling for 28k BPD hedged however they are producing 40K now and soon to be producing 60K taking. ( up until now o thought they could sell their oil at 100+ a barrel but I see that the California Crude Oil First Purchase Price is at 77$.) With the increase in production, I think they will be able to pay down their debts.  
 
-My main thesis is that SOC is heavily shorted at like 30% and if they can post a profitable Q3, the price of the stock could seriously rerate and there might be a potential short squeeze. I can’t find much people talking about this online and I would love to hear your thoughts esp if I’m overlooking something and I’m going to lose my money ",32,26,2026-09-17 06:37:26+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wim9fb/is_sable_corp_soc_a_good_play/,https://www.reddit.com/r/wallstreetbets/comments/1wim9fb/is_sable_corp_soc_a_good_play/,"Is Sable Corp (SOC) a good play Hi guys this is my first post here. Please forgive me for my formatting. 
+My main thesis is that SOC is heavily shorted at like 30% and if they can post a profitable Q3, the price of the stock could seriously rerate and there might be a potential short squeeze. I can’t find much people talking about this online and I would love to hear your thoughts esp if I’m overlooking something and I’m going to lose my money ",34,27,2026-09-17 06:37:26+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wim9fb/is_sable_corp_soc_a_good_play/,https://www.reddit.com/r/wallstreetbets/comments/1wim9fb/is_sable_corp_soc_a_good_play/,"Is Sable Corp (SOC) a good play Hi guys this is my first post here. Please forgive me for my formatting. 
 
 Sable corp is an oil producer in the Santa Ynez unit in California. They have 2 platforms online currently producing 40k BPD. They had been fighting about the Santa ynez pipeline system for a long time but the Defense Production Act allowed them to restart oil transportation through the pipe line. 
 
@@ -456,9 +613,9 @@ Moreover, the oil produced in the first 2 platforms were sour and the refineries
 
 Secondly, since they took the loan they had to hedge their oil. For the 2H of 2026, they have the crude hedged from $65 floor to $89.39 ceiling for 28k BPD hedged however they are producing 40K now and soon to be producing 60K taking. ( up until now o thought they could sell their oil at 100+ a barrel but I see that the California Crude Oil First Purchase Price is at 77$.) With the increase in production, I think they will be able to pay down their debts.  
 
-My main thesis is that SOC is heavily shorted at like 30% and if they can post a profitable Q3, the price of the stock could seriously rerate and there might be a potential short squeeze. I can’t find much people talking about this online and I would love to hear your thoughts esp if I’m overlooking something and I’m going to lose my money","Counter({'BPD': 4, 'SOC': 2, 'OCS': 1})",7,-0.8519,6.792344427470809
-1wikxt2,hot,The AT chart on my second webull account,,76,41,2026-09-17 05:23:59+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wikxt2/the_at_chart_on_my_second_webull_account/,https://i.redd.it/mnvo5aaxm0qh1.jpeg,The AT chart on my second webull account,Counter(),0,0.0,8.081475040137052
-1wijegq,hot,Reminiscing 😢,,9749,124,2026-09-17 04:04:59+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wijegq/reminiscing/,https://i.redd.it/aqcxlaxt80qh1.jpeg,Reminiscing 😢,Counter(),0,0.0,14.013336301294196
+My main thesis is that SOC is heavily shorted at like 30% and if they can post a profitable Q3, the price of the stock could seriously rerate and there might be a potential short squeeze. I can’t find much people talking about this online and I would love to hear your thoughts esp if I’m overlooking something and I’m going to lose my money","Counter({'BPD': 4, 'SOC': 2, 'OCS': 1})",7,-0.8519,6.887552571664617
+1wikxt2,hot,The AT chart on my second webull account,,75,41,2026-09-17 05:23:59+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wikxt2/the_at_chart_on_my_second_webull_account/,https://i.redd.it/mnvo5aaxm0qh1.jpeg,The AT chart on my second webull account,Counter(),0,0.0,8.068402958569699
+1wijegq,hot,Reminiscing 😢,,10008,125,2026-09-17 04:04:59+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wijegq/reminiscing/,https://i.redd.it/aqcxlaxt80qh1.jpeg,Reminiscing 😢,Counter(),0,0.0,14.047521874170496
 1wigxuy,hot,A little inspo for you degens,"I'm not sure why my original post was taken down, but I'm proud of myself and my journey so I want to try again. 
 
 I live in LA. About 1.5 years ago, my coworker purchased a $1.3M house. The only reason she could do that was through the help of her mom. I felt like I'd never be able to afford a house with my current salary. Then, I discovered this subreddit...and options trading. 
@@ -467,7 +624,7 @@ At first, things were going great. I was seeing massive gains in such a short pe
 
 I felt stuck and thought the only way to make back the money I lost was through more options trading. With some risky plays and pure luck, I finally broke even today. Decided to be a 🌈🐻 and buy puts on QQQ, RDDT, SPCX, CRWV, and NBIS. 
 
-I THINK I learned my lesson. Going to take a break from options and maybe switch to shares. I have a gambling addiction and I should stop while I'm up. ",71,49,2026-09-17 02:06:40+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wigxuy/a_little_inspo_for_you_degens/,https://www.reddit.com/gallery/1wigxuy,"A little inspo for you degens I'm not sure why my original post was taken down, but I'm proud of myself and my journey so I want to try again. 
+I THINK I learned my lesson. Going to take a break from options and maybe switch to shares. I have a gambling addiction and I should stop while I'm up. ",77,49,2026-09-17 02:06:40+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wigxuy/a_little_inspo_for_you_degens/,https://www.reddit.com/gallery/1wigxuy,"A little inspo for you degens I'm not sure why my original post was taken down, but I'm proud of myself and my journey so I want to try again. 
 
 I live in LA. About 1.5 years ago, my coworker purchased a $1.3M house. The only reason she could do that was through the help of her mom. I felt like I'd never be able to afford a house with my current salary. Then, I discovered this subreddit...and options trading. 
 
@@ -475,12 +632,12 @@ At first, things were going great. I was seeing massive gains in such a short pe
 
 I felt stuck and thought the only way to make back the money I lost was through more options trading. With some risky plays and pure luck, I finally broke even today. Decided to be a 🌈🐻 and buy puts on QQQ, RDDT, SPCX, CRWV, and NBIS. 
 
-I THINK I learned my lesson. Going to take a break from options and maybe switch to shares. I have a gambling addiction and I should stop while I'm up.","Counter({'QQQ': 1, 'RDDT': 1, 'SPCX': 1, 'CRWV': 1, 'NBIS': 1, 'THINK': 1})",6,0.8472,8.1886891244442
+I THINK I learned my lesson. Going to take a break from options and maybe switch to shares. I have a gambling addiction and I should stop while I'm up.","Counter({'QQQ': 1, 'RDDT': 1, 'SPCX': 1, 'CRWV': 1, 'NBIS': 1, 'THINK': 1})",6,0.8472,8.268731832117737
 1wifi7s,hot,Round trip on GRPN,"Just kept adding. Could have traded better? Sure. But I’m investing and glad I can put more $ to work.
 
-Queue the company is dead comments…",29,11,2026-09-17 01:02:58+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wifi7s/round_trip_on_grpn/,https://i.redd.it/pq0s71tcczph1.jpeg,"Round trip on GRPN Just kept adding. Could have traded better? Sure. But I’m investing and glad I can put more $ to work.
+Queue the company is dead comments…",26,11,2026-09-17 01:02:58+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wifi7s/round_trip_on_grpn/,https://i.redd.it/pq0s71tcczph1.jpeg,"Round trip on GRPN Just kept adding. Could have traded better? Sure. But I’m investing and glad I can put more $ to work.
 
-Queue the company is dead comments…",Counter({'GRPN': 1}),1,-0.09,5.886104031450156
+Queue the company is dead comments…",Counter({'GRPN': 1}),1,-0.09,5.780743515792329
 1wiee0j,hot,"Canadian regard reaches enlightenment, cashes out a milly and diversifies into a 2 stock portfolio. TNZ and LAC (on margin lol)","Hit right arrow for more details. Link to first post: [https://www.reddit.com/r/wallstreetbets/comments/1s0m2y8/canadian\_regard\_swing\_trades\_and\_twice\_all\_ins/](https://www.reddit.com/r/wallstreetbets/comments/1s0m2y8/canadian_regard_swing_trades_and_twice_all_ins/)
 
 Good news everyone! I'm still in the game after surviving Trumps market manipulation of the energy markets in the summer. It was a relentless news cycle barrage of a 100 peace deals like nobody's ever seen before which tanked my position from $68 to $45 per share. This resulted in a down swing of $874K CAD pesos but I didn't panic sell and didn't lose a minute of sleep over it because I knew that the best energy stock on the TSX for the past 3 years wouldn't stay down for long. Vindication has arrived for me but not for the regards taunting me with their $30 targets in the summer as it currently sits in the $70s and sometime next year will join the triple digit club, now that's what you call diamond hands. 💎🙌
@@ -489,7 +646,7 @@ I also refused to believe based on Trumps character and past that he would actua
 
 My exit strategy is to sell half of TNZ position towards the end of 2027 for the following reasons: I want to profit from the organic growth the company is currently executing through the drilling and work over program which will increase production by 50%. I also can't ignore this teams track record and realize that another non dilutive acquisition could be announced any day that will greatly enrich shareholders once again. Lastly, because of the company's success it is a massive buyout target and a large premium offer could be around the corner so I will continue to hold my position especially since energy is safety and leveraged gains in war-time. Please don't tell me to sell everything now and go into ETFs like last time because I will just laugh at you. That's going nowhere in a world where oil is $104 and the 10y is 5% and the FED is hiking rates. I'm here to make money, not lose it.
 
-In 2028, I will have 19k shares remaining and plan to repeat the same playbook which is to sell half and let the rest of it ride until Tenaz story finishes. This will happen either through a corporate merger buyout or the achievement of its top future production targets and share price in both of these scenarios is well north of $100. My LAC position is currently underwater but I hold it with confidence and expect to profit $1M+ on it within the next 36 months as they transition from construction phase to start of revenues via lithium mining . It is possible that I double down on the bet next year as I believe that alternative energy will be next to boom, especially green energy, after Trump causes an energy crisis worse than 1979 which hands Democrats the next election. Not financial advice, do your own DD.",679,207,2026-09-17 00:13:29+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wiee0j/canadian_regard_reaches_enlightenment_cashes_out/,https://www.reddit.com/gallery/1wiee0j,"Canadian regard reaches enlightenment, cashes out a milly and diversifies into a 2 stock portfolio. TNZ and LAC (on margin lol) Hit right arrow for more details. Link to first post: [https://www.reddit.com/r/wallstreetbets/comments/1s0m2y8/canadian\_regard\_swing\_trades\_and\_twice\_all\_ins/](https://www.reddit.com/r/wallstreetbets/comments/1s0m2y8/canadian_regard_swing_trades_and_twice_all_ins/)
+In 2028, I will have 19k shares remaining and plan to repeat the same playbook which is to sell half and let the rest of it ride until Tenaz story finishes. This will happen either through a corporate merger buyout or the achievement of its top future production targets and share price in both of these scenarios is well north of $100. My LAC position is currently underwater but I hold it with confidence and expect to profit $1M+ on it within the next 36 months as they transition from construction phase to start of revenues via lithium mining . It is possible that I double down on the bet next year as I believe that alternative energy will be next to boom, especially green energy, after Trump causes an energy crisis worse than 1979 which hands Democrats the next election. Not financial advice, do your own DD.",705,215,2026-09-17 00:13:29+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wiee0j/canadian_regard_reaches_enlightenment_cashes_out/,https://www.reddit.com/gallery/1wiee0j,"Canadian regard reaches enlightenment, cashes out a milly and diversifies into a 2 stock portfolio. TNZ and LAC (on margin lol) Hit right arrow for more details. Link to first post: [https://www.reddit.com/r/wallstreetbets/comments/1s0m2y8/canadian\_regard\_swing\_trades\_and\_twice\_all\_ins/](https://www.reddit.com/r/wallstreetbets/comments/1s0m2y8/canadian_regard_swing_trades_and_twice_all_ins/)
 
 Good news everyone! I'm still in the game after surviving Trumps market manipulation of the energy markets in the summer. It was a relentless news cycle barrage of a 100 peace deals like nobody's ever seen before which tanked my position from $68 to $45 per share. This resulted in a down swing of $874K CAD pesos but I didn't panic sell and didn't lose a minute of sleep over it because I knew that the best energy stock on the TSX for the past 3 years wouldn't stay down for long. Vindication has arrived for me but not for the regards taunting me with their $30 targets in the summer as it currently sits in the $70s and sometime next year will join the triple digit club, now that's what you call diamond hands. 💎🙌
 
@@ -497,21 +654,21 @@ I also refused to believe based on Trumps character and past that he would actua
 
 My exit strategy is to sell half of TNZ position towards the end of 2027 for the following reasons: I want to profit from the organic growth the company is currently executing through the drilling and work over program which will increase production by 50%. I also can't ignore this teams track record and realize that another non dilutive acquisition could be announced any day that will greatly enrich shareholders once again. Lastly, because of the company's success it is a massive buyout target and a large premium offer could be around the corner so I will continue to hold my position especially since energy is safety and leveraged gains in war-time. Please don't tell me to sell everything now and go into ETFs like last time because I will just laugh at you. That's going nowhere in a world where oil is $104 and the 10y is 5% and the FED is hiking rates. I'm here to make money, not lose it.
 
-In 2028, I will have 19k shares remaining and plan to repeat the same playbook which is to sell half and let the rest of it ride until Tenaz story finishes. This will happen either through a corporate merger buyout or the achievement of its top future production targets and share price in both of these scenarios is well north of $100. My LAC position is currently underwater but I hold it with confidence and expect to profit $1M+ on it within the next 36 months as they transition from construction phase to start of revenues via lithium mining . It is possible that I double down on the bet next year as I believe that alternative energy will be next to boom, especially green energy, after Trump causes an energy crisis worse than 1979 which hands Democrats the next election. Not financial advice, do your own DD.","Counter({'TNZ': 2, 'LAC': 2, 'CAD': 1, 'TSX': 1, 'MOU': 1, 'FED': 1})",8,0.9985,11.85963087787147
-1wibl58,hot,Bad Hood,Bought HOOD during the recent pump. Did I buy the top?,65,39,2026-09-16 22:14:09+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wibl58/bad_hood/,https://i.redd.it/flfbmzj8iyph1.jpeg,Bad Hood Bought HOOD during the recent pump. Did I buy the top?,Counter({'HOOD': 1}),1,-0.4019,7.878534196140361
+In 2028, I will have 19k shares remaining and plan to repeat the same playbook which is to sell half and let the rest of it ride until Tenaz story finishes. This will happen either through a corporate merger buyout or the achievement of its top future production targets and share price in both of these scenarios is well north of $100. My LAC position is currently underwater but I hold it with confidence and expect to profit $1M+ on it within the next 36 months as they transition from construction phase to start of revenues via lithium mining . It is possible that I double down on the bet next year as I believe that alternative energy will be next to boom, especially green energy, after Trump causes an energy crisis worse than 1979 which hands Democrats the next election. Not financial advice, do your own DD.","Counter({'TNZ': 2, 'LAC': 2, 'CAD': 1, 'TSX': 1, 'MOU': 1, 'FED': 1})",8,0.9985,11.934893645177407
+1wibl58,hot,Bad Hood,Bought HOOD during the recent pump. Did I buy the top?,70,39,2026-09-16 22:14:09+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wibl58/bad_hood/,https://i.redd.it/flfbmzj8iyph1.jpeg,Bad Hood Bought HOOD during the recent pump. Did I buy the top?,Counter({'HOOD': 1}),1,-0.4019,7.951559331155252
 1wiaih4,hot,886k in on TNDM!,"1. Vaccines cause the beetus? Idk maybe.  
 2. Tubeless pump fda approved before eoy(check out what happened to bbnx when they announced theirs). Approval of this will open a whole new market.   
 3. Fantastic q2 earnings w/ their pay-go system as well as sales.   
 4. There has never been a gain in September since this stock went public, so buy now while it’s still cheap!   
 5.  Matt Mikisik analyst who specializes in healthcare medical devices has a 85% profitability rating on his stocks gave this $55 price target. 
 
-Can you tell I’m not using ai to post this? ",42,23,2026-09-16 21:31:20+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wiaih4/886k_in_on_tndm/,https://www.reddit.com/gallery/1wiaih4,"886k in on TNDM! 1. Vaccines cause the beetus? Idk maybe.  
+Can you tell I’m not using ai to post this? ",41,23,2026-09-16 21:31:20+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wiaih4/886k_in_on_tndm/,https://www.reddit.com/gallery/1wiaih4,"886k in on TNDM! 1. Vaccines cause the beetus? Idk maybe.  
 2. Tubeless pump fda approved before eoy(check out what happened to bbnx when they announced theirs). Approval of this will open a whole new market.   
 3. Fantastic q2 earnings w/ their pay-go system as well as sales.   
 4. There has never been a gain in September since this stock went public, so buy now while it’s still cheap!   
 5.  Matt Mikisik analyst who specializes in healthcare medical devices has a 85% profitability rating on his stocks gave this $55 price target. 
 
-Can you tell I’m not using ai to post this?",Counter({'TNDM': 1}),1,0.8877,6.939253946041508
+Can you tell I’m not using ai to post this?",Counter({'TNDM': 1}),1,0.8877,6.915723448631314
 1wi9yd4,hot,$531K SOUN YOLO + DD,"Ok folks, I'm gonna do my best at a write up, as I've been asked to in DMs by the few people who've followed me into the breach here. First off, I want to address two things, 1. Yes I purchased LivePerson shares originally believing in that company and now hold SOUN shares as the combined company and 2. I'm down on my investment on paper, though less so than one may think due to DCA and other things.
 
 Also, for the sake of my own sanity, however ironic considering my own investment choice in an AI company, I'm not going to use AI for this write up (just the TLDR). I'm just a guy typing on a broken iphone 15 with too much conviction in one company.
@@ -531,7 +688,7 @@ SOUN had a share price over $20 last year on industry specific booms in optimism
 
 At the end of the day, the whole AI boom is eerily reminiscent of booms we've seen before. But for as many dot com failures as we had, we still got Amazon. And maybe selling shovels is smart, but when everyone is focused on selling shovels there's no one left mining for gold. Soundhound sits at the crux of a technological revolution, poised to take full advantage of its now dominate lead thanks to LivePerson.
 
-As always everything here is just my opinion and does not in any way constitute financial advice. I just like the stock.",41,51,2026-09-16 21:09:55+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi9yd4/531k_soun_yolo_dd/,https://www.reddit.com/gallery/1wi9yd4,"$531K SOUN YOLO + DD Ok folks, I'm gonna do my best at a write up, as I've been asked to in DMs by the few people who've followed me into the breach here. First off, I want to address two things, 1. Yes I purchased LivePerson shares originally believing in that company and now hold SOUN shares as the combined company and 2. I'm down on my investment on paper, though less so than one may think due to DCA and other things.
+As always everything here is just my opinion and does not in any way constitute financial advice. I just like the stock.",45,51,2026-09-16 21:09:55+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi9yd4/531k_soun_yolo_dd/,https://www.reddit.com/gallery/1wi9yd4,"$531K SOUN YOLO + DD Ok folks, I'm gonna do my best at a write up, as I've been asked to in DMs by the few people who've followed me into the breach here. First off, I want to address two things, 1. Yes I purchased LivePerson shares originally believing in that company and now hold SOUN shares as the combined company and 2. I'm down on my investment on paper, though less so than one may think due to DCA and other things.
 
 Also, for the sake of my own sanity, however ironic considering my own investment choice in an AI company, I'm not going to use AI for this write up (just the TLDR). I'm just a guy typing on a broken iphone 15 with too much conviction in one company.
 
@@ -550,19 +707,19 @@ SOUN had a share price over $20 last year on industry specific booms in optimism
 
 At the end of the day, the whole AI boom is eerily reminiscent of booms we've seen before. But for as many dot com failures as we had, we still got Amazon. And maybe selling shovels is smart, but when everyone is focused on selling shovels there's no one left mining for gold. Soundhound sits at the crux of a technological revolution, poised to take full advantage of its now dominate lead thanks to LivePerson.
 
-As always everything here is just my opinion and does not in any way constitute financial advice. I just like the stock.","Counter({'SOUN': 10, 'OASYS': 2, 'DCA': 1, 'MONEY': 1})",14,0.9951,7.688913336864796
-1wi9q86,hot,How do I recover since my refund was denied?,Few days earlier I posted loss porn and I would like to post on gain porn (in future) as well. My account was deficit so I deposited enough to cover and now deficit again. Do I need to sell all these stocks and fresh start? ,701,316,2026-09-16 21:01:26+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi9q86/how_do_i_recover_since_my_refund_was_denied/,https://i.redd.it/u3iu3be95yph1.jpeg,How do I recover since my refund was denied? Few days earlier I posted loss porn and I would like to post on gain porn (in future) as well. My account was deficit so I deposited enough to cover and now deficit again. Do I need to sell all these stocks and fresh start?,Counter(),0,-0.168,12.312835177903091
-1wi87nj,hot,Thank you Kevin Warsh,Thought stocks only went up 🚀😔. I guess Analyst PT raise means Stock down📉,267,141,2026-09-16 20:05:15+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi87nj/thank_you_kevin_warsh/,https://www.reddit.com/gallery/1wi87nj,Thank you Kevin Warsh Thought stocks only went up 🚀😔. I guess Analyst PT raise means Stock down📉,Counter(),0,0.3612,10.546814038112117
-1wi833y,hot,"What Are Your Moves Tomorrow, September 17, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wi833y),100,7470,2026-09-16 20:00:40+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi833y/what_are_your_moves_tomorrow_september_17_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wi833y/what_are_your_moves_tomorrow_september_17_2026/,"What Are Your Moves Tomorrow, September 17, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wi833y)",Counter(),0,-0.2411,13.53390465481706
+As always everything here is just my opinion and does not in any way constitute financial advice. I just like the stock.","Counter({'SOUN': 10, 'OASYS': 2, 'DCA': 1, 'MONEY': 1})",14,0.9951,7.779885115070522
+1wi9q86,hot,How do I recover since my refund was denied?,Few days earlier I posted loss porn and I would like to post on gain porn (in future) as well. My account was deficit so I deposited enough to cover and now deficit again. Do I need to sell all these stocks and fresh start? ,717,319,2026-09-16 21:01:26+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi9q86/how_do_i_recover_since_my_refund_was_denied/,https://i.redd.it/u3iu3be95yph1.jpeg,How do I recover since my refund was denied? Few days earlier I posted loss porn and I would like to post on gain porn (in future) as well. My account was deficit so I deposited enough to cover and now deficit again. Do I need to sell all these stocks and fresh start?,Counter(),0,-0.168,12.344790564841997
+1wi87nj,hot,Thank you Kevin Warsh,Thought stocks only went up 🚀😔. I guess Analyst PT raise means Stock down📉,264,140,2026-09-16 20:05:15+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi87nj/thank_you_kevin_warsh/,https://www.reddit.com/gallery/1wi87nj,Thank you Kevin Warsh Thought stocks only went up 🚀😔. I guess Analyst PT raise means Stock down📉,Counter(),0,0.3612,10.52848971636439
+1wi833y,hot,"What Are Your Moves Tomorrow, September 17, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wi833y),106,7432,2026-09-16 20:00:40+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi833y/what_are_your_moves_tomorrow_september_17_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wi833y/what_are_your_moves_tomorrow_september_17_2026/,"What Are Your Moves Tomorrow, September 17, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wi833y)",Counter(),0,-0.2411,13.5865136591872
 1wi7s46,hot,HOLY STRESSFUL,"I don't know how you regards diamond hands this shit, I was stressing staring at the SPY chart for an hour straight. Almost pulled the trigger and sold for a small gain like 4 times but I convinced myself that if SPY wasn't down around %1 it wasn't worth it.
 
-Had a good call on what I thought the days bottom was and got out near the top",247,76,2026-09-16 19:49:40+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi7s46/holy_stressful/,https://www.reddit.com/gallery/1wi7s46,"HOLY STRESSFUL I don't know how you regards diamond hands this shit, I was stressing staring at the SPY chart for an hour straight. Almost pulled the trigger and sold for a small gain like 4 times but I convinced myself that if SPY wasn't down around %1 it wasn't worth it.
+Had a good call on what I thought the days bottom was and got out near the top",250,78,2026-09-16 19:49:40+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi7s46/holy_stressful/,https://www.reddit.com/gallery/1wi7s46,"HOLY STRESSFUL I don't know how you regards diamond hands this shit, I was stressing staring at the SPY chart for an hour straight. Almost pulled the trigger and sold for a small gain like 4 times but I convinced myself that if SPY wasn't down around %1 it wasn't worth it.
 
-Had a good call on what I thought the days bottom was and got out near the top","Counter({'SPY': 2, 'HOLY': 1})",3,0.7983,9.857234168018667
-1wi6aya,hot,Quick in and out - 5.9K gain on DELL short,,161,33,2026-09-16 18:57:01+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi6aya/quick_in_and_out_59k_gain_on_dell_short/,https://i.redd.it/f34um8a2jxph1.jpeg,Quick in and out - 5.9K gain on DELL short,Counter({'DELL': 1}),1,0.5267,8.613956859848546
-1wi4s45,hot,"Fed approves interest rate hike, signals one more to come this year",,11377,1169,2026-09-16 18:03:03+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi4s45/fed_approves_interest_rate_hike_signals_one_more/,https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard,"Fed approves interest rate hike, signals one more to come this year",Counter(),0,0.6908,16.404195973102397
-1wi4c79,hot,"Hyperscaler debt signals warning sign, Apollo cautions",,853,112,2026-09-16 17:47:17+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi4c79/hyperscaler_debt_signals_warning_sign_apollo/,https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html,"Hyperscaler debt signals warning sign, Apollo cautions",Counter(),0,-0.5994,11.47731901250091
-1wi3770,hot,Rate cutters get stitches,,3061,200,2026-09-16 17:06:48+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi3770/rate_cutters_get_stitches/,https://i.redd.it/5dx4r0gezwph1.jpeg,Rate cutters get stitches,Counter(),0,0.0,13.330128484276704
+Had a good call on what I thought the days bottom was and got out near the top","Counter({'SPY': 2, 'HOLY': 1})",3,0.7983,9.894900791598804
+1wi6aya,hot,Quick in and out - 5.9K gain on DELL short,,165,33,2026-09-16 18:57:01+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi6aya/quick_in_and_out_59k_gain_on_dell_short/,https://i.redd.it/f34um8a2jxph1.jpeg,Quick in and out - 5.9K gain on DELL short,Counter({'DELL': 1}),1,0.5267,8.638348312972706
+1wi4s45,hot,"Fed approves interest rate hike, signals one more to come this year",,11405,1160,2026-09-16 18:03:03+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi4s45/fed_approves_interest_rate_hike_signals_one_more/,https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard,"Fed approves interest rate hike, signals one more to come this year",Counter(),0,0.6908,16.398931793414377
+1wi4c79,hot,"Hyperscaler debt signals warning sign, Apollo cautions",,856,112,2026-09-16 17:47:17+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi4c79/hyperscaler_debt_signals_warning_sign_apollo/,https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html,"Hyperscaler debt signals warning sign, Apollo cautions",Counter(),0,-0.5994,11.48082573731012
+1wi3770,hot,Rate cutters get stitches,,3097,200,2026-09-16 17:06:48+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi3770/rate_cutters_get_stitches/,https://i.redd.it/5dx4r0gezwph1.jpeg,Rate cutters get stitches,Counter(),0,0.0,13.34181692903589
 1wi15b0,hot,How do I make free money arbing the FOMC in 2 hours,"FedWatch ( [https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html) ) has a 25bps rate hike priced at 90.7% meanwhile Polymarket is showing 88%.  
   
 Even better, no change is 9.3% on FedWatch and Polymarket is 12%, or a 30% difference.  
@@ -571,7 +728,7 @@ Does anyone know how to arb this trade? Where does FedWatch get it's data from? 
   
 someone please answer me fast before FOMC in 2 hours  
   
-proof of price atp attached.",216,113,2026-09-16 15:54:18+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi15b0/how_do_i_make_free_money_arbing_the_fomc_in_2/,https://www.reddit.com/gallery/1wi15b0,"How do I make free money arbing the FOMC in 2 hours FedWatch ( [https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html) ) has a 25bps rate hike priced at 90.7% meanwhile Polymarket is showing 88%.  
+proof of price atp attached.",223,113,2026-09-16 15:54:18+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wi15b0/how_do_i_make_free_money_arbing_the_fomc_in_2/,https://www.reddit.com/gallery/1wi15b0,"How do I make free money arbing the FOMC in 2 hours FedWatch ( [https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html) ) has a 25bps rate hike priced at 90.7% meanwhile Polymarket is showing 88%.  
   
 Even better, no change is 9.3% on FedWatch and Polymarket is 12%, or a 30% difference.  
   
@@ -579,7 +736,7 @@ Does anyone know how to arb this trade? Where does FedWatch get it's data from? 
   
 someone please answer me fast before FOMC in 2 hours  
   
-proof of price atp attached.",Counter({'FOMC': 2}),2,0.8534,10.116095801934955
+proof of price atp attached.",Counter({'FOMC': 2}),2,0.8534,10.147844500249535
 1whzj80,hot,DD: $DXYZ is the cleanest way to front-run the Anthropic IPO,"Alright fellow regards, here's the thesis:
 
 DXYZ's last reported NAV was $34.30/share.
@@ -624,7 +781,7 @@ POSITIONS:
 
 
 
-DYOR",133,120,2026-09-16 14:55:14+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whzj80/dd_dxyz_is_the_cleanest_way_to_frontrun_the/,https://www.reddit.com/r/wallstreetbets/comments/1whzj80/dd_dxyz_is_the_cleanest_way_to_frontrun_the/,"DD: $DXYZ is the cleanest way to front-run the Anthropic IPO Alright fellow regards, here's the thesis:
+DYOR",135,121,2026-09-16 14:55:14+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whzj80/dd_dxyz_is_the_cleanest_way_to_frontrun_the/,https://www.reddit.com/r/wallstreetbets/comments/1whzj80/dd_dxyz_is_the_cleanest_way_to_frontrun_the/,"DD: $DXYZ is the cleanest way to front-run the Anthropic IPO Alright fellow regards, here's the thesis:
 
 DXYZ's last reported NAV was $34.30/share.
 
@@ -668,8 +825,8 @@ POSITIONS:
 
 
 
-DYOR","Counter({'DXYZ': 10, 'DYOR': 1})",11,0.9396,9.693630345547653
-1whyyyd,hot,No way out,,8820,582,2026-09-16 14:34:02+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whyyyd/no_way_out/,https://i.redd.it/xhjehio18wph1.jpeg,No way out,Counter(),0,-0.296,15.45307770760926
+DYOR","Counter({'DXYZ': 10, 'DYOR': 1})",11,0.9396,9.716675930469309
+1whyyyd,hot,No way out,,8959,586,2026-09-16 14:34:02+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whyyyd/no_way_out/,https://i.redd.it/xhjehio18wph1.jpeg,No way out,Counter(),0,-0.296,15.475550325797073
 1whwf4i,hot,"AUR is worth $13B. KDK is worth $750M. Both run driverless semis, and KDK targets highway driver out in December... ($KDK DD)","**Positions:** 50,000 shares at $3.90 - will hold to a $5bn - $10bn market cap
 
 [Loaded to a full tittie](https://preview.redd.it/5h5huu74qvph1.jpg?width=1080&format=pjpg&auto=webp&s=9607e7091dac3c2e6e5acc26a08e5c86314453be)
@@ -867,7 +1024,7 @@ Now you get to read about how it could implode
 
 **2. A raise is coming.** $151M cash against $160M a year of burn, funded into Q2 2027. My guess = they raise into strength off the driver-out launch in Dec
 
-**3. The share count.** From the June 10-Q: 52.1M options and 4.1M unvested RSUs, 30.6M preferred common equivalents, 79.6M warrants, 75M legacy earn-out shares at $18/$23/$28 and a 6.25M sponsor earn-out at $18. Nothing disastrous here however",103,124,2026-09-16 12:54:03+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whwf4i/aur_is_worth_13b_kdk_is_worth_750m_both_run/,https://www.reddit.com/r/wallstreetbets/comments/1whwf4i/aur_is_worth_13b_kdk_is_worth_750m_both_run/,"AUR is worth $13B. KDK is worth $750M. Both run driverless semis, and KDK targets highway driver out in December... ($KDK DD) **Positions:** 50,000 shares at $3.90 - will hold to a $5bn - $10bn market cap
+**3. The share count.** From the June 10-Q: 52.1M options and 4.1M unvested RSUs, 30.6M preferred common equivalents, 79.6M warrants, 75M legacy earn-out shares at $18/$23/$28 and a 6.25M sponsor earn-out at $18. Nothing disastrous here however",106,124,2026-09-16 12:54:03+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whwf4i/aur_is_worth_13b_kdk_is_worth_750m_both_run/,https://www.reddit.com/r/wallstreetbets/comments/1whwf4i/aur_is_worth_13b_kdk_is_worth_750m_both_run/,"AUR is worth $13B. KDK is worth $750M. Both run driverless semis, and KDK targets highway driver out in December... ($KDK DD) **Positions:** 50,000 shares at $3.90 - will hold to a $5bn - $10bn market cap
 
 [Loaded to a full tittie](https://preview.redd.it/5h5huu74qvph1.jpg?width=1080&format=pjpg&auto=webp&s=9607e7091dac3c2e6e5acc26a08e5c86314453be)
 
@@ -1064,24 +1221,24 @@ Now you get to read about how it could implode
 
 **2. A raise is coming.** $151M cash against $160M a year of burn, funded into Q2 2027. My guess = they raise into strength off the driver-out launch in Dec
 
-**3. The share count.** From the June 10-Q: 52.1M options and 4.1M unvested RSUs, 30.6M preferred common equivalents, 79.6M warrants, 75M legacy earn-out shares at $18/$23/$28 and a 6.25M sponsor earn-out at $18. Nothing disastrous here however","Counter({'OEM': 12, 'KDK': 11, 'AUR': 11, 'ARR': 3, 'FMCSA': 2, 'AESI': 1, 'ATA': 1, 'SVP': 1, 'IKEA': 1, 'ROGUE': 1, 'DIU': 1, 'ROADS': 1})",46,0.9987,9.472704636443673
+**3. The share count.** From the June 10-Q: 52.1M options and 4.1M unvested RSUs, 30.6M preferred common equivalents, 79.6M warrants, 75M legacy earn-out shares at $18/$23/$28 and a 6.25M sponsor earn-out at $18. Nothing disastrous here however","Counter({'OEM': 12, 'KDK': 11, 'AUR': 11, 'ARR': 3, 'FMCSA': 2, 'AESI': 1, 'ATA': 1, 'SVP': 1, 'IKEA': 1, 'ROGUE': 1, 'DIU': 1, 'ROADS': 1})",46,0.9987,9.501142571764207
 1whtiul,hot,"SK Hynix in talks with Intel about deal to make memory chips in US for the first time, sources say","[https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/](https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/)
 
-thinking of buying 0dte for both tbh...in n out or maybe monthlies lol",346,45,2026-09-16 10:34:59+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whtiul/sk_hynix_in_talks_with_intel_about_deal_to_make/,https://www.reddit.com/r/wallstreetbets/comments/1whtiul/sk_hynix_in_talks_with_intel_about_deal_to_make/,"SK Hynix in talks with Intel about deal to make memory chips in US for the first time, sources say [https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/](https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/)
+thinking of buying 0dte for both tbh...in n out or maybe monthlies lol",350,45,2026-09-16 10:34:59+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whtiul/sk_hynix_in_talks_with_intel_about_deal_to_make/,https://www.reddit.com/r/wallstreetbets/comments/1whtiul/sk_hynix_in_talks_with_intel_about_deal_to_make/,"SK Hynix in talks with Intel about deal to make memory chips in US for the first time, sources say [https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/](https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/)
 
-thinking of buying 0dte for both tbh...in n out or maybe monthlies lol",Counter(),0,0.4215,9.677966176435955
-1whswko,hot,"Daily Discussion Thread for September 16, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1whswko),149,15738,2026-09-16 10:00:40+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whswko/daily_discussion_thread_for_september_16_2026/,https://www.reddit.com/r/wallstreetbets/comments/1whswko/daily_discussion_thread_for_september_16_2026/,"Daily Discussion Thread for September 16, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1whswko)",Counter(),0,-0.2411,14.674532281647856
+thinking of buying 0dte for both tbh...in n out or maybe monthlies lol",Counter(),0,0.4215,9.68942761995496
+1whswko,hot,"Daily Discussion Thread for September 16, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1whswko),150,15706,2026-09-16 10:00:40+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whswko/daily_discussion_thread_for_september_16_2026/,https://www.reddit.com/r/wallstreetbets/comments/1whswko/daily_discussion_thread_for_september_16_2026/,"Daily Discussion Thread for September 16, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1whswko)",Counter(),0,-0.2411,14.679141588657956
 1whq51s,hot,What changed do you see from the Fed meeting tomorrow ?,"https://preview.redd.it/7s35c66d2uph1.png?width=713&format=png&auto=webp&s=f060606923c99f32b8edf16765f5f0be6127dcdc
 
 So, what do we think the outcome of tomorrow’s Fed meeting will be? Do you think it’ll play out like one of these scenarios, or do you think something else happens?
 
-My guess is they don’t raise rates, and we drop hard.",237,181,2026-09-16 07:19:14+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whq51s/what_changed_do_you_see_from_the_fed_meeting/,https://www.reddit.com/r/wallstreetbets/comments/1whq51s/what_changed_do_you_see_from_the_fed_meeting/,"What changed do you see from the Fed meeting tomorrow ? https://preview.redd.it/7s35c66d2uph1.png?width=713&format=png&auto=webp&s=f060606923c99f32b8edf16765f5f0be6127dcdc
+My guess is they don’t raise rates, and we drop hard.",238,180,2026-09-16 07:19:14+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whq51s/what_changed_do_you_see_from_the_fed_meeting/,https://www.reddit.com/r/wallstreetbets/comments/1whq51s/what_changed_do_you_see_from_the_fed_meeting/,"What changed do you see from the Fed meeting tomorrow ? https://preview.redd.it/7s35c66d2uph1.png?width=713&format=png&auto=webp&s=f060606923c99f32b8edf16765f5f0be6127dcdc
 
 So, what do we think the outcome of tomorrow’s Fed meeting will be? Do you think it’ll play out like one of these scenarios, or do you think something else happens?
 
-My guess is they don’t raise rates, and we drop hard.",Counter(),0,0.5204,10.67627736074827
-1whm90x,hot,CLARITY Bro,I’ve been DCAing since last october when crypto crashed down. I guess I will go back to eating ramen and seeing my parents disown me. ,153,101,2026-09-16 03:51:18+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whm90x/clarity_bro/,https://i.redd.it/jyv2uw8h1tph1.jpeg,CLARITY Bro I’ve been DCAing since last october when crypto crashed down. I guess I will go back to eating ramen and seeing my parents disown me.,Counter(),0,0.5319,9.661925415697901
-1whh1so,hot,Oracle CFO says 'doing more with less' isn't the answer in all-hands after layoffs,,1612,158,2026-09-15 23:54:04+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whh1so/oracle_cfo_says_doing_more_with_less_isnt_the/,https://www.businessinsider.com/oracle-cfo-more-with-less-isnt-the-answer-after-layoffs-2026-9,Oracle CFO says 'doing more with less' isn't the answer in all-hands after layoffs,Counter(),0,0.0,12.454755280345442
+My guess is they don’t raise rates, and we drop hard.",Counter(),0,0.5204,10.674960583197336
+1whm90x,hot,CLARITY Bro,I’ve been DCAing since last october when crypto crashed down. I guess I will go back to eating ramen and seeing my parents disown me. ,157,101,2026-09-16 03:51:18+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whm90x/clarity_bro/,https://i.redd.it/jyv2uw8h1tph1.jpeg,CLARITY Bro I’ve been DCAing since last october when crypto crashed down. I guess I will go back to eating ramen and seeing my parents disown me.,Counter(),0,0.5319,9.687567846311238
+1whh1so,hot,Oracle CFO says 'doing more with less' isn't the answer in all-hands after layoffs,,1620,160,2026-09-15 23:54:04+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whh1so/oracle_cfo_says_doing_more_with_less_isnt_the/,https://www.businessinsider.com/oracle-cfo-more-with-less-isnt-the-answer-after-layoffs-2026-9,Oracle CFO says 'doing more with less' isn't the answer in all-hands after layoffs,Counter(),0,0.0,12.47220288672014
 1whg0t7,hot,It’s never going down,"Tariffs? Calls  
 Oil shortage? Calls  
 Bombing countries? Calls  
@@ -1093,7 +1250,7 @@ Warsh doesn’t show? believe it or not… calls.
 
 You get the point. Had an order for some Qqq but didn’t fill, will be buying them post fomc instead. Got another 20k for some 0dte if (when) this goes sideways
 
-Edit: Sold 1/4 of the Spy cons at .60 (not liking how it’s moving) and 1/3 of the IWM cons at 1.30 ",191,79,2026-09-15 23:10:15+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whg0t7/its_never_going_down/,https://i.redd.it/pi7ajy1cnrph1.jpeg,"It’s never going down Tariffs? Calls  
+Edit: Sold 1/4 of the Spy cons at .60 (not liking how it’s moving) and 1/3 of the IWM cons at 1.30 ",193,80,2026-09-15 23:10:15+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whg0t7/its_never_going_down/,https://i.redd.it/pi7ajy1cnrph1.jpeg,"It’s never going down Tariffs? Calls  
 Oil shortage? Calls  
 Bombing countries? Calls  
 Not bombing countries? Calls  
@@ -1104,8 +1261,8 @@ Warsh doesn’t show? believe it or not… calls.
 
 You get the point. Had an order for some Qqq but didn’t fill, will be buying them post fomc instead. Got another 20k for some 0dte if (when) this goes sideways
 
-Edit: Sold 1/4 of the Spy cons at .60 (not liking how it’s moving) and 1/3 of the IWM cons at 1.30",Counter({'IWM': 1}),1,0.6136,9.639522006701663
-1whb5fy,hot,"What Are Your Moves Tomorrow, September 16, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1whb5fy),107,8001,2026-09-15 20:00:39+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whb5fy/what_are_your_moves_tomorrow_september_16_2026/,https://www.reddit.com/r/wallstreetbets/comments/1whb5fy/what_are_your_moves_tomorrow_september_16_2026/,"What Are Your Moves Tomorrow, September 16, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1whb5fy)",Counter(),0,-0.2411,13.6695780165414
+Edit: Sold 1/4 of the Spy cons at .60 (not liking how it’s moving) and 1/3 of the IWM cons at 1.30",Counter({'IWM': 1}),1,0.6136,9.662307313735766
+1whb5fy,hot,"What Are Your Moves Tomorrow, September 16, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1whb5fy),109,7988,2026-09-15 20:00:39+00:00,https://www.reddit.com/r/wallstreetbets/comments/1whb5fy/what_are_your_moves_tomorrow_september_16_2026/,https://www.reddit.com/r/wallstreetbets/comments/1whb5fy/what_are_your_moves_tomorrow_september_16_2026/,"What Are Your Moves Tomorrow, September 16, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1whb5fy)",Counter(),0,-0.2411,13.68630124027446
 1wh9t53,hot,CLARITY Act Senate vote fails 49–50. Did not reach 60 votes needed to advance,"“Senators voted to reject cloture on the motion to proceed, a step that limits debate on whether to take up the legislation and requires 60 votes.”
 
 “The Clarity Act would establish rules for crypto markets, essentially legalizing most crypto activity in the United States, and clarify the respective responsibilities of the Securities and Exchange Commission and Commodity Futures Trading Commission.”
@@ -1113,20 +1270,20 @@ Edit: Sold 1/4 of the Spy cons at .60 (not liking how it’s moving) and 1/3 of 
 “Tuesday's result effectively blocks further consideration of the Clarity Act in the Senate.”
 
 [Adding a source since I was watching it live](https://www.yahoo.com/news/politics/articles/clarity-act-stalls-senate-crypto-185410147.html)  
-[\#2](https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/)",7798,691,2026-09-15 19:12:11+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wh9t53/clarity_act_senate_vote_fails_4950_did_not_reach/,https://i.redd.it/orymy90vgqph1.jpeg,"CLARITY Act Senate vote fails 49–50. Did not reach 60 votes needed to advance “Senators voted to reject cloture on the motion to proceed, a step that limits debate on whether to take up the legislation and requires 60 votes.”
+[\#2](https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/)",7809,692,2026-09-15 19:12:11+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wh9t53/clarity_act_senate_vote_fails_4950_did_not_reach/,https://i.redd.it/orymy90vgqph1.jpeg,"CLARITY Act Senate vote fails 49–50. Did not reach 60 votes needed to advance “Senators voted to reject cloture on the motion to proceed, a step that limits debate on whether to take up the legislation and requires 60 votes.”
 
 “The Clarity Act would establish rules for crypto markets, essentially legalizing most crypto activity in the United States, and clarify the respective responsibilities of the Securities and Exchange Commission and Commodity Futures Trading Commission.”
 
 “Tuesday's result effectively blocks further consideration of the Clarity Act in the Senate.”
 
 [Adding a source since I was watching it live](https://www.yahoo.com/news/politics/articles/clarity-act-stalls-senate-crypto-185410147.html)  
-[\#2](https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/)",Counter(),0,0.9013,15.501336754948166
+[\#2](https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/)",Counter(),0,0.9013,15.504190242023636
 1wh9cna,hot,RKLB profit (outdated) and maybe the worst fumble of my life simultaneously,"This is outdated as rocket lab dropped to $63, but I haven’t sold and don’t plan to for a long time. Been holding since late 2024 and didn’t want to trim any even though I heavily thought about it at $110. So now I’m only up around $63,000 but diamond hands retards. (I don’t trade anymore because I got smoked in 2024 and stopped completely) I also bought micron at 99 but sold for a fucking loss😂😂 I’ll drop that too in the images.
 
-I love wallstreet bets I’ve been in here since I started investing even though I don’t trade💯",396,137,2026-09-15 18:56:09+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wh9cna/rklb_profit_outdated_and_maybe_the_worst_fumble/,https://www.reddit.com/gallery/1wh9cna,"RKLB profit (outdated) and maybe the worst fumble of my life simultaneously This is outdated as rocket lab dropped to $63, but I haven’t sold and don’t plan to for a long time. Been holding since late 2024 and didn’t want to trim any even though I heavily thought about it at $110. So now I’m only up around $63,000 but diamond hands retards. (I don’t trade anymore because I got smoked in 2024 and stopped completely) I also bought micron at 99 but sold for a fucking loss😂😂 I’ll drop that too in the images.
+I love wallstreet bets I’ve been in here since I started investing even though I don’t trade💯",400,137,2026-09-15 18:56:09+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wh9cna/rklb_profit_outdated_and_maybe_the_worst_fumble/,https://www.reddit.com/gallery/1wh9cna,"RKLB profit (outdated) and maybe the worst fumble of my life simultaneously This is outdated as rocket lab dropped to $63, but I haven’t sold and don’t plan to for a long time. Been holding since late 2024 and didn’t want to trim any even though I heavily thought about it at $110. So now I’m only up around $63,000 but diamond hands retards. (I don’t trade anymore because I got smoked in 2024 and stopped completely) I also bought micron at 99 but sold for a fucking loss😂😂 I’ll drop that too in the images.
 
-I love wallstreet bets I’ve been in here since I started investing even though I don’t trade💯",Counter({'RKLB': 1}),1,0.6547,10.911189965844397
-1wh5x6g,hot,Is Apple the AI Hedge?,"Off late, If NVIDIA & DRAM are the AI bets, Apple turns out to be the AI hedge? Where is smart money moving the money to?",235,88,2026-09-15 16:55:09+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wh5x6g/is_apple_the_ai_hedge/,https://i.redd.it/h0ifk7zcspph1.png,"Is Apple the AI Hedge? Off late, If NVIDIA & DRAM are the AI bets, Apple turns out to be the AI hedge? Where is smart money moving the money to?",Counter({'DRAM': 1}),1,0.5007,9.952468174757751
+I love wallstreet bets I’ve been in here since I started investing even though I don’t trade💯",Counter({'RKLB': 1}),1,0.6547,10.921215112463774
+1wh5x6g,hot,Is Apple the AI Hedge?,"Off late, If NVIDIA & DRAM are the AI bets, Apple turns out to be the AI hedge? Where is smart money moving the money to?",238,88,2026-09-15 16:55:09+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wh5x6g/is_apple_the_ai_hedge/,https://i.redd.it/h0ifk7zcspph1.png,"Is Apple the AI Hedge? Off late, If NVIDIA & DRAM are the AI bets, Apple turns out to be the AI hedge? Where is smart money moving the money to?",Counter({'DRAM': 1}),1,0.5007,9.96509992166365
 1wh375m,hot,Ready for COIN to rippp ahead of senate vote on CLARITY,"UPDATE:  
 Closed out the calls expiring this week as soon as it was impossible to get 60 votes. Clawed back $2.5k. Still holding onto the Nov calls but I'm not sure what happens with them. Will look to sell during next rally. Overall losses: $4.4k. The lesson here is never trust your elected politicians to do anything besides name call, and also that $10k in tendies is still pretty good although nothing to brag about.  
 
@@ -1147,7 +1304,7 @@ Positions:
 
 \- 100 220c 9/18  
 
-\- 5 200c 11/20 (if all goes to plan then I'll exercise these) ",116,126,2026-09-15 15:15:25+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wh375m/ready_for_coin_to_rippp_ahead_of_senate_vote_on/,https://i.redd.it/gfess6dmapph1.jpeg,"Ready for COIN to rippp ahead of senate vote on CLARITY UPDATE:  
+\- 5 200c 11/20 (if all goes to plan then I'll exercise these) ",117,126,2026-09-15 15:15:25+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wh375m/ready_for_coin_to_rippp_ahead_of_senate_vote_on/,https://i.redd.it/gfess6dmapph1.jpeg,"Ready for COIN to rippp ahead of senate vote on CLARITY UPDATE:  
 Closed out the calls expiring this week as soon as it was impossible to get 60 votes. Clawed back $2.5k. Still holding onto the Nov calls but I'm not sure what happens with them. Will look to sell during next rally. Overall losses: $4.4k. The lesson here is never trust your elected politicians to do anything besides name call, and also that $10k in tendies is still pretty good although nothing to brag about.  
 
 
@@ -1167,12 +1324,12 @@ Positions:
 
 \- 100 220c 9/18  
 
-\- 5 200c 11/20 (if all goes to plan then I'll exercise these)","Counter({'COIN': 1, 'NGL': 1, 'AIPAC': 1})",3,0.9638,9.606361021256347
+\- 5 200c 11/20 (if all goes to plan then I'll exercise these)","Counter({'COIN': 1, 'NGL': 1, 'AIPAC': 1})",3,0.9638,9.614871710924255
 1wh1dqr,hot,28k NVDA YOLO. 3 DTE,"Way OOTM. 3 DTE. My entire port. Before a crucial rate decision. Real wallstreetbets style.
 
-Update 9/16: exited for profit today on the first two hours of market open. Might re-enter *small* lottos later this week with the house money ",622,387,2026-09-15 14:06:29+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wh1dqr/28k_nvda_yolo_3_dte/,https://i.redd.it/lnw4zhhbyoph1.jpeg,"28k NVDA YOLO. 3 DTE Way OOTM. 3 DTE. My entire port. Before a crucial rate decision. Real wallstreetbets style.
+Update 9/16: exited for profit today on the first two hours of market open. Might re-enter *small* lottos later this week with the house money ",620,389,2026-09-15 14:06:29+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wh1dqr/28k_nvda_yolo_3_dte/,https://i.redd.it/lnw4zhhbyoph1.jpeg,"28k NVDA YOLO. 3 DTE Way OOTM. 3 DTE. My entire port. Before a crucial rate decision. Real wallstreetbets style.
 
-Update 9/16: exited for profit today on the first two hours of market open. Might re-enter *small* lottos later this week with the house money","Counter({'DTE': 2, 'NVDA': 1, 'OOTM': 1})",4,0.694,12.395551858410727
+Update 9/16: exited for profit today on the first two hours of market open. Might re-enter *small* lottos later this week with the house money","Counter({'DTE': 2, 'NVDA': 1, 'OOTM': 1})",4,0.694,12.397477821057171
 1wgzw7g,hot,$COIN - Fading Clarity Act,"What the title says.
 
 $COIN rallied yesterday as optimism around the CLARITY Act increased after Trump agreed to stronger ethics provisions in the revised bill. Prediction-market odds of the bill becoming law also jumped sharply on the news.  
@@ -1200,8 +1357,8 @@ But we’re also less than two months away from the November midterm elections. 
 So I’m betting on the CLARITY Act failing to clear the Senate procedural hurdle and $COIN selling off on the disappointment.
 
 That’s the trade. Tell me where I’m wrong.",Counter({'COIN': 6}),6,0.8348,9.197255132427527
-1wgzens,hot,Anthropic’s definition of profit (Source: FT),,2810,458,2026-09-15 12:46:25+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgzens/anthropics_definition_of_profit_source_ft/,https://i.redd.it/bm6eon91koph1.jpeg,Anthropic’s definition of profit (Source: FT),Counter(),0,0.4404,14.070345780967077
-1wgxixb,hot,The Ai slowdown does not mean capex slowdown. It's the opposite,"Guys, slowing down AI to build more safeguards around it means that you need MORE AI To audit the other AIs. If anything, this is an exponential increase in capex because one model working on hacking for the CIA (for example) will need other AI models to check that the job is being done properly and against the proper targets and then ai did not go rogue. Only an AI can check another AI, a human could never check and validate that fast. This means more computing power spent to check on main AIs. Nobody said Capex is slowing down, they are saying to slow down the release of new models that could potentially be used for nefarious purposes in order to build the guardrails. 
+1wgzens,hot,Anthropic’s definition of profit (Source: FT),,2822,457,2026-09-15 12:46:25+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgzens/anthropics_definition_of_profit_source_ft/,https://i.redd.it/bm6eon91koph1.jpeg,Anthropic’s definition of profit (Source: FT),Counter(),0,0.4404,14.072424612367675
+1wgxixb,new,The Ai slowdown does not mean capex slowdown. It's the opposite,"Guys, slowing down AI to build more safeguards around it means that you need MORE AI To audit the other AIs. If anything, this is an exponential increase in capex because one model working on hacking for the CIA (for example) will need other AI models to check that the job is being done properly and against the proper targets and then ai did not go rogue. Only an AI can check another AI, a human could never check and validate that fast. This means more computing power spent to check on main AIs. Nobody said Capex is slowing down, they are saying to slow down the release of new models that could potentially be used for nefarious purposes in order to build the guardrails. 
 
 I believe all of this panic is baseless, POs are there, contracts are signed, already booked until 2028-2030. This is an arms race for dominance in this technology, the nuclear/space race did not stop in the 70's because of the oil shock, actually they started printing money and removed the gold standard to save the system (as usual). We are arguably nearing a huge QE event because of the liquidity drain that the Iran war will continue to aggravate. The future is EXTREMELY bullish and inflationary.
 
@@ -1210,16 +1367,16 @@ Please correct me if I am wrong but I am not seeing this race slowing down, quit
 I believe all of this panic is baseless, POs are there, contracts are signed, already booked until 2028-2030. This is an arms race for dominance in this technology, the nuclear/space race did not stop in the 70's because of the oil shock, actually they started printing money and removed the gold standard to save the system (as usual). We are arguably nearing a huge QE event because of the liquidity drain that the Iran war will continue to aggravate. The future is EXTREMELY bullish and inflationary.
 
 Please correct me if I am wrong but I am not seeing this race slowing down, quite the opposite, China just said they are not slowing but accelerating, the USA already declared the AI to be a matter of national security in 2024 or earlier if memory serves me well. Nobody can stop this train. Lastly, debasement/devaluation are inevitable in the future so locking prices now for future delivery is smart as it offsets billions in future costs while revenues will proportionally grow nominally (after the 2008 oil crisis that provoked the great financial crisis, the dollar dropped to 0.6 against the euro, this means international revenue skyrocketed nominally). I also believe the FED will hold because the 10yrs at 5% already means that financial conditions are tightening. Debate me.","Counter({'MORE': 1, 'CIA': 1, 'FED': 1})",3,-0.2071,5.056245805348308
-1wgw1c4,hot,"Daily Discussion Thread for September 15, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wgw1c4),116,9675,2026-09-15 10:00:41+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgw1c4/daily_discussion_thread_for_september_15_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wgw1c4/daily_discussion_thread_for_september_15_2026/,"Daily Discussion Thread for September 15, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wgw1c4)",Counter(),0,-0.2411,13.939577806527675
+1wgw1c4,hot,"Daily Discussion Thread for September 15, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wgw1c4),112,9671,2026-09-15 10:00:41+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgw1c4/daily_discussion_thread_for_september_15_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wgw1c4/daily_discussion_thread_for_september_15_2026/,"Daily Discussion Thread for September 15, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wgw1c4)",Counter(),0,-0.2411,13.90437821100697
 1wgsfp6,hot,Schwab filled 10 SPX options contract $10 cheaper than intrinsic value.,"Schwab bending me over for 10k count as sufficient losses?
 
-7690 puts got filled at $75 with SPX trading between 7595 and 7605.  They wouldn’t cross that threshold for almost another half hour",271,142,2026-09-15 06:27:33+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgsfp6/schwab_filled_10_spx_options_contract_10_cheaper/,https://www.reddit.com/gallery/1wgsfp6,"Schwab filled 10 SPX options contract $10 cheaper than intrinsic value. Schwab bending me over for 10k count as sufficient losses?
+7690 puts got filled at $75 with SPX trading between 7595 and 7605.  They wouldn’t cross that threshold for almost another half hour",272,142,2026-09-15 06:27:33+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgsfp6/schwab_filled_10_spx_options_contract_10_cheaper/,https://www.reddit.com/gallery/1wgsfp6,"Schwab filled 10 SPX options contract $10 cheaper than intrinsic value. Schwab bending me over for 10k count as sufficient losses?
 
-7690 puts got filled at $75 with SPX trading between 7595 and 7605.  They wouldn’t cross that threshold for almost another half hour",Counter({'SPX': 2}),2,-0.0772,10.568646696555906
-1wgnul2,hot,Get rich or die crying 🧨,,349,164,2026-09-15 02:37:18+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgnul2/get_rich_or_die_crying/,https://www.reddit.com/gallery/1wgnul2,Get rich or die crying 🧨,Counter(),0,-0.5267,10.96387862838404
-1wgjhts,hot,1.1M to 150k,"sigh, I used margins last year or October, and this is as of today  ",9750,1310,2026-09-14 23:20:18+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgjhts/11m_to_150k/,https://www.reddit.com/gallery/1wgjhts,"1.1M to 150k sigh, I used margins last year or October, and this is as of today",Counter(),0,0.0258,16.36367060659882
-1wgec81,hot,"What Are Your Moves Tomorrow, September 15, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wgec81),106,6494,2026-09-14 20:00:41+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgec81/what_are_your_moves_tomorrow_september_15_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wgec81/what_are_your_moves_tomorrow_september_15_2026/,"What Are Your Moves Tomorrow, September 15, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wgec81)",Counter(),0,-0.2411,13.451616763566605
-1wgeblo,hot,And you're bearish on Nvidia?,"Trump calls Jensen at the All in Summit. 
+7690 puts got filled at $75 with SPX trading between 7595 and 7605.  They wouldn’t cross that threshold for almost another half hour",Counter({'SPX': 2}),2,-0.0772,10.572316425444868
+1wgnul2,hot,Get rich or die crying 🧨,,352,167,2026-09-15 02:37:18+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgnul2/get_rich_or_die_crying/,https://www.reddit.com/gallery/1wgnul2,Get rich or die crying 🧨,Counter(),0,-0.5267,10.990432036336555
+1wgjhts,hot,1.1M to 150k,"sigh, I used margins last year or October, and this is as of today  ",9800,1317,2026-09-14 23:20:18+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgjhts/11m_to_150k/,https://www.reddit.com/gallery/1wgjhts,"1.1M to 150k sigh, I used margins last year or October, and this is as of today",Counter(),0,0.0258,16.374110415331632
+1wgec81,new,"What Are Your Moves Tomorrow, September 15, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wgec81),101,6492,2026-09-14 20:00:41+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgec81/what_are_your_moves_tomorrow_september_15_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wgec81/what_are_your_moves_tomorrow_september_15_2026/,"What Are Your Moves Tomorrow, September 15, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wgec81)",Counter(),0,-0.2411,13.403452765792757
+1wgeblo,new,And you're bearish on Nvidia?,"Trump calls Jensen at the All in Summit. 
 
 Jensen put Trump on speakerphone.
 
@@ -1230,7 +1387,7 @@ Jensen put Trump on speakerphone.
 https://preview.redd.it/6anz6wpdkjph1.png?width=640&format=png&auto=webp&s=806390613d6f9fcbc6b27b99249078a4873abc80
 
   
-",88,52,2026-09-14 20:00:11+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgeblo/and_youre_bearish_on_nvidia/,https://www.reddit.com/r/wallstreetbets/comments/1wgeblo/and_youre_bearish_on_nvidia/,"And you're bearish on Nvidia? Trump calls Jensen at the All in Summit. 
+",91,52,2026-09-14 20:00:11+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgeblo/and_youre_bearish_on_nvidia/,https://www.reddit.com/r/wallstreetbets/comments/1wgeblo/and_youre_bearish_on_nvidia/,"And you're bearish on Nvidia? Trump calls Jensen at the All in Summit. 
 
 Jensen put Trump on speakerphone.
 
@@ -1238,8 +1395,8 @@ Jensen put Trump on speakerphone.
 
 
 
-https://preview.redd.it/6anz6wpdkjph1.png?width=640&format=png&auto=webp&s=806390613d6f9fcbc6b27b99249078a4873abc80",Counter(),0,0.0,8.458928283284262
-1wgdc0p,hot,About SK and Samsung expansion,"An earlier post referred to SK and Hynix refusing to pay up front KEPCO’s 5 year electricity bill and interpreted it as a refusal to expand production and skepticism towards future demand. 
+https://preview.redd.it/6anz6wpdkjph1.png?width=640&format=png&auto=webp&s=806390613d6f9fcbc6b27b99249078a4873abc80",Counter(),0,0.0,8.492080490601163
+1wgdc0p,new,About SK and Samsung expansion,"An earlier post referred to SK and Hynix refusing to pay up front KEPCO’s 5 year electricity bill and interpreted it as a refusal to expand production and skepticism towards future demand. 
 
 That is a completely wrong interpretation of what is going on - I am sorry but if you want to discuss another country’s economic plan, you should at least learn to read past the headline. I know this is a half shitposting sub but still.
 
@@ -1254,7 +1411,7 @@ SK and Samsung has been expanding their production capacities but mostly just ou
 
 So yes, the consensus amongst S Korea is that SK and Samsung wants to expand capacity, but not in the southwest region of Korea. They have been looking more into GSA or the United States. They don’t want to commit 18 billion dollars into a power grid buildout in a region they do not want to be locked into. 
 
-So yes, the refusal to pay the bills up front say little about how SK and Samsung is anticipating future product demand - it is more about logistics and talent acquisition issue as well as domestic political pressure. ",89,40,2026-09-14 19:25:00+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgdc0p/about_sk_and_samsung_expansion/,https://www.reddit.com/r/wallstreetbets/comments/1wft1t6/sk_and_samsung_cited_uncertainty/?share_id=AJCJ81jFVAJxoaJkq60RU&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=1,"About SK and Samsung expansion An earlier post referred to SK and Hynix refusing to pay up front KEPCO’s 5 year electricity bill and interpreted it as a refusal to expand production and skepticism towards future demand. 
+So yes, the refusal to pay the bills up front say little about how SK and Samsung is anticipating future product demand - it is more about logistics and talent acquisition issue as well as domestic political pressure. ",90,40,2026-09-14 19:25:00+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgdc0p/about_sk_and_samsung_expansion/,https://www.reddit.com/r/wallstreetbets/comments/1wft1t6/sk_and_samsung_cited_uncertainty/?share_id=AJCJ81jFVAJxoaJkq60RU&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=1,"About SK and Samsung expansion An earlier post referred to SK and Hynix refusing to pay up front KEPCO’s 5 year electricity bill and interpreted it as a refusal to expand production and skepticism towards future demand. 
 
 That is a completely wrong interpretation of what is going on - I am sorry but if you want to discuss another country’s economic plan, you should at least learn to read past the headline. I know this is a half shitposting sub but still.
 
@@ -1269,16 +1426,16 @@ SK and Samsung has been expanding their production capacities but mostly just ou
 
 So yes, the consensus amongst S Korea is that SK and Samsung wants to expand capacity, but not in the southwest region of Korea. They have been looking more into GSA or the United States. They don’t want to commit 18 billion dollars into a power grid buildout in a region they do not want to be locked into. 
 
-So yes, the refusal to pay the bills up front say little about how SK and Samsung is anticipating future product demand - it is more about logistics and talent acquisition issue as well as domestic political pressure.","Counter({'KEPCO': 1, 'GSA': 1})",2,0.9928,8.213381737034574
-1wgavui,hot,This is the only time I've managed to do this well.,"https://preview.redd.it/wwf6e4bzyiph1.png?width=766&format=png&auto=webp&s=6bff4561b81e7175d873f455015d1c372c31ca94
+So yes, the refusal to pay the bills up front say little about how SK and Samsung is anticipating future product demand - it is more about logistics and talent acquisition issue as well as domestic political pressure.","Counter({'KEPCO': 1, 'GSA': 1})",2,0.9928,8.224431573221157
+1wgavui,new,This is the only time I've managed to do this well.,"https://preview.redd.it/wwf6e4bzyiph1.png?width=766&format=png&auto=webp&s=6bff4561b81e7175d873f455015d1c372c31ca94
 
 https://preview.redd.it/3n4dhk20ziph1.png?width=773&format=png&auto=webp&s=9bd569cd2bbbc573d3cc25d9c50e3efdf6fb2722
 
-I've tried this a few times, only pulled it off once. An hour later they hit $2.50, but you got to take your wins.",112,23,2026-09-14 18:00:08+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgavui/this_is_the_only_time_ive_managed_to_do_this_well/,https://www.reddit.com/r/wallstreetbets/comments/1wgavui/this_is_the_only_time_ive_managed_to_do_this_well/,"This is the only time I've managed to do this well. https://preview.redd.it/wwf6e4bzyiph1.png?width=766&format=png&auto=webp&s=6bff4561b81e7175d873f455015d1c372c31ca94
+I've tried this a few times, only pulled it off once. An hour later they hit $2.50, but you got to take your wins.",117,23,2026-09-14 18:00:08+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgavui/this_is_the_only_time_ive_managed_to_do_this_well/,https://www.reddit.com/r/wallstreetbets/comments/1wgavui/this_is_the_only_time_ive_managed_to_do_this_well/,"This is the only time I've managed to do this well. https://preview.redd.it/wwf6e4bzyiph1.png?width=766&format=png&auto=webp&s=6bff4561b81e7175d873f455015d1c372c31ca94
 
 https://preview.redd.it/3n4dhk20ziph1.png?width=773&format=png&auto=webp&s=9bd569cd2bbbc573d3cc25d9c50e3efdf6fb2722
 
-I've tried this a few times, only pulled it off once. An hour later they hit $2.50, but you got to take your wins.",Counter(),0,0.7962,7.905441649060286
+I've tried this a few times, only pulled it off once. An hour later they hit $2.50, but you got to take your wins.",Counter(),0,0.7962,7.948738454813611
 1wgaetb,hot,The Warsh Effect and Wednesday's Rate Announcement,"With the FOMC meeting this week on Sep 15-16, the interest rate announcement at 2pm on Sep 16,  and Kevin Warsh's press conference following that at 2:30pm, I'm sharing analysis showing what we've seen from Warsh to date.
 
 Since Kevin Warsh became fed chair, he's made three major policy appearances: the June FOMC, July FOMC, and Jackson Hole in August.  In all three cases there was a clear market reaction **while he was speaking.**
@@ -1297,7 +1454,7 @@ There are scenarios where they don't do a rate hike and the market still sells o
 
 If the dot plot signals that there won't be additional hikes, markets might rally.
 
-The pattern over the first 3 appearances is a relief rally right after the announcement, **followed by a selloff during the press conference**.",327,181,2026-09-14 17:43:56+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgaetb/the_warsh_effect_and_wednesdays_rate_announcement/,https://www.reddit.com/r/wallstreetbets/comments/1wgaetb/the_warsh_effect_and_wednesdays_rate_announcement/,"The Warsh Effect and Wednesday's Rate Announcement With the FOMC meeting this week on Sep 15-16, the interest rate announcement at 2pm on Sep 16,  and Kevin Warsh's press conference following that at 2:30pm, I'm sharing analysis showing what we've seen from Warsh to date.
+The pattern over the first 3 appearances is a relief rally right after the announcement, **followed by a selloff during the press conference**.",324,181,2026-09-14 17:43:56+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wgaetb/the_warsh_effect_and_wednesdays_rate_announcement/,https://www.reddit.com/r/wallstreetbets/comments/1wgaetb/the_warsh_effect_and_wednesdays_rate_announcement/,"The Warsh Effect and Wednesday's Rate Announcement With the FOMC meeting this week on Sep 15-16, the interest rate announcement at 2pm on Sep 16,  and Kevin Warsh's press conference following that at 2:30pm, I'm sharing analysis showing what we've seen from Warsh to date.
 
 Since Kevin Warsh became fed chair, he's made three major policy appearances: the June FOMC, July FOMC, and Jackson Hole in August.  In all three cases there was a clear market reaction **while he was speaking.**
 
@@ -1315,45 +1472,19 @@ There are scenarios where they don't do a rate hike and the market still sells o
 
 If the dot plot signals that there won't be additional hikes, markets might rally.
 
-The pattern over the first 3 appearances is a relief rally right after the announcement, **followed by a selloff during the press conference**.","Counter({'QQQ': 7, 'FOMC': 5, 'SPY': 5, 'BUT': 1})",18,0.8334,10.997020295460938
-1wga2pp,hot,MSFT 0 DTE calls,"Scaled into MSFT $505 calls 0DTE during market open for 9.6k at an average cost of 0.17 for the contracts and sold at .25  
+The pattern over the first 3 appearances is a relief rally right after the announcement, **followed by a selloff during the press conference**.","Counter({'QQQ': 7, 'FOMC': 5, 'SPY': 5, 'BUT': 1})",18,0.8334,10.987831869406532
+1wga2pp,top,MSFT 0 DTE calls,"Scaled into MSFT $505 calls 0DTE during market open for 9.6k at an average cost of 0.17 for the contracts and sold at .25  
 Those contracts are around 4 dollars right now. The 9.6k i had invested is worth 224k if held instead of cashing out for only 4.4k profit. I’ve done this mistake often but now cementing it in my brain to sell my initial investment and let some of the profit ride. ",131,14,2026-09-14 17:32:20+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wga2pp/msft_0_dte_calls/,https://www.reddit.com/gallery/1wga2pp,"MSFT 0 DTE calls Scaled into MSFT $505 calls 0DTE during market open for 9.6k at an average cost of 0.17 for the contracts and sold at .25  
 Those contracts are around 4 dollars right now. The 9.6k i had invested is worth 224k if held instead of cashing out for only 4.4k profit. I’ve done this mistake often but now cementing it in my brain to sell my initial investment and let some of the profit ride.","Counter({'MSFT': 2, 'DTE': 1})",3,0.657,7.590852123688581
-1wg8sfu,hot,Moon or Doom 110k,Bought 10 more this morning,241,136,2026-09-14 16:47:34+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wg8sfu/moon_or_doom_110k/,https://i.redd.it/irc8jvd5miph1.jpeg,Moon or Doom 110k Bought 10 more this morning,Counter(),0,-0.4019,10.408918651984813
+1wg8sfu,top,Moon or Doom 110k,Bought 10 more this morning,241,135,2026-09-14 16:47:34+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wg8sfu/moon_or_doom_110k/,https://i.redd.it/irc8jvd5miph1.jpeg,Moon or Doom 110k Bought 10 more this morning,Counter(),0,-0.4019,10.401592611892738
 1wg7fsw,hot,Don’t ever bet against hot Moms in stretch Pants $LULU,"What else can I say? It’s the most hated profitable company in the market with more holes than a glory hole factory. However I like the product especially when it’s on the ass of a 38 year old Latina mom at Whole Foods. 
 
-Position 500 shares at 100.64",440,169,2026-09-14 15:59:47+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wg7fsw/dont_ever_bet_against_hot_moms_in_stretch_pants/,https://i.redd.it/wpytdejmdiph1.jpeg,"Don’t ever bet against hot Moms in stretch Pants $LULU What else can I say? It’s the most hated profitable company in the market with more holes than a glory hole factory. However I like the product especially when it’s on the ass of a 38 year old Latina mom at Whole Foods. 
+Position 500 shares at 100.64",437,171,2026-09-14 15:59:47+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wg7fsw/dont_ever_bet_against_hot_moms_in_stretch_pants/,https://i.redd.it/wpytdejmdiph1.jpeg,"Don’t ever bet against hot Moms in stretch Pants $LULU What else can I say? It’s the most hated profitable company in the market with more holes than a glory hole factory. However I like the product especially when it’s on the ass of a 38 year old Latina mom at Whole Foods. 
 
-Position 500 shares at 100.64",Counter({'LULU': 2}),2,0.3918,11.224843312497107
-1wg5lvy,hot,IRA Levered To The Tits,Just some good tax-free fun,54,41,2026-09-14 14:52:11+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wg5lvy/ira_levered_to_the_tits/,https://i.redd.it/acbspw7f1iph1.png,IRA Levered To The Tits Just some good tax-free fun,Counter({'IRA': 1}),1,0.6486,7.74500280351584
-1wg4uae,hot,10-year Treasury yield hits 5% for first time since 2023 as traders brace for Fed decision this week,,4202,349,2026-09-14 14:22:36+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wg4uae/10year_treasury_yield_hits_5_for_first_time_since/,https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html,10-year Treasury yield hits 5% for first time since 2023 as traders brace for Fed decision this week,Counter(),0,0.2023,14.201486989488576
-1wg4py0,hot,You can’t spell DARIO AMODEI without AI DOOMER,It was always hidden right in front of us. ,3432,75,2026-09-14 14:17:57+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wg4py0/you_cant_spell_dario_amodei_without_ai_doomer/,https://v.redd.it/xtrgjqegvhph1,You can’t spell DARIO AMODEI without AI DOOMER It was always hidden right in front of us.,Counter({'DARIO': 1}),1,0.0,12.471923133744022
-1wg4gzm,hot,"Another $17,000 VRT YOLO - 40 Sept 18th $242.5 calls - Man do I love abuse!","Bought 40 Sept 18th $242.5 calls for $4.25 each contract on VRT this morning. Break Even is $246.75 at expiry.
-
-I thougt to myself, how could this go wrong!? IRAN war expanding, oil skyrocketing, no one uses AI for anything productive... So why not gamble using weekly options in a cooling company for AI data centers!?
-
-My goal is a 200% profit. I am going to place a sell limit order for $12.75 and hope for a $34,000 profit. That means VRT needs to reach around $250.5 (ecluding theta decay) for me to profit.
-
-What could go wrong!?!?
-
-For reference: my last [VRT YOLO](https://www.reddit.com/r/wallstreetbets/comments/1wbz1zy/15000_yolo_on_vrt_revenge_trading_my_meta_yolo/) that I lost 100% of my trade.
-
-Update 9/16 Market Open: Looking to close this trade out for Break Even. Going tog et out with my skin still attached before interest rates gets raised to 7.75% today!
-
-Update After Market opened on 9-16 - I am out! Sold all my contracts for $4.6 making a measly $1,400! Not bad at all considering I was down 50% yesterday!",21,36,2026-09-14 14:08:33+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wg4gzm/another_17000_vrt_yolo_40_sept_18th_2425_calls/,https://i.redd.it/tna6uyvzrhph1.png,"Another $17,000 VRT YOLO - 40 Sept 18th $242.5 calls - Man do I love abuse! Bought 40 Sept 18th $242.5 calls for $4.25 each contract on VRT this morning. Break Even is $246.75 at expiry.
-
-I thougt to myself, how could this go wrong!? IRAN war expanding, oil skyrocketing, no one uses AI for anything productive... So why not gamble using weekly options in a cooling company for AI data centers!?
-
-My goal is a 200% profit. I am going to place a sell limit order for $12.75 and hope for a $34,000 profit. That means VRT needs to reach around $250.5 (ecluding theta decay) for me to profit.
-
-What could go wrong!?!?
-
-For reference: my last [VRT YOLO](https://www.reddit.com/r/wallstreetbets/comments/1wbz1zy/15000_yolo_on_vrt_revenge_trading_my_meta_yolo/) that I lost 100% of my trade.
-
-Update 9/16 Market Open: Looking to close this trade out for Break Even. Going tog et out with my skin still attached before interest rates gets raised to 7.75% today!
-
-Update After Market opened on 9-16 - I am out! Sold all my contracts for $4.6 making a measly $1,400! Not bad at all considering I was down 50% yesterday!","Counter({'VRT': 4, 'IRAN': 1})",5,0.9003,6.70196036600254
-1wfz5fm,hot,"Daily Discussion Thread for September 14, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wfz5fm),131,10898,2026-09-14 10:00:43+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wfz5fm/daily_discussion_thread_for_september_14_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wfz5fm/daily_discussion_thread_for_september_14_2026/,"Daily Discussion Thread for September 14, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wfz5fm)",Counter(),0,-0.2411,14.179228243475682
+Position 500 shares at 100.64",Counter({'LULU': 2}),2,0.3918,11.2297133871899
+1wg4uae,hot,10-year Treasury yield hits 5% for first time since 2023 as traders brace for Fed decision this week,,4203,349,2026-09-14 14:22:36+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wg4uae/10year_treasury_yield_hits_5_for_first_time_since/,https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html,10-year Treasury yield hits 5% for first time since 2023 as traders brace for Fed decision this week,Counter(),0,0.2023,14.2017248864803
+1wg4py0,hot,You can’t spell DARIO AMODEI without AI DOOMER,It was always hidden right in front of us. ,3451,75,2026-09-14 14:17:57+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wg4py0/you_cant_spell_dario_amodei_without_ai_doomer/,https://v.redd.it/xtrgjqegvhph1,You can’t spell DARIO AMODEI without AI DOOMER It was always hidden right in front of us.,Counter({'DARIO': 1}),1,0.0,12.47744239248965
+1wfz5fm,top,"Daily Discussion Thread for September 14, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wfz5fm),131,10893,2026-09-14 10:00:43+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wfz5fm/daily_discussion_thread_for_september_14_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wfz5fm/daily_discussion_thread_for_september_14_2026/,"Daily Discussion Thread for September 14, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wfz5fm)",Counter(),0,-0.2411,14.17876938052999
 1wfxtsm,hot,This selloff makes zero sense.,"All 4 major frontier AI labs basically agreeing that safety/security needs to be taken more seriously is bullish long term, not bearish. Nobody said “we’re cutting AI capex,” “we need fewer GPUs,” or “we’re cancelling datacenters.”
 
 The market is somehow pricing “let’s make sure frontier AI doesn’t cause a catastrophic cyber/security event” as bad news for AI. You know what would actually be bearish? An AI system causing a major infrastructure outage, cyberattack or financial disruption and governments responding with emergency regulation.
@@ -1362,7 +1493,7 @@ Slower releases ≠ less compute demand.
 
 If anything, more safety means more evals, more redundancy, more security infrastructure and more compute.
 
-Market heard “don’t accidentally destroy the AI industry” and hit sell. Calls. ",1501,807,2026-09-14 08:40:10+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wfxtsm/this_selloff_makes_zero_sense/,https://www.reddit.com/r/wallstreetbets/comments/1wfxtsm/this_selloff_makes_zero_sense/,"This selloff makes zero sense. All 4 major frontier AI labs basically agreeing that safety/security needs to be taken more seriously is bullish long term, not bearish. Nobody said “we’re cutting AI capex,” “we need fewer GPUs,” or “we’re cancelling datacenters.”
+Market heard “don’t accidentally destroy the AI industry” and hit sell. Calls. ",1503,807,2026-09-14 08:40:10+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wfxtsm/this_selloff_makes_zero_sense/,https://www.reddit.com/r/wallstreetbets/comments/1wfxtsm/this_selloff_makes_zero_sense/,"This selloff makes zero sense. All 4 major frontier AI labs basically agreeing that safety/security needs to be taken more seriously is bullish long term, not bearish. Nobody said “we’re cutting AI capex,” “we need fewer GPUs,” or “we’re cancelling datacenters.”
 
 The market is somehow pricing “let’s make sure frontier AI doesn’t cause a catastrophic cyber/security event” as bad news for AI. You know what would actually be bearish? An AI system causing a major infrastructure outage, cyberattack or financial disruption and governments responding with emergency regulation.
 
@@ -1370,8 +1501,8 @@ Slower releases ≠ less compute demand.
 
 If anything, more safety means more evals, more redundancy, more security infrastructure and more compute.
 
-Market heard “don’t accidentally destroy the AI industry” and hit sell. Calls.",Counter(),0,-0.8876,14.009114890845176
-1wfw6m8,hot,AI slowdown: what does it mean?,"Dw this wont be a long AI post where you need to scroll past 90% of it with long winded paragraphs.
+Market heard “don’t accidentally destroy the AI industry” and hit sell. Calls.",Counter(),0,-0.8876,14.010445563030881
+1wfw6m8,top,AI slowdown: what does it mean?,"Dw this wont be a long AI post where you need to scroll past 90% of it with long winded paragraphs.
 
 Why did this happen now? To act on what the “whistleblowers” said. One was a clear marketing stunt btw as he plugged his new company where we will work on AI safety. That aside this is all public image.
 
@@ -1381,7 +1512,7 @@ Yes but muh stonks are down! Yes exactly because everyone is overreacting. You p
 
 Data centers, phones, computers, … are all still being built so memory play is still intact. Energy is still intact. Most thesises are still intact as they’re adjacent and not into openai or claude directly as they’re not on the market.
 
-Tl;dr use the fearmongering to buy cheaper. It might last longer than one day, but it’s not going to matter for long. Especially with this administration.",178,228,2026-09-14 07:00:19+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wfw6m8/ai_slowdown_what_does_it_mean/,https://www.reddit.com/r/wallstreetbets/comments/1wfw6m8/ai_slowdown_what_does_it_mean/,"AI slowdown: what does it mean? Dw this wont be a long AI post where you need to scroll past 90% of it with long winded paragraphs.
+Tl;dr use the fearmongering to buy cheaper. It might last longer than one day, but it’s not going to matter for long. Especially with this administration.",182,229,2026-09-14 07:00:19+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wfw6m8/ai_slowdown_what_does_it_mean/,https://www.reddit.com/r/wallstreetbets/comments/1wfw6m8/ai_slowdown_what_does_it_mean/,"AI slowdown: what does it mean? Dw this wont be a long AI post where you need to scroll past 90% of it with long winded paragraphs.
 
 Why did this happen now? To act on what the “whistleblowers” said. One was a clear marketing stunt btw as he plugged his new company where we will work on AI safety. That aside this is all public image.
 
@@ -1391,8 +1522,8 @@ Yes but muh stonks are down! Yes exactly because everyone is overreacting. You p
 
 Data centers, phones, computers, … are all still being built so memory play is still intact. Energy is still intact. Most thesises are still intact as they’re adjacent and not into openai or claude directly as they’re not on the market.
 
-Tl;dr use the fearmongering to buy cheaper. It might last longer than one day, but it’s not going to matter for long. Especially with this administration.",Counter(),0,0.8338,10.621107809394996
-1wft1t6,hot,SK and Samsung cited uncertainty,"The news just broke that SK Hynix and Samsung declined the proposal to repay 18 Billion in upfront costs for power supply in the next 5 years from Korea Electric Power Corp. 
+Tl;dr use the fearmongering to buy cheaper. It might last longer than one day, but it’s not going to matter for long. Especially with this administration.",Counter(),0,0.8338,10.647565461764618
+1wft1t6,top,SK and Samsung cited uncertainty,"The news just broke that SK Hynix and Samsung declined the proposal to repay 18 Billion in upfront costs for power supply in the next 5 years from Korea Electric Power Corp. 
 
 What’s alarming is the reason why….
 
@@ -1400,7 +1531,7 @@ What’s alarming is the reason why….
 
 This does put some reality into the current market. These high memory prices and massive margins for these companies are temporary. Of course demand will be there and I’m sure everything will continue to grow, but the current supply gap with start narrowing once manufacturing expansions are completed in 2027-28. 
 
-When major players are citing concerns with a 5-year plan, it does bring some reality to the hype. ",781,98,2026-09-14 04:09:42+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wft1t6/sk_and_samsung_cited_uncertainty/,https://www.reuters.com/world/asia-pacific/samsung-sk-hynix-reject-kepcos-19-billion-power-prepayment-proposal-document-2026-09-14/,"SK and Samsung cited uncertainty The news just broke that SK Hynix and Samsung declined the proposal to repay 18 Billion in upfront costs for power supply in the next 5 years from Korea Electric Power Corp. 
+When major players are citing concerns with a 5-year plan, it does bring some reality to the hype. ",780,98,2026-09-14 04:09:42+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wft1t6/sk_and_samsung_cited_uncertainty/,https://www.reuters.com/world/asia-pacific/samsung-sk-hynix-reject-kepcos-19-billion-power-prepayment-proposal-document-2026-09-14/,"SK and Samsung cited uncertainty The news just broke that SK Hynix and Samsung declined the proposal to repay 18 Billion in upfront costs for power supply in the next 5 years from Korea Electric Power Corp. 
 
 What’s alarming is the reason why….
 
@@ -1408,8 +1539,8 @@ What’s alarming is the reason why….
 
 This does put some reality into the current market. These high memory prices and massive margins for these companies are temporary. Of course demand will be there and I’m sure everything will continue to grow, but the current supply gap with start narrowing once manufacturing expansions are completed in 2027-28. 
 
-When major players are citing concerns with a 5-year plan, it does bring some reality to the hype.",Counter(),0,-0.5994,11.256974590679901
-1wfsblb,hot,We're getting a rate hike this week,"No ands, ifs or buts about it.
+When major players are citing concerns with a 5-year plan, it does bring some reality to the hype.",Counter(),0,-0.5994,11.255694999974276
+1wfsblb,top,We're getting a rate hike this week,"No ands, ifs or buts about it.
 
 https://preview.redd.it/r27weyokleph1.png?width=1835&format=png&auto=webp&s=c4a65c6772dbef943d3a450ba427db1bc5235b59
 
@@ -1424,7 +1555,7 @@ This should spice things up in the market considerably. It's happening the same 
 
 Some guys have been pounding the table on getting long October vol in some way or another since August, they just may get proven right starting this week finally--then again it did start climbing in earnest last week. Expect more this week.
 
-Then, maybe big time vol compression post election--guess we'll see the Prez' real meaning behind how he thinks the Iran situation ends then, too...",866,334,2026-09-14 03:33:54+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wfsblb/were_getting_a_rate_hike_this_week/,https://www.reddit.com/r/wallstreetbets/comments/1wfsblb/were_getting_a_rate_hike_this_week/,"We're getting a rate hike this week No ands, ifs or buts about it.
+Then, maybe big time vol compression post election--guess we'll see the Prez' real meaning behind how he thinks the Iran situation ends then, too...",867,335,2026-09-14 03:33:54+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wfsblb/were_getting_a_rate_hike_this_week/,https://www.reddit.com/r/wallstreetbets/comments/1wfsblb/were_getting_a_rate_hike_this_week/,"We're getting a rate hike this week No ands, ifs or buts about it.
 
 https://preview.redd.it/r27weyokleph1.png?width=1835&format=png&auto=webp&s=c4a65c6772dbef943d3a450ba427db1bc5235b59
 
@@ -1439,8 +1570,8 @@ This should spice things up in the market considerably. It's happening the same 
 
 Some guys have been pounding the table on getting long October vol in some way or another since August, they just may get proven right starting this week finally--then again it did start climbing in earnest last week. Expect more this week.
 
-Then, maybe big time vol compression post election--guess we'll see the Prez' real meaning behind how he thinks the Iran situation ends then, too...","Counter({'EFFR': 1, 'SIVB': 1, 'VIX': 1, 'SPX': 1})",4,0.6808,12.579169508605608
-1wfpe9i,hot,SNDK short until it drops to $999,"That's right. Triple digits. Regarded? Perhaps. My conviction is that the further we get from the June highs, the more and more clear the signs of a cyclical peak having already been reached have become, and memory stocks are soon to crater. Now, what about the ""insatiable demand"", you say? 
+Then, maybe big time vol compression post election--guess we'll see the Prez' real meaning behind how he thinks the Iran situation ends then, too...","Counter({'EFFR': 1, 'SIVB': 1, 'VIX': 1, 'SPX': 1})",4,0.6808,12.583302874623556
+1wfpe9i,top,SNDK short until it drops to $999,"That's right. Triple digits. Regarded? Perhaps. My conviction is that the further we get from the June highs, the more and more clear the signs of a cyclical peak having already been reached have become, and memory stocks are soon to crater. Now, what about the ""insatiable demand"", you say? 
 
 See, cyclical stock prices often peak before earnings do, due to the market's inability to correctly price these companies at peak demand, which is why the idea of a stock price declining amid said insatiable demand seems impossible to fathom. But it has happened to memory stocks in the past, and will happen again. And with rumors of growth slowing in the AI sector thanks to bearish comments by both Anthropic and OpenAI's CEOs, this will only add fuel to the fire of high beta AI-laden stocks dropping off a cliff.
 
@@ -1453,23 +1584,23 @@ See, cyclical stock prices often peak before earnings do, due to the market's in
 If you want to see something interesting, take a look at the ""Psychology of a Market Cycle"" chart, which almost perfectly mirrors MU's chart over the last year - The massive run-up into June highs, the euphoria stage, and today being the complacency stage. Despite widespread belief of a rally to a new high on the way, the complacency stage is often instead met by a total drop-off.
 
 Why SNDK? Biggest leverage to the downside. Short since $1680 and riding this one back down to triple digits.",Counter({'SNDK': 2}),2,0.9658,9.039789270781144
-1wfoizb,hot,Kenny G knows when to get serious.,"Citadel on Monday:—> “Fed will do a surprise 1% rate hike”
+1wfoizb,top,Kenny G knows when to get serious.,"Citadel on Monday:—> “Fed will do a surprise 1% rate hike”
 
 Tuesday: —> People get liquidated and Citadel bought everything.
 
 Wednesday: —> No rate hikes.
 
-Kenny G wins again",4655,164,2026-09-14 00:33:07+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wfoizb/kenny_g_knows_when_to_get_serious/,https://i.redd.it/ciuzscpasdph1.jpeg,"Kenny G knows when to get serious. Citadel on Monday:—> “Fed will do a surprise 1% rate hike”
+Kenny G wins again",4672,164,2026-09-14 00:33:07+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wfoizb/kenny_g_knows_when_to_get_serious/,https://i.redd.it/ciuzscpasdph1.jpeg,"Kenny G knows when to get serious. Citadel on Monday:—> “Fed will do a surprise 1% rate hike”
 
 Tuesday: —> People get liquidated and Citadel bought everything.
 
 Wednesday: —> No rate hikes.
 
-Kenny G wins again",Counter(),0,0.5106,13.551857463311855
-1wflzl3,hot,Anthropic tells investors it will be profitable for second straight quarter,,3711,448,2026-09-13 22:38:48+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wflzl3/anthropic_tells_investors_it_will_be_profitable/,https://giftarticle.ft.com/giftarticle/actions/redeem/2aa4c4a7-cf68-429c-a293-ebc065e011e6,Anthropic tells investors it will be profitable for second straight quarter,Counter(),0,0.5859,14.326348981648344
-1wfjlpo,hot,"Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock",,1931,112,2026-09-13 21:01:18+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wfjlpo/up_3600_this_freight_fund_has_posted_the_biggest/,https://www.cnbc.com/amp/2026/09/13/iran-war-oil-prices-freight-tankers-shipping.html,"Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock",Counter(),0,-0.6249,12.293698833484804
-1wfi11m,top,"What Are Your Moves Tomorrow, September 14, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wfi11m),107,8014,2026-09-13 20:00:42+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wfi11m/what_are_your_moves_tomorrow_september_14_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wfi11m/what_are_your_moves_tomorrow_september_14_2026/,"What Are Your Moves Tomorrow, September 14, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wfi11m)",Counter(),0,-0.2411,13.671201292167874
-1wexu4l,top,$236K oil short YOLO- Incoming Trump peace deal soon. All in on 2x leveraged oil short shares. Thank me later poor boys.,,1984,815,2026-09-13 04:31:53+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wexu4l/236k_oil_short_yolo_incoming_trump_peace_deal/,https://i.redd.it/iuu5e7dzt7ph1.jpeg,$236K oil short YOLO- Incoming Trump peace deal soon. All in on 2x leveraged oil short shares. Thank me later poor boys.,Counter(),0,0.7865,14.297788548085396
+Kenny G wins again",Counter(),0,0.5106,13.555502016601007
+1wflzl3,top,Anthropic tells investors it will be profitable for second straight quarter,,3706,448,2026-09-13 22:38:48+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wflzl3/anthropic_tells_investors_it_will_be_profitable/,https://giftarticle.ft.com/giftarticle/actions/redeem/2aa4c4a7-cf68-429c-a293-ebc065e011e6,Anthropic tells investors it will be profitable for second straight quarter,Counter(),0,0.5859,14.325001090892986
+1wfjlpo,top,"Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock",,1935,112,2026-09-13 21:01:18+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wfjlpo/up_3600_this_freight_fund_has_posted_the_biggest/,https://www.cnbc.com/amp/2026/09/13/iran-war-oil-prices-freight-tankers-shipping.html,"Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock",Counter(),0,-0.6249,12.295767086548864
+1wfi11m,top,"What Are Your Moves Tomorrow, September 14, 2026",This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wfi11m),108,8004,2026-09-13 20:00:42+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wfi11m/what_are_your_moves_tomorrow_september_14_2026/,https://www.reddit.com/r/wallstreetbets/comments/1wfi11m/what_are_your_moves_tomorrow_september_14_2026/,"What Are Your Moves Tomorrow, September 14, 2026 This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wfi11m)",Counter(),0,-0.2411,13.679169507659958
+1wexu4l,top,$236K oil short YOLO- Incoming Trump peace deal soon. All in on 2x leveraged oil short shares. Thank me later poor boys.,,1992,816,2026-09-13 04:31:53+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wexu4l/236k_oil_short_yolo_incoming_trump_peace_deal/,https://i.redd.it/iuu5e7dzt7ph1.jpeg,$236K oil short YOLO- Incoming Trump peace deal soon. All in on 2x leveraged oil short shares. Thank me later poor boys.,Counter(),0,0.7865,14.303035415072799
 1weu05e,top,Warsh should grow a sack and go full Volcker by hiking 100bps next week.,"  
 Risk assets would be absolutely cooked, but he could kill three birds with one stone:
 
@@ -1479,7 +1610,7 @@ Risk assets would be absolutely cooked, but he could kill three birds with one s
 
   
   
-Bonus 4th bird: He'd also have Congress by the balls and could basically dare them to keep running reckless fiscal policy while the bond market is demanding higher rates.",3184,511,2026-09-13 01:20:06+00:00,https://www.reddit.com/r/wallstreetbets/comments/1weu05e/warsh_should_grow_a_sack_and_go_full_volcker_by/,https://www.reddit.com/r/wallstreetbets/comments/1weu05e/warsh_should_grow_a_sack_and_go_full_volcker_by/,"Warsh should grow a sack and go full Volcker by hiking 100bps next week.   
+Bonus 4th bird: He'd also have Congress by the balls and could basically dare them to keep running reckless fiscal policy while the bond market is demanding higher rates.",3187,511,2026-09-13 01:20:06+00:00,https://www.reddit.com/r/wallstreetbets/comments/1weu05e/warsh_should_grow_a_sack_and_go_full_volcker_by/,https://www.reddit.com/r/wallstreetbets/comments/1weu05e/warsh_should_grow_a_sack_and_go_full_volcker_by/,"Warsh should grow a sack and go full Volcker by hiking 100bps next week.   
 Risk assets would be absolutely cooked, but he could kill three birds with one stone:
 
 1. Donnie gets told to eff off and let the Fed do its job.
@@ -1488,108 +1619,5 @@ Risk assets would be absolutely cooked, but he could kill three birds with one s
 
   
   
-Bonus 4th bird: He'd also have Congress by the balls and could basically dare them to keep running reckless fiscal policy while the bond market is demanding higher rates.",Counter(),0,-0.8537,14.30453219304577
-1wetfy1,top,Apple is cool :),,130,49,2026-09-13 00:54:13+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wetfy1/apple_is_cool/,https://i.redd.it/3j7jsrc5r6ph1.jpeg,Apple is cool :),Counter(),0,0.6486,8.787220328629298
-1weshpb,top,After Koreans piled into us stocks,,950,80,2026-09-13 00:08:52+00:00,https://www.reddit.com/r/wallstreetbets/comments/1weshpb/after_koreans_piled_into_us_stocks/,https://www.koreatimes.co.kr/economy/20260911/korean-retail-investors-in-us-stocks-suffer-as-won-strengthens,After Koreans piled into us stocks,Counter(),0,0.0,11.25196321721783
-1weqshj,top,"This time last month, FedWatch gave a 53.5% chance for 2 or more rate hikes by next July. Today, odds stand at 97.4%.","Buckle up, folks.",892,200,2026-09-12 22:52:28+00:00,https://www.reddit.com/r/wallstreetbets/comments/1weqshj/this_time_last_month_fedwatch_gave_a_535_chance/,https://i.redd.it/kvhwvfif56ph1.jpeg,"This time last month, FedWatch gave a 53.5% chance for 2 or more rate hikes by next July. Today, odds stand at 97.4%. Buckle up, folks.",Counter(),0,0.25,12.097891488935574
-1wejx5q,top,"Turkish fund returned 4,000% in 2025 and 230% in 2026. How do we short?","Some friends in Turkey mentioned this fund TLY: [https://fonlarca.com/en/fon/tly.html](https://fonlarca.com/en/fon/tly.html?utm_source=chatgpt.com)
-
-The returns are the definition of ""too good to be true"":
-
-* 2025: **+4,200%**
-* 2026 YTD: **+230%**
-* Sharpe apparently around **2.2**
-
-It supposedly became really popular with retail investors, which makes sense when the chart looks like this 🙂 (check the link!).
-
-From what I can tell, there seems to be a pretty circular setup where the fund owns closely-related/shell-like companies connected to the same broader ecosystem, money flows into the fund, the fund buys those stocks, the stocks go up, NAV goes up, more retail money comes in, etc.
-
-I’m not saying it’s necessarily fraud or a Ponzi, but the whole thing looks extremely circular to me, especially if the fund owns a huge percentage of the free float of some of these companies.
-
-My basic thought is:   
-retail inflows → fund buys illiquid stocks → stocks rocket → NAV rockets → more inflows
-
-The fund reportedly went from about TRY 35bn AUM in Dec 2025 to TRY 245bn now (\~$5bn USD).
-
-So I’m wondering:
-
-* Is there actually a way to short this fund TLY?
-* Can you short / buy puts on the main underlying Turkish stocks instead?
-* Is there some structural reason this can keep working much longer than it looks like it should? I guess can't grow beyond Turkey's total GDP :)
-* If redemptions start, does this become a death spiral because the fund has to sell the same illiquid stuff that created the gains?
-
-Obviously “this looks insane” is not a timing strategy and if the Sharpe really is 2.2 maybe just stay away 😂",586,137,2026-09-12 18:18:12+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wejx5q/turkish_fund_returned_4000_in_2025_and_230_in/,https://www.reddit.com/r/wallstreetbets/comments/1wejx5q/turkish_fund_returned_4000_in_2025_and_230_in/,"Turkish fund returned 4,000% in 2025 and 230% in 2026. How do we short? Some friends in Turkey mentioned this fund TLY: [https://fonlarca.com/en/fon/tly.html](https://fonlarca.com/en/fon/tly.html?utm_source=chatgpt.com)
-
-The returns are the definition of ""too good to be true"":
-
-* 2025: **+4,200%**
-* 2026 YTD: **+230%**
-* Sharpe apparently around **2.2**
-
-It supposedly became really popular with retail investors, which makes sense when the chart looks like this 🙂 (check the link!).
-
-From what I can tell, there seems to be a pretty circular setup where the fund owns closely-related/shell-like companies connected to the same broader ecosystem, money flows into the fund, the fund buys those stocks, the stocks go up, NAV goes up, more retail money comes in, etc.
-
-I’m not saying it’s necessarily fraud or a Ponzi, but the whole thing looks extremely circular to me, especially if the fund owns a huge percentage of the free float of some of these companies.
-
-My basic thought is:   
-retail inflows → fund buys illiquid stocks → stocks rocket → NAV rockets → more inflows
-
-The fund reportedly went from about TRY 35bn AUM in Dec 2025 to TRY 245bn now (\~$5bn USD).
-
-So I’m wondering:
-
-* Is there actually a way to short this fund TLY?
-* Can you short / buy puts on the main underlying Turkish stocks instead?
-* Is there some structural reason this can keep working much longer than it looks like it should? I guess can't grow beyond Turkey's total GDP :)
-* If redemptions start, does this become a death spiral because the fund has to sell the same illiquid stuff that created the gains?
-
-Obviously “this looks insane” is not a timing strategy and if the Sharpe really is 2.2 maybe just stay away 😂","Counter({'TLY': 2, 'TRY': 2, 'YTD': 1, 'AUM': 1})",6,0.9668,11.302278504985303
-1wejhsw,top,Apple 🍎,Couldn’t hold until the CPI data is out. ,97,8,2026-09-12 18:01:55+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wejhsw/apple/,https://i.redd.it/1lh0roclp4ph1.jpeg,Apple 🍎 Couldn’t hold until the CPI data is out.,Counter({'CPI': 1}),1,0.0,6.782192056006792
-1webpt1,top,"80k -> 463k in 8 month, I need a break","I posted this 2 days ago but the mods took it down in an hour due to no positions, attached my last trades in 2nd image (NBIS & CRWV Puts)
-
-Post when I opened NBIS: [https://www.reddit.com/r/wallstreetbets/comments/1wbgiey/250x\_nbis\_240p\_2dte\_581\_speedrunning\_bankruptcy/](https://www.reddit.com/r/wallstreetbets/comments/1wbgiey/250x_nbis_240p_2dte_581_speedrunning_bankruptcy/)
-
-Both positions were bought on Tuesday, Realized Thursday
-
-In the interest of my heart (I'm getting a heart attack with the trades I'm doing), I feel like it's a good time quit while I'm ahead 😗
-
-I also wasn't replying to much comments in the last post cause I posted that at 1am but will try to reply to more today :>
-
-Edit: If you see this, I'm asleep and will reply tmr
-
-Edit 2: I'm awake, will probably reply only occasionally now
-
-Edit 3: I've replied to most of the comments since sleeping, I'll only reply every now and then
-
-Edit 4: Not replying anymore",1845,269,2026-09-12 12:45:55+00:00,https://www.reddit.com/r/wallstreetbets/comments/1webpt1/80k_463k_in_8_month_i_need_a_break/,https://www.reddit.com/gallery/1webpt1,"80k -> 463k in 8 month, I need a break I posted this 2 days ago but the mods took it down in an hour due to no positions, attached my last trades in 2nd image (NBIS & CRWV Puts)
-
-Post when I opened NBIS: [https://www.reddit.com/r/wallstreetbets/comments/1wbgiey/250x\_nbis\_240p\_2dte\_581\_speedrunning\_bankruptcy/](https://www.reddit.com/r/wallstreetbets/comments/1wbgiey/250x_nbis_240p_2dte_581_speedrunning_bankruptcy/)
-
-Both positions were bought on Tuesday, Realized Thursday
-
-In the interest of my heart (I'm getting a heart attack with the trades I'm doing), I feel like it's a good time quit while I'm ahead 😗
-
-I also wasn't replying to much comments in the last post cause I posted that at 1am but will try to reply to more today :>
-
-Edit: If you see this, I'm asleep and will reply tmr
-
-Edit 2: I'm awake, will probably reply only occasionally now
-
-Edit 3: I've replied to most of the comments since sleeping, I'll only reply every now and then
-
-Edit 4: Not replying anymore","Counter({'NBIS': 2, 'CRWV': 1})",3,0.8663,13.119198374061172
-1wdzgko,top,I am the Leopold of Yoga Pants. Discuss.,,712,205,2026-09-12 01:53:35+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wdzgko/i_am_the_leopold_of_yoga_pants_discuss/,https://i.redd.it/3r5osj5nwzoh1.jpeg,I am the Leopold of Yoga Pants. Discuss.,Counter(),0,0.0,11.897357589203878
-1wdz6w5,top,"Nvidia in talks to invest in Anthropic’s mega IPO, sources say",">Nvidia is considering investing up to $10 billion in the IPO, one of the sources added. The plans remain under discussion and could change, they cautioned, requesting anonymity because the discussions are confidential.
-
->Nvidia’s potential involvement in the IPO, which has not previously been reported, would give Anthropic an early strategic backer for the outsized offering, while further deepening ties between the chipmaker and one of its major customers. Bringing a deep-pocketed anchor investor like Nvidia onboard could boost ⁠investor confidence in the listing, which is shaping up to be a major test of public-market appetite for the enormous valuations and capital requirements of frontier AI labs.
-
-
-Let the circle jerk continue boys! Calls on Monday?
-
- ",1477,208,2026-09-12 01:40:43+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wdz6w5/nvidia_in_talks_to_invest_in_anthropics_mega_ipo/,https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/?utm_source=braze&utm_medium=notifications&utm_campaign=2025_engagement,"Nvidia in talks to invest in Anthropic’s mega IPO, sources say >Nvidia is considering investing up to $10 billion in the IPO, one of the sources added. The plans remain under discussion and could change, they cautioned, requesting anonymity because the discussions are confidential.
-
->Nvidia’s potential involvement in the IPO, which has not previously been reported, would give Anthropic an early strategic backer for the outsized offering, while further deepening ties between the chipmaker and one of its major customers. Bringing a deep-pocketed anchor investor like Nvidia onboard could boost ⁠investor confidence in the listing, which is shaping up to be a major test of public-market appetite for the enormous valuations and capital requirements of frontier AI labs.
-
-
-Let the circle jerk continue boys! Calls on Monday?",Counter(),0,0.75,12.640779353472958
+Bonus 4th bird: He'd also have Congress by the balls and could basically dare them to keep running reckless fiscal policy while the bond market is demanding higher rates.",Counter(),0,-0.8537,14.305473664949613
+1wetfy1,top,Apple is cool :),,131,49,2026-09-13 00:54:13+00:00,https://www.reddit.com/r/wallstreetbets/comments/1wetfy1/apple_is_cool/,https://i.redd.it/3j7jsrc5r6ph1.jpeg,Apple is cool :),Counter(),0,0.6486,8.794824928014517

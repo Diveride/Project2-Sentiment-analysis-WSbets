@@ -1,4 +1,92 @@
 created_utc,body,clean_body,body_sentiment,body_label
+2026-09-19 23:50:35+00:00,"**Stop trading and believe in something.**   
+**Persist Forever**
+
+**SPX6900**",stop trading and believe in something persist forever spx,-0.296,negative
+2026-09-19 23:01:57+00:00,"I keep thinking about the AI bubble and all the concerns around circular funding, chip purchases, and the enormous amount of money that has to keep flowing through this ecosystem.
+
+And lately I’ve noticed something with newer Claude models that makes me uncomfortable.
+
+I can give Claude extremely clear steering, detailed context, and even explicitly tell it what it does NOT need to investigate. Yet I increasingly watch the reasoning trace go off and independently validate things I already told it—burning credits along the way—before eventually arriving at the answer I asked for.  
+Maybe that’s just a side effect of how newer reasoning models are trained.
+
+But I keep thinking about the financial crisis and the ugly revenue-generating behavior that surfaced as financial institutions pushed for growth. The parallel obviously isn’t perfect, but bubbles create strange incentives when everyone needs the money to keep flowing.
+
+So here’s my increasingly cynical hypothesis:  
+What if some AI models are being optimized not just to produce good answers, but to consume more compute while producing them?
+
+More reasoning → more credits → more compute → more chips → more “AI demand.”
+
+I have no evidence Anthropic is deliberately training Claude to burn credits. But when the company selling you intelligence also decides how much intelligence needs to be consumed to answer your question, I think the incentive is worth questioning.",i keep thinking about the ai bubble and all the concerns around circular funding chip purchases and the enormous amount of money that has to keep flowing through this ecosystem and lately i ve noticed something with newer claude models that makes me uncomfortable i can give claude extremely clear steering detailed context and even explicitly tell it what it does not need to investigate yet i increasingly watch the reasoning trace go off and independently validate things i already told it burning credits along the way before eventually arriving at the answer i asked for maybe that s just a side effect of how newer reasoning models are trained but i keep thinking about the financial crisis and the ugly revenue generating behavior that surfaced as financial institutions pushed for growth the parallel obviously isn t perfect but bubbles create strange incentives when everyone needs the money to keep flowing so here s my increasingly cynical hypothesis what if some ai models are being optimized not just to produce good answers but to consume more compute while producing them more reasoning more credits more compute more chips more ai demand i have no evidence anthropic is deliberately training claude to burn credits but when the company selling you intelligence also decides how much intelligence needs to be consumed to answer your question i think the incentive is worth questioning,0.9741,positive
+2026-09-19 22:23:21+00:00,"Translated to English.
+
+Following their first mediation meeting, Micron and the Micron Memory Taiwan Union in central Taiwan issued a joint statement today (September 19) stating that the two sides had a constructive discussion that helped advance communication and agreed to hold a second mediation meeting on October 22. Micron also promised not to retaliate against any wrongdoing.
+
+Micron Technology Taiwan recently announced a new bonus plan, including a NT$1 million bonus. The union believes that a one-time bonus cannot replace system reform and that a long-term profit-sharing mechanism should be gradually established, similar to other major memory manufacturers. The bonus should be based on 15% of operating profit, and a public, transparent, and verifiable system should be established. If no concrete response is received from management, a strike vote will be initiated.
+
+Following their first mediation meeting on September 18, both parties issued a joint statement today, noting that representatives from both sides discussed a number of issues, including the overall compensation and bonus system structure, the ""No Free Rider"" principle, and the prohibition of ""non-retaliation.""  
+  
+Micron emphasized that, as stated in the ""Micron Global Team Member Handbook,"" ""team members have the right to peacefully assemble, freely associate, form and join unions or labor organizations of their own choosing, and seek collective bargaining or other forms of representation without fear of retaliation.""
+
+Micron stated that both parties will continue to uphold the spirit of mutual respect, support employees and serve customers through positive and pragmatic communication, and jointly promote the company's continued success. They also expressed gratitude to the Central Taiwan Science Park Administration and the Mediation Committee for their assistance and support during this mediation process. (Edited by: Liu Xianghua)
+
+",translated to english following their first mediation meeting micron and the micron memory taiwan union in central taiwan issued a joint statement today september stating that the two sides had a constructive discussion that helped advance communication and agreed to hold a second mediation meeting on october micron also promised not to retaliate against any wrongdoing micron technology taiwan recently announced a new bonus plan including a nt million bonus the union believes that a one time bonus cannot replace system reform and that a long term profit sharing mechanism should be gradually established similar to other major memory manufacturers the bonus should be based on of operating profit and a public transparent and verifiable system should be established if no concrete response is received from management a strike vote will be initiated following their first mediation meeting on september both parties issued a joint statement today noting that representatives from both sides discussed a number of issues including the overall compensation and bonus system structure the no free rider principle and the prohibition of non retaliation micron emphasized that as stated in the micron global team member handbook team members have the right to peacefully assemble freely associate form and join unions or labor organizations of their own choosing and seek collective bargaining or other forms of representation without fear of retaliation micron stated that both parties will continue to uphold the spirit of mutual respect support employees and serve customers through positive and pragmatic communication and jointly promote the company s continued success they also expressed gratitude to the central taiwan science park administration and the mediation committee for their assistance and support during this mediation process edited by liu xianghua,0.9965,positive
+2026-09-19 22:16:23+00:00,"Reddit entered Q3 with **Q2 ad revenue up 64% YoY to $762M**, while total revenue grew **61% to $805M**. [Reddit Q2 earnings](https://investor.redditinc.com/news-events/news-releases/news/details/2026/Reddit-Reports-Second-Quarter-2026-Results/default.aspx)
+
+**July:** Piper Sandler raised its Q3 Reddit ad-spend estimate by **230 bps** after July advertising data came in stronger than expected; users also ended July about **5% above the beginning of the month**. [July data](https://ca.investing.com/news/stock-market-news/piper-sandler-raises-reddit-stock-ad-spending-outlook-on-july-strength-93CH-4801657)
+
+**August:** Average users jumped **8% MoM**, Reddit's strongest monthly increase of 2026, while total audience growth accelerated to **18% YoY from 12.8% in July**; Piper raised its Q3 Reddit ad-spend forecast by **another 30 bps**. [August data](https://www.investing.com/news/stock-market-news/reddit-stock-rises-on-piper-data-showing-8-user-growth-93CH-4895719)
+
+**September:** Reddit opened **Reddit Max to all advertisers on September 3**, which is expanding its broad customer base. Previously it was in beta version and only accessible a small group of advertisers. [September / Reddit Max](https://redditinc.com/news/performance-unlocked-reddit-max-campaigns-are-now-available-to-all-advertisers)
+
+Reddit had already reported that the number of advertisers using Max increased 60%+ QoQ, while revenue through Max increased 150%+ QoQ before the September-wide rollout. So existing customers are already spending more. [Reddit Q2 earnings](https://investor.redditinc.com/news-events/news-releases/news/details/2026/Reddit-Reports-Second-Quarter-2026-Results/default.aspx)
+
+Meanwhile, management's Q3 revenue guidance remains only **$860–870M**. [Q3 guidance](https://investor.redditinc.com/news-events/news-releases/news/details/2026/Reddit-Reports-Second-Quarter-2026-Results/default.aspx)
+
+July ad estimates were revised sharply higher → August users accelerated → September opened Reddit Max to the entire advertiser base.
+
+We don't have complete September revenue/ad-spend data yet, but every measurable Q3 datapoint available so far has made the quarter look extremely stronger.
+
+**Reddit could smash through $1B in revenue this quarter, for the first time in its company history.**",reddit entered q with q ad revenue up yoy to m while total revenue grew to m reddit q earnings july piper sandler raised its q reddit ad spend estimate by bps after july advertising data came in stronger than expected users also ended july about above the beginning of the month july data august average users jumped mom reddit s strongest monthly increase of while total audience growth accelerated to yoy from in july piper raised its q reddit ad spend forecast by another bps august data september reddit opened reddit max to all advertisers on september which is expanding its broad customer base previously it was in beta version and only accessible a small group of advertisers september reddit max reddit had already reported that the number of advertisers using max increased qoq while revenue through max increased qoq before the september wide rollout so existing customers are already spending more reddit q earnings meanwhile management s q revenue guidance remains only m q guidance july ad estimates were revised sharply higher august users accelerated september opened reddit max to the entire advertiser base we don t have complete september revenue ad spend data yet but every measurable q datapoint available so far has made the quarter look extremely stronger reddit could smash through b in revenue this quarter for the first time in its company history,0.8705,positive
+2026-09-19 22:00:39+00:00,"I can already hear the YouTube ad read: *“Yo guys, what is up! Before I step into the ring to box a 73-year-old retired DMV worker, we gotta talk about securing the bag with a 10-Year Treasury Note. It’s got a guaranteed 4% yield! NO CAP! Use promo code BESSENT at TreasuryDirect-dot-gov for a free Prime energy drink with your Series I Savings Bond!”*  
+Are we getting bond unboxing videos now? Are they going to drop limited-edition holographic T-Bills? Imagine trying to log into the Treasury website but it keeps crashing because they dropped the new ""30-Year Maturity Merch.""  
+I can't wait for the inevitable apology video when he accidentally tells his 12-year-old fans that government debt is a crypto moonshot.  
+Honestly, if they get MrBeast to pay off the national deficit by trapping 100 senators in a giant pit, I might actually buy one. 🚀🦅🇺🇸📉",i can already hear the youtube ad read yo guys what is up before i step into the ring to box a year old retired dmv worker we gotta talk about securing the bag with a year treasury note it s got a guaranteed yield no cap use promo code bessent at treasurydirect dot gov for a free prime energy drink with your series i savings bond are we getting bond unboxing videos now are they going to drop limited edition holographic t bills imagine trying to log into the treasury website but it keeps crashing because they dropped the new year maturity merch i can t wait for the inevitable apology video when he accidentally tells his year old fans that government debt is a crypto moonshot honestly if they get mrbeast to pay off the national deficit by trapping senators in a giant pit i might actually buy one,-0.5647,negative
+2026-09-19 21:40:44+00:00,Technical astrology says it's about to break out.,technical astrology says it s about to break out,0.0,neutral
+2026-09-19 21:36:20+00:00,,nan,0.0,neutral
+2026-09-19 21:16:34+00:00,,nan,0.0,neutral
+2026-09-19 20:29:55+00:00,Rate hikes and the crypto clarity act failing were… bullish? ,rate hikes and the crypto clarity act failing were bullish,-0.1531,negative
+2026-09-19 20:22:56+00:00,"Almost recovered half of my losses, didn’t capitulate . Ill slowly start selling, and watch the stock I held go to numbers I cannot possibly comprehend right after I sell my chips. This is how, she goes, after all (first 2 pics are current, last pic is 2 months ago when I made my initial post on wsb. 
+
+If this thing gets converted to an ETF from an ETP, like the Zcash etf, I will genuinely hit max win I believe. I will not quit my job tho(learned that lesson last time)
+
+My post 2 month ago with 60k loss :  
+https://www.reddit.com/r/wallstreetbets/s/gAxihF4iMn",almost recovered half of my losses didn t capitulate ill slowly start selling and watch the stock i held go to numbers i cannot possibly comprehend right after i sell my chips this is how she goes after all first pics are current last pic is months ago when i made my initial post on wsb if this thing gets converted to an etf from an etp like the zcash etf i will genuinely hit max win i believe i will not quit my job tho learned that lesson last time my post month ago with k loss,-0.128,negative
+2026-09-19 18:01:31+00:00,,nan,0.0,neutral
+2026-09-19 15:27:16+00:00,Should have sold early,should have sold early,0.0,neutral
+2026-09-19 14:32:36+00:00,,nan,0.0,neutral
+2026-09-19 13:55:20+00:00,"Long time lurker and fellow r3tard, Finally crawling out of the shadows to share my journey.
+
+Been trading since 2 years, but with small amounts. Ready to try now with a bigger starting hand and see where I go.  
+
+**trading profile:**
+
+mostly been put/call spreads and the occasional hail mary.  I have trauma  from 0-1DTE so avoid those now. 
+
+**my lessons**
+
+If I get lucky two days in a row, I sit out day three. The market always comes to collect.",long time lurker and fellow r tard finally crawling out of the shadows to share my journey been trading since years but with small amounts ready to try now with a bigger starting hand and see where i go trading profile mostly been put call spreads and the occasional hail mary i have trauma from dte so avoid those now my lessons if i get lucky two days in a row i sit out day three the market always comes to collect,0.55,positive
+2026-09-19 11:15:54+00:00,,nan,0.0,neutral
+2026-09-19 02:56:27+00:00,,nan,0.0,neutral
+2026-09-19 01:26:29+00:00,"Googl calls finally hit.
+
+1st acct tasty trade 30k blow up
+
+2nd Schwab 100k
+
+3rd Robinhood 15k...
+
+I'm slowly recovering ❤️‍🩹",googl calls finally hit st acct tasty trade k blow up nd schwab k rd robinhood k i m slowly recovering,0.0,neutral
 2026-09-18 23:46:01+00:00,,nan,0.0,neutral
 2026-09-18 22:46:54+00:00,,nan,0.0,neutral
 2026-09-18 20:30:28+00:00,"That explains the rally at the end, right before options expiry.   Rocketship next week!
@@ -708,22 +796,8 @@ Those contracts are around 4 dollars right now. The 9.6k i had invested is worth
 2026-09-14 15:59:47+00:00,"What else can I say? It’s the most hated profitable company in the market with more holes than a glory hole factory. However I like the product especially when it’s on the ass of a 38 year old Latina mom at Whole Foods. 
 
 Position 500 shares at 100.64",what else can i say it s the most hated profitable company in the market with more holes than a glory hole factory however i like the product especially when it s on the ass of a year old latina mom at whole foods position shares at,0.3918,positive
-2026-09-14 14:52:11+00:00,Just some good tax-free fun,just some good tax free fun,0.8591,positive
 2026-09-14 14:22:36+00:00,,nan,0.0,neutral
 2026-09-14 14:17:57+00:00,It was always hidden right in front of us. ,it was always hidden right in front of us,0.0,neutral
-2026-09-14 14:08:33+00:00,"Bought 40 Sept 18th $242.5 calls for $4.25 each contract on VRT this morning. Break Even is $246.75 at expiry.
-
-I thougt to myself, how could this go wrong!? IRAN war expanding, oil skyrocketing, no one uses AI for anything productive... So why not gamble using weekly options in a cooling company for AI data centers!?
-
-My goal is a 200% profit. I am going to place a sell limit order for $12.75 and hope for a $34,000 profit. That means VRT needs to reach around $250.5 (ecluding theta decay) for me to profit.
-
-What could go wrong!?!?
-
-For reference: my last [VRT YOLO](https://www.reddit.com/r/wallstreetbets/comments/1wbz1zy/15000_yolo_on_vrt_revenge_trading_my_meta_yolo/) that I lost 100% of my trade.
-
-Update 9/16 Market Open: Looking to close this trade out for Break Even. Going tog et out with my skin still attached before interest rates gets raised to 7.75% today!
-
-Update After Market opened on 9-16 - I am out! Sold all my contracts for $4.6 making a measly $1,400! Not bad at all considering I was down 50% yesterday!",bought sept th calls for each contract on vrt this morning break even is at expiry i thougt to myself how could this go wrong iran war expanding oil skyrocketing no one uses ai for anything productive so why not gamble using weekly options in a cooling company for ai data centers my goal is a profit i am going to place a sell limit order for and hope for a profit that means vrt needs to reach around ecluding theta decay for me to profit what could go wrong for reference my last vrt yolo that i lost of my trade update market open looking to close this trade out for break even going tog et out with my skin still attached before interest rates gets raised to today update after market opened on i am out sold all my contracts for making a measly not bad at all considering i was down yesterday,0.3291,positive
 2026-09-14 10:00:43+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wfz5fm),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-09-14 08:40:10+00:00,"All 4 major frontier AI labs basically agreeing that safety/security needs to be taken more seriously is bullish long term, not bearish. Nobody said “we’re cutting AI capex,” “we need fewer GPUs,” or “we’re cancelling datacenters.”
 
@@ -799,59 +873,3 @@ Risk assets would be absolutely cooked, but he could kill three birds with one s
   
 Bonus 4th bird: He'd also have Congress by the balls and could basically dare them to keep running reckless fiscal policy while the bond market is demanding higher rates.",risk assets would be absolutely cooked but he could kill three birds with one stone donnie gets told to eff off and let the fed do its job bessent owns the consequences of stacking the debt on the short end restore credibility with the bond market on inflation bonus th bird he d also have congress by the balls and could basically dare them to keep running reckless fiscal policy while the bond market is demanding higher rates,-0.8537,negative
 2026-09-13 00:54:13+00:00,,nan,0.0,neutral
-2026-09-13 00:08:52+00:00,,nan,0.0,neutral
-2026-09-12 22:52:28+00:00,"Buckle up, folks.",buckle up folks,0.0,neutral
-2026-09-12 18:18:12+00:00,"Some friends in Turkey mentioned this fund TLY: [https://fonlarca.com/en/fon/tly.html](https://fonlarca.com/en/fon/tly.html?utm_source=chatgpt.com)
-
-The returns are the definition of ""too good to be true"":
-
-* 2025: **+4,200%**
-* 2026 YTD: **+230%**
-* Sharpe apparently around **2.2**
-
-It supposedly became really popular with retail investors, which makes sense when the chart looks like this 🙂 (check the link!).
-
-From what I can tell, there seems to be a pretty circular setup where the fund owns closely-related/shell-like companies connected to the same broader ecosystem, money flows into the fund, the fund buys those stocks, the stocks go up, NAV goes up, more retail money comes in, etc.
-
-I’m not saying it’s necessarily fraud or a Ponzi, but the whole thing looks extremely circular to me, especially if the fund owns a huge percentage of the free float of some of these companies.
-
-My basic thought is:   
-retail inflows → fund buys illiquid stocks → stocks rocket → NAV rockets → more inflows
-
-The fund reportedly went from about TRY 35bn AUM in Dec 2025 to TRY 245bn now (\~$5bn USD).
-
-So I’m wondering:
-
-* Is there actually a way to short this fund TLY?
-* Can you short / buy puts on the main underlying Turkish stocks instead?
-* Is there some structural reason this can keep working much longer than it looks like it should? I guess can't grow beyond Turkey's total GDP :)
-* If redemptions start, does this become a death spiral because the fund has to sell the same illiquid stuff that created the gains?
-
-Obviously “this looks insane” is not a timing strategy and if the Sharpe really is 2.2 maybe just stay away 😂",some friends in turkey mentioned this fund tly the returns are the definition of too good to be true ytd sharpe apparently around it supposedly became really popular with retail investors which makes sense when the chart looks like this check the link from what i can tell there seems to be a pretty circular setup where the fund owns closely related shell like companies connected to the same broader ecosystem money flows into the fund the fund buys those stocks the stocks go up nav goes up more retail money comes in etc i m not saying it s necessarily fraud or a ponzi but the whole thing looks extremely circular to me especially if the fund owns a huge percentage of the free float of some of these companies my basic thought is retail inflows fund buys illiquid stocks stocks rocket nav rockets more inflows the fund reportedly went from about try bn aum in dec to try bn now bn usd so i m wondering is there actually a way to short this fund tly can you short buy puts on the main underlying turkish stocks instead is there some structural reason this can keep working much longer than it looks like it should i guess can t grow beyond turkey s total gdp if redemptions start does this become a death spiral because the fund has to sell the same illiquid stuff that created the gains obviously this looks insane is not a timing strategy and if the sharpe really is maybe just stay away,0.926,positive
-2026-09-12 18:01:55+00:00,Couldn’t hold until the CPI data is out. ,couldn t hold until the cpi data is out,0.0,neutral
-2026-09-12 12:45:55+00:00,"I posted this 2 days ago but the mods took it down in an hour due to no positions, attached my last trades in 2nd image (NBIS & CRWV Puts)
-
-Post when I opened NBIS: [https://www.reddit.com/r/wallstreetbets/comments/1wbgiey/250x\_nbis\_240p\_2dte\_581\_speedrunning\_bankruptcy/](https://www.reddit.com/r/wallstreetbets/comments/1wbgiey/250x_nbis_240p_2dte_581_speedrunning_bankruptcy/)
-
-Both positions were bought on Tuesday, Realized Thursday
-
-In the interest of my heart (I'm getting a heart attack with the trades I'm doing), I feel like it's a good time quit while I'm ahead 😗
-
-I also wasn't replying to much comments in the last post cause I posted that at 1am but will try to reply to more today :>
-
-Edit: If you see this, I'm asleep and will reply tmr
-
-Edit 2: I'm awake, will probably reply only occasionally now
-
-Edit 3: I've replied to most of the comments since sleeping, I'll only reply every now and then
-
-Edit 4: Not replying anymore",i posted this days ago but the mods took it down in an hour due to no positions attached my last trades in nd image nbis crwv puts post when i opened nbis both positions were bought on tuesday realized thursday in the interest of my heart i m getting a heart attack with the trades i m doing i feel like it s a good time quit while i m ahead i also wasn t replying to much comments in the last post cause i posted that at am but will try to reply to more today edit if you see this i m asleep and will reply tmr edit i m awake will probably reply only occasionally now edit i ve replied to most of the comments since sleeping i ll only reply every now and then edit not replying anymore,0.631,positive
-2026-09-12 01:53:35+00:00,,nan,0.0,neutral
-2026-09-12 01:40:43+00:00,">Nvidia is considering investing up to $10 billion in the IPO, one of the sources added. The plans remain under discussion and could change, they cautioned, requesting anonymity because the discussions are confidential.
-
->Nvidia’s potential involvement in the IPO, which has not previously been reported, would give Anthropic an early strategic backer for the outsized offering, while further deepening ties between the chipmaker and one of its major customers. Bringing a deep-pocketed anchor investor like Nvidia onboard could boost ⁠investor confidence in the listing, which is shaping up to be a major test of public-market appetite for the enormous valuations and capital requirements of frontier AI labs.
-
-
-Let the circle jerk continue boys! Calls on Monday?
-
- ",nvidia is considering investing up to billion in the ipo one of the sources added the plans remain under discussion and could change they cautioned requesting anonymity because the discussions are confidential nvidia s potential involvement in the ipo which has not previously been reported would give anthropic an early strategic backer for the outsized offering while further deepening ties between the chipmaker and one of its major customers bringing a deep pocketed anchor investor like nvidia onboard could boost investor confidence in the listing which is shaping up to be a major test of public market appetite for the enormous valuations and capital requirements of frontier ai labs let the circle jerk continue boys calls on monday,0.7269,positive
