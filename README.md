@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-20T00:11:08.657173+00:00`
+- Generated at (UTC): `2026-09-21T00:19:18.261270+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -168,11 +168,11 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 | 3 | AUR | 11 | 1 | 0.999 | 6.31 | 1.86% | 0.226 |
 | 4 | KDK | 11 | 1 | 0.999 | 3.28 | -16.01% | 0.355 |
 | 5 | COIN | 7 | 2 | 0.899 | 194.25 | 21.25% | 3.982 |
-| 6 | DXYZ | 10 | 1 | 0.940 | 31.31 | -6.34% | 1.798 |
-| 7 | SOUN | 10 | 1 | 0.995 | 5.93 | -17.18% | 0.233 |
-| 8 | IWM | 3 | 2 | 0.727 | 284.10 | -5.84% | 1.641 |
-| 9 | DTE | 3 | 2 | 0.675 | 128.52 | -7.66% | 1.118 |
-| 10 | SPCX | 2 | 2 | 0.494 | 152.71 | 9.35% | n/a |
+| 6 | NVDA | 3 | 3 | 0.736 | 222.27 | 2.16% | 2.558 |
+| 7 | DXYZ | 10 | 1 | 0.940 | 31.31 | -6.34% | 1.798 |
+| 8 | SOUN | 10 | 1 | 0.995 | 5.93 | -17.18% | 0.233 |
+| 9 | RKLB | 5 | 2 | 0.072 | 64.57 | -14.86% | 3.392 |
+| 10 | AMD | 4 | 2 | 0.756 | 559.82 | 20.02% | 14.259 |
 
 ### Aggregate Charts
 
@@ -202,6 +202,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![COIN Dashboard](outputs/latest_wsb_analysis/charts/coin_dashboard.png)
 
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+
 #### DXYZ
 
 ![DXYZ Dashboard](outputs/latest_wsb_analysis/charts/dxyz_dashboard.png)
@@ -210,15 +214,11 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SOUN Dashboard](outputs/latest_wsb_analysis/charts/soun_dashboard.png)
 
-#### IWM
+#### RKLB
 
-![IWM Dashboard](outputs/latest_wsb_analysis/charts/iwm_dashboard.png)
+![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
-#### DTE
+#### AMD
 
-![DTE Dashboard](outputs/latest_wsb_analysis/charts/dte_dashboard.png)
-
-#### SPCX
-
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 <!-- AUTO_TOP10_END -->
