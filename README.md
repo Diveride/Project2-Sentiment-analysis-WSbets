@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-21T00:19:18.261270+00:00`
+- Generated at (UTC): `2026-09-22T00:52:49.823729+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 9 | 4 | 0.726 | 761.69 | -0.96% | 6.169 |
-| 2 | QQQ | 9 | 3 | 0.840 | 721.45 | 0.75% | 5.275 |
-| 3 | AUR | 11 | 1 | 0.999 | 6.31 | 1.86% | 0.226 |
-| 4 | KDK | 11 | 1 | 0.999 | 3.28 | -16.01% | 0.355 |
-| 5 | COIN | 7 | 2 | 0.899 | 194.25 | 21.25% | 3.982 |
-| 6 | NVDA | 3 | 3 | 0.736 | 222.27 | 2.16% | 2.558 |
-| 7 | DXYZ | 10 | 1 | 0.940 | 31.31 | -6.34% | 1.798 |
-| 8 | SOUN | 10 | 1 | 0.995 | 5.93 | -17.18% | 0.233 |
-| 9 | RKLB | 5 | 2 | 0.072 | 64.57 | -14.86% | 3.392 |
-| 10 | AMD | 4 | 2 | 0.756 | 559.82 | 20.02% | 14.259 |
+| 1 | META | 16 | 9 | 0.113 | 665.75 | 21.93% | 4.646 |
+| 2 | AMD | 11 | 8 | 0.305 | 559.82 | 20.02% | 14.498 |
+| 3 | SPY | 5 | 4 | 0.560 | 761.69 | -0.96% | 4.131 |
+| 4 | QQQ | 4 | 3 | 0.292 | 721.45 | 0.75% | 4.524 |
+| 5 | AUR | 11 | 1 | 0.999 | 6.31 | 1.86% | 0.174 |
+| 6 | KDK | 11 | 1 | 0.999 | 3.28 | -16.01% | 0.355 |
+| 7 | COIN | 7 | 2 | 0.899 | 194.25 | 21.25% | 4.048 |
+| 8 | NVDA | 3 | 3 | 0.736 | 222.27 | 2.16% | 1.961 |
+| 9 | DXYZ | 10 | 1 | 0.940 | 31.31 | -6.34% | 1.755 |
+| 10 | RKLB | 5 | 2 | 0.072 | 64.57 | -14.86% | 3.382 |
 
 ### Aggregate Charts
 
@@ -181,6 +181,14 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 ![Top 10 Relative Performance](outputs/latest_wsb_analysis/charts/top10_relative_performance.png)
 
 ### Per-Ticker Dashboards
+
+#### META
+
+![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
+
+#### AMD
+
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
 #### SPY
 
@@ -210,15 +218,7 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![DXYZ Dashboard](outputs/latest_wsb_analysis/charts/dxyz_dashboard.png)
 
-#### SOUN
-
-![SOUN Dashboard](outputs/latest_wsb_analysis/charts/soun_dashboard.png)
-
 #### RKLB
 
 ![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
-
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 <!-- AUTO_TOP10_END -->
