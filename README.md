@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-22T00:52:49.823729+00:00`
+- Generated at (UTC): `2026-09-23T00:36:40.042055+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | META | 16 | 9 | 0.113 | 665.75 | 21.93% | 4.646 |
-| 2 | AMD | 11 | 8 | 0.305 | 559.82 | 20.02% | 14.498 |
-| 3 | SPY | 5 | 4 | 0.560 | 761.69 | -0.96% | 4.131 |
-| 4 | QQQ | 4 | 3 | 0.292 | 721.45 | 0.75% | 4.524 |
-| 5 | AUR | 11 | 1 | 0.999 | 6.31 | 1.86% | 0.174 |
-| 6 | KDK | 11 | 1 | 0.999 | 3.28 | -16.01% | 0.355 |
-| 7 | COIN | 7 | 2 | 0.899 | 194.25 | 21.25% | 4.048 |
-| 8 | NVDA | 3 | 3 | 0.736 | 222.27 | 2.16% | 1.961 |
-| 9 | DXYZ | 10 | 1 | 0.940 | 31.31 | -6.34% | 1.755 |
-| 10 | RKLB | 5 | 2 | 0.072 | 64.57 | -14.86% | 3.382 |
+| 1 | META | 22 | 12 | -0.003 | 741.25 | 35.80% | 5.726 |
+| 2 | AMD | 7 | 6 | 0.154 | 615.52 | 31.11% | 17.555 |
+| 3 | SPY | 5 | 4 | 0.560 | 773.50 | 1.43% | 4.748 |
+| 4 | QQQ | 4 | 3 | 0.108 | 741.47 | 4.30% | 4.156 |
+| 5 | AUR | 11 | 1 | 0.999 | 6.51 | 6.37% | 0.281 |
+| 6 | KDK | 11 | 1 | 0.999 | 3.27 | -14.40% | 0.381 |
+| 7 | DXYZ | 10 | 1 | 0.940 | 30.99 | -10.56% | 1.783 |
+| 8 | HESAY | 8 | 1 | -0.735 | 155.43 | -15.16% | 3.809 |
+| 9 | INTC | 3 | 2 | 0.089 | 121.78 | 32.18% | 5.348 |
+| 10 | NVO | 3 | 2 | 0.082 | 39.80 | -13.74% | 0.785 |
 
 ### Aggregate Charts
 
@@ -206,19 +206,19 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![KDK Dashboard](outputs/latest_wsb_analysis/charts/kdk_dashboard.png)
 
-#### COIN
-
-![COIN Dashboard](outputs/latest_wsb_analysis/charts/coin_dashboard.png)
-
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
 #### DXYZ
 
 ![DXYZ Dashboard](outputs/latest_wsb_analysis/charts/dxyz_dashboard.png)
 
-#### RKLB
+#### HESAY
 
-![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
+![HESAY Dashboard](outputs/latest_wsb_analysis/charts/hesay_dashboard.png)
+
+#### INTC
+
+![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
+
+#### NVO
+
+![NVO Dashboard](outputs/latest_wsb_analysis/charts/nvo_dashboard.png)
 <!-- AUTO_TOP10_END -->
