@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-23T00:36:40.042055+00:00`
+- Generated at (UTC): `2026-09-24T00:32:53.380761+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | META | 22 | 12 | -0.003 | 741.25 | 35.80% | 5.726 |
-| 2 | AMD | 7 | 6 | 0.154 | 615.52 | 31.11% | 17.555 |
-| 3 | SPY | 5 | 4 | 0.560 | 773.50 | 1.43% | 4.748 |
-| 4 | QQQ | 4 | 3 | 0.108 | 741.47 | 4.30% | 4.156 |
-| 5 | AUR | 11 | 1 | 0.999 | 6.51 | 6.37% | 0.281 |
-| 6 | KDK | 11 | 1 | 0.999 | 3.27 | -14.40% | 0.381 |
-| 7 | DXYZ | 10 | 1 | 0.940 | 30.99 | -10.56% | 1.783 |
-| 8 | HESAY | 8 | 1 | -0.735 | 155.43 | -15.16% | 3.809 |
-| 9 | INTC | 3 | 2 | 0.089 | 121.78 | 32.18% | 5.348 |
-| 10 | NVO | 3 | 2 | 0.082 | 39.80 | -13.74% | 0.785 |
+| 1 | META | 22 | 12 | -0.003 | 736.60 | 33.95% | 6.184 |
+| 2 | AMD | 13 | 8 | 0.212 | 623.77 | 31.81% | 20.732 |
+| 3 | QQQ | 6 | 4 | 0.215 | 747.46 | 4.77% | 3.888 |
+| 4 | HESAY | 8 | 1 | -0.735 | 153.24 | -16.35% | 3.980 |
+| 5 | INTC | 3 | 2 | 0.089 | 123.86 | 37.52% | 4.644 |
+| 6 | NVO | 3 | 2 | 0.082 | 39.40 | -15.70% | 0.733 |
+| 7 | BTC | 3 | 2 | 0.120 | 38.25 | 18.97% | 0.663 |
+| 8 | MCD | 2 | 2 | -0.262 | 250.35 | -7.60% | 1.319 |
+| 9 | GAIN | 2 | 2 | 0.711 | 15.84 | -3.12% | 0.092 |
+| 10 | NVDA | 2 | 2 | 0.754 | 228.87 | 6.59% | 1.906 |
 
 ### Aggregate Charts
 
@@ -190,25 +190,9 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### SPY
-
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
 #### QQQ
 
 ![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
-
-#### AUR
-
-![AUR Dashboard](outputs/latest_wsb_analysis/charts/aur_dashboard.png)
-
-#### KDK
-
-![KDK Dashboard](outputs/latest_wsb_analysis/charts/kdk_dashboard.png)
-
-#### DXYZ
-
-![DXYZ Dashboard](outputs/latest_wsb_analysis/charts/dxyz_dashboard.png)
 
 #### HESAY
 
@@ -221,4 +205,20 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### NVO
 
 ![NVO Dashboard](outputs/latest_wsb_analysis/charts/nvo_dashboard.png)
+
+#### BTC
+
+![BTC Dashboard](outputs/latest_wsb_analysis/charts/btc_dashboard.png)
+
+#### MCD
+
+![MCD Dashboard](outputs/latest_wsb_analysis/charts/mcd_dashboard.png)
+
+#### GAIN
+
+![GAIN Dashboard](outputs/latest_wsb_analysis/charts/gain_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 <!-- AUTO_TOP10_END -->
