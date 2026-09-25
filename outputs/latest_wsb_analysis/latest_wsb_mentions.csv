@@ -1,38 +1,37 @@
 post_id,ticker,mentions,sentiment,score,num_comments,engagement,created_utc,title,permalink
-1wodu2i,AMD,1,0.2732,163,60,9.21074029199751,2026-09-23 18:20:05+00:00,The Top is in,https://www.reddit.com/r/wallstreetbets/comments/1wodu2i/the_top_is_in/
-1wnsrsp,AMD,5,0.4997,2243,237,13.188285940314062,2026-09-23 01:53:28+00:00,The AMD / OpenAI deal is a literal 100% cashback deal now,https://www.reddit.com/r/wallstreetbets/comments/1wnsrsp/the_amd_openai_deal_is_a_literal_100_cashback/
-1wmmgqe,AMD,1,-0.3321,98,17,7.485491608030754,2026-09-21 19:17:35+00:00,Advanced Money Destroyer (AMD) gain,https://www.reddit.com/r/wallstreetbets/comments/1wmmgqe/advanced_money_destroyer_amd_gain/
-1wmhthn,AMD,1,0.6289,74,15,7.090076835776092,2026-09-21 16:32:30+00:00,AMD 70K GAIN,https://www.reddit.com/r/wallstreetbets/comments/1wmhthn/amd_70k_gain/
-1wmfxiw,AMD,1,0.0,4022,287,13.962743652085734,2026-09-21 15:25:34+00:00,AMD hits $1 trillion market cap as stock continues 5-day rally,https://www.reddit.com/r/wallstreetbets/comments/1wmfxiw/amd_hits_1_trillion_market_cap_as_stock_continues/
-1wmdt0s,AMD,1,0.0,174,17,8.05515773181968,2026-09-21 14:06:58+00:00,AMD 💰,https://www.reddit.com/r/wallstreetbets/comments/1wmdt0s/amd/
-1wmdmoz,AMD,2,0.1027,67,15,6.992096427415888,2026-09-21 14:00:32+00:00,META 🤑,https://www.reddit.com/r/wallstreetbets/comments/1wmdmoz/meta/
-1wl87i2,AMD,1,0.5272,87,75,8.808070154764538,2026-09-20 05:28:37+00:00,Memory vs. GPU,https://www.reddit.com/r/wallstreetbets/comments/1wl87i2/memory_vs_gpu/
-1wnfbun,BTC,2,-0.6298,3,39,5.075173815233827,2026-09-22 17:06:28+00:00,Is MSTR a one man company?,https://www.reddit.com/r/wallstreetbets/comments/1wnfbun/is_mstr_a_one_man_company/
-1wml4kc,BTC,1,0.8699,31,11,5.950642552587727,2026-09-21 18:30:21+00:00,"$HOOD - Good enough to screenshot, good enough to sell? or HODL?",https://www.reddit.com/r/wallstreetbets/comments/1wml4kc/hood_good_enough_to_screenshot_good_enough_to/
-1wmhthn,GAIN,1,0.6289,74,15,7.090076835776092,2026-09-21 16:32:30+00:00,AMD 70K GAIN,https://www.reddit.com/r/wallstreetbets/comments/1wmhthn/amd_70k_gain/
-1wiu5c9,GAIN,1,0.7925,101,48,8.516793111394897,2026-09-17 13:33:38+00:00,GAIN: PANW $372.5 9/18 puts,https://www.reddit.com/r/wallstreetbets/comments/1wiu5c9/gain_panw_3725_918_puts/
-1wm71s7,HESAY,8,-0.7351,225,165,10.53252278762883,2026-09-21 08:37:05+00:00,DD: $HESAY (Hermès) is down to 31x P/E for the first time since 2015. Generational entry point or catching a falling knife?,https://www.reddit.com/r/wallstreetbets/comments/1wm71s7/dd_hesay_hermès_is_down_to_31x_pe_for_the_first/
-1wmh54n,INTC,2,0.1779,360,42,9.650078074026442,2026-09-21 16:08:57+00:00,Call me Mr. Bottom Catcher (INTC),https://www.reddit.com/r/wallstreetbets/comments/1wmh54n/call_me_mr_bottom_catcher_intc/
-1wmcws6,INTC,1,0.0,41,4,5.3471075307174685,2026-09-21 13:32:07+00:00,INTC 14k -> 38.5k   --- Weekend hold,https://www.reddit.com/r/wallstreetbets/comments/1wmcws6/intc_14k_385k_weekend_hold/
-1woj8y3,MCD,1,0.128,29,53,7.39018142822643,2026-09-23 21:45:16+00:00,Never did I think I would get wrecked by MCD,https://www.reddit.com/r/wallstreetbets/comments/1woj8y3/never_did_i_think_i_would_get_wrecked_by_mcd/
-1wo6yn8,MCD,1,-0.6513,742,350,12.471482268183625,2026-09-23 14:05:22+00:00,"It seems like McDonald's ""Investor Day"" did not go over well",https://www.reddit.com/r/wallstreetbets/comments/1wo6yn8/it_seems_like_mcdonalds_investor_day_did_not_go/
-1wn8mi6,META,5,0.0258,0,140,4.948759890378168,2026-09-22 12:50:35+00:00,What changed the narrative on META?,https://www.reddit.com/r/wallstreetbets/comments/1wn8mi6/what_changed_the_narrative_on_meta/
-1wn35vf,META,2,-0.6798,470,131,11.03766001660279,2026-09-22 07:55:39+00:00,How to make $600K in a week on $META,https://www.reddit.com/r/wallstreetbets/comments/1wn35vf/how_to_make_600k_in_a_week_on_meta/
-1wmzn4t,META,1,0.0772,307,69,9.978595025022933,2026-09-22 04:35:15+00:00,"META puts. -$24,635 in one day.",https://www.reddit.com/r/wallstreetbets/comments/1wmzn4t/meta_puts_24635_in_one_day/
-1wmyrgh,META,1,0.4404,1405,178,12.435889878211366,2026-09-22 03:49:49+00:00,Sold META calls perfectly at the bottom,https://www.reddit.com/r/wallstreetbets/comments/1wmyrgh/sold_meta_calls_perfectly_at_the_bottom/
+1wodu2i,AMD,1,0.2732,282,91,10.167235474692278,2026-09-23 18:20:05+00:00,The Top is in,https://www.reddit.com/r/wallstreetbets/comments/1wodu2i/the_top_is_in/
+1wnsrsp,AMD,5,0.4997,2560,248,13.365605982664233,2026-09-23 01:53:28+00:00,The AMD / OpenAI deal is a literal 100% cashback deal now,https://www.reddit.com/r/wallstreetbets/comments/1wnsrsp/the_amd_openai_deal_is_a_literal_100_cashback/
+1wmmgqe,AMD,1,-0.3321,99,17,7.495541943884256,2026-09-21 19:17:35+00:00,Advanced Money Destroyer (AMD) gain,https://www.reddit.com/r/wallstreetbets/comments/1wmmgqe/advanced_money_destroyer_amd_gain/
+1wmhthn,AMD,1,0.6289,70,15,7.035268599281096,2026-09-21 16:32:30+00:00,AMD 70K GAIN,https://www.reddit.com/r/wallstreetbets/comments/1wmhthn/amd_70k_gain/
+1wmfxiw,AMD,1,0.0,4056,290,13.981522330377938,2026-09-21 15:25:34+00:00,AMD hits $1 trillion market cap as stock continues 5-day rally,https://www.reddit.com/r/wallstreetbets/comments/1wmfxiw/amd_hits_1_trillion_market_cap_as_stock_continues/
+1wmdt0s,AMD,1,0.0,177,17,8.07215530818825,2026-09-21 14:06:58+00:00,AMD 💰,https://www.reddit.com/r/wallstreetbets/comments/1wmdt0s/amd/
+1wmdmoz,AMD,2,0.1027,70,15,7.035268599281096,2026-09-21 14:00:32+00:00,META 🤑,https://www.reddit.com/r/wallstreetbets/comments/1wmdmoz/meta/
+1wl87i2,AMD,1,0.5272,90,76,8.854664928370534,2026-09-20 05:28:37+00:00,Memory vs. GPU,https://www.reddit.com/r/wallstreetbets/comments/1wl87i2/memory_vs_gpu/
+1wnfbun,BTC,2,-0.6298,14,42,6.4692503167957724,2026-09-22 17:06:28+00:00,Is MSTR a one man company?,https://www.reddit.com/r/wallstreetbets/comments/1wnfbun/is_mstr_a_one_man_company/
+1wml4kc,BTC,1,0.8699,26,12,5.860786223465865,2026-09-21 18:30:21+00:00,"$HOOD - Good enough to screenshot, good enough to sell? or HODL?",https://www.reddit.com/r/wallstreetbets/comments/1wml4kc/hood_good_enough_to_screenshot_good_enough_to/
+1wooryp,GAIN,1,0.8038,28,8,5.564520407322694,2026-09-24 01:49:04+00:00,GAIN: Tapped the Pump CASY 10/16 $620 calls for some $$$,https://www.reddit.com/r/wallstreetbets/comments/1wooryp/gain_tapped_the_pump_casy_1016_620_calls_for_some/
+1wmhthn,GAIN,1,0.6289,70,15,7.035268599281096,2026-09-21 16:32:30+00:00,AMD 70K GAIN,https://www.reddit.com/r/wallstreetbets/comments/1wmhthn/amd_70k_gain/
+1wm71s7,HESAY,8,-0.7351,228,165,10.545709791910785,2026-09-21 08:37:05+00:00,DD: $HESAY (Hermès) is down to 31x P/E for the first time since 2015. Generational entry point or catching a falling knife?,https://www.reddit.com/r/wallstreetbets/comments/1wm71s7/dd_hesay_hermès_is_down_to_31x_pe_for_the_first/
+1woj8y3,MCD,1,0.128,72,74,8.607947554684701,2026-09-23 21:45:16+00:00,Never did I think I would get wrecked by MCD,https://www.reddit.com/r/wallstreetbets/comments/1woj8y3/never_did_i_think_i_would_get_wrecked_by_mcd/
+1wo6yn8,MCD,1,-0.6513,1124,427,13.084661510220318,2026-09-23 14:05:22+00:00,"It seems like McDonald's ""Investor Day"" did not go over well",https://www.reddit.com/r/wallstreetbets/comments/1wo6yn8/it_seems_like_mcdonalds_investor_day_did_not_go/
+1wp9iql,META,2,0.5256,257,43,9.337149218839878,2026-09-24 18:26:50+00:00,META printer went BRRRR — $205K in one month 🚀,https://www.reddit.com/r/wallstreetbets/comments/1wp9iql/meta_printer_went_brrrr_205k_in_one_month/
+1wn8mi6,META,5,0.0258,0,159,5.075173815233827,2026-09-22 12:50:35+00:00,What changed the narrative on META?,https://www.reddit.com/r/wallstreetbets/comments/1wn8mi6/what_changed_the_narrative_on_meta/
+1wn35vf,META,2,-0.6798,498,138,11.147080028882211,2026-09-22 07:55:39+00:00,How to make $600K in a week on $META,https://www.reddit.com/r/wallstreetbets/comments/1wn35vf/how_to_make_600k_in_a_week_on_meta/
+1wmzn4t,META,1,0.0772,312,72,10.036662631688543,2026-09-22 04:35:15+00:00,"META puts. -$24,635 in one day.",https://www.reddit.com/r/wallstreetbets/comments/1wmzn4t/meta_puts_24635_in_one_day/
+1wmyrgh,META,1,0.4404,1431,179,12.459784198410802,2026-09-22 03:49:49+00:00,Sold META calls perfectly at the bottom,https://www.reddit.com/r/wallstreetbets/comments/1wmyrgh/sold_meta_calls_perfectly_at_the_bottom/
 1wmo364,META,1,0.9893,0,28,3.367295829986474,2026-09-21 20:16:20+00:00,AI Rotation from Harness to Model: How To Play It,https://www.reddit.com/r/wallstreetbets/comments/1wmo364/ai_rotation_from_harness_to_model_how_to_play_it/
-1wmnwg7,META,2,-0.5849,352,207,11.204006136634614,2026-09-21 20:09:27+00:00,FULL PORT META PUTS $180K,https://www.reddit.com/r/wallstreetbets/comments/1wmnwg7/full_port_meta_puts_180k/
-1wmn0og,META,2,0.8059,0,74,4.31748811353631,2026-09-21 19:37:43+00:00,Muse is breaking records. But….,https://www.reddit.com/r/wallstreetbets/comments/1wmn0og/muse_is_breaking_records_but/
-1wmmypo,META,1,0.0,548,129,11.175632891965112,2026-09-21 19:35:39+00:00,This Fella fu**ed all the META Bears. Remember this FACE!!,https://www.reddit.com/r/wallstreetbets/comments/1wmmypo/this_fella_fued_all_the_meta_bears_remember_this/
-1wml4gz,META,2,-0.4279,608,156,11.468064073058205,2026-09-21 18:30:16+00:00,META PUNCTURING MY ASSHOLE,https://www.reddit.com/r/wallstreetbets/comments/1wml4gz/meta_puncturing_my_asshole/
-1wmjxe6,META,2,0.0,127,77,9.208739090609209,2026-09-21 17:47:19+00:00,Zuck had me wide open $META,https://www.reddit.com/r/wallstreetbets/comments/1wmjxe6/zuck_had_me_wide_open_meta/
-1wmirp8,META,1,-0.7845,248,166,10.635446708881464,2026-09-21 17:06:48+00:00,No way this could go tits up,https://www.reddit.com/r/wallstreetbets/comments/1wmirp8/no_way_this_could_go_tits_up/
-1wmdmoz,META,2,0.1027,67,15,6.992096427415888,2026-09-21 14:00:32+00:00,META 🤑,https://www.reddit.com/r/wallstreetbets/comments/1wmdmoz/meta/
-1wobihk,NVDA,1,0.9802,6,1,2.6390573296152584,2026-09-23 16:54:20+00:00,US Large Cap High-Margin Winners: Profitability Meets 2026 Market Momentum,https://www.reddit.com/r/wallstreetbets/comments/1wobihk/us_large_cap_highmargin_winners_profitability/
-1wl87i2,NVDA,1,0.5272,87,75,8.808070154764538,2026-09-20 05:28:37+00:00,Memory vs. GPU,https://www.reddit.com/r/wallstreetbets/comments/1wl87i2/memory_vs_gpu/
-1wml95y,NVO,1,0.8348,19,25,6.253828811575473,2026-09-21 18:34:40+00:00,NVO YOLO,https://www.reddit.com/r/wallstreetbets/comments/1wml95y/nvo_yolo/
-1wmd2ve,NVO,2,-0.6705,49,30,7.346010209913292,2026-09-21 13:38:46+00:00,Finall divorced NVO,https://www.reddit.com/r/wallstreetbets/comments/1wmd2ve/finall_divorced_nvo/
-1wnyrhq,QQQ,2,0.5362,123,60,8.931155429778348,2026-09-23 07:03:50+00:00,Never bet against Tech,https://www.reddit.com/r/wallstreetbets/comments/1wnyrhq/never_bet_against_tech/
-1wnmin7,QQQ,1,0.296,64,10,6.5722825426940075,2026-09-22 21:24:50+00:00,QQQ gain,https://www.reddit.com/r/wallstreetbets/comments/1wnmin7/qqq_gain/
-1wmiow2,QQQ,2,-0.8113,106,12,7.237778191923443,2026-09-21 17:04:02+00:00,$QQQ Gains- All because I fell asleep on Friday,https://www.reddit.com/r/wallstreetbets/comments/1wmiow2/qqq_gains_all_because_i_fell_asleep_on_friday/
-1wjvbny,QQQ,1,0.8402,1508,300,13.026312723516725,2026-09-18 16:41:26+00:00,69k->10k->204k,https://www.reddit.com/r/wallstreetbets/comments/1wjvbny/69k10k204k/
+1wmnwg7,META,2,-0.5849,370,215,11.2914804702916,2026-09-21 20:09:27+00:00,FULL PORT META PUTS $180K,https://www.reddit.com/r/wallstreetbets/comments/1wmnwg7/full_port_meta_puts_180k/
+1wmn0og,META,2,0.8059,0,77,4.356708826689592,2026-09-21 19:37:43+00:00,Muse is breaking records. But….,https://www.reddit.com/r/wallstreetbets/comments/1wmn0og/muse_is_breaking_records_but/
+1wmmypo,META,1,0.0,550,130,11.186932132354066,2026-09-21 19:35:39+00:00,This Fella fu**ed all the META Bears. Remember this FACE!!,https://www.reddit.com/r/wallstreetbets/comments/1wmmypo/this_fella_fued_all_the_meta_bears_remember_this/
+1wml4gz,META,2,-0.4279,611,156,11.472978087860634,2026-09-21 18:30:16+00:00,META PUNCTURING MY ASSHOLE,https://www.reddit.com/r/wallstreetbets/comments/1wml4gz/meta_puncturing_my_asshole/
+1wmjxe6,META,2,0.0,132,77,9.247057954911345,2026-09-21 17:47:19+00:00,Zuck had me wide open $META,https://www.reddit.com/r/wallstreetbets/comments/1wmjxe6/zuck_had_me_wide_open_meta/
+1wmirp8,META,1,-0.7845,254,170,10.682927101661086,2026-09-21 17:06:48+00:00,No way this could go tits up,https://www.reddit.com/r/wallstreetbets/comments/1wmirp8/no_way_this_could_go_tits_up/
+1wmdmoz,META,2,0.1027,70,15,7.035268599281096,2026-09-21 14:00:32+00:00,META 🤑,https://www.reddit.com/r/wallstreetbets/comments/1wmdmoz/meta/
+1woqfff,NATO,6,-0.9981,92,67,8.752107198329362,2026-09-24 03:07:39+00:00,Fuck your Crops round 2. Going long WEAT into 2027.,https://www.reddit.com/r/wallstreetbets/comments/1woqfff/fuck_your_crops_round_2_going_long_weat_into_2027/
+1wobihk,NVDA,1,0.9802,8,3,3.58351893845611,2026-09-23 16:54:20+00:00,US Large Cap High-Margin Winners: Profitability Meets 2026 Market Momentum,https://www.reddit.com/r/wallstreetbets/comments/1wobihk/us_large_cap_highmargin_winners_profitability/
+1wl87i2,NVDA,1,0.5272,90,76,8.854664928370534,2026-09-20 05:28:37+00:00,Memory vs. GPU,https://www.reddit.com/r/wallstreetbets/comments/1wl87i2/memory_vs_gpu/
+1wnyrhq,QQQ,2,0.5362,148,76,9.347751727799142,2026-09-23 07:03:50+00:00,Never bet against Tech,https://www.reddit.com/r/wallstreetbets/comments/1wnyrhq/never_bet_against_tech/
+1wnmin7,QQQ,1,0.296,63,12,6.723832440821209,2026-09-22 21:24:50+00:00,QQQ gain,https://www.reddit.com/r/wallstreetbets/comments/1wnmin7/qqq_gain/
+1wmiow2,QQQ,2,-0.8113,105,12,7.228388451573604,2026-09-21 17:04:02+00:00,$QQQ Gains- All because I fell asleep on Friday,https://www.reddit.com/r/wallstreetbets/comments/1wmiow2/qqq_gains_all_because_i_fell_asleep_on_friday/
+1wjvbny,QQQ,1,0.8402,1525,302,13.04413801735377,2026-09-18 16:41:26+00:00,69k->10k->204k,https://www.reddit.com/r/wallstreetbets/comments/1wjvbny/69k10k204k/
+1wos2x8,TNDM,6,0.9507,108,77,9.048056708918736,2026-09-24 04:32:50+00:00,$1.2M yolo into $TNDM (Tandem Diabetes),https://www.reddit.com/r/wallstreetbets/comments/1wos2x8/12m_yolo_into_tndm_tandem_diabetes/

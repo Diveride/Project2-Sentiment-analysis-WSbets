@@ -3,21 +3,21 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-09-24T00:32:53.382819+00:00`
+- Generated at (UTC): `2026-09-25T00:35:45.223537+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
-| 1 | META | 22 | 12 | -0.003 |
+| 1 | META | 24 | 13 | 0.038 |
 | 2 | AMD | 13 | 8 | 0.212 |
 | 3 | QQQ | 6 | 4 | 0.215 |
 | 4 | HESAY | 8 | 1 | -0.735 |
-| 5 | INTC | 3 | 2 | 0.089 |
-| 6 | NVO | 3 | 2 | 0.082 |
-| 7 | BTC | 3 | 2 | 0.120 |
+| 5 | BTC | 3 | 2 | 0.120 |
+| 6 | TNDM | 6 | 1 | 0.951 |
+| 7 | NATO | 6 | 1 | -0.998 |
 | 8 | MCD | 2 | 2 | -0.262 |
-| 9 | GAIN | 2 | 2 | 0.711 |
+| 9 | GAIN | 2 | 2 | 0.716 |
 | 10 | NVDA | 2 | 2 | 0.754 |
 
 ## Reddit fetch diagnostics
@@ -31,18 +31,18 @@
 | --- | --- | --- | ---: | --- |
 | hot | oauth | success | 100 |  |
 | new | oauth | success | 100 |  |
-| rising | oauth | success | 24 |  |
+| rising | oauth | success | 25 |  |
 | top | oauth | success | 100 |  |
 
 ## Market snapshot
 
-- **META**: close `736.60`, 1M return `33.95%` if available, RSI `76.05` and regression RMSE `6.184`
-- **AMD**: close `623.77`, 1M return `31.81%` if available, RSI `73.88` and regression RMSE `20.732`
-- **QQQ**: close `747.46`, 1M return `4.77%` if available, RSI `67.96` and regression RMSE `3.888`
-- **HESAY**: close `153.24`, 1M return `-16.35%` if available, RSI `26.68` and regression RMSE `3.980`
-- **INTC**: close `123.86`, 1M return `37.52%` if available, RSI `72.06` and regression RMSE `4.644`
-- **NVO**: close `39.40`, 1M return `-15.70%` if available, RSI `30.22` and regression RMSE `0.733`
-- **BTC**: close `38.25`, 1M return `18.97%` if available, RSI `72.14` and regression RMSE `0.663`
-- **MCD**: close `250.35`, 1M return `-7.60%` if available, RSI `36.72` and regression RMSE `1.319`
-- **GAIN**: close `15.84`, 1M return `-3.12%` if available, RSI `39.34` and regression RMSE `0.092`
-- **NVDA**: close `228.87`, 1M return `6.59%` if available, RSI `59.36` and regression RMSE `1.906`
+- **META**: close `744.10`, 1M return `33.11%` if available, RSI `76.95` and regression RMSE `6.360`
+- **AMD**: close `614.61`, 1M return `34.56%` if available, RSI `71.00` and regression RMSE `17.930`
+- **QQQ**: close `741.21`, 1M return `4.94%` if available, RSI `63.22` and regression RMSE `4.645`
+- **HESAY**: close `155.01`, 1M return `-15.82%` if available, RSI `30.70` and regression RMSE `4.038`
+- **BTC**: close `37.38`, 1M return `9.68%` if available, RSI `66.61` and regression RMSE `0.696`
+- **TNDM**: close `16.38`, 1M return `-26.61%` if available, RSI `34.16` and regression RMSE `0.425`
+- **NATO**: close `37.97`, 1M return `-8.26%` if available, RSI `32.84` and regression RMSE `0.183`
+- **MCD**: close `238.32`, 1M return `-12.56%` if available, RSI `25.87` and regression RMSE `2.865`
+- **GAIN**: close `15.64`, 1M return `-4.40%` if available, RSI `34.79` and regression RMSE `0.073`
+- **NVDA**: close `225.51`, 1M return `8.17%` if available, RSI `55.72` and regression RMSE `1.743`

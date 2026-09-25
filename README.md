@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-24T00:32:53.380761+00:00`
+- Generated at (UTC): `2026-09-25T00:35:45.221849+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | META | 22 | 12 | -0.003 | 736.60 | 33.95% | 6.184 |
-| 2 | AMD | 13 | 8 | 0.212 | 623.77 | 31.81% | 20.732 |
-| 3 | QQQ | 6 | 4 | 0.215 | 747.46 | 4.77% | 3.888 |
-| 4 | HESAY | 8 | 1 | -0.735 | 153.24 | -16.35% | 3.980 |
-| 5 | INTC | 3 | 2 | 0.089 | 123.86 | 37.52% | 4.644 |
-| 6 | NVO | 3 | 2 | 0.082 | 39.40 | -15.70% | 0.733 |
-| 7 | BTC | 3 | 2 | 0.120 | 38.25 | 18.97% | 0.663 |
-| 8 | MCD | 2 | 2 | -0.262 | 250.35 | -7.60% | 1.319 |
-| 9 | GAIN | 2 | 2 | 0.711 | 15.84 | -3.12% | 0.092 |
-| 10 | NVDA | 2 | 2 | 0.754 | 228.87 | 6.59% | 1.906 |
+| 1 | META | 24 | 13 | 0.038 | 744.10 | 33.11% | 6.360 |
+| 2 | AMD | 13 | 8 | 0.212 | 614.61 | 34.56% | 17.930 |
+| 3 | QQQ | 6 | 4 | 0.215 | 741.21 | 4.94% | 4.645 |
+| 4 | HESAY | 8 | 1 | -0.735 | 155.01 | -15.82% | 4.038 |
+| 5 | BTC | 3 | 2 | 0.120 | 37.38 | 9.68% | 0.696 |
+| 6 | TNDM | 6 | 1 | 0.951 | 16.38 | -26.61% | 0.425 |
+| 7 | NATO | 6 | 1 | -0.998 | 37.97 | -8.26% | 0.183 |
+| 8 | MCD | 2 | 2 | -0.262 | 238.32 | -12.56% | 2.865 |
+| 9 | GAIN | 2 | 2 | 0.716 | 15.64 | -4.40% | 0.073 |
+| 10 | NVDA | 2 | 2 | 0.754 | 225.51 | 8.17% | 1.743 |
 
 ### Aggregate Charts
 
@@ -198,17 +198,17 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![HESAY Dashboard](outputs/latest_wsb_analysis/charts/hesay_dashboard.png)
 
-#### INTC
-
-![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
-
-#### NVO
-
-![NVO Dashboard](outputs/latest_wsb_analysis/charts/nvo_dashboard.png)
-
 #### BTC
 
 ![BTC Dashboard](outputs/latest_wsb_analysis/charts/btc_dashboard.png)
+
+#### TNDM
+
+![TNDM Dashboard](outputs/latest_wsb_analysis/charts/tndm_dashboard.png)
+
+#### NATO
+
+![NATO Dashboard](outputs/latest_wsb_analysis/charts/nato_dashboard.png)
 
 #### MCD
 
