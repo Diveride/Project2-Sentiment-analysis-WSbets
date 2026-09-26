@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-25T00:35:45.221849+00:00`
+- Generated at (UTC): `2026-09-26T00:39:27.801060+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | META | 24 | 13 | 0.038 | 744.10 | 33.11% | 6.360 |
-| 2 | AMD | 13 | 8 | 0.212 | 614.61 | 34.56% | 17.930 |
-| 3 | QQQ | 6 | 4 | 0.215 | 741.21 | 4.94% | 4.645 |
-| 4 | HESAY | 8 | 1 | -0.735 | 155.01 | -15.82% | 4.038 |
-| 5 | BTC | 3 | 2 | 0.120 | 37.38 | 9.68% | 0.696 |
-| 6 | TNDM | 6 | 1 | 0.951 | 16.38 | -26.61% | 0.425 |
-| 7 | NATO | 6 | 1 | -0.998 | 37.97 | -8.26% | 0.183 |
-| 8 | MCD | 2 | 2 | -0.262 | 238.32 | -12.56% | 2.865 |
-| 9 | GAIN | 2 | 2 | 0.716 | 15.64 | -4.40% | 0.073 |
-| 10 | NVDA | 2 | 2 | 0.754 | 225.51 | 8.17% | 1.743 |
+| 1 | META | 24 | 13 | 0.038 | 777.59 | 36.41% | 7.277 |
+| 2 | AMD | 12 | 7 | 0.204 | 629.26 | 31.32% | 17.971 |
+| 3 | QQQ | 5 | 3 | 0.007 | 741.10 | 4.27% | 4.887 |
+| 4 | HESAY | 8 | 1 | -0.735 | 155.15 | -13.81% | 3.832 |
+| 5 | AMZN | 4 | 2 | 0.330 | 249.38 | -4.47% | 3.624 |
+| 6 | MSTR | 3 | 2 | -0.391 | 161.61 | 27.42% | 5.446 |
+| 7 | TNDM | 6 | 1 | 0.951 | 15.22 | -29.47% | 0.399 |
+| 8 | NATO | 6 | 1 | -0.998 | 37.74 | -7.84% | 0.219 |
+| 9 | MCD | 2 | 2 | -0.262 | 237.02 | -11.59% | 1.404 |
+| 10 | GAIN | 2 | 2 | 0.716 | 15.65 | -5.09% | 0.065 |
 
 ### Aggregate Charts
 
@@ -198,9 +198,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![HESAY Dashboard](outputs/latest_wsb_analysis/charts/hesay_dashboard.png)
 
-#### BTC
+#### AMZN
 
-![BTC Dashboard](outputs/latest_wsb_analysis/charts/btc_dashboard.png)
+![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
+
+#### MSTR
+
+![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
 
 #### TNDM
 
@@ -217,8 +221,4 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### GAIN
 
 ![GAIN Dashboard](outputs/latest_wsb_analysis/charts/gain_dashboard.png)
-
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 <!-- AUTO_TOP10_END -->
