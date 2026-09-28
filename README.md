@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-27T00:39:19.495576+00:00`
+- Generated at (UTC): `2026-09-28T00:49:29.071343+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | META | 22 | 12 | -0.026 | 751.66 | 30.46% | 7.576 |
-| 2 | AMD | 12 | 7 | 0.204 | 630.63 | 31.13% | 18.424 |
-| 3 | QQQ | 5 | 3 | 0.007 | 744.50 | 4.66% | 4.185 |
-| 4 | RKLB | 5 | 2 | 0.223 | 73.95 | 11.74% | 4.537 |
+| 1 | META | 19 | 10 | -0.141 | 751.66 | 30.46% | 7.576 |
+| 2 | AMD | 8 | 4 | 0.042 | 630.63 | 31.13% | 18.424 |
+| 3 | AMZN | 5 | 3 | 0.516 | 249.67 | -4.08% | 3.639 |
+| 4 | QQQ | 5 | 3 | 0.007 | 744.50 | 4.66% | 4.185 |
 | 5 | HESAY | 8 | 1 | -0.735 | 155.11 | -13.83% | 3.844 |
-| 6 | AMZN | 4 | 2 | 0.330 | 249.67 | -4.08% | 3.639 |
-| 7 | MSTR | 3 | 2 | -0.391 | 158.61 | 28.75% | 5.368 |
-| 8 | TNDM | 6 | 1 | 0.951 | 15.72 | -26.44% | 0.391 |
-| 9 | NATO | 6 | 1 | -0.998 | 37.83 | -8.27% | 0.223 |
-| 10 | MCD | 2 | 2 | -0.262 | 236.50 | -11.40% | 1.557 |
+| 6 | MSTR | 3 | 2 | -0.391 | 158.61 | 28.75% | 5.368 |
+| 7 | TNDM | 6 | 1 | 0.951 | 15.72 | -26.44% | 0.391 |
+| 8 | NATO | 6 | 1 | -0.998 | 37.83 | -8.27% | 0.223 |
+| 9 | MCD | 2 | 2 | -0.262 | 236.50 | -11.40% | 1.557 |
+| 10 | MSFT | 2 | 2 | 0.380 | 516.17 | 3.99% | 15.802 |
 
 ### Aggregate Charts
 
@@ -190,21 +190,17 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
+#### AMZN
+
+![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
+
 #### QQQ
 
 ![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
-#### RKLB
-
-![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
-
 #### HESAY
 
 ![HESAY Dashboard](outputs/latest_wsb_analysis/charts/hesay_dashboard.png)
-
-#### AMZN
-
-![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
 
 #### MSTR
 
@@ -221,4 +217,8 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### MCD
 
 ![MCD Dashboard](outputs/latest_wsb_analysis/charts/mcd_dashboard.png)
+
+#### MSFT
+
+![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 <!-- AUTO_TOP10_END -->
