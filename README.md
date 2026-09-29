@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-28T00:49:29.071343+00:00`
+- Generated at (UTC): `2026-09-29T02:00:04.044552+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | META | 19 | 10 | -0.141 | 751.66 | 30.46% | 7.576 |
-| 2 | AMD | 8 | 4 | 0.042 | 630.63 | 31.13% | 18.424 |
-| 3 | AMZN | 5 | 3 | 0.516 | 249.67 | -4.08% | 3.639 |
-| 4 | QQQ | 5 | 3 | 0.007 | 744.50 | 4.66% | 4.185 |
-| 5 | HESAY | 8 | 1 | -0.735 | 155.11 | -13.83% | 3.844 |
-| 6 | MSTR | 3 | 2 | -0.391 | 158.61 | 28.75% | 5.368 |
-| 7 | TNDM | 6 | 1 | 0.951 | 15.72 | -26.44% | 0.391 |
-| 8 | NATO | 6 | 1 | -0.998 | 37.83 | -8.27% | 0.223 |
-| 9 | MCD | 2 | 2 | -0.262 | 236.50 | -11.40% | 1.557 |
-| 10 | MSFT | 2 | 2 | 0.380 | 516.17 | 3.99% | 15.802 |
+| 1 | META | 6 | 4 | 0.091 | 715.62 | 25.31% | 7.936 |
+| 2 | AMZN | 6 | 4 | 0.247 | 246.15 | -3.95% | 3.601 |
+| 3 | NVDA | 4 | 4 | 0.270 | 228.86 | 0.39% | 1.873 |
+| 4 | AMD | 7 | 3 | 0.056 | 607.87 | 27.52% | 19.901 |
+| 5 | QQQ | 4 | 3 | 0.429 | 736.53 | 2.14% | 3.395 |
+| 6 | MSTR | 3 | 2 | -0.391 | 157.14 | 14.37% | 4.054 |
+| 7 | SPY | 3 | 2 | 0.058 | 765.61 | -0.71% | 6.201 |
+| 8 | TNDM | 6 | 1 | 0.951 | 16.42 | -23.27% | 0.486 |
+| 9 | NATO | 6 | 1 | -0.998 | 37.16 | -9.34% | 0.212 |
+| 10 | MSFT | 2 | 2 | 0.089 | 509.22 | 0.82% | 15.759 |
 
 ### Aggregate Charts
 
@@ -186,25 +186,29 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
 
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
 #### AMZN
 
 ![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+
+#### AMD
+
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
 #### QQQ
 
 ![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
-#### HESAY
-
-![HESAY Dashboard](outputs/latest_wsb_analysis/charts/hesay_dashboard.png)
-
 #### MSTR
 
 ![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
+
+#### SPY
+
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
 #### TNDM
 
@@ -213,10 +217,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### NATO
 
 ![NATO Dashboard](outputs/latest_wsb_analysis/charts/nato_dashboard.png)
-
-#### MCD
-
-![MCD Dashboard](outputs/latest_wsb_analysis/charts/mcd_dashboard.png)
 
 #### MSFT
 
