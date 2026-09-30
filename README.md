@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-29T02:00:04.044552+00:00`
+- Generated at (UTC): `2026-09-30T01:19:35.621565+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | META | 6 | 4 | 0.091 | 715.62 | 25.31% | 7.936 |
-| 2 | AMZN | 6 | 4 | 0.247 | 246.15 | -3.95% | 3.601 |
-| 3 | NVDA | 4 | 4 | 0.270 | 228.86 | 0.39% | 1.873 |
-| 4 | AMD | 7 | 3 | 0.056 | 607.87 | 27.52% | 19.901 |
-| 5 | QQQ | 4 | 3 | 0.429 | 736.53 | 2.14% | 3.395 |
-| 6 | MSTR | 3 | 2 | -0.391 | 157.14 | 14.37% | 4.054 |
-| 7 | SPY | 3 | 2 | 0.058 | 765.61 | -0.71% | 6.201 |
-| 8 | TNDM | 6 | 1 | 0.951 | 16.42 | -23.27% | 0.486 |
-| 9 | NATO | 6 | 1 | -0.998 | 37.16 | -9.34% | 0.212 |
-| 10 | MSFT | 2 | 2 | 0.089 | 509.22 | 0.82% | 15.759 |
+| 1 | AMZN | 8 | 6 | 0.223 | 246.15 | -3.95% | 3.651 |
+| 2 | SPY | 6 | 4 | 0.391 | 765.61 | -0.71% | 6.116 |
+| 3 | NVDA | 4 | 4 | 0.270 | 228.86 | 0.39% | 1.715 |
+| 4 | AMD | 7 | 3 | 0.056 | 607.87 | 27.52% | 20.504 |
+| 5 | RDDT | 5 | 3 | 0.145 | 143.08 | -7.06% | 5.223 |
+| 6 | RKLB | 4 | 3 | 0.435 | 72.19 | 6.90% | 4.654 |
+| 7 | SNDK | 4 | 3 | 0.907 | 1712.89 | 15.35% | 100.089 |
+| 8 | GAIN | 3 | 3 | 0.806 | 15.71 | -4.21% | 0.067 |
+| 9 | SKHY | 4 | 2 | 0.201 | 181.92 | 12.57% | n/a |
+| 10 | NBIS | 3 | 2 | 0.174 | 231.88 | 6.13% | 13.293 |
 
 ### Aggregate Charts
 
@@ -182,13 +182,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### META
-
-![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
-
 #### AMZN
 
 ![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
+
+#### SPY
+
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
 #### NVDA
 
@@ -198,27 +198,27 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### QQQ
+#### RDDT
 
-![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
+![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
 
-#### MSTR
+#### RKLB
 
-![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
+![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
-#### SPY
+#### SNDK
 
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
 
-#### TNDM
+#### GAIN
 
-![TNDM Dashboard](outputs/latest_wsb_analysis/charts/tndm_dashboard.png)
+![GAIN Dashboard](outputs/latest_wsb_analysis/charts/gain_dashboard.png)
 
-#### NATO
+#### SKHY
 
-![NATO Dashboard](outputs/latest_wsb_analysis/charts/nato_dashboard.png)
+![SKHY Dashboard](outputs/latest_wsb_analysis/charts/skhy_dashboard.png)
 
-#### MSFT
+#### NBIS
 
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 <!-- AUTO_TOP10_END -->
