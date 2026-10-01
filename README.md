@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-09-30T01:19:35.621565+00:00`
+- Generated at (UTC): `2026-10-01T01:19:54.837895+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | AMZN | 8 | 6 | 0.223 | 246.15 | -3.95% | 3.651 |
-| 2 | SPY | 6 | 4 | 0.391 | 765.61 | -0.71% | 6.116 |
-| 3 | NVDA | 4 | 4 | 0.270 | 228.86 | 0.39% | 1.715 |
-| 4 | AMD | 7 | 3 | 0.056 | 607.87 | 27.52% | 20.504 |
-| 5 | RDDT | 5 | 3 | 0.145 | 143.08 | -7.06% | 5.223 |
-| 6 | RKLB | 4 | 3 | 0.435 | 72.19 | 6.90% | 4.654 |
-| 7 | SNDK | 4 | 3 | 0.907 | 1712.89 | 15.35% | 100.089 |
-| 8 | GAIN | 3 | 3 | 0.806 | 15.71 | -4.21% | 0.067 |
-| 9 | SKHY | 4 | 2 | 0.201 | 181.92 | 12.57% | n/a |
-| 10 | NBIS | 3 | 2 | 0.174 | 231.88 | 6.13% | 13.293 |
+| 1 | AMZN | 8 | 6 | 0.223 | 246.67 | -7.42% | 3.581 |
+| 2 | SPY | 7 | 5 | 0.495 | 764.20 | -0.67% | 5.492 |
+| 3 | NVDA | 4 | 4 | 0.270 | 227.21 | 4.44% | 1.689 |
+| 4 | RDDT | 5 | 3 | 0.145 | 145.36 | -4.99% | 3.930 |
+| 5 | QQQ | 8 | 2 | -0.189 | 737.93 | 3.00% | 3.196 |
+| 6 | RKLB | 4 | 3 | 0.435 | 69.70 | 8.25% | 4.679 |
+| 7 | SNDK | 4 | 3 | 0.907 | 1729.76 | 16.48% | 106.146 |
+| 8 | GAIN | 3 | 3 | 0.806 | 15.83 | -3.65% | 0.052 |
+| 9 | MSOS | 6 | 2 | 0.490 | 5.09 | 2.00% | 0.240 |
+| 10 | KLAR | 8 | 1 | 0.975 | 12.36 | -12.96% | 1.179 |
 
 ### Aggregate Charts
 
@@ -194,13 +194,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
 #### RDDT
 
 ![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
+
+#### QQQ
+
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
 #### RKLB
 
@@ -214,11 +214,11 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![GAIN Dashboard](outputs/latest_wsb_analysis/charts/gain_dashboard.png)
 
-#### SKHY
+#### MSOS
 
-![SKHY Dashboard](outputs/latest_wsb_analysis/charts/skhy_dashboard.png)
+![MSOS Dashboard](outputs/latest_wsb_analysis/charts/msos_dashboard.png)
 
-#### NBIS
+#### KLAR
 
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+![KLAR Dashboard](outputs/latest_wsb_analysis/charts/klar_dashboard.png)
 <!-- AUTO_TOP10_END -->
