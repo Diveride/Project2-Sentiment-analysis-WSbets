@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-03T01:14:09.901639+00:00`
+- Generated at (UTC): `2026-10-04T00:40:09.299398+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 9 | 6 | 0.561 | 763.99 | 0.29% | 5.781 |
-| 2 | NVDA | 8 | 6 | 0.195 | 230.86 | 6.17% | 1.510 |
-| 3 | AMZN | 4 | 4 | 0.170 | 248.23 | -2.62% | 3.601 |
-| 4 | GAIN | 4 | 4 | 0.635 | 15.74 | -3.85% | 0.052 |
-| 5 | RKLB | 4 | 3 | 0.435 | 70.46 | 12.66% | 4.688 |
-| 6 | TLT | 7 | 2 | 0.061 | 77.71 | -5.08% | 0.260 |
-| 7 | GOOG | 3 | 3 | 0.304 | 334.93 | 0.87% | 5.012 |
-| 8 | HOOD | 3 | 3 | 0.501 | 111.15 | 7.38% | 2.489 |
-| 9 | KLAR | 8 | 1 | 0.975 | 12.45 | -12.63% | 1.458 |
-| 10 | SKHY | 4 | 2 | 0.201 | 193.50 | 20.35% | n/a |
+| 1 | NVDA | 8 | 6 | 0.196 | 233.95 | 4.25% | 1.518 |
+| 2 | SPY | 8 | 5 | 0.714 | 769.64 | 0.59% | 5.723 |
+| 3 | AMZN | 4 | 4 | 0.170 | 251.52 | -1.36% | 3.590 |
+| 4 | GAIN | 4 | 4 | 0.635 | 15.66 | -4.51% | 0.050 |
+| 5 | QQQ | 8 | 2 | -0.839 | 749.58 | 5.69% | 3.167 |
+| 6 | WULF | 7 | 2 | 0.174 | 15.49 | 4.52% | 0.995 |
+| 7 | TLT | 7 | 2 | 0.061 | 77.48 | -5.45% | 0.260 |
+| 8 | GOOG | 3 | 3 | 0.304 | 340.35 | 1.97% | 4.696 |
+| 9 | TSLA | 3 | 3 | 0.436 | 370.59 | 3.80% | 3.331 |
+| 10 | KLAR | 8 | 1 | 0.975 | 12.51 | -14.02% | 1.492 |
 
 ### Aggregate Charts
 
@@ -182,13 +182,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### SPY
-
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
 #### NVDA
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+
+#### SPY
+
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
 #### AMZN
 
@@ -198,9 +198,13 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![GAIN Dashboard](outputs/latest_wsb_analysis/charts/gain_dashboard.png)
 
-#### RKLB
+#### QQQ
 
-![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
+
+#### WULF
+
+![WULF Dashboard](outputs/latest_wsb_analysis/charts/wulf_dashboard.png)
 
 #### TLT
 
@@ -210,15 +214,11 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![GOOG Dashboard](outputs/latest_wsb_analysis/charts/goog_dashboard.png)
 
-#### HOOD
+#### TSLA
 
-![HOOD Dashboard](outputs/latest_wsb_analysis/charts/hood_dashboard.png)
+![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 
 #### KLAR
 
 ![KLAR Dashboard](outputs/latest_wsb_analysis/charts/klar_dashboard.png)
-
-#### SKHY
-
-![SKHY Dashboard](outputs/latest_wsb_analysis/charts/skhy_dashboard.png)
 <!-- AUTO_TOP10_END -->
