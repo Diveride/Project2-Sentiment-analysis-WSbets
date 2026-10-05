@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-04T00:40:09.299398+00:00`
+- Generated at (UTC): `2026-10-05T00:58:32.859903+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -165,12 +165,12 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1 | NVDA | 8 | 6 | 0.196 | 233.95 | 4.25% | 1.518 |
 | 2 | SPY | 8 | 5 | 0.714 | 769.64 | 0.59% | 5.723 |
-| 3 | AMZN | 4 | 4 | 0.170 | 251.52 | -1.36% | 3.590 |
-| 4 | GAIN | 4 | 4 | 0.635 | 15.66 | -4.51% | 0.050 |
-| 5 | QQQ | 8 | 2 | -0.839 | 749.58 | 5.69% | 3.167 |
-| 6 | WULF | 7 | 2 | 0.174 | 15.49 | 4.52% | 0.995 |
-| 7 | TLT | 7 | 2 | 0.061 | 77.48 | -5.45% | 0.260 |
-| 8 | GOOG | 3 | 3 | 0.304 | 340.35 | 1.97% | 4.696 |
+| 3 | GAIN | 4 | 4 | 0.635 | 15.66 | -4.51% | 0.050 |
+| 4 | QQQ | 8 | 2 | -0.839 | 749.58 | 5.69% | 3.167 |
+| 5 | WULF | 7 | 2 | 0.174 | 15.49 | 4.52% | 0.995 |
+| 6 | TLT | 7 | 2 | 0.061 | 77.48 | -5.45% | 0.260 |
+| 7 | GOOG | 3 | 3 | 0.304 | 340.35 | 1.97% | 4.696 |
+| 8 | AMZN | 3 | 3 | -0.070 | 251.52 | -1.36% | 3.590 |
 | 9 | TSLA | 3 | 3 | 0.436 | 370.59 | 3.80% | 3.331 |
 | 10 | KLAR | 8 | 1 | 0.975 | 12.51 | -14.02% | 1.492 |
 
@@ -189,10 +189,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
-#### AMZN
-
-![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
 
 #### GAIN
 
@@ -213,6 +209,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### GOOG
 
 ![GOOG Dashboard](outputs/latest_wsb_analysis/charts/goog_dashboard.png)
+
+#### AMZN
+
+![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
 
 #### TSLA
 
