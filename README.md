@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-05T00:58:32.859903+00:00`
+- Generated at (UTC): `2026-10-06T02:20:36.497496+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 8 | 6 | 0.196 | 233.95 | 4.25% | 1.518 |
-| 2 | SPY | 8 | 5 | 0.714 | 769.64 | 0.59% | 5.723 |
-| 3 | GAIN | 4 | 4 | 0.635 | 15.66 | -4.51% | 0.050 |
-| 4 | QQQ | 8 | 2 | -0.839 | 749.58 | 5.69% | 3.167 |
-| 5 | WULF | 7 | 2 | 0.174 | 15.49 | 4.52% | 0.995 |
-| 6 | TLT | 7 | 2 | 0.061 | 77.48 | -5.45% | 0.260 |
-| 7 | GOOG | 3 | 3 | 0.304 | 340.35 | 1.97% | 4.696 |
-| 8 | AMZN | 3 | 3 | -0.070 | 251.52 | -1.36% | 3.590 |
-| 9 | TSLA | 3 | 3 | 0.436 | 370.59 | 3.80% | 3.331 |
-| 10 | KLAR | 8 | 1 | 0.975 | 12.51 | -14.02% | 1.492 |
+| 1 | TSLA | 8 | 7 | 0.431 | 378.73 | 0.63% | 4.803 |
+| 2 | SPCX | 11 | 4 | 0.094 | 171.09 | 14.26% | 5.330 |
+| 3 | GAIN | 5 | 5 | 0.634 | 15.54 | -5.13% | 0.060 |
+| 4 | NVDA | 6 | 4 | 0.263 | 238.90 | 4.57% | 1.591 |
+| 5 | SPY | 5 | 3 | 0.776 | 774.83 | 0.21% | 4.260 |
+| 6 | QQQ | 8 | 2 | -0.839 | 756.20 | 5.37% | 4.094 |
+| 7 | MSTR | 7 | 2 | 0.474 | 164.43 | 13.54% | 3.734 |
+| 8 | KLAR | 8 | 1 | 0.975 | 13.09 | -9.10% | 1.827 |
+| 9 | NBIS | 3 | 2 | 0.174 | 232.57 | 10.42% | 10.322 |
+| 10 | RDDT | 3 | 2 | 0.174 | 150.42 | -3.57% | 3.567 |
 
 ### Aggregate Charts
 
@@ -182,6 +182,18 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
+#### TSLA
+
+![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
+
+#### SPCX
+
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+
+#### GAIN
+
+![GAIN Dashboard](outputs/latest_wsb_analysis/charts/gain_dashboard.png)
+
 #### NVDA
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
@@ -190,35 +202,23 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### GAIN
-
-![GAIN Dashboard](outputs/latest_wsb_analysis/charts/gain_dashboard.png)
-
 #### QQQ
 
 ![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
-#### WULF
+#### MSTR
 
-![WULF Dashboard](outputs/latest_wsb_analysis/charts/wulf_dashboard.png)
-
-#### TLT
-
-![TLT Dashboard](outputs/latest_wsb_analysis/charts/tlt_dashboard.png)
-
-#### GOOG
-
-![GOOG Dashboard](outputs/latest_wsb_analysis/charts/goog_dashboard.png)
-
-#### AMZN
-
-![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
-
-#### TSLA
-
-![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
+![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
 
 #### KLAR
 
 ![KLAR Dashboard](outputs/latest_wsb_analysis/charts/klar_dashboard.png)
+
+#### NBIS
+
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+
+#### RDDT
+
+![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
 <!-- AUTO_TOP10_END -->
