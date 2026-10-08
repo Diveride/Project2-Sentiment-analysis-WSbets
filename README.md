@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-07T01:35:55.989596+00:00`
+- Generated at (UTC): `2026-10-08T01:58:55.924745+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 9 | 7 | 0.143 | 239.24 | 3.85% | 1.919 |
-| 2 | AMD | 8 | 5 | 0.521 | 649.42 | 35.98% | 27.615 |
-| 3 | SPCX | 11 | 4 | 0.094 | 171.92 | 16.20% | 5.133 |
-| 4 | TSLA | 6 | 5 | 0.533 | 380.68 | 7.51% | 3.070 |
-| 5 | GAIN | 4 | 4 | 0.602 | 15.40 | -6.10% | 0.068 |
-| 6 | MSTR | 7 | 2 | 0.474 | 164.55 | 15.23% | 3.715 |
-| 7 | KLAR | 8 | 1 | 0.975 | 13.25 | -8.05% | 1.689 |
-| 8 | SPY | 3 | 2 | 0.901 | 779.09 | 1.16% | 6.201 |
-| 9 | WULF | 6 | 1 | 0.906 | 14.97 | -9.33% | 0.695 |
-| 10 | MU | 2 | 2 | 0.346 | 1045.56 | 2.85% | 26.620 |
+| 1 | NVDA | 8 | 7 | 0.331 | 237.47 | 5.20% | 1.969 |
+| 2 | AMD | 8 | 5 | 0.521 | 645.86 | 27.71% | 22.832 |
+| 3 | SPCX | 11 | 4 | 0.094 | 167.60 | 9.21% | 5.709 |
+| 4 | TSLA | 6 | 5 | 0.533 | 377.81 | 2.62% | 3.476 |
+| 5 | GAIN | 4 | 4 | 0.602 | 15.29 | -5.85% | 0.045 |
+| 6 | MSTR | 7 | 2 | 0.474 | 153.37 | 12.34% | 3.658 |
+| 7 | APLD | 4 | 2 | -0.465 | 23.81 | -15.90% | 0.675 |
+| 8 | INFQ | 4 | 2 | -0.797 | 11.64 | -14.79% | 0.295 |
+| 9 | WULF | 6 | 1 | 0.906 | 14.40 | -19.37% | 0.334 |
+| 10 | FTC | 2 | 2 | 0.350 | 180.95 | 1.95% | 1.939 |
 
 ### Aggregate Charts
 
@@ -206,19 +206,19 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
 
-#### KLAR
+#### APLD
 
-![KLAR Dashboard](outputs/latest_wsb_analysis/charts/klar_dashboard.png)
+![APLD Dashboard](outputs/latest_wsb_analysis/charts/apld_dashboard.png)
 
-#### SPY
+#### INFQ
 
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+![INFQ Dashboard](outputs/latest_wsb_analysis/charts/infq_dashboard.png)
 
 #### WULF
 
 ![WULF Dashboard](outputs/latest_wsb_analysis/charts/wulf_dashboard.png)
 
-#### MU
+#### FTC
 
-![MU Dashboard](outputs/latest_wsb_analysis/charts/mu_dashboard.png)
+![FTC Dashboard](outputs/latest_wsb_analysis/charts/ftc_dashboard.png)
 <!-- AUTO_TOP10_END -->
