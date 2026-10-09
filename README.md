@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-08T01:58:55.924745+00:00`
+- Generated at (UTC): `2026-10-09T02:13:12.642110+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 8 | 7 | 0.331 | 237.47 | 5.20% | 1.969 |
-| 2 | AMD | 8 | 5 | 0.521 | 645.86 | 27.71% | 22.832 |
-| 3 | SPCX | 11 | 4 | 0.094 | 167.60 | 9.21% | 5.709 |
-| 4 | TSLA | 6 | 5 | 0.533 | 377.81 | 2.62% | 3.476 |
-| 5 | GAIN | 4 | 4 | 0.602 | 15.29 | -5.85% | 0.045 |
-| 6 | MSTR | 7 | 2 | 0.474 | 153.37 | 12.34% | 3.658 |
-| 7 | APLD | 4 | 2 | -0.465 | 23.81 | -15.90% | 0.675 |
-| 8 | INFQ | 4 | 2 | -0.797 | 11.64 | -14.79% | 0.295 |
-| 9 | WULF | 6 | 1 | 0.906 | 14.40 | -19.37% | 0.334 |
-| 10 | FTC | 2 | 2 | 0.350 | 180.95 | 1.95% | 1.939 |
+| 1 | SPCX | 14 | 6 | 0.323 | 160.57 | 8.82% | 5.268 |
+| 2 | NVDA | 8 | 7 | 0.331 | 230.48 | 3.04% | 1.433 |
+| 3 | TSLA | 7 | 6 | 0.515 | 375.00 | 1.95% | 4.437 |
+| 4 | AMD | 8 | 5 | 0.521 | 620.68 | 19.11% | 25.633 |
+| 5 | RVI | 14 | 1 | 0.994 | 26.25 | -7.34% | 1.478 |
+| 6 | MSTR | 7 | 2 | 0.474 | 151.47 | 14.14% | 3.743 |
+| 7 | GAIN | 3 | 3 | 0.522 | 15.38 | -4.59% | 0.044 |
+| 8 | APLD | 4 | 2 | -0.465 | 23.85 | -12.12% | 1.017 |
+| 9 | AAOI | 4 | 2 | 0.255 | 105.90 | -1.88% | 8.683 |
+| 10 | INFQ | 4 | 2 | -0.797 | 11.16 | -15.84% | 0.359 |
 
 ### Aggregate Charts
 
@@ -182,43 +182,43 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
 #### SPCX
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### TSLA
 
 ![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 
-#### GAIN
+#### AMD
 
-![GAIN Dashboard](outputs/latest_wsb_analysis/charts/gain_dashboard.png)
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+
+#### RVI
+
+![RVI Dashboard](outputs/latest_wsb_analysis/charts/rvi_dashboard.png)
 
 #### MSTR
 
 ![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
 
+#### GAIN
+
+![GAIN Dashboard](outputs/latest_wsb_analysis/charts/gain_dashboard.png)
+
 #### APLD
 
 ![APLD Dashboard](outputs/latest_wsb_analysis/charts/apld_dashboard.png)
 
+#### AAOI
+
+![AAOI Dashboard](outputs/latest_wsb_analysis/charts/aaoi_dashboard.png)
+
 #### INFQ
 
 ![INFQ Dashboard](outputs/latest_wsb_analysis/charts/infq_dashboard.png)
-
-#### WULF
-
-![WULF Dashboard](outputs/latest_wsb_analysis/charts/wulf_dashboard.png)
-
-#### FTC
-
-![FTC Dashboard](outputs/latest_wsb_analysis/charts/ftc_dashboard.png)
 <!-- AUTO_TOP10_END -->
