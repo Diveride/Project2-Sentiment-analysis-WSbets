@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-10T01:47:59.839321+00:00`
+- Generated at (UTC): `2026-10-11T01:02:57.377353+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -164,15 +164,15 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1 | SPCX | 12 | 5 | 0.268 | 162.57 | 9.71% | 5.054 |
-| 2 | TSLA | 7 | 6 | 0.515 | 382.70 | 5.26% | 4.141 |
-| 3 | NVDA | 6 | 6 | 0.298 | 229.28 | 5.00% | 2.417 |
-| 4 | AMD | 8 | 5 | 0.521 | 608.10 | 20.75% | 26.196 |
-| 5 | ADBE | 13 | 3 | 0.833 | 242.27 | -2.64% | 3.679 |
+| 2 | NVDA | 6 | 6 | 0.002 | 229.28 | 5.00% | 2.417 |
+| 3 | AMD | 8 | 5 | 0.521 | 608.10 | 20.75% | 26.196 |
+| 4 | ADBE | 13 | 3 | 0.833 | 242.27 | -2.64% | 3.679 |
+| 5 | TSLA | 5 | 4 | 0.468 | 382.70 | 5.26% | 4.141 |
 | 6 | RVI | 14 | 1 | 0.994 | 26.10 | -8.03% | 1.612 |
-| 7 | MSTR | 7 | 2 | 0.474 | 154.34 | 20.05% | 3.880 |
-| 8 | APLD | 4 | 2 | -0.465 | 23.68 | -8.15% | 0.810 |
-| 9 | AAOI | 4 | 2 | 0.255 | 109.64 | 6.15% | 7.699 |
-| 10 | INFQ | 4 | 2 | -0.797 | 11.04 | -14.81% | 0.425 |
+| 7 | ARR | 4 | 3 | 0.826 | 13.59 | -14.15% | 0.249 |
+| 8 | MSTR | 7 | 2 | 0.474 | 154.34 | 20.05% | 3.880 |
+| 9 | RDDT | 3 | 3 | 0.474 | 159.91 | 2.94% | 3.025 |
+| 10 | APLD | 4 | 2 | -0.465 | 23.68 | -8.15% | 0.810 |
 
 ### Aggregate Charts
 
@@ -186,10 +186,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
-#### TSLA
-
-![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
-
 #### NVDA
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
@@ -202,23 +198,27 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![ADBE Dashboard](outputs/latest_wsb_analysis/charts/adbe_dashboard.png)
 
+#### TSLA
+
+![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
+
 #### RVI
 
 ![RVI Dashboard](outputs/latest_wsb_analysis/charts/rvi_dashboard.png)
+
+#### ARR
+
+![ARR Dashboard](outputs/latest_wsb_analysis/charts/arr_dashboard.png)
 
 #### MSTR
 
 ![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
 
+#### RDDT
+
+![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
+
 #### APLD
 
 ![APLD Dashboard](outputs/latest_wsb_analysis/charts/apld_dashboard.png)
-
-#### AAOI
-
-![AAOI Dashboard](outputs/latest_wsb_analysis/charts/aaoi_dashboard.png)
-
-#### INFQ
-
-![INFQ Dashboard](outputs/latest_wsb_analysis/charts/infq_dashboard.png)
 <!-- AUTO_TOP10_END -->
