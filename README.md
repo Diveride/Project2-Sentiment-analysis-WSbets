@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-11T01:02:57.377353+00:00`
+- Generated at (UTC): `2026-10-12T01:22:30.351614+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,10 +163,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPCX | 12 | 5 | 0.268 | 162.57 | 9.71% | 5.054 |
-| 2 | NVDA | 6 | 6 | 0.002 | 229.28 | 5.00% | 2.417 |
-| 3 | AMD | 8 | 5 | 0.521 | 608.10 | 20.75% | 26.196 |
-| 4 | ADBE | 13 | 3 | 0.833 | 242.27 | -2.64% | 3.679 |
+| 1 | AMD | 8 | 5 | 0.521 | 608.10 | 20.75% | 26.196 |
+| 2 | SPCX | 11 | 4 | 0.584 | 162.57 | 9.71% | 5.054 |
+| 3 | ADBE | 13 | 3 | 0.833 | 242.27 | -2.64% | 3.679 |
+| 4 | NVDA | 5 | 5 | 0.083 | 229.28 | 5.00% | 2.417 |
 | 5 | TSLA | 5 | 4 | 0.468 | 382.70 | 5.26% | 4.141 |
 | 6 | RVI | 14 | 1 | 0.994 | 26.10 | -8.03% | 1.612 |
 | 7 | ARR | 4 | 3 | 0.826 | 13.59 | -14.15% | 0.249 |
@@ -182,21 +182,21 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### SPCX
-
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
-
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
+#### SPCX
+
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+
 #### ADBE
 
 ![ADBE Dashboard](outputs/latest_wsb_analysis/charts/adbe_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### TSLA
 
