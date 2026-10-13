@@ -1,7 +1,188 @@
 created_utc,body,clean_body,body_sentiment,body_label
+2026-10-13 02:22:14+00:00,"Tangled trades. The announcement of Chinese memory being created destroyed the premium of current memory stocks. With no cheap source of memory, memory became expensive and the companies providing that memory earned valuations that were astronomical. Now introduce new memory sources and that premium is gone.
+
+Those in memory stocks most likely had highly leveraged positions and as those positions unravel, they bring the entire market down, not only because of the selling on the memory stocks, but the effect it has on the indices overall.
+
+Until the memory stocks correct, the bleed will continue.
+
+Thoughts?",tangled trades the announcement of chinese memory being created destroyed the premium of current memory stocks with no cheap source of memory memory became expensive and the companies providing that memory earned valuations that were astronomical now introduce new memory sources and that premium is gone those in memory stocks most likely had highly leveraged positions and as those positions unravel they bring the entire market down not only because of the selling on the memory stocks but the effect it has on the indices overall until the memory stocks correct the bleed will continue thoughts,-0.296,negative
+2026-10-13 00:58:36+00:00,"> Many investors were nevertheless comfortable with a valuation around $25 billion. But a few days before the IPO price was set, Firmus announced an agreement with Meta Platforms Inc . . . 
+
+> It revised its numbers on the back of that announcement leading to the IPO price.
+
+> Some investors saw that as the company pushing the envelope. They were being asked to value a company that had $51 million in revenue in the 2026 financial year at over $30 billion, based on ambitious growth targets that would require it to spend billions of dollars it didn’t yet have.
+
+https://archive.is/WpGNu",many investors were nevertheless comfortable with a valuation around billion but a few days before the ipo price was set firmus announced an agreement with meta platforms inc it revised its numbers on the back of that announcement leading to the ipo price some investors saw that as the company pushing the envelope they were being asked to value a company that had million in revenue in the financial year at over billion based on ambitious growth targets that would require it to spend billions of dollars it didn t yet have,0.9524,positive
+2026-10-13 00:52:01+00:00,,nan,0.0,neutral
+2026-10-13 00:50:51+00:00,"Me again. If you’re new, go read the post on WOLF and CLF first.
+
+Let's pre-empt the peanut gallery: there has been enormous volatility due to wars, the great Leo margin call, interest rate and inflation terrors and oil & diesel armageddon. This has nothing to do with the thesis and if you are patient and got balls this is how you make money. My thesis is correct and this is what happens next.
+
+In June I said the government was going to put 1.5 BILLION into Wolfspeed. I pointed to the indenture covenants where the 1L noteholders agreed to let a federal lender take first priority on Siler City.
+
+On October 7, [the Department of War’s Office of Strategic Capital announced a conditional $1.5B, 30-year loan commitment to Wolfspeed](https://www.wolfspeed.com/company/news-events/news/wolfspeed-announces-conditional-30-year-loan-commitment-from-us-department-of-war-to-advance-domestic-wide-bandgap-supply-chain/). 
+
+WHERE I FUCKED UP (AGAIN, IN THE BEST WAY)
+
+I said DoE plus CHIPS. It’s the Department of War. THAT IS EVEN BETTER.
+
+THE BORING SHIT **(**[**read the 8-K yourself**](https://www.sec.gov/Archives/edgar/data/0000895419/000119312526416987/d122407d8k.htm) if you are an autist as well)
+
+WOLF gets up to $1.5B in up to four tranches, available over a 30 year window.
+
+$600M refinances the 1L senior secured notes due 2030 in full. Those are the expensive notes I told you were bleeding this company dry. The interest rate is UST plus 1.25–1.75%.
+
+Then there are some other tranches of debt that open based on some milestones and investments that I will explain later.
+
+In exchange, the Department of War gets warrants for up to 7.5% of the company. It can also name a non-voting board observer. The company has to keep its HQ in the US, and a majority of the board has to be US citizens blah blah blah.
+
+**THE PART I DIDN’T SEE COMING: THIS ISN’T AN AI DEAL. IT’S AN AI & WEAPONS DEAL.**
+
+I was focused on 800V data centers and solid-state transformers (SSTs) based on the DPA from April which named power control electronics and other supply chains for grid resilience as strategic priorities. What I didn't see coming was FUCKING SPACE WEAPONS. Read what the Pentagon says the money is for. [Per TNW’s summary of the DoW release](https://thenextweb.com/news/wolfspeed-loan-1-5bn-department-of-war), it lists:
+
+Propulsion systems, directed energy weapons, drones, electronic warfare, radar and missile defense. 
+
+**Investments will be made into upgrading GaN epitaxy for electronic warfare, onshoring GaN power devices, building GaN-on-SiC RF wafers, and radiation-hardening SiC and GaN. Rad-hard means space and nuclear.** 
+
+This is a list of things that are no longer commodity consumer auto parts and soon Wolfspeed will start to trade like a defense prime. I admit I was a bit caught off guard by all of this and wanted to take a couple of days to process but NOW IT ALL MAKES SENSE.
+
+Go back to the [GE Aerospace MOU from June 8](https://geaerospace.com/news/press-releases/ge-aerospace-and-wolfspeed-collaborate-accelerate-high-voltage-silicon-carbide-sic). Wolfspeed supplies its 10kV MOSFET die, and the two companies co-develop **high-voltage module standards for SSTs and next-gen aerospace & defense platforms**. [GE had already qualified high-voltage SiC power units for US military ground vehicles.](https://www.streetinsider.com/Basic+Content/GE+Aerospace+and+Wolfspeed+sign+MOU+for+silicon+carbide+development/26615085.html)
+
+That MOU now makes sense. GE is the first prime-side customer, and the DoW loan is the government-side financing. I expect other primes to follow soon.
+
+THE CLAUSE NOBODY READ PART 2
+
+Last time it was Section 8.02. This time it’s the conditions precedent in the 8-K.
+
+To sign definitive agreements, Wolfspeed must execute **“one or more letters of intent or definitive offtake agreements”**that OSC accepts. Every tranche after the first is also conditioned on offtake agreements. The DoW additionally gets certain rights on products related to the project.
+
+Translation: the Pentagon won’t fund the remaining $900M until someone signs up to buy the output.
+
+NOW LETS LOOK AT EXACTLY WHAT THE PLAYBOOK IS THAT THIS ADMIN HAS USED BEFORE
+
+**MP (July 2025):** [DoD took a 15% stake, signed a 10-year offtake for 100% of the 10X magnet facility, and set a $110/kg NdPr price floor](https://trendspider.com/blog/pentagon-backs-mp). THEN, Apple signed a massive offtake agreement. The stock went up 50% that week.
+
+**Intel (August 2025):** the government took a 10% equity stake & then they started to gain commercial momentum as onshoring became the in vogue thing to do. Stock is up \~4x from it's lows.
+
+**Wolfspeed (October 2026):** a loan plus warrants, with offtake required as a condition. WHAT DO YOU THINK HAPPENS NEXT ANON????
+
+MP’s sequence was equity, then offtake, then a price floor. Wolfspeed has the equity-like piece (warrants) and the capital. 
+
+My call is that the offtake comes from the DoW directly, the DoE directly, from a defense prime, or from some sort of combination. GE has already dipped it's toe. I don’t know which or when. I do know the deal can’t close without it.
+
+**WHY THIS RE-RATES THE STOCK**
+
+Today the market values WOLF like a broken, recently-and-soon-to-be-again bankrupt commodity cyclical auto-parts supplier. Pretty much the lowest multiple shitco stock valuation possible in capital markets.
+
+Once there is a 30-year Pentagon lender, a government warrant holder, a board observer, and contracted defense offtake, it stops looking like a cyclical. It looks like a sole-source defense supplier and a strategic and critical supplier to sensitive American supply chains for THE MOST IMPORTANT INDUSTRIES IN THE AMERICAN ECONOMY (GUNS & AI)
+
+**CLF UPDATE: THE OTHER HALF OF THE APRIL DPA**
+
+Recall that the Presidential Determination named “power control electronics” (WOLF) **and** “electrical core steel” (CLF).
+
+[Cliffs announced a sole-source, up to $400M GOES contract with the Defense Logistics Agency](https://www.steelmarketupdate.com/2026/07/06/cliffs-awarded-400m-goes-contract-from-department-of-war/). It’s a five-year deal for the Army, Navy, Air Force, Marines and Space Force. Goncalves has said the government stockpiles this stuff. That is literally a defense offtake for transformer steel.
+
+On October 6, [Energy Secretary Chris Wright and Commerce Under Secretary Kimmitt toured Butler Works](https://www.steelorbis.com/steel-news/latest-news/cleveland-cliffs-hosts-us-energy-officials-at-butler-works-to-showcase-goes-expansion-1482174.htm). The visit showcased the $200M GOES expansion, backed by a $75M DOE award, that raises GOES output by **up to 25%**. Butler is the only US GOES producer.
+
+Cabinet secretaries don’t fly to Butler, PA (where tf even is that???) to look at furnaces for fun. CLF already has a defense stockpile contract. My guess at the next step is a DPA Title III award or long-term offtake with transformer OEMs. SAME PLAYBOOK.
+
+**THE BIG PICTURE: POWER IS THE WHOLE TRADE NOW**
+
+The ""bottleneck"" (sorry if this word gives you PTSD) has gotten worse since I posted.
+
+[Substation transformer lead times are now over 160 weeks](https://www.sparkcharge.io/post/data-center-power-101). Interconnection queues are the binding constraint on data center builds, so everyone is going BTM for power. This is already priced into these names (see BE, GEV and co.)
+
+Every dollar of AI capex guidance assumes those GPUs get power. Hyperscalers, utilities, and the government, and every major GPU and Memory company are all incentivized to get power online. There are only two ways to do it:
+
+**BTM generation plus more transformers.** That’s GOES/CLF.
+
+**FAST TRACK SSTs.** [SSTs handle power flowing both ways and make BTM integration easier](https://www.techcrunch.com/2026/02/20/why-investors-are-going-gaga-over-solid-state-transformers/). [Rosendin says SSTs plus medium-voltage UPS can eliminate up to two-thirds of conversion steps](https://pv-magazine-usa.com/2026/07/15/data-center-power-shifts-favor-bess-solid-state-transformers/). That's WOLF.
+
+The market is schizo right now. The AI trade could blow up, Iran could blow up, something unforeseen could blow up. I don't see the entire future but I have weaponized my autism directly at understanding the admin's strategic investment initiatives and I AM TELLING YOU WHAT THEY WILL DO.
+
+**POSITIONS:** 3k WOLF Shares, 1k CLF Shares, various call option contracts on both.
+
+I have traded positions around big market moves (didn't get these all right) but have upped my core position in both of these names because I am correct. Positions across various accounts but I will show some in comments.
+
+  
+Good luck fellow regards.",me again if you re new go read the post on wolf and clf first let s pre empt the peanut gallery there has been enormous volatility due to wars the great leo margin call interest rate and inflation terrors and oil diesel armageddon this has nothing to do with the thesis and if you are patient and got balls this is how you make money my thesis is correct and this is what happens next in june i said the government was going to put billion into wolfspeed i pointed to the indenture covenants where the l noteholders agreed to let a federal lender take first priority on siler city on october the department of war s office of strategic capital announced a conditional b year loan commitment to wolfspeed where i fucked up again in the best way i said doe plus chips it s the department of war that is even better the boring shit read the k yourself if you are an autist as well wolf gets up to b in up to four tranches available over a year window m refinances the l senior secured notes due in full those are the expensive notes i told you were bleeding this company dry the interest rate is ust plus then there are some other tranches of debt that open based on some milestones and investments that i will explain later in exchange the department of war gets warrants for up to of the company it can also name a non voting board observer the company has to keep its hq in the us and a majority of the board has to be us citizens blah blah blah the part i didn t see coming this isn t an ai deal it s an ai weapons deal i was focused on v data centers and solid state transformers ssts based on the dpa from april which named power control electronics and other supply chains for grid resilience as strategic priorities what i didn t see coming was fucking space weapons read what the pentagon says the money is for per tnw s summary of the dow release it lists propulsion systems directed energy weapons drones electronic warfare radar and missile defense investments will be made into upgrading gan epitaxy for electronic warfare onshoring gan power devices building gan on sic rf wafers and radiation hardening sic and gan rad hard means space and nuclear this is a list of things that are no longer commodity consumer auto parts and soon wolfspeed will start to trade like a defense prime i admit i was a bit caught off guard by all of this and wanted to take a couple of days to process but now it all makes sense go back to the ge aerospace mou from june wolfspeed supplies its kv mosfet die and the two companies co develop high voltage module standards for ssts and next gen aerospace defense platforms ge had already qualified high voltage sic power units for us military ground vehicles that mou now makes sense ge is the first prime side customer and the dow loan is the government side financing i expect other primes to follow soon the clause nobody read part last time it was section this time it s the conditions precedent in the k to sign definitive agreements wolfspeed must execute one or more letters of intent or definitive offtake agreements that osc accepts every tranche after the first is also conditioned on offtake agreements the dow additionally gets certain rights on products related to the project translation the pentagon won t fund the remaining m until someone signs up to buy the output now lets look at exactly what the playbook is that this admin has used before mp july dod took a stake signed a year offtake for of the x magnet facility and set a kg ndpr price floor then apple signed a massive offtake agreement the stock went up that week intel august the government took a equity stake then they started to gain commercial momentum as onshoring became the in vogue thing to do stock is up x from it s lows wolfspeed october a loan plus warrants with offtake required as a condition what do you think happens next anon mp s sequence was equity then offtake then a price floor wolfspeed has the equity like piece warrants and the capital my call is that the offtake comes from the dow directly the doe directly from a defense prime or from some sort of combination ge has already dipped it s toe i don t know which or when i do know the deal can t close without it why this re rates the stock today the market values wolf like a broken recently and soon to be again bankrupt commodity cyclical auto parts supplier pretty much the lowest multiple shitco stock valuation possible in capital markets once there is a year pentagon lender a government warrant holder a board observer and contracted defense offtake it stops looking like a cyclical it looks like a sole source defense supplier and a strategic and critical supplier to sensitive american supply chains for the most important industries in the american economy guns ai clf update the other half of the april dpa recall that the presidential determination named power control electronics wolf and electrical core steel clf cliffs announced a sole source up to m goes contract with the defense logistics agency it s a five year deal for the army navy air force marines and space force goncalves has said the government stockpiles this stuff that is literally a defense offtake for transformer steel on october energy secretary chris wright and commerce under secretary kimmitt toured butler works the visit showcased the m goes expansion backed by a m doe award that raises goes output by up to butler is the only us goes producer cabinet secretaries don t fly to butler pa where tf even is that to look at furnaces for fun clf already has a defense stockpile contract my guess at the next step is a dpa title iii award or long term offtake with transformer oems same playbook the big picture power is the whole trade now the bottleneck sorry if this word gives you ptsd has gotten worse since i posted substation transformer lead times are now over weeks interconnection queues are the binding constraint on data center builds so everyone is going btm for power this is already priced into these names see be gev and co every dollar of ai capex guidance assumes those gpus get power hyperscalers utilities and the government and every major gpu and memory company are all incentivized to get power online there are only two ways to do it btm generation plus more transformers that s goes clf fast track ssts ssts handle power flowing both ways and make btm integration easier rosendin says ssts plus medium voltage ups can eliminate up to two thirds of conversion steps that s wolf the market is schizo right now the ai trade could blow up iran could blow up something unforeseen could blow up i don t see the entire future but i have weaponized my autism directly at understanding the admin s strategic investment initiatives and i am telling you what they will do positions k wolf shares k clf shares various call option contracts on both i have traded positions around big market moves didn t get these all right but have upped my core position in both of these names because i am correct positions across various accounts but i will show some in comments good luck fellow regards,0.9959,positive
+2026-10-13 00:32:58+00:00,,nan,0.0,neutral
+2026-10-12 20:25:19+00:00,loss for ants but this my life savings man. how do I get out of this pickle and prevent it from happening in the future. portfolio all in on rare earths sector ,loss for ants but this my life savings man how do i get out of this pickle and prevent it from happening in the future portfolio all in on rare earths sector,-0.128,negative
+2026-10-12 20:13:27+00:00,,nan,0.0,neutral
+2026-10-12 20:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1x4c9un),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-10-12 19:35:43+00:00,"1.4M YTD on this port, showing the three month graph because it looks more dramatic. \~500k YTD on my retirement ports that I don't actively trade. Max short 3x leverage AI on the way down, max long 3x leverage AI on the way up.
+
+Current positions: Reddit and bonds baby, Reddit and bonds.",m ytd on this port showing the three month graph because it looks more dramatic k ytd on my retirement ports that i don t actively trade max short x leverage ai on the way down max long x leverage ai on the way up current positions reddit and bonds baby reddit and bonds,0.3182,positive
+2026-10-12 18:49:00+00:00,"Investing.com -- Bumble (NASDAQ: BMBL) shares jumped 21% (OP note: today total 52%) after The Wall Street Journal reported the dating app is in advanced talks to go private in a deal valuing the company at roughly $1 billion.
+
+The buyer is Ithaca Holdings, a firm recently founded by two Silicon Valley executives, according to people familiar with the matter. Trading in Bumble shares was paused due to volatility, and might continue higher when trading resumes.",investing com bumble nasdaq bmbl shares jumped op note today total after the wall street journal reported the dating app is in advanced talks to go private in a deal valuing the company at roughly billion the buyer is ithaca holdings a firm recently founded by two silicon valley executives according to people familiar with the matter trading in bumble shares was paused due to volatility and might continue higher when trading resumes,0.7845,positive
+2026-10-12 16:31:01+00:00,"I've been making money on RDDT for a while now via options, and naturally decided the responsible thing to do was buy even more of it (both shares and calls!)
+
+Current positions:
+
+* 32,000 shares: $4.92M
+* 220 x Nov $130 calls: $609k
+* 180 x Mar 2027 $100 calls: $1.06M
+* 110 x Jan 2028 $135 puts sold (for around $360k in premiums)
+* Various other short options
+
+About $6M net in RDDT. Screenshot attached.
+
+Why?
+
+Because I think the market is completely mispricing this company.
+
+* Revenue has increased YoY by over 60% for 8 consecutive quarters
+* Gross margins around 91%
+* EBITDA roughly doubled
+* Around $2.8 billion in cash and the stock is sitting around $154
+* Forward PE around 24 with a PEG around 0.7
+* Almost no dilution due to buybacks (fully diluted share count increased just 0.2% YoY)
+* FCF that's growing rapidly (Q2 FCF grew 135% to $261M)
+* 6 times the user growth rate of META
+* Almost zero capex requirements
+
+They're still nowhere close to fully monetizing their international audience. International ARPU is just $2.26 compared to $11.85 in the US. Advertising keeps improving, and earnings have the potential to grow considerably faster than users. They don't need explosive user growth to keep putting up impressive numbers. And yes, international ARPU will be significantly lower than US ARPU, but there's still a lot of growth left there!
+
+What about the AI data licensing deals? Those are icing on the cake. RDDT has been generating this insane growth (and margins) without the existing deals contributing much. Last quarter revenue was over $800 million, with AI licensing accounting for less than 5% of it. Even losing those deals wouldn't put much of a dent in revenue. But if they sign some major new licensing agreements, I don't think the market is assigning much value to that potential upside right now.
+
+I genuinely think this has a shot at getting to $1,000/share if they keep executing. No idea how long that'll take, but I think the next earnings report could be the catalyst that finally gets the stock moving again.
+
+Maybe I'm wrong and I lose a few million. Wouldn't be my first bad trade.
+
+But I'm willing to put my money where my mouth is.
+
+**TL;DR:** $6M+ says Reddit is worth a hell of a lot more than $154/share. Positions attached. Roast away.",i ve been making money on rddt for a while now via options and naturally decided the responsible thing to do was buy even more of it both shares and calls current positions shares m x nov calls k x mar calls m x jan puts sold for around k in premiums various other short options about m net in rddt screenshot attached why because i think the market is completely mispricing this company revenue has increased yoy by over for consecutive quarters gross margins around ebitda roughly doubled around billion in cash and the stock is sitting around forward pe around with a peg around almost no dilution due to buybacks fully diluted share count increased just yoy fcf that s growing rapidly q fcf grew to m times the user growth rate of meta almost zero capex requirements they re still nowhere close to fully monetizing their international audience international arpu is just compared to in the us advertising keeps improving and earnings have the potential to grow considerably faster than users they don t need explosive user growth to keep putting up impressive numbers and yes international arpu will be significantly lower than us arpu but there s still a lot of growth left there what about the ai data licensing deals those are icing on the cake rddt has been generating this insane growth and margins without the existing deals contributing much last quarter revenue was over million with ai licensing accounting for less than of it even losing those deals wouldn t put much of a dent in revenue but if they sign some major new licensing agreements i don t think the market is assigning much value to that potential upside right now i genuinely think this has a shot at getting to share if they keep executing no idea how long that ll take but i think the next earnings report could be the catalyst that finally gets the stock moving again maybe i m wrong and i lose a few million wouldn t be my first bad trade but i m willing to put my money where my mouth is tl dr m says reddit is worth a hell of a lot more than share positions attached roast away,-0.2564,negative
+2026-10-12 16:07:32+00:00,"Made a post a couple weeks ago and wanted to update and share more info based on questions that came up.  Current account balance is $808K, of that my invested capital is $115K (shown in 2nd picture).  Primary strategies this year are listed below.  I usually only keep one major open position at a time.  Currently, that strategy is on palladium.  In my prior post, I answered a lot of questions around my strategy so I don't plan to go any deeper on that here.  The short of it is that I buy more aggressively as price falls, calculate how much capital I need to do so, and I hardly ever sell for a loss (I wait it out).  I'm willing to tolerate paper losses of about any size as long as I feel good about the underlying security.  That's why all my exited positions are green and my current active position is red.
+
+1.  Oil (long, exited) +$216K - initiated September 2025 and exited early 2026 after the oil price spike following the  Iran war (sold way below top)
+2. Silver (short, exited) +$167K across 4 different securities (AQG, SLV, /SIL, /SIC)
+3. Natural gas (long, exited) +$222K across 3 different securities (/NG, /QG, /MNG)
+4. Palladium (long, current) -$92K; I'm very excited about this position right now.
+
+The 2nd chart shows my invested capital over time.  I calculate this myself in an Excel sheet because Schwab/ThinkorSwim doesn't do this well and I want to know how much of my portfolio is comprised of my own capital vs. house money.  When my positions are down, I will add external capital to support and grow the position and when positions are up, I am selling and removing cash.  You can see that visually on the chart.  I don't remove all the cash too quickly as I'm balancing the goal of removing my invested capital with the goal of growing the account balance as well.",made a post a couple weeks ago and wanted to update and share more info based on questions that came up current account balance is k of that my invested capital is k shown in nd picture primary strategies this year are listed below i usually only keep one major open position at a time currently that strategy is on palladium in my prior post i answered a lot of questions around my strategy so i don t plan to go any deeper on that here the short of it is that i buy more aggressively as price falls calculate how much capital i need to do so and i hardly ever sell for a loss i wait it out i m willing to tolerate paper losses of about any size as long as i feel good about the underlying security that s why all my exited positions are green and my current active position is red oil long exited k initiated september and exited early after the oil price spike following the iran war sold way below top silver short exited k across different securities aqg slv sil sic natural gas long exited k across different securities ng qg mng palladium long current k i m very excited about this position right now the nd chart shows my invested capital over time i calculate this myself in an excel sheet because schwab thinkorswim doesn t do this well and i want to know how much of my portfolio is comprised of my own capital vs house money when my positions are down i will add external capital to support and grow the position and when positions are up i am selling and removing cash you can see that visually on the chart i don t remove all the cash too quickly as i m balancing the goal of removing my invested capital with the goal of growing the account balance as well,0.9555,positive
+2026-10-12 15:03:00+00:00,"Played TSM earnings the last two times and got burned both times, so I’m back for round 3.
+
+100 shares at $448.37 + 13x $460C 10/16 bought today 
+
+The shares are my safer way to stay in the trade.   
+The calls are for the upside if TSM finally gets the move I think it deserves.  
+It’s been weak for a while, but I still like the setup. Strong business, strong demand, and I think expectations are low enough for earnings to wake this thing up.  
+Should be a solid setup… unless China decides to add a surprise plot twist
+
+Third time’s the charm.",played tsm earnings the last two times and got burned both times so i m back for round shares at x c bought today the shares are my safer way to stay in the trade the calls are for the upside if tsm finally gets the move i think it deserves it s been weak for a while but i still like the setup strong business strong demand and i think expectations are low enough for earnings to wake this thing up should be a solid setup unless china decides to add a surprise plot twist third time s the charm,0.9623,positive
+2026-10-12 14:22:14+00:00,Full ported at the wrong time. I'm heartbroken. This is far and beyond the riskiest thing I've ever done. ,full ported at the wrong time i m heartbroken this is far and beyond the riskiest thing i ve ever done,-0.872,negative
+2026-10-12 14:14:10+00:00,Buy and hold right? Surely nothing could go wrong...,buy and hold right surely nothing could go wrong,0.6656,positive
+2026-10-12 14:12:28+00:00,"fucking delist these pos stocks at this rate, they are going to trade at a negative forward pe",fucking delist these pos stocks at this rate they are going to trade at a negative forward pe,-0.5719,negative
+2026-10-12 13:15:37+00:00,,nan,0.0,neutral
+2026-10-12 13:10:19+00:00,they grow up so fast ,they grow up so fast,0.0,neutral
+2026-10-12 11:58:19+00:00,We just got called gamblers by the CEO of Broadcom,we just got called gamblers by the ceo of broadcom,0.0,neutral
+2026-10-12 10:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1x3xuss),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-10-12 05:47:40+00:00,Stay classy,stay classy,0.4404,positive
 2026-10-11 22:28:35+00:00,"https://aiweekly.co/alerts/anthropic-adds-iren-to-530b-data-center-lease-scramble
 
 The AI run continues!",the ai run continues,0.0,neutral
+2026-10-11 20:15:10+00:00,"Does anyone do a debit call spread on NvDA 365-450 days out, long call ITM and short call OTM, risk to reward 1/1. Trade what your willing to lose and just hold the trade til the last week. ",does anyone do a debit call spread on nvda days out long call itm and short call otm risk to reward trade what your willing to lose and just hold the trade til the last week,-0.0258,neutral
 2026-10-11 20:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1x3hx1e),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-10-11 17:28:30+00:00,"Not as impressive as most other gains here.
 
@@ -384,80 +565,7 @@ https://preview.redd.it/pici73x5i8uh1.png?width=2346&format=png&auto=webp&s=b118
 https://preview.redd.it/2enru4u957uh1.png?width=780&format=png&auto=webp&s=ae347185b5d6b6f781e9ba7f197b1b7fef1ceabf
 
 ",mu at the level bounced reversed nicely yesterday,0.4404,positive
-2026-10-08 04:34:18+00:00,"  
-**TL;DR:** Robinhood has a publicly traded fund called **$RVI** that owns stakes in OpenAI, Databricks, Revolut, Stripe, Ramp, Mercor and other massive technology companies.  
-Here’s the interesting part: **This thing is gonna rip when notice**
-
-I started comparing Robinhood’s reported holdings with pricing from Forge, Clarity (formerly Hiive), and Nasdaq Private Market.  
-  
-**WTF is $RVI?**  
-Robinhood Ventures Fund I ($RVI) is a publicly traded fund that owns stakes in companies most of us normally can’t invest in directly.  
-Think of it as a basket of private technology companies you can buy through a regular brokerage account.  
-
-
-You don’t need to be an accredited investor.  
-And unlike buying private shares directly, you can trade RVI on the NYSE.  
-**Here’s what Robinhood reported owning on June 30:**  
-
-
-https://preview.redd.it/irgflllt66uh1.jpg?width=1065&format=pjpg&auto=webp&s=42df7c0cb7f37bc2c1e2068e51661c7a04b4cfd0
-
-  
-Private companies don’t trade on the stock market every day, so funds have to estimate what their investments are worth.  
-
-
-That estimated value is called NAV — Net Asset Value.  
-
-
-RVI last reported NAV of $25.02 per share on June 30. Take a look at where the holdings are marked in terms of valuation. 
-
-https://preview.redd.it/ox25nco176uh1.jpg?width=1179&format=pjpg&auto=webp&s=d8015c80ec35729bb3d2b2c32b3392bc1eb321ee
-
-But private-company shares are still bought and sold between institutions, employees and investors through secondary marketplaces.  
-
-
-Those transactions and market indications can provide clues about what these businesses are worth TODAY.  
-  
-1. Databricks  
-Robinhood’s June 30 filing values its Databricks preferred shares at approximately $201.54 per share.  
-Forge’s October indicative price: $268.50 per share.  
-That’s approximately 33% higher.  
-Databricks also completed a newer funding round in August at $253 per share, implying a $190 billion company valuation.  
-Robinhood’s disclosed Databricks position was worth approximately $86.6 million in June.  
-If you simply applied Forge’s current indicative price to the same share count, it would be worth approximately $115.4 million.  
-That’s almost $29 million of potential additional value in ONE holding.  
-  
-2. Revolut  
-RVI’s June filing implies a mark of approximately $1,398 per ordinary share.  
-Forge currently displays an indicative price of $2,125.  
-That’s approximately 52% higher.  
-  
-3. Stripe  
-RVI’s reported mark: approximately $63 per share.  
-Forge’s indicative price: $72.45.  
-That’s approximately 15% higher.
-
-  
-4. Ramp   
-RVI’s mark: $120 per share.  
-Transactions are taking place at \~$160/share on the secondary market 
-
-  
-5.OpenAI  
-RVI's mark: $687/share 
-
-Transactions are taking place at >$1,000/share the demand is overwhelming. There are rumours that the company is raising a new round at a much higher valuation as well.   
-[https://www.reuters.com/legal/transactional/openai-targets-30-billion-funding-14-trillion-valuation-bloomberg-news-reports-2026-09-29/](https://www.reuters.com/legal/transactional/openai-targets-30-billion-funding-14-trillion-valuation-bloomberg-news-reports-2026-09-29/)
-
-  
-Positions: 273 shares // 10 $20 call exp. March 19, 2027
-
-  
-Sources: Robinhood’s June 30 holdings report, SEC filings, Forge Global, Clarity and Nasdaq Private Market.  
-Not financial advice. Private-market valuations are messy, and this thing can absolutely trade below NAV.  
-",tl dr robinhood has a publicly traded fund called rvi that owns stakes in openai databricks revolut stripe ramp mercor and other massive technology companies here s the interesting part this thing is gonna rip when notice i started comparing robinhood s reported holdings with pricing from forge clarity formerly hiive and nasdaq private market wtf is rvi robinhood ventures fund i rvi is a publicly traded fund that owns stakes in companies most of us normally can t invest in directly think of it as a basket of private technology companies you can buy through a regular brokerage account you don t need to be an accredited investor and unlike buying private shares directly you can trade rvi on the nyse here s what robinhood reported owning on june private companies don t trade on the stock market every day so funds have to estimate what their investments are worth that estimated value is called nav net asset value rvi last reported nav of per share on june take a look at where the holdings are marked in terms of valuation but private company shares are still bought and sold between institutions employees and investors through secondary marketplaces those transactions and market indications can provide clues about what these businesses are worth today databricks robinhood s june filing values its databricks preferred shares at approximately per share forge s october indicative price per share that s approximately higher databricks also completed a newer funding round in august at per share implying a billion company valuation robinhood s disclosed databricks position was worth approximately million in june if you simply applied forge s current indicative price to the same share count it would be worth approximately million that s almost million of potential additional value in one holding revolut rvi s june filing implies a mark of approximately per ordinary share forge currently displays an indicative price of that s approximately higher stripe rvi s reported mark approximately per share forge s indicative price that s approximately higher ramp rvi s mark per share transactions are taking place at share on the secondary market openai rvi s mark share transactions are taking place at share the demand is overwhelming there are rumours that the company is raising a new round at a much higher valuation as well positions shares call exp march sources robinhood s june holdings report sec filings forge global clarity and nasdaq private market not financial advice private market valuations are messy and this thing can absolutely trade below nav,0.9947,positive
 2026-10-08 03:39:27+00:00,"A pimp don’t sweat a measly -$5,000 unrealized loss.",a pimp don t sweat a measly unrealized loss,-0.3182,negative
-2026-10-08 02:02:47+00:00,"I opened this position back in early 2026, a dip happend, I double down on my position, added to it, then later cashed out some profits, which is why the cost basis is so low. In this account I already cashed out $130,000 worth of profits and recovered all my original funds, I started with $78,000 in nov of 2023, it is $600,000 or so now. This is my top position. ",i opened this position back in early a dip happend i double down on my position added to it then later cashed out some profits which is why the cost basis is so low in this account i already cashed out worth of profits and recovered all my original funds i started with in nov of it is or so now this is my top position,0.794,positive
 2026-10-08 01:58:51+00:00,"What I mean is,
 If you make +50,000 in 3 months, why not take out 10k or even 15k in your savings account for safekeeping. Then continue playing with 35k and increase it to 50k-70k again and taking another out. 
 
@@ -552,7 +660,6 @@ Positions: 50 puts $150 strike with March 19th expiry
 
 Not financial advice.",adbe is cooked free ai built clones and a month subscription don t mix bear dd so my adobe bear case is pretty simple ai is about to let a ton of indie devs and random people who are sick of adobe s nonsense build their own version of it for free look at artcraft on github they re building open source clean room clones of photoshop lightroom illustrator and premiere plus apps for motion graphics page layout and pdfs so after effects indesign and acrobat territory their photoshop clone has k stars opens real psd files and their own tracker says it covers of of photoshop s menu items yeah it s alpha give it a few months once this stuff gets big premiere and after effects are dead in the water for anyone who isn t a big studio and that s before you even get to generative ai for most edits typing what you want into chatgpt or gemini is just way easier than opening a psd and doing all the masking nonsense adobe knows it too photoshop literally runs google s and openai s image models inside it now let s talk about the outrageous price now creative cloud pro is a month that s a squeeze on regular people for the same money you could have or ai subscriptions that actually do the stuff you need in fact let s be fr you really only need chatgpt these days and everybody fucking hates adobe canceling was so hard that the doj and ftc sued them over it and adobe paid m to settle in march there s a wsb thread from last october where someone called adbe cheap at a year low p e and a bunch of the top comments were people saying their companies already dumped adobe one for nitro pdf one for foxit one guy said ai coding would spit out open source clones of acrobat then photoshop then after effects a year later here we are op bought at it s now the competition isn t just ai either davinci resolve figma canva all with real free tiers canva made affinity its photoshop illustrator indesign equivalent completely free figma s revenue grew last quarter where adobe still wins is heavy professional workflows big studios agencies after effects and indesign people the plugin ecosystem that s real and it s why this isn t a zero but it s the only moat left and it s getting squeezed from both sides enterprise has figma canva and davinci individuals students freelancers youtubers are the first ones to bail on a bill you can already see it in the numbers revenue still but net new arr dropped from about m to about m year over year down about organic arr growth is about once you strip out the semrush acquisition rpo signed future revenue went down quarter over quarter in june they paused planned price increases and started giving stuff away free to hold onto users net income eps only looks good because they bought back of the stock cfo left in june a new ceo from the marketing side starts dec and the head of the creative business announced he was leaving the day the new ceo was named people will say it s cheap at x earnings the guy in that thread said it was cheap at x cheap gets cheaper when people figure out the product can be cloned for a claude code subscription positions puts strike with march th expiry not financial advice,0.9744,positive
 2026-10-07 17:55:55+00:00,Swung ndx/spx puts from yesterday. Switched to calls at the bottom and back to puts for eod today.,swung ndx spx puts from yesterday switched to calls at the bottom and back to puts for eod today,0.0,neutral
-2026-10-07 17:20:48+00:00,,nan,0.0,neutral
 2026-10-07 17:01:26+00:00,,nan,0.0,neutral
 2026-10-07 15:23:17+00:00,"Bought these Friday because apparently I thought MU dropping after those earnings was “unfair.”
 
@@ -577,90 +684,17 @@ True story.",you are head of the federal reserve and the stock market is booming
 2026-10-06 22:48:48+00:00,,nan,0.0,neutral
 2026-10-06 22:11:58+00:00,,nan,0.0,neutral
 2026-10-06 21:04:32+00:00,I've had these shares for a long time. Got assigned selling cash secured puts back in 2022. Then I had the regarded idea to sell covered calls against them in mid-September when AMD was trading around $500. Oof.,i ve had these shares for a long time got assigned selling cash secured puts back in then i had the regarded idea to sell covered calls against them in mid september when amd was trading around oof,0.5994,positive
-2026-10-06 20:13:13+00:00,"Bought these yesterday, had feeling based on the chart it wanted to break out, especially with how the qqq and spy rallied while this stayed red. Also NVDA run game me some confidence. I still think it has room to run but not trying to become a slave to theta. Will look for more opportunities to go long this week. 
-
-Still have 7 oct 16th $650 calls working for me with 7 oct 16th $690 calls sold as a hedge. ",bought these yesterday had feeling based on the chart it wanted to break out especially with how the qqq and spy rallied while this stayed red also nvda run game me some confidence i still think it has room to run but not trying to become a slave to theta will look for more opportunities to go long this week still have oct th calls working for me with oct th calls sold as a hedge,0.7383,positive
 2026-10-06 20:04:08+00:00,I guess you could say that I made the wrong call? 😞 But there is still hope 🙏🏽 as long as I stay irrational and delusional ,i guess you could say that i made the wrong call but there is still hope as long as i stay irrational and delusional,-0.0772,negative
 2026-10-06 20:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wzcn2q),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-10-06 19:31:05+00:00,"""Webull said it will serve as an X Cashtag Partner, linking X users from market discussions on stocks and crypto to trading through Webull's brokerage infrastructure."" 10/2/26",webull said it will serve as an x cashtag partner linking x users from market discussions on stocks and crypto to trading through webull s brokerage infrastructure,0.0,neutral
-2026-10-06 18:26:11+00:00,"Genuinely trying to understand this stock.
-
-Crypto has had a strong quarter, GLXY has huge exposure to BTC/ETH/SOL and the treasury gains should be significant. At the same time, Helios/AI infrastructure keeps getting built out and the CoreWeave side of the story is supposed to be the other major catalyst.
-
-At the end of Q2 Galaxy had:
-
-$2.75B equity  
-$2.5B cash + stablecoins  
-$1.2B net digital assets + investments
-
-And Q3 is the first full quarter where all 133 MW of Helios Phase I is operational.  
-  
-Management itself guided to approximately:
-
-$80M Q3 leasing revenue  
-\>90% project-level adjusted EBITDA margin
-
-That's >$70M of quarterly project-level EBITDA from Phase I alone.
-
-Galaxy also now has a 5.7+ GW potential data-center pipeline, including 1.63 GW already approved at Helios.
-
-Yet the stock trades like absolute shit. Every rally gets sold and it feels like someone is smashing the bid every day.
-
-I understand the bear arguments - huge capex requirements, CoreWeave concentration, crypto volatility, and the market not knowing whether to value this thing as a crypto financial-services company or an AI infrastructure company.
-
-What exactly am I missing here?",genuinely trying to understand this stock crypto has had a strong quarter glxy has huge exposure to btc eth sol and the treasury gains should be significant at the same time helios ai infrastructure keeps getting built out and the coreweave side of the story is supposed to be the other major catalyst at the end of q galaxy had b equity b cash stablecoins b net digital assets investments and q is the first full quarter where all mw of helios phase i is operational management itself guided to approximately m q leasing revenue project level adjusted ebitda margin that s m of quarterly project level ebitda from phase i alone galaxy also now has a gw potential data center pipeline including gw already approved at helios yet the stock trades like absolute shit every rally gets sold and it feels like someone is smashing the bid every day i understand the bear arguments huge capex requirements coreweave concentration crypto volatility and the market not knowing whether to value this thing as a crypto financial services company or an ai infrastructure company what exactly am i missing here,0.9062,positive
 2026-10-06 16:48:31+00:00,"Since we are sharing AMD leap positions. Here is mine, still holding. The 155s were bought July 2025. The 190Ps were sold in late 2025 and helped fund the 280s in early 2026 (synthetic long).
 
 I want to close out the put position once it goes to Long term tax basis to fund other synthetic trades (looking at RDDT currently).
 
 This wasn’t luck. It was Suediligence by listening to every conference call and every analyst presentation. Based on current market conditions, I will hold until expiration with the intent of exercising.",since we are sharing amd leap positions here is mine still holding the s were bought july the ps were sold in late and helped fund the s in early synthetic long i want to close out the put position once it goes to long term tax basis to fund other synthetic trades looking at rddt currently this wasn t luck it was suediligence by listening to every conference call and every analyst presentation based on current market conditions i will hold until expiration with the intent of exercising,0.7269,positive
 2026-10-06 16:42:57+00:00,Maybe will get me back in profit soon 🚀🚀,maybe will get me back in profit soon,0.4404,positive
-2026-10-06 16:13:56+00:00,"Why the fuck did I buy this piece of shit
-
-It has suffered 7 straight red days in a row since I’ve bought",why the fuck did i buy this piece of shit it has suffered straight red days in a row since i ve bought,-0.8555,negative
-2026-10-06 15:41:28+00:00,"Not as much as my last one, but still managed to lock in and make a quick 5k this morning. ",not as much as my last one but still managed to lock in and make a quick k this morning,0.0,neutral
 2026-10-06 14:27:58+00:00,The winner takes it all,the winner takes it all,0.5859,positive
 2026-10-06 11:51:15+00:00,,nan,0.0,neutral
 2026-10-06 11:23:48+00:00,"# AMD plans to substantially increase supply in 2027, CEO says",amd plans to substantially increase supply in ceo says,0.3804,positive
 2026-10-06 11:04:15+00:00,Gains! H,gains h,0.34,positive
 2026-10-06 10:04:31+00:00,Looks like more and more US AI data center companies are looking to expand their data centers globally!,looks like more and more us ai data center companies are looking to expand their data centers globally,0.5859,positive
 2026-10-06 10:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wyyns2),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-10-06 02:11:36+00:00,,nan,0.0,neutral
-2026-10-06 01:24:40+00:00,,nan,0.0,neutral
-2026-10-05 22:25:45+00:00,Little do they know that there isn't even an AI bubble. More AI stocks hitting all-time highs. Supply is not even close to answering the demand.,little do they know that there isn t even an ai bubble more ai stocks hitting all time highs supply is not even close to answering the demand,-0.128,negative
-2026-10-05 21:05:24+00:00,"Previous post reference: [$1,000,000 - Full Porting $SPCX and $MSTR : r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/comments/1vwovao/1000000_full_porting_spcx_and_mstr/)
-
-In my previous post 2 months ago, I full ported my $1,000,000 portfolio into $SPCX and $MSTR
-
-Since then, my portfolio has doubled, however, we are not at mars yet.
-
-In today's YOLO update, I've trimmed some $MSTR to double down on $SPCX adding $1,000,000 from margin gains while also adding $TSLA, and $MCD. (I think McDonalds is better than Wendy's.)
-
-Yes, I Max Margin. Wish me luck bulls.
-
-",previous post reference full porting spcx and mstr r wallstreetbets in my previous post months ago i full ported my portfolio into spcx and mstr since then my portfolio has doubled however we are not at mars yet in today s yolo update i ve trimmed some mstr to double down on spcx adding from margin gains while also adding tsla and mcd i think mcdonalds is better than wendy s yes i max margin wish me luck bulls,0.93,positive
-2026-10-05 20:25:19+00:00,"Had some long dated calls that have been getting smoked for a while.  
-Bought weeklies on Friday. That was not a good idea.
-
-DCA’d again today because at this point fuck it.  
-What do I know about APLD? Not much. AI data centers, a lot of debt, and enough volatility to either save me or finish the job.  
-That’s basically the DD.
-
-Good earnings + good guidance = we fly.  
-Bad earnings = I lose more money. Very possible.
-
-If it drops more before Wednesday I’m buying more. I’ll keep averaging down until it works. At this point, why the fuck not?",had some long dated calls that have been getting smoked for a while bought weeklies on friday that was not a good idea dca d again today because at this point fuck it what do i know about apld not much ai data centers a lot of debt and enough volatility to either save me or finish the job that s basically the dd good earnings good guidance we fly bad earnings i lose more money very possible if it drops more before wednesday i m buying more i ll keep averaging down until it works at this point why the fuck not,-0.9566,negative
-2026-10-05 20:16:49+00:00,Market making ATH and all my stocks jizzing the bed every day,market making ath and all my stocks jizzing the bed every day,0.0,neutral
-2026-10-05 20:00:39+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wyin5e),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-10-05 18:15:27+00:00,"&#x200B;
-
-Volatility from now until earnings, Bet More.",x b volatility from now until earnings bet more,0.0,neutral
-2026-10-05 17:36:51+00:00,,nan,0.0,neutral
-2026-10-05 17:17:56+00:00,This market is nothing but bullshit,this market is nothing but bullshit,0.6259,positive
-2026-10-05 15:47:15+00:00,,nan,0.0,neutral
-2026-10-05 15:32:27+00:00,"i got till january tho lets go, ",i got till january tho lets go,0.0,neutral
-2026-10-05 13:48:32+00:00,"&#x200B;
-
-turns out I should've held em an extra 10 or 20 minutes 😐",x b turns out i should ve held em an extra or minutes,0.0,neutral
-2026-10-05 10:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1wy4mk1),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-10-05 06:49:51+00:00,,nan,0.0,neutral

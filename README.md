@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-12T01:22:30.351614+00:00`
+- Generated at (UTC): `2026-10-13T03:05:55.852732+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | AMD | 8 | 5 | 0.521 | 608.10 | 20.75% | 26.196 |
-| 2 | SPCX | 11 | 4 | 0.584 | 162.57 | 9.71% | 5.054 |
-| 3 | ADBE | 13 | 3 | 0.833 | 242.27 | -2.64% | 3.679 |
-| 4 | NVDA | 5 | 5 | 0.083 | 229.28 | 5.00% | 2.417 |
-| 5 | TSLA | 5 | 4 | 0.468 | 382.70 | 5.26% | 4.141 |
-| 6 | RVI | 14 | 1 | 0.994 | 26.10 | -8.03% | 1.612 |
-| 7 | ARR | 4 | 3 | 0.826 | 13.59 | -14.15% | 0.249 |
-| 8 | MSTR | 7 | 2 | 0.474 | 154.34 | 20.05% | 3.880 |
-| 9 | RDDT | 3 | 3 | 0.474 | 159.91 | 2.94% | 3.025 |
-| 10 | APLD | 4 | 2 | -0.465 | 23.68 | -8.15% | 0.810 |
+| 1 | ADBE | 13 | 3 | 0.833 | 238.14 | -5.59% | 2.889 |
+| 2 | AMD | 7 | 4 | 0.446 | 594.24 | 15.13% | 25.883 |
+| 3 | RDDT | 7 | 4 | 0.148 | 159.93 | 1.37% | 3.379 |
+| 4 | WOLF | 10 | 2 | 0.950 | 28.03 | 8.14% | 2.096 |
+| 5 | ARR | 4 | 3 | 0.826 | 13.75 | -12.97% | 0.257 |
+| 6 | NVDA | 3 | 3 | -0.135 | 226.32 | 3.68% | 1.450 |
+| 7 | IREN | 3 | 3 | -0.286 | 34.80 | -20.60% | 1.208 |
+| 8 | CLF | 7 | 1 | 0.993 | 12.89 | 6.88% | 0.243 |
+| 9 | SPY | 2 | 2 | 0.204 | 778.10 | 1.81% | 6.160 |
+| 10 | UUUU | 5 | 1 | 0.990 | 9.66 | -25.41% | 0.828 |
 
 ### Aggregate Charts
 
@@ -182,43 +182,43 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
-#### SPCX
-
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
-
 #### ADBE
 
 ![ADBE Dashboard](outputs/latest_wsb_analysis/charts/adbe_dashboard.png)
 
-#### NVDA
+#### AMD
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
-#### TSLA
-
-![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
-
-#### RVI
-
-![RVI Dashboard](outputs/latest_wsb_analysis/charts/rvi_dashboard.png)
-
-#### ARR
-
-![ARR Dashboard](outputs/latest_wsb_analysis/charts/arr_dashboard.png)
-
-#### MSTR
-
-![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
 #### RDDT
 
 ![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
 
-#### APLD
+#### WOLF
 
-![APLD Dashboard](outputs/latest_wsb_analysis/charts/apld_dashboard.png)
+![WOLF Dashboard](outputs/latest_wsb_analysis/charts/wolf_dashboard.png)
+
+#### ARR
+
+![ARR Dashboard](outputs/latest_wsb_analysis/charts/arr_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+
+#### IREN
+
+![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
+
+#### CLF
+
+![CLF Dashboard](outputs/latest_wsb_analysis/charts/clf_dashboard.png)
+
+#### SPY
+
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
+#### UUUU
+
+![UUUU Dashboard](outputs/latest_wsb_analysis/charts/uuuu_dashboard.png)
 <!-- AUTO_TOP10_END -->
