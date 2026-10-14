@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-13T03:05:55.852732+00:00`
+- Generated at (UTC): `2026-10-14T01:15:40.543426+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | ADBE | 13 | 3 | 0.833 | 238.14 | -5.59% | 2.889 |
-| 2 | AMD | 7 | 4 | 0.446 | 594.24 | 15.13% | 25.883 |
-| 3 | RDDT | 7 | 4 | 0.148 | 159.93 | 1.37% | 3.379 |
-| 4 | WOLF | 10 | 2 | 0.950 | 28.03 | 8.14% | 2.096 |
-| 5 | ARR | 4 | 3 | 0.826 | 13.75 | -12.97% | 0.257 |
-| 6 | NVDA | 3 | 3 | -0.135 | 226.32 | 3.68% | 1.450 |
-| 7 | IREN | 3 | 3 | -0.286 | 34.80 | -20.60% | 1.208 |
-| 8 | CLF | 7 | 1 | 0.993 | 12.89 | 6.88% | 0.243 |
-| 9 | SPY | 2 | 2 | 0.204 | 778.10 | 1.81% | 6.160 |
-| 10 | UUUU | 5 | 1 | 0.990 | 9.66 | -25.41% | 0.828 |
+| 1 | ADBE | 13 | 3 | 0.833 | 238.14 | -5.59% | 2.843 |
+| 2 | RDDT | 6 | 3 | -0.068 | 159.93 | 1.37% | 2.905 |
+| 3 | ARR | 4 | 3 | 0.826 | 13.75 | -12.97% | 0.213 |
+| 4 | BMBL | 4 | 3 | 0.539 | 3.80 | 27.09% | 0.087 |
+| 5 | IREN | 3 | 3 | -0.286 | 34.80 | -20.60% | 1.276 |
+| 6 | AAOI | 4 | 2 | 0.003 | 100.68 | -4.44% | 8.798 |
+| 7 | NVDA | 2 | 2 | 0.032 | 226.32 | 3.68% | 1.941 |
+| 8 | SPY | 2 | 2 | 0.204 | 778.10 | 1.81% | 6.801 |
+| 9 | FTC | 2 | 2 | 0.471 | 180.26 | 2.48% | 0.711 |
+| 10 | QQQ | 2 | 2 | 0.062 | 746.04 | 4.36% | 3.536 |
 
 ### Aggregate Charts
 
@@ -186,39 +186,39 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![ADBE Dashboard](outputs/latest_wsb_analysis/charts/adbe_dashboard.png)
 
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
 #### RDDT
 
 ![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
-
-#### WOLF
-
-![WOLF Dashboard](outputs/latest_wsb_analysis/charts/wolf_dashboard.png)
 
 #### ARR
 
 ![ARR Dashboard](outputs/latest_wsb_analysis/charts/arr_dashboard.png)
 
-#### NVDA
+#### BMBL
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+![BMBL Dashboard](outputs/latest_wsb_analysis/charts/bmbl_dashboard.png)
 
 #### IREN
 
 ![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
 
-#### CLF
+#### AAOI
 
-![CLF Dashboard](outputs/latest_wsb_analysis/charts/clf_dashboard.png)
+![AAOI Dashboard](outputs/latest_wsb_analysis/charts/aaoi_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### UUUU
+#### FTC
 
-![UUUU Dashboard](outputs/latest_wsb_analysis/charts/uuuu_dashboard.png)
+![FTC Dashboard](outputs/latest_wsb_analysis/charts/ftc_dashboard.png)
+
+#### QQQ
+
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 <!-- AUTO_TOP10_END -->
