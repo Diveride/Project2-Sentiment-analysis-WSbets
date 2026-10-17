@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-16T00:27:23.610945+00:00`
+- Generated at (UTC): `2026-10-17T00:33:12.395570+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 6 | 4 | 0.453 | 769.60 | 1.61% | 6.705 |
-| 2 | ADBE | 11 | 2 | 0.763 | 240.68 | -6.63% | 4.709 |
-| 3 | IREN | 3 | 3 | -0.286 | 30.56 | -26.50% | 1.472 |
-| 4 | CLF | 9 | 1 | 0.997 | 12.58 | 6.70% | 0.250 |
-| 5 | RDDT | 5 | 2 | -0.415 | 148.60 | -6.91% | 3.486 |
-| 6 | ASML | 4 | 2 | 0.678 | 1650.00 | 3.68% | 41.581 |
-| 7 | ICE | 7 | 1 | -0.998 | 155.11 | -1.14% | 2.708 |
-| 8 | BMBL | 3 | 2 | 0.809 | 5.97 | 97.68% | 0.233 |
-| 9 | SNDK | 3 | 2 | 0.220 | 1403.34 | -8.33% | 150.079 |
-| 10 | NOW | 3 | 2 | 0.470 | 139.98 | -1.35% | 1.950 |
+| 1 | ADBE | 19 | 1 | 1.000 | 251.67 | 0.47% | 5.664 |
+| 2 | SPY | 6 | 4 | 0.364 | 771.79 | 2.35% | 6.653 |
+| 3 | CRWV | 4 | 4 | 0.102 | 69.69 | -16.39% | 2.129 |
+| 4 | CLF | 9 | 1 | 0.997 | 12.15 | 0.00% | 0.283 |
+| 5 | ASML | 4 | 2 | 0.678 | 1657.44 | 3.45% | 43.145 |
+| 6 | ICE | 7 | 1 | -0.998 | 158.41 | 2.80% | 3.654 |
+| 7 | SOXL | 3 | 2 | 0.823 | 107.35 | 3.25% | 13.243 |
+| 8 | BMBL | 3 | 2 | 0.809 | 5.93 | 97.67% | 0.166 |
+| 9 | AMD | 3 | 2 | 0.371 | 562.23 | 9.70% | 23.186 |
+| 10 | META | 3 | 2 | 0.001 | 736.72 | 9.42% | 11.999 |
 
 ### Aggregate Charts
 
@@ -182,25 +182,21 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### SPY
-
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
 #### ADBE
 
 ![ADBE Dashboard](outputs/latest_wsb_analysis/charts/adbe_dashboard.png)
 
-#### IREN
+#### SPY
 
-![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
+#### CRWV
+
+![CRWV Dashboard](outputs/latest_wsb_analysis/charts/crwv_dashboard.png)
 
 #### CLF
 
 ![CLF Dashboard](outputs/latest_wsb_analysis/charts/clf_dashboard.png)
-
-#### RDDT
-
-![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
 
 #### ASML
 
@@ -210,15 +206,19 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![ICE Dashboard](outputs/latest_wsb_analysis/charts/ice_dashboard.png)
 
+#### SOXL
+
+![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
+
 #### BMBL
 
 ![BMBL Dashboard](outputs/latest_wsb_analysis/charts/bmbl_dashboard.png)
 
-#### SNDK
+#### AMD
 
-![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### NOW
+#### META
 
-![NOW Dashboard](outputs/latest_wsb_analysis/charts/now_dashboard.png)
+![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
 <!-- AUTO_TOP10_END -->
