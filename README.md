@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-18T00:05:27.616644+00:00`
+- Generated at (UTC): `2026-10-19T00:15:01.768205+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 6 | 4 | 0.364 | 763.25 | 0.09% | 6.636 |
-| 2 | ASML | 5 | 3 | 0.647 | 1641.52 | 0.73% | 44.676 |
-| 3 | CLF | 9 | 1 | 0.997 | 12.12 | -5.02% | 0.291 |
-| 4 | ICE | 7 | 1 | -0.998 | 161.56 | 5.39% | 3.605 |
-| 5 | SOXL | 3 | 2 | 0.823 | 93.67 | -18.42% | 15.058 |
-| 6 | AMD | 3 | 2 | 0.371 | 528.75 | -3.00% | 21.833 |
-| 7 | BMBL | 3 | 2 | 0.809 | 5.94 | 100.68% | 0.175 |
+| 1 | SPY | 6 | 4 | 0.386 | 763.25 | 0.09% | 6.636 |
+| 2 | ASML | 5 | 3 | 0.703 | 1641.52 | 0.73% | 44.676 |
+| 3 | BMBL | 5 | 3 | 0.457 | 5.94 | 100.68% | 0.175 |
+| 4 | CLF | 9 | 1 | 0.997 | 12.12 | -5.02% | 0.291 |
+| 5 | ICE | 7 | 1 | -0.998 | 161.56 | 5.39% | 3.605 |
+| 6 | SOXL | 3 | 2 | 0.823 | 93.67 | -18.42% | 15.058 |
+| 7 | AMD | 3 | 2 | 0.371 | 528.75 | -3.00% | 21.833 |
 | 8 | META | 3 | 2 | 0.001 | 709.33 | 3.96% | 11.998 |
-| 9 | SNDK | 3 | 2 | 0.220 | 1299.30 | -19.52% | 201.383 |
-| 10 | TSLA | 2 | 2 | 0.359 | 354.72 | -3.13% | 3.087 |
+| 9 | TLT | 3 | 2 | 0.304 | 80.05 | -2.12% | 0.144 |
+| 10 | SNDK | 3 | 2 | 0.220 | 1299.30 | -19.52% | 201.383 |
 
 ### Aggregate Charts
 
@@ -190,6 +190,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![ASML Dashboard](outputs/latest_wsb_analysis/charts/asml_dashboard.png)
 
+#### BMBL
+
+![BMBL Dashboard](outputs/latest_wsb_analysis/charts/bmbl_dashboard.png)
+
 #### CLF
 
 ![CLF Dashboard](outputs/latest_wsb_analysis/charts/clf_dashboard.png)
@@ -206,19 +210,15 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### BMBL
-
-![BMBL Dashboard](outputs/latest_wsb_analysis/charts/bmbl_dashboard.png)
-
 #### META
 
 ![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
 
+#### TLT
+
+![TLT Dashboard](outputs/latest_wsb_analysis/charts/tlt_dashboard.png)
+
 #### SNDK
 
 ![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
-
-#### TSLA
-
-![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 <!-- AUTO_TOP10_END -->
