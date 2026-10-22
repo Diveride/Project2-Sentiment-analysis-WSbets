@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-21T00:40:09.010552+00:00`
+- Generated at (UTC): `2026-10-22T00:43:52.275715+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 7 | 5 | 0.503 | 766.48 | 0.63% | 5.406 |
-| 2 | EDF | 15 | 1 | 0.999 | 4.45 | -16.67% | 0.069 |
-| 3 | CRWV | 4 | 3 | 0.217 | 61.12 | -24.88% | 1.806 |
-| 4 | NBIS | 4 | 3 | 0.217 | 170.24 | -23.84% | 18.076 |
-| 5 | ASML | 4 | 2 | 0.578 | 1647.12 | -1.95% | 45.362 |
-| 6 | ICE | 7 | 1 | -0.998 | 158.40 | 1.88% | 2.546 |
-| 7 | AMD | 3 | 2 | 0.371 | 538.05 | -3.89% | 18.965 |
-| 8 | APLD | 6 | 1 | -0.998 | 19.25 | -31.54% | 0.898 |
-| 9 | TSLA | 2 | 2 | 0.359 | 368.06 | 1.04% | 3.806 |
-| 10 | MU | 2 | 2 | 0.788 | 904.90 | -10.92% | 70.362 |
+| 1 | SPY | 7 | 4 | 0.461 | 769.05 | -0.58% | 5.843 |
+| 2 | EDF | 15 | 1 | 0.999 | 4.42 | -17.69% | 0.078 |
+| 3 | ASTS | 9 | 2 | 0.710 | 41.13 | -33.54% | 3.875 |
+| 4 | NFLX | 4 | 3 | 0.348 | 68.69 | -6.37% | 0.674 |
+| 5 | TSLA | 3 | 3 | 0.323 | 373.71 | -0.42% | 3.349 |
+| 6 | SPCX | 4 | 2 | 0.357 | 147.79 | -2.67% | 8.003 |
+| 7 | ICE | 7 | 1 | -0.998 | 158.57 | 2.06% | 2.832 |
+| 8 | SOXL | 3 | 2 | 0.060 | 97.55 | -31.27% | 14.269 |
+| 9 | YOU | 3 | 2 | -0.249 | 45.43 | 15.72% | 1.107 |
+| 10 | AMD | 3 | 2 | 0.371 | 534.74 | -13.12% | 18.351 |
 
 ### Aggregate Charts
 
@@ -190,35 +190,35 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![EDF Dashboard](outputs/latest_wsb_analysis/charts/edf_dashboard.png)
 
-#### CRWV
+#### ASTS
 
-![CRWV Dashboard](outputs/latest_wsb_analysis/charts/crwv_dashboard.png)
+![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
 
-#### NBIS
+#### NFLX
 
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
-
-#### ASML
-
-![ASML Dashboard](outputs/latest_wsb_analysis/charts/asml_dashboard.png)
-
-#### ICE
-
-![ICE Dashboard](outputs/latest_wsb_analysis/charts/ice_dashboard.png)
-
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
-#### APLD
-
-![APLD Dashboard](outputs/latest_wsb_analysis/charts/apld_dashboard.png)
+![NFLX Dashboard](outputs/latest_wsb_analysis/charts/nflx_dashboard.png)
 
 #### TSLA
 
 ![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 
-#### MU
+#### SPCX
 
-![MU Dashboard](outputs/latest_wsb_analysis/charts/mu_dashboard.png)
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+
+#### ICE
+
+![ICE Dashboard](outputs/latest_wsb_analysis/charts/ice_dashboard.png)
+
+#### SOXL
+
+![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
+
+#### YOU
+
+![YOU Dashboard](outputs/latest_wsb_analysis/charts/you_dashboard.png)
+
+#### AMD
+
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 <!-- AUTO_TOP10_END -->
