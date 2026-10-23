@@ -1,11 +1,194 @@
 created_utc,body,clean_body,body_sentiment,body_label
-2026-10-22 00:00:52+00:00,"I've been holding joby and archer for a while ( bought both under 5 and held when joby hit 20 and after). Lately, I've been seeing a lot of adds on DRNI possibly hitting the NASDAQ.
+2026-10-23 00:02:59+00:00,,nan,0.0,neutral
+2026-10-22 23:35:42+00:00,"Told myself not to touch semiconductor stocks even though they have crazy profits in the past year. I instead decided to invest in computing power stocks like Iren, NBIS and CoreWeave and some Quantum stocks last week…
 
-I see more commercial usage (industrial commutes, taxes, medical, etc) out of the product, and a lot of challenges in private usage (states allowing individuals to own and use privately).
+They got me fk!!",told myself not to touch semiconductor stocks even though they have crazy profits in the past year i instead decided to invest in computing power stocks like iren nbis and coreweave and some quantum stocks last week they got me fk,0.4588,positive
+2026-10-22 22:57:34+00:00,"27665 shares at $4.374
 
-What is your bro's take?",i ve been holding joby and archer for a while bought both under and held when joby hit and after lately i ve been seeing a lot of adds on drni possibly hitting the nasdaq i see more commercial usage industrial commutes taxes medical etc out of the product and a lot of challenges in private usage states allowing individuals to own and use privately what is your bro s take,0.0772,positive
+QuantumScape ($QS) just released its Q3 earnings yesterday, and they were significantly better than I expected. It's clear that $QS is transitioning from R&D to commercialization, and their messaging is getting better.
+
+QS is targeting 3 verticals:
+
+1. Data centers
+2. Aerospace (ie, government + defense)
+3. Electric vehicles
+
+The biggest question has always been, ""Sure this works in the lab... but can you scale?"" Well, they announced plans for building a [100 MWh solid-state battery production line](https://ir.quantumscape.com/news-releases/news-release-details/quantumscape-announces-plans-100-mwh-solid-state-battery), which greatly derisks the scaling risk.
+
+>\[CEO Siva\]: **Our progress on demonstrating scalable production has given us the confidence to take the next step for production scale-up** beyond the design capacity of the Eagle Line. Today, we announced a 100-megawatt-hour mass production line with output aimed at meeting the rapidly emerging opportunities for our QSDC and QSAS business verticals.
+
+They also just [launched the QS Powerblock for 800 V data centers](https://www.reddit.com/r/QUANTUMSCAPE_Stock/comments/1x62wyr/quantumscape_at_the_megmeet_boot_ocp_2026/) at OCP, on display in Megmeet's booth (ie, a hardware supplier for NVIDIA)... which is HUGE.
+
+The market cap is only $2.6 billion, but they have $971 million in cash + marketable securities ([Q3 report, page 6](https://ir.quantumscape.com/static-files/d00eb7bb-65ea-4355-99c4-476435c5eea9)) in the bank, and Siva confirmed they are pursuing ""[non-dilutive funding](https://www.reddit.com/r/QUANTUMSCAPE_Stock/comments/1xbwy2g/comment/19rgaoax80d5w/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)"" (ie, no dilution risk) for the 100 MWh buildout.
+
+Moreover, I think there will be a ""buy the rumor"" run-up to Nov 11 because Siva teased that they are releasing major news on Nov 11 in Kyoto, Japan.
+
+>\[CEO Siva\]: ***Finally, in 2026 we promised to*** ***go beyond QSE-5*** ***with an update on our technology roadmap, and we’re pleased to announce that this will take place during our 3rd annual Solid State Battery Symposium on November 11 in Kyoto, Japan***
+
+NFA. DYOR. You could lose everything.
+
+\----
+
+Edit: Oh... I believe the reason it is hovering around $4 is because the max pain for options expiry is $4. So I predict next week it will blast off (picture in comments)",shares at quantumscape qs just released its q earnings yesterday and they were significantly better than i expected it s clear that qs is transitioning from r d to commercialization and their messaging is getting better qs is targeting verticals data centers aerospace ie government defense electric vehicles the biggest question has always been sure this works in the lab but can you scale well they announced plans for building a mwh solid state battery production line which greatly derisks the scaling risk ceo siva our progress on demonstrating scalable production has given us the confidence to take the next step for production scale up beyond the design capacity of the eagle line today we announced a megawatt hour mass production line with output aimed at meeting the rapidly emerging opportunities for our qsdc and qsas business verticals they also just launched the qs powerblock for v data centers at ocp on display in megmeet s booth ie a hardware supplier for nvidia which is huge the market cap is only billion but they have million in cash marketable securities q report page in the bank and siva confirmed they are pursuing non dilutive funding ie no dilution risk for the mwh buildout moreover i think there will be a buy the rumor run up to nov because siva teased that they are releasing major news on nov in kyoto japan ceo siva finally in we promised to go beyond qse with an update on our technology roadmap and we re pleased to announce that this will take place during our rd annual solid state battery symposium on november in kyoto japan nfa dyor you could lose everything edit oh i believe the reason it is hovering around is because the max pain for options expiry is so i predict next week it will blast off picture in comments,0.9578,positive
+2026-10-22 22:44:45+00:00,"Historic drawdowns predicting roughly 4-5% return next 40 days
+
+  
+Stay strong boys!",historic drawdowns predicting roughly return next days stay strong boys,0.5106,positive
+2026-10-22 22:20:35+00:00,,nan,0.0,neutral
+2026-10-22 21:52:52+00:00,"https://reddit.com/link/1xcvz1h/video/rn2uaul3b3xh1/player
+
+what could go wrong",what could go wrong,-0.4767,negative
+2026-10-22 21:48:33+00:00,"So, what the hell is happening to AI and semiconductor stocks today, October 22?
+
+The Nasdaq is taking a beating, chip stocks are getting hit even harder, and investors suddenly seem to remember that spending hundreds of billions on AI infrastructure doesn't automatically guarantee hundreds of billions in profits.
+
+We've had years of hype around GPUs, data centers, generative AI, and massive capital expenditure from Microsoft, Meta, Alphabet, and other tech giants.
+
+But here's what I'm wondering:
+
+Are we watching the beginning of an AI bubble bursting, or just another correction before the next rally?
+
+I also have a theory about the semiconductor industry.
+
+Even if AI valuations collapse, I don't necessarily expect semiconductor sales to fall immediately.
+
+My guess is that the first warning signs would appear in new orders for AI GPUs, accelerators, and server processors, rather than in shipments already covered by existing contracts.
+
+Memory could be a different story. HBM and DDR5 supplies might remain tight for a while because of long-term supply agreements and committed manufacturing capacity.
+
+Meanwhile, companies heavily dependent on debt-financed AI infrastructure could face trouble well before diversified companies like Microsoft or Alphabet.
+
+So I'm curious:
+
+1. Are NVDA, AMD, and other semiconductor stocks simply correcting, or is the market finally questioning the economics of AI infrastructure?
+
+2. Are there actual signs of hyperscalers cutting orders, or is this still mainly a stock market panic?
+
+3. Could memory suppliers remain relatively insulated in the short term even if demand for new AI accelerators slows?
+
+4. Which companies would take the biggest hit if the AI capex boom actually reverses?
+
+I'm not saying AI is useless. The internet survived the dot-com bubble, after all.
+
+But a useful technology and an insanely overpriced investment are two very different things.
+
+So, what do you think, WSB? Buy the dip, or are we about to witness some truly legendary AI-related loss porn? 🍿",so what the hell is happening to ai and semiconductor stocks today october the nasdaq is taking a beating chip stocks are getting hit even harder and investors suddenly seem to remember that spending hundreds of billions on ai infrastructure doesn t automatically guarantee hundreds of billions in profits we ve had years of hype around gpus data centers generative ai and massive capital expenditure from microsoft meta alphabet and other tech giants but here s what i m wondering are we watching the beginning of an ai bubble bursting or just another correction before the next rally i also have a theory about the semiconductor industry even if ai valuations collapse i don t necessarily expect semiconductor sales to fall immediately my guess is that the first warning signs would appear in new orders for ai gpus accelerators and server processors rather than in shipments already covered by existing contracts memory could be a different story hbm and ddr supplies might remain tight for a while because of long term supply agreements and committed manufacturing capacity meanwhile companies heavily dependent on debt financed ai infrastructure could face trouble well before diversified companies like microsoft or alphabet so i m curious are nvda amd and other semiconductor stocks simply correcting or is the market finally questioning the economics of ai infrastructure are there actual signs of hyperscalers cutting orders or is this still mainly a stock market panic could memory suppliers remain relatively insulated in the short term even if demand for new ai accelerators slows which companies would take the biggest hit if the ai capex boom actually reverses i m not saying ai is useless the internet survived the dot com bubble after all but a useful technology and an insanely overpriced investment are two very different things so what do you think wsb buy the dip or are we about to witness some truly legendary ai related loss porn,-0.5492,negative
+2026-10-22 21:16:54+00:00,"I have an excellent record of buying stocks and then they absolutely crater to non existence. I have killed Walgreens, Revlon, NTBLQ Notable Labs, (from VBL Therapeutics reverse buy-out), and Ford (not quite dead but -30% from purchase price). 
+
+These are the ONLY stocks I have ever purchased. So, it must be me, right? Let me know how I can be of assistance to the short sellers. 🫡",i have an excellent record of buying stocks and then they absolutely crater to non existence i have killed walgreens revlon ntblq notable labs from vbl therapeutics reverse buy out and ford not quite dead but from purchase price these are the only stocks i have ever purchased so it must be me right let me know how i can be of assistance to the short sellers,0.2333,positive
+2026-10-22 21:11:37+00:00,,nan,0.0,neutral
+2026-10-22 21:08:38+00:00,,nan,0.0,neutral
+2026-10-22 20:43:16+00:00,My all time is -176k incase anyone cared.,my all time is k incase anyone cared,0.4215,positive
+2026-10-22 20:37:59+00:00,My 3 different timeline charts shows that I just can’t win this shit and mind as well just blow it all on 0 dte as soon as I get liquidated…… I should’ve get rid of all garbage trash stocks when I had a chance about month ago….FML!! ,my different timeline charts shows that i just can t win this shit and mind as well just blow it all on dte as soon as i get liquidated i should ve get rid of all garbage trash stocks when i had a chance about month ago fml,0.3919,positive
+2026-10-22 20:31:03+00:00,,nan,0.0,neutral
+2026-10-22 20:25:08+00:00,"Distant metastasis-free survival (DMFS) is a more meaningful predictor of overall survival (OS), the gold standard for evaluating cancer treatment outcomes.
+
+Phase 3 DMFS HR 0.62  
+Phase 2 DMFS HR 0.35 -0.41.",distant metastasis free survival dmfs is a more meaningful predictor of overall survival os the gold standard for evaluating cancer treatment outcomes phase dmfs hr phase dmfs hr,0.1263,positive
+2026-10-22 20:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1xct460),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-10-22 19:58:38+00:00,,nan,0.0,neutral
+2026-10-22 19:50:39+00:00,All those praying on my bankruptcy gonna be punching the air ,all those praying on my bankruptcy gonna be punching the air,0.3612,positive
+2026-10-22 19:36:21+00:00,"[https://www.reddit.com/r/wallstreetbets/comments/1x71zxu/18\_baggies/](https://www.reddit.com/r/wallstreetbets/comments/1x71zxu/18_baggies/) (previous post)
+
+Started my options journey (again; I’ve been dabbling for over 6 years) in Aug with 48k, and I hit 900k today 🫶
+
+Balance shows 810k; took 90k out to fund a car purchase for myself & a cruise for my parents.
+
+It’s surreal that I am close to the 1M mark, wouldn’t even imagined this 2 months ago.
+
+Shoutout to WSB for letting me save on tax dollars with SPX options - about 600k of gains is from SPY 😢
+
+I am not promoting you to start options. I just wanted to share my story to let you know that it is possible.
+
+99% of the gains come from SPY & SPX options. 0 dte. Both calls/puts. Strategy is to buy low sell high. Don’t have current positions, latest trades are posted.
+
+Wishing all of us good luck and God bless.
+
+Edit: I do not full port into a trade. When I started with 48k, each trade costed around 10k. Lately, it’s been around 50-80k a trade.
+
+Here's GPT's take/analysis on my trades:   
+  
+From Aug 17 to October 22, 2026, your Schwab account generated approximately $850,626 in adjusted realized profits. Your three biggest winners were SPY 780P (+$160,888, Oct. 8), SPXW 7650C (+$121,502, Oct. 15), and SPXW 7755P (+$69,827, Oct. 20), while your three biggest losers were SPY 779P (−$98,738, Oct. 7), SPXW 7700C (−$93,017, Oct. 15), and SPY 778P (−$62,599, Oct. 6). Based on the 80 reported positions, your overall win rate was approximately 75% (60 wins, and 20 losses), with calls outperforming puts in win rate (85.7% vs. 72.3%), but puts substantially outperforming calls in profitability (+$782,311 vs. +$68,315) and profit factor (2.73 vs. 1.54). Your biggest strength is capturing large directional moves, particularly through puts, while your biggest vulnerability remains oversized losses: the three worst trades alone cost approximately $254K. Going forward, prioritize position sizing, limiting losses on unsuccessful directional bets, and protecting accumulated profits rather than increasing trading volume.",previous post started my options journey again i ve been dabbling for over years in aug with k and i hit k today balance shows k took k out to fund a car purchase for myself a cruise for my parents it s surreal that i am close to the m mark wouldn t even imagined this months ago shoutout to wsb for letting me save on tax dollars with spx options about k of gains is from spy i am not promoting you to start options i just wanted to share my story to let you know that it is possible of the gains come from spy spx options dte both calls puts strategy is to buy low sell high don t have current positions latest trades are posted wishing all of us good luck and god bless edit i do not full port into a trade when i started with k each trade costed around k lately it s been around k a trade here s gpt s take analysis on my trades from aug to october your schwab account generated approximately in adjusted realized profits your three biggest winners were spy p oct spxw c oct and spxw p oct while your three biggest losers were spy p oct spxw c oct and spy p oct based on the reported positions your overall win rate was approximately wins and losses with calls outperforming puts in win rate vs but puts substantially outperforming calls in profitability vs and profit factor vs your biggest strength is capturing large directional moves particularly through puts while your biggest vulnerability remains oversized losses the three worst trades alone cost approximately k going forward prioritize position sizing limiting losses on unsuccessful directional bets and protecting accumulated profits rather than increasing trading volume,0.8292,positive
+2026-10-22 19:28:37+00:00,"&#x200B;
+
+thinking of buying up some blood tomorrow morning 
+
+GG GL all ",x b thinking of buying up some blood tomorrow morning gg gl all,0.5423,positive
+2026-10-22 19:16:39+00:00,"https://preview.redd.it/ufjsy9k0q2xh1.png?width=1536&format=png&auto=webp&s=c4b9ee39625e5d7540939049c0765995ca2c652c
+
+Nikesh Arora (PANW CEO) implies in an interview that the cyber industry is consolidating because many of the services are commodity products.
+
+Several days ago he also sold over $200M of his equity stake in PANW.
+
+The current Mythos narrative is that cybersecurity becomes increasingly important due to increasing agent use, but competition between these SaaS companies is going to get incredibly fierce. As an example, Microsoft defender could very well adopt the same consolidation strategy of Palo Alto Networks. Microsoft defender is also bundled together with their other enterprise software, so the cost to many customers is usually marginal compared to purchasing another cybersecurity solution. The capabilities of something like this will just improve over time, especially if you believe that AI accelerates product development.",nikesh arora panw ceo implies in an interview that the cyber industry is consolidating because many of the services are commodity products several days ago he also sold over m of his equity stake in panw the current mythos narrative is that cybersecurity becomes increasingly important due to increasing agent use but competition between these saas companies is going to get incredibly fierce as an example microsoft defender could very well adopt the same consolidation strategy of palo alto networks microsoft defender is also bundled together with their other enterprise software so the cost to many customers is usually marginal compared to purchasing another cybersecurity solution the capabilities of something like this will just improve over time especially if you believe that ai accelerates product development,0.9532,positive
+2026-10-22 19:08:48+00:00,"Just to clear it up.  I was up $45,000 YTD.  Now down 7ish ",just to clear it up i was up ytd now down ish,0.3818,positive
+2026-10-22 18:44:59+00:00,"https://preview.redd.it/7jzetuvhc2xh1.png?width=708&format=png&auto=webp&s=1aa67a7ff3fef2d1681ce6e6fbd9cf773d3ff90e
+
+https://preview.redd.it/q06hxvvhc2xh1.png?width=702&format=png&auto=webp&s=596d35c35d04dae5d9597539eee996d674d03c1e
+
+https://preview.redd.it/3vrvvuvhc2xh1.png?width=716&format=png&auto=webp&s=55b693b4624758fa91ee12da31362de86eb8c034
+
+https://preview.redd.it/mrrl0vvhc2xh1.png?width=699&format=png&auto=webp&s=50946a3889b716a088e7e5f16aa2253c95f634b6
+
+https://preview.redd.it/1mhvovvhc2xh1.png?width=709&format=png&auto=webp&s=518b789a7e49f4905f166a05a8acc0796e8753e2
+
+https://preview.redd.it/taoflvvhc2xh1.png?width=717&format=png&auto=webp&s=d54ae4554b2e4701e8b0d5b6d97d2d9843679de7
+
+https://preview.redd.it/akgzcvvhc2xh1.png?width=714&format=png&auto=webp&s=5ad76512b6d4feaa259f3a80d25f7f38477a80cb
+
+https://preview.redd.it/lvm5qvvhc2xh1.png?width=714&format=png&auto=webp&s=4ddf3bd4a6ec1c768fe3cc04a6bc476776a494ed
+
+https://preview.redd.it/9eo30vvhc2xh1.png?width=710&format=png&auto=webp&s=b8aef0c0f87a79c60899fb37134079bb7d6e1a33
+
+https://preview.redd.it/7jdnjvvhc2xh1.png?width=725&format=png&auto=webp&s=ad8ac4df417ecf69bf4f68a89c94c1b4ed822132
+
+https://preview.redd.it/k64yruvhc2xh1.png?width=716&format=png&auto=webp&s=6dedaea083166ac1dbe65a4aef8e01bc90e3f83e
+
+I started trading 20-30 DTE SPX options about a month ago and it was a game changer for me. Typically I buy ATM when the price hits extreme zones of the Bollinger Band and exit within minutes to hours. A few times though, I held for 2-3 days and those bigger gain days are due to those trades. Still, absolutely regarded and zero risk management. Thought I'd share my journey with the extinguished  scholars of this sub and wish you all best of luck. See you in the loss port section in a few weeks.",i started trading dte spx options about a month ago and it was a game changer for me typically i buy atm when the price hits extreme zones of the bollinger band and exit within minutes to hours a few times though i held for days and those bigger gain days are due to those trades still absolutely regarded and zero risk management thought i d share my journey with the extinguished scholars of this sub and wish you all best of luck see you in the loss port section in a few weeks,0.9022,positive
+2026-10-22 18:12:31+00:00,,nan,0.0,neutral
+2026-10-22 17:57:20+00:00,"**Moderna** (MRNA) stock crashed Thursday after a third-party leaked the purported cancer vaccine data ahead of a hotly-anticipated presentation Saturday at the European Society of Clinical Oncology Congress.
+
+Data showed that their mRNA cancer vaccine merely reduced risk of recurrence or death by 42%, a far fetch from the “cancer cure” narrative that retail has been pushing as they have bid the stock up over the last 2 months.",moderna mrna stock crashed thursday after a third party leaked the purported cancer vaccine data ahead of a hotly anticipated presentation saturday at the european society of clinical oncology congress data showed that their mrna cancer vaccine merely reduced risk of recurrence or death by a far fetch from the cancer cure narrative that retail has been pushing as they have bid the stock up over the last months,-0.9628,negative
+2026-10-22 16:51:29+00:00,,nan,0.0,neutral
+2026-10-22 16:11:57+00:00,Looks like I’m working for free the next few paychecks,looks like i m working for free the next few paychecks,0.7003,positive
+2026-10-22 16:02:48+00:00,"Yesterday, I posted this with 6000 shares of SOXL
+
+[https://www.reddit.com/r/wallstreetbets/comments/1xbn1ef/comment/19rhoa6o9bocj/?screen\_view\_count=1](https://www.reddit.com/r/wallstreetbets/comments/1xbn1ef/comment/19rhoa6o9bocj/?screen_view_count=1)
+
+Now, adjusted little bit, took some profit,released cash and re-purchased today 7000 shares of SOXL.
+
+Benefit: Yesterday my average price was 99.53, Today it is 95.63, Holding now.
+
+https://preview.redd.it/nezggzmdk1xh1.png?width=1857&format=png&auto=webp&s=1fae8e9cf183fc1310106355ee0c4a224439cf72",yesterday i posted this with shares of soxl now adjusted little bit took some profit released cash and re purchased today shares of soxl benefit yesterday my average price was today it is holding now,0.8519,positive
+2026-10-22 15:18:57+00:00,,nan,0.0,neutral
+2026-10-22 15:17:26+00:00,"Just how I predicted on my last post meta dip today due to capex concerns and dilution. Which I don’t understand, Zuck already has a massive control over the company but now is diluting it with class C so they can fund their CAPEX. This is actually good, meta posted a negative FCF quarter yesterday which triggered a dip in which we are taking advantage of. But why I say issuing class C is good is because meta will not have to go to their cash reserves or issue more debt to fund their capex. So FCF for Q4 will be  negative on the worst case scenario. These shares Is expected to trade on January 19. 
+
+My main thesis again. 
+
+Q4 META will crush earnings  again big time. But this time we will have a quantified metrics on muse and their usefulness during (holiday shopping). I would like to mention that muse is metas talking point they cannot afford to not show meaningful quantify metrics for muse. Their user base along side order numbers need to increase for a meaningful bull catalyst on Q4. If delivered right this can overshadow negative FCF. On Q3 meta quantified their muse numbers 10million users, 25% daily, and 25% shopping via agent at >200 orders. Meta is not scared to quantified their numbers but these numbers have to do better next Q4 which I see is possible again holiday shopping. If they can increase daily users and order numbers these can overshadow any negative bear talking point. (For just a quarter at least). My hunch is they do deliver and meta jumps to $800 even if it’s for a couple of trading days. I would like to mention muse is only available in the US and Canada. If they can’t deliver this just means defeat for the Zuck because worldwide these two markets are just what really matter. (Yes Europe nobody cares about you, you blue hair liberal weirdo) 
+
+Side events that help but aren’t necessary.   
+1)Muse enterprise metrics.   
+2)A moderate 2027 Capex. This one ticker is 80% checked. When it comes to CAPEX meta is very conservative with their numbers leaving room for increases.   
+3)I don’t have a third so fuck off. 
+
+Forgot to mention. I have another 60k reserve for next week. I’m expecting a red week for the sector as a result of Amazon/Google. I don’t have anything bad to say about but it’s just that wall street is pricing their earnings above and beyond perfection. 
+
+Also my plan. Sell half my contracts heading into earnings to catch that earnings catalyst. And the other half after earnings. If it shits itself no worries that’s why I bought at an expiration of may. Sell at a loss better than 100% loss am I right ?! ",just how i predicted on my last post meta dip today due to capex concerns and dilution which i don t understand zuck already has a massive control over the company but now is diluting it with class c so they can fund their capex this is actually good meta posted a negative fcf quarter yesterday which triggered a dip in which we are taking advantage of but why i say issuing class c is good is because meta will not have to go to their cash reserves or issue more debt to fund their capex so fcf for q will be negative on the worst case scenario these shares is expected to trade on january my main thesis again q meta will crush earnings again big time but this time we will have a quantified metrics on muse and their usefulness during holiday shopping i would like to mention that muse is metas talking point they cannot afford to not show meaningful quantify metrics for muse their user base along side order numbers need to increase for a meaningful bull catalyst on q if delivered right this can overshadow negative fcf on q meta quantified their muse numbers million users daily and shopping via agent at orders meta is not scared to quantified their numbers but these numbers have to do better next q which i see is possible again holiday shopping if they can increase daily users and order numbers these can overshadow any negative bear talking point for just a quarter at least my hunch is they do deliver and meta jumps to even if it s for a couple of trading days i would like to mention muse is only available in the us and canada if they can t deliver this just means defeat for the zuck because worldwide these two markets are just what really matter yes europe nobody cares about you you blue hair liberal weirdo side events that help but aren t necessary muse enterprise metrics a moderate capex this one ticker is checked when it comes to capex meta is very conservative with their numbers leaving room for increases i don t have a third so fuck off forgot to mention i have another k reserve for next week i m expecting a red week for the sector as a result of amazon google i don t have anything bad to say about but it s just that wall street is pricing their earnings above and beyond perfection also my plan sell half my contracts heading into earnings to catch that earnings catalyst and the other half after earnings if it shits itself no worries that s why i bought at an expiration of may sell at a loss better than loss am i right,-0.8819,negative
+2026-10-22 14:49:15+00:00,Got some 770 puts before close then 767 and now 765. Thank you houtis for attacking market hours to tell me to escape ,got some puts before close then and now thank you houtis for attacking market hours to tell me to escape,0.0516,positive
+2026-10-22 14:47:30+00:00,,nan,0.0,neutral
+2026-10-22 14:39:08+00:00,Easiest money I've made in 60 minutes ,easiest money i ve made in minutes,0.4215,positive
+2026-10-22 14:11:11+00:00,,nan,0.0,neutral
+2026-10-22 11:06:33+00:00,"Started with 1k, and ran it up in less than a week. Gonna do the smart thing and pay off all of my debt. I’ll be back for more.",started with k and ran it up in less than a week gonna do the smart thing and pay off all of my debt i ll be back for more,-0.0516,negative
+2026-10-22 10:42:18+00:00,I have watched this closely and story checks out ,i have watched this closely and story checks out,0.0,neutral
+2026-10-22 10:00:39+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1xceeju),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-10-22 09:09:08+00:00,,nan,0.0,neutral
+2026-10-22 08:20:21+00:00,The price is stupid - cash per share is $28.8. I flee to safety.,the price is stupid cash per share is i flee to safety,0.1531,positive
+2026-10-22 06:02:33+00:00,"Under the agreement, he can immediately sell 20% of the Class C shares he receives, the equivalent to 10% of his overall economic stake. That would give him liquidity to help cover a potential tax bill triggered by Proposition 40, the name of the ballot measure that California voters will decide in November.",under the agreement he can immediately sell of the class c shares he receives the equivalent to of his overall economic stake that would give him liquidity to help cover a potential tax bill triggered by proposition the name of the ballot measure that california voters will decide in november,0.7964,positive
+2026-10-22 05:18:02+00:00,they made a graph that looks like a roller coaster that could kill people…,they made a graph that looks like a roller coaster that could kill people,-0.4939,negative
+2026-10-22 02:14:03+00:00,,nan,0.0,neutral
+2026-10-22 02:11:09+00:00,,nan,0.0,neutral
 2026-10-21 23:56:18+00:00,Netflix is over! Can’t hold it anymore. ,netflix is over can t hold it anymore,0.0,neutral
-2026-10-21 22:30:52+00:00,What your thoughts 🤔? It was recently hiked so I'm doubting they would do it again so soon,what your thoughts it was recently hiked so i m doubting they would do it again so soon,-0.4795,negative
 2026-10-21 22:09:06+00:00,"$WSB AI mods love to ban me on all my YOLO sh\*t posts. 
 
 Take this AI mods 🍆 💦 💦 💦 🤖 
@@ -16,7 +199,8 @@ Mr. Regard Himself 👋🏻 🤡 ",wsb ai mods love to ban me on all my yolo sh 
 2026-10-21 22:05:42+00:00,🤡🔫 someone post the hotline so I can have it on speed dial for Friday ,someone post the hotline so i can have it on speed dial for friday,0.0,neutral
 2026-10-21 21:55:00+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1xc0ooq),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-10-21 20:51:22+00:00,Google down 7% in a week for no reason,google down in a week for no reason,-0.296,negative
-2026-10-21 20:48:04+00:00,"Sooo the other day I fullported AVEX and was just expecting to make a nice lil 3% nothing crazy. Smallcap defense contractor looking pretty solid, making some nice small swings the past few days, that sort of thing. I only bought shares at that. I wake up and open my port and I'm down 24%. These are the times that try men's souls. Unbelieveable. Turns out the Navy cancelled a huge contract for autonomous drone boats and some insiders and investigators at the pentagon decided to leak it (if I ever get my hands on them...) [https://www.barrons.com/articles/aevexs-drone-boats-navy-cheaper-weapons-pivot-45c3cc21](https://www.barrons.com/articles/aevexs-drone-boats-navy-cheaper-weapons-pivot-45c3cc21) . Made a safe non regarded play and still got crushed. Unbelieveable how bad my luck is. Buying it just the day prior, that specific day and time. The market is fucking rigged. Only AAOI can save me now, currently fullporting it, not selling till 150. ",sooo the other day i fullported avex and was just expecting to make a nice lil nothing crazy smallcap defense contractor looking pretty solid making some nice small swings the past few days that sort of thing i only bought shares at that i wake up and open my port and i m down these are the times that try men s souls unbelieveable turns out the navy cancelled a huge contract for autonomous drone boats and some insiders and investigators at the pentagon decided to leak it if i ever get my hands on them made a safe non regarded play and still got crushed unbelieveable how bad my luck is buying it just the day prior that specific day and time the market is fucking rigged only aaoi can save me now currently fullporting it not selling till,0.9113,positive
+2026-10-21 20:48:04+00:00,"Sooo the other day I fullported AVEX and was just expecting to make a nice lil 3% nothing crazy. Smallcap defense contractor looking pretty solid, making some nice small swings the past few days, that sort of thing. I only bought shares at that. I wake up and open my port and I'm down 24%. These are the times that try men's souls. Unbelieveable. Turns out the Navy cancelled a huge contract for autonomous drone boats and some insiders and investigators at the pentagon decided to leak it (if I ever get my hands on them...) [https://www.barrons.com/articles/aevexs-drone-boats-navy-cheaper-weapons-pivot-45c3cc21](https://www.barrons.com/articles/aevexs-drone-boats-navy-cheaper-weapons-pivot-45c3cc21) . Made a safe non regarded play and still got crushed. Unbelieveable how bad my luck is. Buying it just the day prior, that specific day and time. The market is fucking rigged. Only AAOI can save me now, currently fullporting it, not selling till 150.   
+UPDATE: I decided to sell AAOI and buy the dip on MRNA",sooo the other day i fullported avex and was just expecting to make a nice lil nothing crazy smallcap defense contractor looking pretty solid making some nice small swings the past few days that sort of thing i only bought shares at that i wake up and open my port and i m down these are the times that try men s souls unbelieveable turns out the navy cancelled a huge contract for autonomous drone boats and some insiders and investigators at the pentagon decided to leak it if i ever get my hands on them made a safe non regarded play and still got crushed unbelieveable how bad my luck is buying it just the day prior that specific day and time the market is fucking rigged only aaoi can save me now currently fullporting it not selling till update i decided to sell aaoi and buy the dip on mrna,0.9113,positive
 2026-10-21 20:21:52+00:00,,nan,0.0,neutral
 2026-10-21 20:16:57+00:00,"Earnings:
 
@@ -300,9 +484,6 @@ Has the market become so focused on the risks of commercializing nuclear that it
 2026-10-19 15:41:48+00:00,"Do I add another 1,000 next week and keep going???? ",do i add another next week and keep going,0.0,neutral
 2026-10-19 15:23:29+00:00,,nan,0.0,neutral
 2026-10-19 14:53:02+00:00,,nan,0.0,neutral
-2026-10-19 13:35:21+00:00,"&#x200B;
-
-Good luck all 🌊🌊⛩️",x b good luck all,0.7096,positive
 2026-10-19 13:33:00+00:00,,nan,0.0,neutral
 2026-10-19 13:20:07+00:00," (BULL BTW read you lazy fcks.) 
 
@@ -363,7 +544,6 @@ Ran some analysis now over the past 8000 trades I took during the past 2 years.
 
 I guess with the wife pregnant and a baby on the way I have no option but to keep playing the game. Godspeed retards.",not written with ai well boys this is it at an all time low got liquidated by the drop on friday playing dte i should have learned my lesson with the k and k drawdowns earlier in the year recovered both and finally got to breakeven when i realized it s october and i m points behind spy levered up to the tits with calls and went all in on meta the funny thing is by the time the dust settled and i gained consciousness after market close realized in the last hour i had panic sold everything all my stocks gld tlt btc then threw whatever is left in tqqq ran some analysis now over the past trades i took during the past years my win rate was over but the average winner was a scratch and the average loss so big it wiped months worth of gains robinhood doesn t have oco for multi legged options yet so i didn t have any stops this one day has set back my retirement plans by a decade i will probably lose the rest revenge trading now i guess with the wife pregnant and a baby on the way i have no option but to keep playing the game godspeed retards,-0.1406,negative
 2026-10-18 20:35:53+00:00,,nan,0.0,neutral
-2026-10-18 20:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1x9ct1y),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-10-18 14:55:28+00:00,,nan,0.0,neutral
 2026-10-18 11:10:28+00:00,hopefully this makes someone feel better,hopefully this makes someone feel better,0.6808,positive
 2026-10-18 10:53:23+00:00,"yes the market is down, yes it will do that. it’s okay - stand barefoot outside. put your feet in the grass and inhale/exhale.
@@ -409,7 +589,6 @@ I luckily make 10K a month after tax wth my job that I am thankful for, but I am
 It's funny because I know I should just buy VOO and a few other index funds, but I keep fucking up.
 
 I just don't know how to move forward and rebuild from here",i m and have a really bad day trading problem for over years and lost over k trying to win i thought i could try to make some money back and completely failed no strategy just buying garbage stocks blind dte s you name it i was able to make k profit then lost it all and then k of my own money i do not know what to do i am so numb i don t have any savings i luckily make k a month after tax wth my job that i am thankful for but i am so embarrassed with myself as i have no investments or savings at it s funny because i know i should just buy voo and a few other index funds but i keep fucking up i just don t know how to move forward and rebuild from here,-0.8614,negative
-2026-10-16 22:28:02+00:00,See screenshot,see screenshot,0.0,neutral
 2026-10-16 22:09:37+00:00,Newbie doing weekly options. Felt like all my moves went the wrong way. I feel like I lost everything and don't know what to do. Let's hope things are positive next time and I finally get play smart and right. ,newbie doing weekly options felt like all my moves went the wrong way i feel like i lost everything and don t know what to do let s hope things are positive next time and i finally get play smart and right,0.8807,positive
 2026-10-16 21:04:56+00:00,Time to indulge in another vice to take mind off for a week or so before coming back to the casino - where does wsb like to go ? Pattaya / Medellin / Angeles City / Eastern Europe?  ,time to indulge in another vice to take mind off for a week or so before coming back to the casino where does wsb like to go pattaya medellin angeles city eastern europe,0.3612,positive
 2026-10-16 20:06:15+00:00,"I'm having my ""how does the entire market not see this"" moment with drones. I'm not even trying to pump a ticker, pick one.
@@ -421,15 +600,11 @@ All militaries around the world have no choice but to go balls deep in drones...
 This shit should be as hyped as AI. 
 
 What am I missing?",i m having my how does the entire market not see this moment with drones i m not even trying to pump a ticker pick one with the space sector you could argue that spacex is stealing the spotlight but drone stocks across the board are getting slaughtered as well sure rates are rising but some of these companies have no debt and actually have a ton of cash on hand that is earning interest i know the macro is bad this week but drones have been getting spanked for a while now all militaries around the world have no choice but to go balls deep in drones not to mention border security policing agricultural applications surveying photography wildfire management fucking package and food delivery why doesn t amazon have an army of these things delivering small packages especially to rural areas i heard walmart is testing them delivering groceries already this shit should be as hyped as ai what am i missing,-0.8061,negative
-2026-10-16 20:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1x7qdzy),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-10-16 19:46:09+00:00,"Thought I’d be sneaky with some SoFi credit spreads. But seriously does this game ever end?? Should I just be spending all my paycheck for myself and have fun while I’m young. I save every penny to put it back in the market, I know I’ll get paid substantially more in the future through my job. I live like I’m broke, idk.",thought i d be sneaky with some sofi credit spreads but seriously does this game ever end should i just be spending all my paycheck for myself and have fun while i m young i save every penny to put it back in the market i know i ll get paid substantially more in the future through my job i live like i m broke idk,0.7906,positive
 2026-10-16 19:07:56+00:00,"Worst decision was options trading, I started September, I was already losing trading shares, then I switch it options to make it all make back, but It made it worse. I bought pltr puts then it hit an all time high. ",worst decision was options trading i started september i was already losing trading shares then i switch it options to make it all make back but it made it worse i bought pltr puts then it hit an all time high,-0.7845,negative
-2026-10-16 18:07:04+00:00,"One day, it will moon. This is the AMD of healthcare. ",one day it will moon this is the amd of healthcare,0.0,neutral
 2026-10-16 18:02:17+00:00,I'm normally an AI bull but the amount of hype this sub was generating told me it was time to pack it in...for now,i m normally an ai bull but the amount of hype this sub was generating told me it was time to pack it in for now,0.0,neutral
 2026-10-16 17:55:08+00:00,,nan,0.0,neutral
 2026-10-16 17:51:07+00:00,,nan,0.0,neutral
 2026-10-16 17:41:08+00:00,"“At the Federal Reserve, we made very clear that we would deliver price stability, and we removed a dose of accommodation about a month ago,” Warsh said. “I don’t prejudge meetings. I don’t believe in saying now what I might do at the meetings that we have in the balance of this year.”",at the federal reserve we made very clear that we would deliver price stability and we removed a dose of accommodation about a month ago warsh said i don t prejudge meetings i don t believe in saying now what i might do at the meetings that we have in the balance of this year,0.4391,positive
-2026-10-16 17:21:19+00:00,Hope this doesn’t get removed. I added my trades. ,hope this doesn t get removed i added my trades,0.4404,positive
 2026-10-16 17:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1x7lpd9),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-10-16 15:23:17+00:00,"https://preview.redd.it/w97nw5ovjuvh1.png?width=1934&format=png&auto=webp&s=74691c848efc0bdb149215f4e5d229865bb7acf4
 
@@ -459,6 +634,7 @@ Long story short, I think the market has genuinely cracked under the macro press
 To the mods - happy to verify the P&L via video or brokerage statements. Also would humbly request a dark blue flair with one word - Wizard. That would mean a lot to me.
 
 Finally, be grateful for whatever the market gives you - whether that be money or a lesson in mental discipline. I've been given plenty of both.",finally sold the amd i bought last june the soxl is a daytrade playing a bounce off early capitulation selling long story short i think the market has genuinely cracked under the macro pressure not going to open any equity longs for a while to the mods happy to verify the p l via video or brokerage statements also would humbly request a dark blue flair with one word wizard that would mean a lot to me finally be grateful for whatever the market gives you whether that be money or a lesson in mental discipline i ve been given plenty of both,0.743,positive
+2026-10-16 10:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1x7c5j6),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-10-16 08:28:42+00:00,"TSLA going +5% premarket after a flying cars demo is 100% proof the market is more regarded than you.
 
 And you’re sitting there with your Google spreadsheet, a DCF model, and your “but the P/E is 70” take, getting violently clapped by a literal hover-sofa.
@@ -468,6 +644,11 @@ The key to making gains in this casino is to stop pretending everyone else knows
 Next time you see flying cars, do not open a 14-tab market analysis, and do not summon your inner Warren Buffett. Think like your toddler would. Your toddler would buy calls.
 
 Hope this makes you feel better.",tsla going premarket after a flying cars demo is proof the market is more regarded than you and you re sitting there with your google spreadsheet a dcf model and your but the p e is take getting violently clapped by a literal hover sofa the key to making gains in this casino is to stop pretending everyone else knows shit the guy on the other side of your trade is not a glowing omniscient hedge fund god running a quantum agi llm you don t have access to next time you see flying cars do not open a tab market analysis and do not summon your inner warren buffett think like your toddler would your toddler would buy calls hope this makes you feel better,0.5267,positive
+2026-10-16 05:23:38+00:00,"Came across INIO during its IPO and thought it looked interesting. Somewhere along the way, I fell in love with this stupid stonk.  
+I genuinely think INIO could eventually be talked about alongside NBIS and CRWV. Solid fundamentals, huge order backlog, and a pretty impressive track record.  
+AI giants need electricity, the grid can’t keep up, and INIO makes gas engines so they can generate their own power on-site. Simple enough for my regarded brain.  
+Not too bothered by the paper losses. Got until February for a comeback and plenty of time to keep averaging down like a responsible degenerate.  
+Hoping for a brutal Canadian winter and a less brutal portfolio. Good lick to us all. ✌🏽",came across inio during its ipo and thought it looked interesting somewhere along the way i fell in love with this stupid stonk i genuinely think inio could eventually be talked about alongside nbis and crwv solid fundamentals huge order backlog and a pretty impressive track record ai giants need electricity the grid can t keep up and inio makes gas engines so they can generate their own power on site simple enough for my regarded brain not too bothered by the paper losses got until february for a comeback and plenty of time to keep averaging down like a responsible degenerate hoping for a brutal canadian winter and a less brutal portfolio good lick to us all,0.9042,positive
 2026-10-16 04:42:34+00:00,,nan,0.0,neutral
 2026-10-16 04:37:01+00:00,,nan,0.0,neutral
 2026-10-16 01:42:01+00:00,"https://preview.redd.it/8rzja0rqhqvh1.png?width=1439&format=png&auto=webp&s=123dcb3ab47ddce7439e377b146419e1ac7ef2d4
@@ -482,406 +663,3 @@ The merger of these two companies seems more like a when not if...
   
 Link - [https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk](https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk)",tesla unveiled its long awaited next generation roadster at spacex s mcgregor texas test facility demonstrating brief flight upside down driving and mph acceleration in under one second developed with spacex propulsion technology the vehicle represents a major departure from conventional electric sports cars originally announced in the redesigned roadster is now targeting production in the merger of these two companies seems more like a when not if link,0.4005,positive
 2026-10-16 01:35:00+00:00,no words needed,no words needed,-0.296,negative
-2026-10-16 00:28:24+00:00,,nan,0.0,neutral
-2026-10-16 00:20:17+00:00,"[https://www.reddit.com/r/wallstreetbets/comments/1x166u4/16x/](https://www.reddit.com/r/wallstreetbets/comments/1x166u4/16x/) (previous post)
-
-Thank you for your comments on recommending to trade SPX instead of SPY. I was not aware of the tax benefits of SPX and it’s a shame. Glad to learn something new, though. 
-
-I did some research and watched the price movement of SPX options for a couple days and started trading. SPX option prices move with more volatility than that of SPY, but less commission and better tax benefits made trading it a no-brainer. 
-
-Started at 40k in Aug and now I am at 740k (80k withdrawn to purchase a car bmwix). 99.9% SPY & SPX option plays. 
-
-Got lots of message about if I can teach how I do my trades; I cannot reply because I don’t want to be held liable for the results. Short dated options are gambling, and there’s no ‘strategy’ behind gambling.
-
-I do not have any current positions. I posted a picture of my latest trades. 
-
-Wishing you all a good luck. Let’s grind till we make it. 💪",previous post thank you for your comments on recommending to trade spx instead of spy i was not aware of the tax benefits of spx and it s a shame glad to learn something new though i did some research and watched the price movement of spx options for a couple days and started trading spx option prices move with more volatility than that of spy but less commission and better tax benefits made trading it a no brainer started at k in aug and now i am at k k withdrawn to purchase a car bmwix spy spx option plays got lots of message about if i can teach how i do my trades i cannot reply because i don t want to be held liable for the results short dated options are gambling and there s no strategy behind gambling i do not have any current positions i posted a picture of my latest trades wishing you all a good luck let s grind till we make it,0.9509,positive
-2026-10-16 00:10:01+00:00,"Anthropic reported $16.8 billion in Q3 revenue, up 45% qoq, but growth slowed sharply after revenue more than doubled in Q2.
-
-Adjusted gross margin: 85%
-
-Adjusted operating margin: 11%
-
-The company also has committed to spending at least $518 billion over a decade.
-
-Some investors are considering a $1.5 trillion valuation for Anthropic’s upcoming IPO, down 25% from earlier expectations of $2 trillion.  
-  
-Shares and bonds of Nvidia backed CoreWeave, reflecting growing investor concern about an AI buildout that is increasingly being financed with heavy debt
-
-data center operator SB Energy decided to delay its listing last month
-
-Another NVIDIA backed neo cloud Firmus, and nuclear technology company Holtec Nuclear pulled its plans to go public.",anthropic reported billion in q revenue up qoq but growth slowed sharply after revenue more than doubled in q adjusted gross margin adjusted operating margin the company also has committed to spending at least billion over a decade some investors are considering a trillion valuation for anthropic s upcoming ipo down from earlier expectations of trillion shares and bonds of nvidia backed coreweave reflecting growing investor concern about an ai buildout that is increasingly being financed with heavy debt data center operator sb energy decided to delay its listing last month another nvidia backed neo cloud firmus and nuclear technology company holtec nuclear pulled its plans to go public,0.3612,positive
-2026-10-15 23:58:48+00:00,,nan,0.0,neutral
-2026-10-15 23:33:54+00:00,"Think about how crazy this is. The CEO of Nvidia ($5.2T) had to come out today and publicly reassure investors about CoreWeave ($37B) after its stock and bonds got smoked.  
-  
-He literally said: ""CoreWeave’s strength is improving every day"" and that its cost of capital is going down and Nvidia doesn't need to backstop it.
-
-And we've literally only had 3 weeks of a drawdown.  
-  
-When was the last time you saw Tim Cook at Apple or Sundar at Google come out to defend the balance sheet of a supplier or customer because their stock and bonds were crashing?  
-  
-If the CEO of a $5T company has to do PR damage control for a company less than 1% its size after just 3 weeks of selling, how circular is this whole AI trade?  
-  
-Not saying CoreWeave goes bankrupt tomorrow, but if they're already doing this after 3 weeks of chop, what happens in an actual bear market?  
-",think about how crazy this is the ceo of nvidia t had to come out today and publicly reassure investors about coreweave b after its stock and bonds got smoked he literally said coreweave s strength is improving every day and that its cost of capital is going down and nvidia doesn t need to backstop it and we ve literally only had weeks of a drawdown when was the last time you saw tim cook at apple or sundar at google come out to defend the balance sheet of a supplier or customer because their stock and bonds were crashing if the ceo of a t company has to do pr damage control for a company less than its size after just weeks of selling how circular is this whole ai trade not saying coreweave goes bankrupt tomorrow but if they re already doing this after weeks of chop what happens in an actual bear market,-0.1027,negative
-2026-10-15 23:13:52+00:00,"This will literally go down as one of the craziest and largest companies to not only go bust but also steal investors money in broad daylight. 😂
-
-It’s the Lehman Brothers of 2027",this will literally go down as one of the craziest and largest companies to not only go bust but also steal investors money in broad daylight it s the lehman brothers of,-0.6597,negative
-2026-10-15 21:46:15+00:00,"Context: Over the course of a year I lost over 60 - 70 k trading options. Over the course of last two months, I was able to slowly recover from 10 k to 20k trading leverage shares. Then 20k to 35k on some options. Then I started trading Spx. Turn 30k to 70k in two weeks. I have never made so much money in such a short time. 
-
-The day I lost everything again was a normal day. I was scalping Spx. Started off from telling myself only play with 5 k to yoloing my whole account into a move that I knew it was against me but I wanted to be right. My mentality, my strategy, everything was suddenly thrown out of the window. ",context over the course of a year i lost over k trading options over the course of last two months i was able to slowly recover from k to k trading leverage shares then k to k on some options then i started trading spx turn k to k in two weeks i have never made so much money in such a short time the day i lost everything again was a normal day i was scalping spx started off from telling myself only play with k to yoloing my whole account into a move that i knew it was against me but i wanted to be right my mentality my strategy everything was suddenly thrown out of the window,-0.0,neutral
-2026-10-15 20:41:42+00:00,,nan,0.0,neutral
-2026-10-15 20:10:43+00:00,"Holdings are the usual suspects of AI stocks - neo cloud and semis. This hedge fund is likely liquidated and has a Situational Awareness 2.0 written all over. We have bottomed!
-
-https://preview.redd.it/97rs0tvqtovh1.png?width=900&format=png&auto=webp&s=674587b60d3af2cb8d174a8680b6ecc074cbbd8c
-
-[https://x.com/Kalshi\_Finance/status/2110796868565209364?s=20](https://x.com/Kalshi_Finance/status/2110796868565209364?s=20)",holdings are the usual suspects of ai stocks neo cloud and semis this hedge fund is likely liquidated and has a situational awareness written all over we have bottomed,-0.34,negative
-2026-10-15 20:08:27+00:00,Bought the dip but didn’t realize id get the sexist close of the year.,bought the dip but didn t realize id get the sexist close of the year,0.0,neutral
-2026-10-15 17:26:43+00:00,,nan,0.0,neutral
-2026-10-15 16:36:56+00:00,Was living a nightmare the past year trying to get back losses.,was living a nightmare the past year trying to get back losses,-0.4019,negative
-2026-10-15 15:18:12+00:00,,nan,0.0,neutral
-2026-10-15 14:24:36+00:00,,nan,0.0,neutral
-2026-10-15 14:22:24+00:00,,nan,0.0,neutral
-2026-10-15 13:58:33+00:00,"very expensive cuck chair where you pay to watch your portfolio get absolutely railed, -7.57% today",very expensive cuck chair where you pay to watch your portfolio get absolutely railed today,-0.1027,negative
-2026-10-15 13:41:09+00:00,Nebius loss,nebius loss,-0.3182,negative
-2026-10-15 12:45:27+00:00,,nan,0.0,neutral
-2026-10-15 11:48:51+00:00,"SaltyVegan69 checking in. 🌱🍫
-
-Four months ago, on June 11, I posted my [original cocoa DD](https://www.reddit.com/r/wallstreetbets/s/QlN6azsJZb)⁠, arguing that the market was massively underpricing the risk of a Super El Niño hitting global cocoa production.
-
-Some of you called it AI slop. Others compared it to ornamental gourds.
-
-Well.
-
-Cocoa on June 11: \~$3,700/tonne.
-
-Cocoa today: \~$5,950/tonne.
-
-That’s approximately **+60%.**
-
-And I think the most interesting part of this trade is still ahead of us.
-
-Here’s what’s changed.
-
-**1. MY ORIGINAL THESIS: THE MARKET WAS LOOKING AT THE WRONG CROP**
-
-This was the central argument in June.
-
-Everyone was obsessing over the comfortable 2025/26 harvest. Strong arrivals, rising inventories, collapsing demand.
-
-But that was the OLD crop.
-
-My thesis concerned the NEW 2026/27 crop.
-
-I argued that weather damage to flowers, cherelles and young pods could occur months before the market saw the consequences in actual harvest arrivals.
-
-I specifically identified September–October as the first serious test, November–December as the window when crop problems could become more obvious, and early 2027 as potentially decisive.
-
-Well, we’re now in October.
-
-StoneX has cut its projected 2026/27 global surplus from 149,000 tonnes to just 25,000 tonnes.
-
-**That’s an 83% reduction.**
-
-And the outlook for major producing countries is deteriorating:
-
-**GHANA:** COCOBOD expects production to fall by at least 16%, citing unfavorable weather, poor pod formation and disease.
-
-**IVORY COAST:** Production is expected to decline by more than 10%, with some estimates pointing toward losses approaching 20%.
-
-**ECUADOR:** The world’s third-largest producer, which was supposed to help rescue global supply, is itself facing an El Niño threat. Exporters had projected 626,000 tonnes of exports for 2026/27 before accounting for weather damage. Expana analysts warn of potential losses of 40,000–50,000 tonnes if excessive rainfall persists into early 2027.
-
-Ecuador is particularly interesting because El Niño can bring the opposite problem there: excessive rainfall, flooding, fungal diseases and disrupted harvesting.
-
-**AND THE WEATHER DAMAGE DIDN’T EVEN WAIT FOR EL NIÑO TO PEAK.**
-
-Remember what happened this summer?
-
-In Ivory Coast, excessive rainfall and persistent humidity were already causing problems in June and July.
-
-Late-June field surveys reported that **MORE THAN 20% of flowers and cherelles (young pods) had died between May and June.**
-
-Heavy rainfall encouraged black pod disease, which causes cocoa pods to rot.
-
-Ghana wasn’t doing much better.
-
-COCOBOD reported excessive May–June rainfall, widespread disease and unusually low young-pod counts in its important Western and Western North growing regions.
-
-Then, in September, parts of Ivory Coast experienced insufficient rainfall, threatening another generation of developing pods.
-
-Too much rain, followed by too little.
-
-Not exactly ideal.
-
-So we’re not just speculating about what a future El Niño might do.
-
-The 2026/27 crop was already showing worrying signs MONTHS AGO.
-
-And the strongest phase of El Niño hasn’t even arrived yet.
-
-**2. SUPER EL NIÑO: THIS IS GETTING RIDICULOUS**
-
-Back in June, NOAA had confirmed El Niño conditions, but the question was how powerful the event would become.
-
-We now have some extraordinary numbers.
-
-**NOAA, October 8:**
-
-Niño-3.4 anomaly: +2.1°C.
-
-Greater than 83% probability of strong-to-very-strong conditions persisting through January–March 2027.
-
-Subsurface temperature anomalies exceeding +10°C in parts of the eastern Pacific.
-
-**Japan’s Meteorological Agency, October 9:**
-
-September Niño-3 anomaly: +4.0°C.
-
-Highest September reading since its records began in 1949.
-
-Previous record: +3.6°C in 1997.
-
-And then there’s the **World Meteorological Organization.**
-
-WMO forecasts an October–December Niño-3.4 anomaly of approximately **+3.7°C.**
-
-The previous observed seasonal record was +2.6°C during the 2015/16 Super El Niño.
-
-Read that again.
-
-**+3.7°C VERSUS +2.6°C.**
-
-Potentially smashing the previous seasonal record by more than a full degree.
-
-This isn’t just another El Niño.
-
-We could be looking at a genuine **GODZILLA EL NIÑO.**
-
-And here’s the really interesting part:
-
-**WMO EXPECTS EL NIÑO TO PEAK AROUND DECEMBER 2026, WITH CONDITIONS PERSISTING INTO EARLY 2027.**
-
-You know what else starts around December?
-
-**THE HARMATTAN SEASON.**
-
-Dry, dusty winds blowing south from the Sahara across West Africa, typically between November/December and March, reducing humidity and soil moisture.
-
-This means El Niño’s projected peak coincides with West Africa’s dry season, while its effects could persist into the crucial development period for the April–September 2027 MID-CROP.
-
-Meanwhile, Ecuador’s rainy season also overlaps with El Niño’s strongest phase, bringing a separate risk of excessive rainfall.
-
-**The biggest weather test may still be ahead of us.**
-
-**3. DEMAND DESTRUCTION? TODAY’S NUMBERS WOULD LIKE A WORD.**
-
-For months, the bearish consensus was that chocolate had become too expensive, manufacturers were reformulating, and consumers had permanently reduced consumption.
-
-Demand destruction was real. Nobody disputes that.
-
-But look at TODAY’S Q3 grinding releases.
-
-**EUROPE:**
-
-Q3 2026: 348,215 tonnes.  
-**+3.2% year-on-year.**  
-Q2 had been -4.6%.
-
-**ASIA:**
-
-Q3 2026: 233,767 tonnes.  
-**+29.22% year-on-year.**  
-\+4.06% quarter-on-quarter.
-
-Yes, you read that correctly.
-
-**ASIA. PLUS. TWENTY-NINE. PERCENT.**
-
-Analysts had expected approximately 208,412 tonnes.
-
-They missed by more than 25,000 tonnes.
-
-Malaysia separately reported +47%.
-
-Granted, Asia benefited from a weak comparison quarter, and grinding activity isn’t identical to final consumer demand.
-
-But the narrative of relentlessly collapsing cocoa demand is looking increasingly shaky.
-
-And North America’s Q3 figures are scheduled for release later today.
-
-If demand keeps recovering while the new global crop deteriorates, the supply-demand balance could change very quickly.
-
-**4. THE INVENTORY BEAR CASE: YOU’RE LOOKING AT THE OLD CROP. AGAIN.**
-
-Now let’s address the strongest remaining bearish argument.
-
-ICE warehouse stocks have been rising, and that has repeatedly put pressure on cocoa prices.
-
-That’s real.
-
-But there’s a problem with using today’s inventories to dismiss tomorrow’s supply shock.
-
-**THE INVENTORY BUILD IS LARGELY THE RESULT OF THE OLD 2025/26 CROP AND WEAKER RECENT DEMAND.**
-
-That harvest was relatively comfortable and generated a substantial surplus.
-
-Of course stocks rebuilt.
-
-But cocoa already harvested doesn’t tell you how much cocoa trees will produce under a potentially record-shattering El Niño.
-
-And the historical comparison is fascinating.
-
-**US ICE warehouse stocks (60kg bags):**
-
-June 2023: \~5.62 million.  
-October 2023: \~4.87 million.  
-April 2024, around the first major price peak: \~4.03 million.  
-October 2026: \~3.56 million.
-
-Today’s ICE warehouse stocks are approximately **37% BELOW June 2023** and **27% BELOW October 2023.**
-
-They’re even below their level around the FIRST major price peak in April 2024.
-
-Now look at GLOBAL ending stocks, which are a different measure from ICE inventories.
-
-2022/23, before the crisis: 1.764 million tonnes.  
-2023/24, after the huge deficit: 1.272 million tonnes.  
-2024/25: approximately 1.309 million tonnes.
-
-In other words, the previous crisis wiped out a massive part of the global inventory cushion. The old-crop recovery has helped replenish it, but that doesn’t mean we’re comfortably prepared for another supply shock.
-
-And here’s what the bears seem to forget:
-
-**IN 2024, COCOA DID NOT NEED INVENTORIES TO REACH ZERO.**
-
-It just needed inventories to start falling and the market to realize that future production wasn’t sufficient.
-
-The price reaction was extraordinary.
-
-**THE PREVIOUS COCOA RALLY HAD TWO MAJOR PEAKS:**
-
-April 19, 2024: $11,878/tonne in New York.  
-December 2024: approximately $12,900/tonne, a new record.
-
-Two separate peaks, months apart.
-
-The first came as the enormous 2023/24 deficit became impossible to ignore.
-
-After a substantial correction, cocoa rallied again in December as concerns about future supplies resurfaced.
-
-The market didn’t wait for physical exhaustion either time.
-
-In April 2024, ICE warehouses still contained approximately FOUR MILLION BAGS.
-
-And today we have fewer.
-
-**BUT HERE’S WHAT I FIND ABSOLUTELY INSANE.**
-
-We’re potentially heading into a MUCH STRONGER, possibly record-shattering, Godzilla El Niño than the one that preceded the 2023/24 cocoa crisis.
-
-**EXCEPT THIS TIME, WE’RE STARTING WITH LESS EXCHANGE INVENTORY.**
-
-In June 2023, ICE warehouses held approximately 5.62 million bags.
-
-Today? Just 3.56 million.
-
-That’s **37% LESS exchange-warehouse cocoa going into a potentially MUCH BIGGER weather shock.**
-
-A smaller visible inventory cushion. Demand showing signs of recovery. West African production forecasts deteriorating. Ecuador facing its own weather risks.
-
-And the Harmattan season just around the corner.
-
-Let that sink in.
-
-The previous crisis sent cocoa to almost $13,000/tonne, with TWO separate major price peaks.
-
-And the market didn’t need inventories to reach zero.
-
-It just needed to realize they were heading in the wrong direction.
-
-Now consider the setup.
-
-El Niño is forecast to peak in December and persist into early 2027, potentially affecting not only the ongoing main crop but also the subsequent 2027 MID-CROP.
-
-One cocoa season. Two harvests. A potentially historic weather event.
-
-**WHAT DIRECTION DO YOU THINK INVENTORIES ARE GOING TO MOVE IF PRODUCTION DISAPPOINTS?**
-
-Up forever?
-
-The current stock rebuild is old-crop supply being carried forward. Once a production shortfall exceeds that cushion, inventories start falling.
-
-If demand simultaneously recovers, they fall faster.
-
-That’s basic arithmetic.
-
-And the market is forward-looking. It doesn’t need to see the last bag leave the warehouse before repricing a looming shortage.
-
-**5. WHAT COMES NEXT?**
-
-The original thesis was always about timing.
-
-June–August: early crop development and weather risks.
-
-September–October: first test of the new main crop.
-
-November–December: increasingly visible harvest performance, deteriorating supply forecasts and peak El Niño risks.
-
-January–March 2027: continued El Niño conditions, the Harmattan season and the development of the upcoming mid-crop.
-
-April–September 2027: the 2026/27 mid-crop, revealing more of the consequences of the preceding weather conditions.
-
-We’re only entering the most interesting part of that timeline.
-
-What I’m watching:
-
-North American Q3 grindings later today.
-
-Actual Ivory Coast and Ghana arrivals.
-
-The approaching Harmattan season.
-
-El Niño’s forecast December peak and persistence into early 2027.
-
-Ecuadorian rainfall and production losses.
-
-ICE warehouse stocks changing direction.
-
-The development of the April–September 2027 mid-crop.
-
-The downside risks are obvious. El Niño doesn’t automatically mean a cocoa shortage, strong arrivals could undermine the thesis, and inventories can continue rising for longer than expected.
-
-But compared with June, we’ve got a dramatically stronger El Niño, sharply reduced surplus forecasts, recovering grinding activity and a much smaller exchange inventory cushion than before the previous crisis.
-
-Cocoa has already rallied approximately 60%.
-
-The last supply crisis produced TWO peaks, with the second reaching almost $13,000/tonne.
-
-I’m not saying we’ll necessarily see those prices again.
-
-But dismissing that possibility while WMO forecasts a potentially record-shattering El Niño strikes me as increasingly complacent.
-
-Four months ago, I argued that the market was looking at the wrong crop.
-
-So far, that thesis is playing out remarkably well.
-
-And the part of the timeline I was most interested in is only just beginning.
-
-Still long through my 2x leveraged cocoa ETC.
-
-Still vegan. Still leveraged. Still bullish on chocolate beans.
-
-Not financial advice. Don’t confuse a thesis that’s working with a guaranteed outcome.",saltyvegan checking in four months ago on june i posted my original cocoa dd arguing that the market was massively underpricing the risk of a super el ni o hitting global cocoa production some of you called it ai slop others compared it to ornamental gourds well cocoa on june tonne cocoa today tonne that s approximately and i think the most interesting part of this trade is still ahead of us here s what s changed my original thesis the market was looking at the wrong crop this was the central argument in june everyone was obsessing over the comfortable harvest strong arrivals rising inventories collapsing demand but that was the old crop my thesis concerned the new crop i argued that weather damage to flowers cherelles and young pods could occur months before the market saw the consequences in actual harvest arrivals i specifically identified september october as the first serious test november december as the window when crop problems could become more obvious and early as potentially decisive well we re now in october stonex has cut its projected global surplus from tonnes to just tonnes that s an reduction and the outlook for major producing countries is deteriorating ghana cocobod expects production to fall by at least citing unfavorable weather poor pod formation and disease ivory coast production is expected to decline by more than with some estimates pointing toward losses approaching ecuador the world s third largest producer which was supposed to help rescue global supply is itself facing an el ni o threat exporters had projected tonnes of exports for before accounting for weather damage expana analysts warn of potential losses of tonnes if excessive rainfall persists into early ecuador is particularly interesting because el ni o can bring the opposite problem there excessive rainfall flooding fungal diseases and disrupted harvesting and the weather damage didn t even wait for el ni o to peak remember what happened this summer in ivory coast excessive rainfall and persistent humidity were already causing problems in june and july late june field surveys reported that more than of flowers and cherelles young pods had died between may and june heavy rainfall encouraged black pod disease which causes cocoa pods to rot ghana wasn t doing much better cocobod reported excessive may june rainfall widespread disease and unusually low young pod counts in its important western and western north growing regions then in september parts of ivory coast experienced insufficient rainfall threatening another generation of developing pods too much rain followed by too little not exactly ideal so we re not just speculating about what a future el ni o might do the crop was already showing worrying signs months ago and the strongest phase of el ni o hasn t even arrived yet super el ni o this is getting ridiculous back in june noaa had confirmed el ni o conditions but the question was how powerful the event would become we now have some extraordinary numbers noaa october ni o anomaly c greater than probability of strong to very strong conditions persisting through january march subsurface temperature anomalies exceeding c in parts of the eastern pacific japan s meteorological agency october september ni o anomaly c highest september reading since its records began in previous record c in and then there s the world meteorological organization wmo forecasts an october december ni o anomaly of approximately c the previous observed seasonal record was c during the super el ni o read that again c versus c potentially smashing the previous seasonal record by more than a full degree this isn t just another el ni o we could be looking at a genuine godzilla el ni o and here s the really interesting part wmo expects el ni o to peak around december with conditions persisting into early you know what else starts around december the harmattan season dry dusty winds blowing south from the sahara across west africa typically between november december and march reducing humidity and soil moisture this means el ni o s projected peak coincides with west africa s dry season while its effects could persist into the crucial development period for the april september mid crop meanwhile ecuador s rainy season also overlaps with el ni o s strongest phase bringing a separate risk of excessive rainfall the biggest weather test may still be ahead of us demand destruction today s numbers would like a word for months the bearish consensus was that chocolate had become too expensive manufacturers were reformulating and consumers had permanently reduced consumption demand destruction was real nobody disputes that but look at today s q grinding releases europe q tonnes year on year q had been asia q tonnes year on year quarter on quarter yes you read that correctly asia plus twenty nine percent analysts had expected approximately tonnes they missed by more than tonnes malaysia separately reported granted asia benefited from a weak comparison quarter and grinding activity isn t identical to final consumer demand but the narrative of relentlessly collapsing cocoa demand is looking increasingly shaky and north america s q figures are scheduled for release later today if demand keeps recovering while the new global crop deteriorates the supply demand balance could change very quickly the inventory bear case you re looking at the old crop again now let s address the strongest remaining bearish argument ice warehouse stocks have been rising and that has repeatedly put pressure on cocoa prices that s real but there s a problem with using today s inventories to dismiss tomorrow s supply shock the inventory build is largely the result of the old crop and weaker recent demand that harvest was relatively comfortable and generated a substantial surplus of course stocks rebuilt but cocoa already harvested doesn t tell you how much cocoa trees will produce under a potentially record shattering el ni o and the historical comparison is fascinating us ice warehouse stocks kg bags june million october million april around the first major price peak million october million today s ice warehouse stocks are approximately below june and below october they re even below their level around the first major price peak in april now look at global ending stocks which are a different measure from ice inventories before the crisis million tonnes after the huge deficit million tonnes approximately million tonnes in other words the previous crisis wiped out a massive part of the global inventory cushion the old crop recovery has helped replenish it but that doesn t mean we re comfortably prepared for another supply shock and here s what the bears seem to forget in cocoa did not need inventories to reach zero it just needed inventories to start falling and the market to realize that future production wasn t sufficient the price reaction was extraordinary the previous cocoa rally had two major peaks april tonne in new york december approximately tonne a new record two separate peaks months apart the first came as the enormous deficit became impossible to ignore after a substantial correction cocoa rallied again in december as concerns about future supplies resurfaced the market didn t wait for physical exhaustion either time in april ice warehouses still contained approximately four million bags and today we have fewer but here s what i find absolutely insane we re potentially heading into a much stronger possibly record shattering godzilla el ni o than the one that preceded the cocoa crisis except this time we re starting with less exchange inventory in june ice warehouses held approximately million bags today just million that s less exchange warehouse cocoa going into a potentially much bigger weather shock a smaller visible inventory cushion demand showing signs of recovery west african production forecasts deteriorating ecuador facing its own weather risks and the harmattan season just around the corner let that sink in the previous crisis sent cocoa to almost tonne with two separate major price peaks and the market didn t need inventories to reach zero it just needed to realize they were heading in the wrong direction now consider the setup el ni o is forecast to peak in december and persist into early potentially affecting not only the ongoing main crop but also the subsequent mid crop one cocoa season two harvests a potentially historic weather event what direction do you think inventories are going to move if production disappoints up forever the current stock rebuild is old crop supply being carried forward once a production shortfall exceeds that cushion inventories start falling if demand simultaneously recovers they fall faster that s basic arithmetic and the market is forward looking it doesn t need to see the last bag leave the warehouse before repricing a looming shortage what comes next the original thesis was always about timing june august early crop development and weather risks september october first test of the new main crop november december increasingly visible harvest performance deteriorating supply forecasts and peak el ni o risks january march continued el ni o conditions the harmattan season and the development of the upcoming mid crop april september the mid crop revealing more of the consequences of the preceding weather conditions we re only entering the most interesting part of that timeline what i m watching north american q grindings later today actual ivory coast and ghana arrivals the approaching harmattan season el ni o s forecast december peak and persistence into early ecuadorian rainfall and production losses ice warehouse stocks changing direction the development of the april september mid crop the downside risks are obvious el ni o doesn t automatically mean a cocoa shortage strong arrivals could undermine the thesis and inventories can continue rising for longer than expected but compared with june we ve got a dramatically stronger el ni o sharply reduced surplus forecasts recovering grinding activity and a much smaller exchange inventory cushion than before the previous crisis cocoa has already rallied approximately the last supply crisis produced two peaks with the second reaching almost tonne i m not saying we ll necessarily see those prices again but dismissing that possibility while wmo forecasts a potentially record shattering el ni o strikes me as increasingly complacent four months ago i argued that the market was looking at the wrong crop so far that thesis is playing out remarkably well and the part of the timeline i was most interested in is only just beginning still long through my x leveraged cocoa etc still vegan still leveraged still bullish on chocolate beans not financial advice don t confuse a thesis that s working with a guaranteed outcome,-0.9986,negative
-2026-10-15 11:11:30+00:00,,nan,0.0,neutral
-2026-10-15 10:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1x6hm3b),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-10-15 08:10:46+00:00,,nan,0.0,neutral
-2026-10-15 08:02:44+00:00,,nan,0.0,neutral
-2026-10-15 06:26:40+00:00,,nan,0.0,neutral
-2026-10-15 05:24:44+00:00,"Held Apple for years and sold at $333, then put all my money into SNDK. Thanks for the losses. And yes, 4K USD is all I have, life savings gone.",held apple for years and sold at then put all my money into sndk thanks for the losses and yes k usd is all i have life savings gone,0.4404,positive
-2026-10-15 04:28:18+00:00,,nan,0.0,neutral
-2026-10-15 04:03:40+00:00,How do you think late-2026 early-2027 will treat us? ,how do you think late early will treat us,0.4019,positive
-2026-10-15 03:50:35+00:00,Maybe the bubble is finally bursting ,maybe the bubble is finally bursting,0.0,neutral
-2026-10-15 03:43:26+00:00,Thinking about reinvesting in a new rocket company ESTS.  Thoughts?  Might find a lil joy at least. ,thinking about reinvesting in a new rocket company ests thoughts might find a lil joy at least,0.5859,positive
-2026-10-15 03:21:54+00:00,Does it?,does it,0.0,neutral
-2026-10-15 01:05:31+00:00,,nan,0.0,neutral
-2026-10-15 01:03:53+00:00,,nan,0.0,neutral
