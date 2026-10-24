@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-23T00:42:44.144543+00:00`
+- Generated at (UTC): `2026-10-24T00:44:59.126661+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 10 | 5 | 0.359 | 773.09 | -0.04% | 5.479 |
-| 2 | MRNA | 8 | 5 | -0.099 | 245.81 | 34.65% | 17.138 |
-| 3 | TSLA | 4 | 4 | 0.468 | 386.47 | 2.00% | 4.812 |
-| 4 | EDF | 15 | 1 | 0.999 | 4.40 | -15.87% | 0.082 |
-| 5 | SOXL | 6 | 3 | 0.302 | 103.24 | -32.06% | 12.110 |
-| 6 | NFLX | 4 | 3 | 0.348 | 65.04 | -9.87% | 0.714 |
-| 7 | NBIS | 4 | 3 | 0.610 | 171.57 | -27.34% | 16.305 |
-| 8 | ASTS | 8 | 1 | 0.834 | 40.90 | -35.78% | 4.535 |
-| 9 | AMD | 3 | 2 | 0.059 | 552.72 | -11.39% | 18.926 |
-| 10 | NVDA | 3 | 2 | -0.217 | 221.97 | -3.01% | 2.381 |
+| 1 | SPY | 10 | 5 | 0.467 | 763.96 | -0.50% | 5.273 |
+| 2 | TSLA | 5 | 3 | 0.871 | 374.58 | -1.46% | 4.164 |
+| 3 | SOXL | 8 | 2 | 0.116 | 82.11 | -43.86% | 10.874 |
+| 4 | NFLX | 4 | 3 | 0.348 | 67.05 | -6.04% | 0.744 |
+| 5 | META | 4 | 3 | -0.080 | 648.85 | -12.80% | 12.899 |
+| 6 | BTC | 3 | 3 | -0.150 | 35.97 | -3.77% | 0.705 |
+| 7 | MRNA | 3 | 3 | 0.247 | 202.63 | 11.27% | 10.622 |
+| 8 | TQQQ | 3 | 3 | 0.277 | 66.42 | -15.56% | 1.206 |
+| 9 | IREN | 3 | 3 | -0.065 | 25.51 | -45.78% | 2.020 |
+| 10 | ASTS | 8 | 1 | 0.834 | 38.77 | -35.36% | 5.235 |
 
 ### Aggregate Charts
 
@@ -186,17 +186,9 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### MRNA
-
-![MRNA Dashboard](outputs/latest_wsb_analysis/charts/mrna_dashboard.png)
-
 #### TSLA
 
 ![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
-
-#### EDF
-
-![EDF Dashboard](outputs/latest_wsb_analysis/charts/edf_dashboard.png)
 
 #### SOXL
 
@@ -206,19 +198,27 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NFLX Dashboard](outputs/latest_wsb_analysis/charts/nflx_dashboard.png)
 
-#### NBIS
+#### META
 
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
+![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
+
+#### BTC
+
+![BTC Dashboard](outputs/latest_wsb_analysis/charts/btc_dashboard.png)
+
+#### MRNA
+
+![MRNA Dashboard](outputs/latest_wsb_analysis/charts/mrna_dashboard.png)
+
+#### TQQQ
+
+![TQQQ Dashboard](outputs/latest_wsb_analysis/charts/tqqq_dashboard.png)
+
+#### IREN
+
+![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
 
 #### ASTS
 
 ![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
-
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 <!-- AUTO_TOP10_END -->
