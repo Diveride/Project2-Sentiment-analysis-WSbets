@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-24T00:44:59.126661+00:00`
+- Generated at (UTC): `2026-10-25T00:23:01.877844+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 10 | 5 | 0.467 | 763.96 | -0.50% | 5.273 |
-| 2 | TSLA | 5 | 3 | 0.871 | 374.58 | -1.46% | 4.164 |
-| 3 | SOXL | 8 | 2 | 0.116 | 82.11 | -43.86% | 10.874 |
-| 4 | NFLX | 4 | 3 | 0.348 | 67.05 | -6.04% | 0.744 |
-| 5 | META | 4 | 3 | -0.080 | 648.85 | -12.80% | 12.899 |
-| 6 | BTC | 3 | 3 | -0.150 | 35.97 | -3.77% | 0.705 |
-| 7 | MRNA | 3 | 3 | 0.247 | 202.63 | 11.27% | 10.622 |
-| 8 | TQQQ | 3 | 3 | 0.277 | 66.42 | -15.56% | 1.206 |
-| 9 | IREN | 3 | 3 | -0.065 | 25.51 | -45.78% | 2.020 |
-| 10 | ASTS | 8 | 1 | 0.834 | 38.77 | -35.36% | 5.235 |
+| 1 | SPY | 10 | 5 | 0.471 | 759.97 | -0.94% | 5.221 |
+| 2 | TSLA | 6 | 3 | 0.896 | 372.22 | -1.51% | 4.220 |
+| 3 | SOXL | 8 | 2 | 0.116 | 83.56 | -42.90% | 10.714 |
+| 4 | NFLX | 4 | 3 | 0.348 | 65.85 | -8.18% | 0.769 |
+| 5 | BTC | 3 | 3 | -0.150 | 35.89 | -3.81% | 0.722 |
+| 6 | MRNA | 3 | 3 | 0.247 | 200.10 | 2.71% | 12.229 |
+| 7 | TQQQ | 3 | 3 | 0.277 | 66.29 | -15.64% | 1.308 |
+| 8 | IREN | 3 | 3 | -0.065 | 24.91 | -46.03% | 2.150 |
+| 9 | ASTS | 8 | 1 | 0.834 | 39.79 | -34.83% | 5.491 |
+| 10 | SPCX | 4 | 2 | 0.548 | 147.49 | -0.36% | 9.322 |
 
 ### Aggregate Charts
 
@@ -198,10 +198,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NFLX Dashboard](outputs/latest_wsb_analysis/charts/nflx_dashboard.png)
 
-#### META
-
-![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
-
 #### BTC
 
 ![BTC Dashboard](outputs/latest_wsb_analysis/charts/btc_dashboard.png)
@@ -221,4 +217,8 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### ASTS
 
 ![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
+
+#### SPCX
+
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 <!-- AUTO_TOP10_END -->
