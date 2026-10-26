@@ -1,7 +1,50 @@
 created_utc,body,clean_body,body_sentiment,body_label
+2026-10-26 00:14:17+00:00,"https://preview.redd.it/g5wgtgctepxh1.png?width=718&format=png&auto=webp&s=729d38dfff3723fb08fbcfeb3b5c5aed9bd55920
+
+Calls on margin calls",calls on margin calls,0.0,neutral
+2026-10-25 21:37:13+00:00,"It is potentially going to be a rocky week where every signal matters. Everyone's worried about AI bubbles, interest rates, inflation. I spent this afternoon looking at perhaps an understated correlation: what happens to the S&P 500 after a Grand Theft Auto release?
+
+I may have uncovered the single greatest bullish indicator for the next cycle. First, let’s analyze the data:
+
+**S&P 500 returns between every major GTA release:**
+
+| Release | Return before next GTA |
+|---|---:|
+| GTA 1 (1997) | +36% |
+| GTA 2 (1999) | −16% |
+| GTA III (2001) | −19% |
+| Vice City (2002) | +26% |
+| San Andreas (2004) | +25% |
+| GTA IV (2008) | +23% |
+| GTA V (2013) | +347% |
+
+These are already extraordinary returns. Five of seven GTA releases have produced positive market returns; and every single release since Vice City has indicated S&P gains!
+
+But the data gets even more interesting. GTA2 and GTA3 produced negative S&P returns. What can we find? Both featured protagonists named *Claude*. Remove Claude from the games and each GTA release has a 100% success rate producing positive market returns. GTA VI features Jason and Lucia, but no Claudes. It remains to be seen if somehow *Anthropic Claude* manages to confuse traders and breaks this support pattern.
+
+Now you might also think: orrelation does not imply causation. So in the interest of scientific rigour I investigated whether the stock market begins rallying before Rockstar announces the next GTA, or whether the announcement itself is required to unlock the gains. Put simply - do we need the *presence* of a next GTA release to start the bull cycle again.
+
+The data here is more mixed:
+
+| GTA cycle | Before next announcement | After announcement to release | Full cycle |
+|---|---:|---:|---:|
+| GTA 1 → GTA 2 | N/A | N/A | +36% |
+| GTA 2 → GTA III† | −3% | −14% | −16% |
+| GTA III → Vice City† | +6% | −23% | −19% |
+| Vice City → San Andreas† | +2% | +23% | +26% |
+| San Andreas → GTA IV | +19% | +5% | +25% |
+| GTA IV → GTA V | −12% | +39% | +23% |
+| GTA V → GTA VI* | +164% | +69% | +347% |
+
+The GTA IV → GTA V cycle is particularly interesting. The S&P 500 had fallen 12% before Rockstar announced GTA V in October 2011. Following that announcement, it rallied 39% before the game was even released. Rockstar's communications department may have single-handedly reversed a multi-year equity downturn with a press release.Meanwhile, if we use San Andreas's actual named announcement in March 2004, the market had already rallied 31% since Vice City. Apparently institutional investors had priced in CJ months before the general public.
+
+So the real conclusion is the next GTA announcement is neither a leading or lagging macro indicator; even though GTA releases clearly are.",it is potentially going to be a rocky week where every signal matters everyone s worried about ai bubbles interest rates inflation i spent this afternoon looking at perhaps an understated correlation what happens to the s p after a grand theft auto release i may have uncovered the single greatest bullish indicator for the next cycle first let s analyze the data s p returns between every major gta release release return before next gta gta gta gta iii vice city san andreas gta iv gta v these are already extraordinary returns five of seven gta releases have produced positive market returns and every single release since vice city has indicated s p gains but the data gets even more interesting gta and gta produced negative s p returns what can we find both featured protagonists named claude remove claude from the games and each gta release has a success rate producing positive market returns gta vi features jason and lucia but no claudes it remains to be seen if somehow anthropic claude manages to confuse traders and breaks this support pattern now you might also think orrelation does not imply causation so in the interest of scientific rigour i investigated whether the stock market begins rallying before rockstar announces the next gta or whether the announcement itself is required to unlock the gains put simply do we need the presence of a next gta release to start the bull cycle again the data here is more mixed gta cycle before next announcement after announcement to release full cycle gta gta n a n a gta gta iii gta iii vice city vice city san andreas san andreas gta iv gta iv gta v gta v gta vi the gta iv gta v cycle is particularly interesting the s p had fallen before rockstar announced gta v in october following that announcement it rallied before the game was even released rockstar s communications department may have single handedly reversed a multi year equity downturn with a press release meanwhile if we use san andreas s actual named announcement in march the market had already rallied since vice city apparently institutional investors had priced in cj months before the general public so the real conclusion is the next gta announcement is neither a leading or lagging macro indicator even though gta releases clearly are,0.9843,positive
+2026-10-25 20:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1xfc7de),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
+2026-10-25 18:53:04+00:00,"If debt fuelled AI capex continues, expect yields/mortgage rates to be higher next year. More importantly, expect US government interest expense to be higher.",if debt fuelled ai capex continues expect yields mortgage rates to be higher next year more importantly expect us government interest expense to be higher,0.4754,positive
+2026-10-25 18:21:34+00:00,,nan,0.0,neutral
+2026-10-25 14:22:02+00:00,,nan,0.0,neutral
+2026-10-25 02:25:36+00:00," Money is now rotating back to software companies. Time to switch, semi bulls!",money is now rotating back to software companies time to switch semi bulls,0.0,neutral
 2026-10-24 23:34:25+00:00,Where do I go to collect the green money? ,where do i go to collect the green money,0.0,neutral
-2026-10-24 23:25:58+00:00,,nan,0.0,neutral
-2026-10-24 22:12:37+00:00,,nan,0.0,neutral
 2026-10-24 14:00:37+00:00,,nan,0.0,neutral
 2026-10-24 03:10:58+00:00,And a lot of capital ,and a lot of capital,0.0,neutral
 2026-10-24 00:26:42+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1xdumgr),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
@@ -22,7 +65,11 @@ How will your “strategy” change with this new trading schedule? Have you tho
 
 
 Just dont do weeklies or all ins like i did, please.",not really any other point to live not sure what else thats what i get for being a greedy degenerate gambler thinking it just goes up nvda got me up tsla shot me down hopefully i can find a train or car headed my way soon just dont do weeklies or all ins like i did please,0.5003,positive
-2026-10-23 18:24:22+00:00,"Betting the swap ratio is announced in the next few weeks. Why? Midterms. If Dems take the House (90% on Kalshi) Elon and team become piñatas - best get it done fast. Selling all contracts purely at the premium bid on any announcement. For example, the premium will move to \~$5 at a $500 implied swap price (3.4 SPCX shares for 1 TSLA share at today’s price) with elevated 90% IV, announced on or before November 4 (Black-Scholes valuation) $12 —> $500 per contract",betting the swap ratio is announced in the next few weeks why midterms if dems take the house on kalshi elon and team become pi atas best get it done fast selling all contracts purely at the premium bid on any announcement for example the premium will move to at a implied swap price spcx shares for tsla share at today s price with elevated iv announced on or before november black scholes valuation per contract,0.8225,positive
+2026-10-23 18:24:22+00:00,"Betting the stock swap ratio is announced in the next few weeks. Why? Midterms. If Dems take the House, Elon and team become piñatas - best get it done fast. Selling all contracts at the premium bid on the day of any announcement.
+
+For example, at a $500 implied stock swap price (3.4 SPCX shares for 1 TSLA share at today’s price), with elevated 90% IV, and announced on or before November 4, the premium will move to \~$5  (Black-Scholes valuation)
+
+$12 per contract   —> $500 per contract",betting the stock swap ratio is announced in the next few weeks why midterms if dems take the house elon and team become pi atas best get it done fast selling all contracts at the premium bid on the day of any announcement for example at a implied stock swap price spcx shares for tsla share at today s price with elevated iv and announced on or before november the premium will move to black scholes valuation per contract per contract,0.8225,positive
 2026-10-23 18:03:36+00:00,,nan,0.0,neutral
 2026-10-23 17:44:45+00:00,,nan,0.0,neutral
 2026-10-23 17:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1xdjnsl),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
@@ -120,7 +167,9 @@ Have a nice day.",tl dr fl vio bolsonaro is very likely to take the brazilian pr
 2026-10-23 14:55:43+00:00,Little +$22k to make up for my 14k loss yesterday,little k to make up for my k loss yesterday,-0.3182,negative
 2026-10-23 14:16:57+00:00,"I left a lot on the table here, by exiting responsibly 😐",i left a lot on the table here by exiting responsibly,0.0,neutral
 2026-10-23 14:02:30+00:00,,nan,0.0,neutral
-2026-10-23 13:09:04+00:00,"Long-time lurker.
+2026-10-23 13:09:04+00:00,"(Updates at bottom if anyone still around reading) 
+
+Long-time lurker.
 
 Finally felt like I had a post worthy of /wsb.
 
@@ -148,8 +197,17 @@ I'm out.
 
 What should we buy tonight? (I realize I live in Asia, so tonight is actually trading hours for me) 
 
+Edit: Could have retired if I bought 1dte spcx puts. Instead thought I was playing it safe by buying only 7dte
 
-Edit: Could have retired if I bought 1dte spcx puts. Instead thought I was playing it safe by buying only 7dte",long time lurker finally felt like i had a post worthy of wsb good enough to screenshot good enough to sell down over k three years ago just months after discovering options here s what happened first opened my trading account because of the gme hype made k on tsla calls during the run up before the interest rate hikes in thought i was a god at trading then tsla started falling watched my calls go from k to breakeven didn t know shit about stop losses refused to sell because i was convinced they d bounce back eventually sold those calls at a loss then proceeded to lose every last dollar doing every regarded thing imaginable buying straddles before earnings gambling on fomc meetings and cpi releases dte spy qqq truly regarded wiped out my entire savings took a three year hiatus couldn t even bring myself to look at my trading account then spent the next three years watching the greatest ai and memory stock bull run of our lifetime from the sidelines the fomo was unbearable finally decided to deposit more money and win it all back saw the korean market sell off and leopold getting margin called in july thought i d found the buying opportunity of a lifetime instead somehow managed to lose another k buying spacex puts after convincing myself thanks to reddit that the stock would tank after its first share unlock revenge traded the whole way up as spacex went to then then was depressed felt like an absolute failure and reached the point where i wanted to end it all put the last of my savings on puts when spacex went up to lost part of my gains on qqq puts on wednesday decided to revenge trade my whole remaining portfolio on spacex puts on wednesday profit i m out what should we buy tonight i realize i live in asia so tonight is actually trading hours for me edit could have retired if i bought dte spcx puts instead thought i was playing it safe by buying only dte,0.9514,positive
+Update: Grateful for all the responses. Never thought I'd have a viral wsb post of my own. I'm just glad it turned out ok for me in the end. Could have played it safe with indexes from the start. Could have been wiped out with the last play and no one would have heard from me. (Although I must say I saw no more upsides from spacex stock on that day and they were definitely going to regress to the mean. The upsides on obtaining licences for new spectrums and earning calls were over with a muted intra-day response compared to the gap up overnight/pre-market. And there were only downsides foreseeable both macro and spacex specific - QQQ was on a roar that day despite coreweave bonds reaching 15% and could only pullback. Oil was dipping. 1.3b spacex stocks were getting released with the price above IPO. )
+
+I earn about 100k a year with 80-hour work weeks with a decent career trajectory so I always thought that I'd bet with my future. The last few years were rough knowing that going to work was basically just paying back what I've lost and that I'm paying debt to myself. Finally feel ready to come clean with my wife so here's hoping I don't get divorced with the good news. She's coming back from a work trip overseas in the US so I've surprised her with an upgrade to business class.
+
+Ironically, I've always been very thrifty but the idea of earning big bucks was too seductive. I don't think I've ever spent anything more than a few hundred dollars to splurge on myself. I took one year before buying some speakers for my own room. Using a 6 year old laptop and a 3 year old phone. Not into watches etc. But hope and fantasy are the best drugs. Felt alright to spend $1000 on 0dte options with the possibility of a win and a different life after.
+
+Wishing all those who have read my post all the best in their trading endeavours. If you're still trading, do start to use trailing stops. I see my family members eat losses on equities that they certainly have the time to sell compared to derivatives where the prices can gap up or down rapidly. Let the app force you to sell your losing positions (and then you can revenge trade with more capital haha). Eating 5-10% loss on options is better than running it down to 0.
+
+All the best but I'm probably done for now. Ive held out for 3 years without any trades despite feeling that I had to revenge trade for my past losses, I can probably stop myself now knowing that I have nothing to prove. Anyone in SG with a good recommendation for therapist? Time to binge watch Kurumi-chan. ",updates at bottom if anyone still around reading long time lurker finally felt like i had a post worthy of wsb good enough to screenshot good enough to sell down over k three years ago just months after discovering options here s what happened first opened my trading account because of the gme hype made k on tsla calls during the run up before the interest rate hikes in thought i was a god at trading then tsla started falling watched my calls go from k to breakeven didn t know shit about stop losses refused to sell because i was convinced they d bounce back eventually sold those calls at a loss then proceeded to lose every last dollar doing every regarded thing imaginable buying straddles before earnings gambling on fomc meetings and cpi releases dte spy qqq truly regarded wiped out my entire savings took a three year hiatus couldn t even bring myself to look at my trading account then spent the next three years watching the greatest ai and memory stock bull run of our lifetime from the sidelines the fomo was unbearable finally decided to deposit more money and win it all back saw the korean market sell off and leopold getting margin called in july thought i d found the buying opportunity of a lifetime instead somehow managed to lose another k buying spacex puts after convincing myself thanks to reddit that the stock would tank after its first share unlock revenge traded the whole way up as spacex went to then then was depressed felt like an absolute failure and reached the point where i wanted to end it all put the last of my savings on puts when spacex went up to lost part of my gains on qqq puts on wednesday decided to revenge trade my whole remaining portfolio on spacex puts on wednesday profit i m out what should we buy tonight i realize i live in asia so tonight is actually trading hours for me edit could have retired if i bought dte spcx puts instead thought i was playing it safe by buying only dte update grateful for all the responses never thought i d have a viral wsb post of my own i m just glad it turned out ok for me in the end could have played it safe with indexes from the start could have been wiped out with the last play and no one would have heard from me although i must say i saw no more upsides from spacex stock on that day and they were definitely going to regress to the mean the upsides on obtaining licences for new spectrums and earning calls were over with a muted intra day response compared to the gap up overnight pre market and there were only downsides foreseeable both macro and spacex specific qqq was on a roar that day despite coreweave bonds reaching and could only pullback oil was dipping b spacex stocks were getting released with the price above ipo i earn about k a year with hour work weeks with a decent career trajectory so i always thought that i d bet with my future the last few years were rough knowing that going to work was basically just paying back what i ve lost and that i m paying debt to myself finally feel ready to come clean with my wife so here s hoping i don t get divorced with the good news she s coming back from a work trip overseas in the us so i ve surprised her with an upgrade to business class ironically i ve always been very thrifty but the idea of earning big bucks was too seductive i don t think i ve ever spent anything more than a few hundred dollars to splurge on myself i took one year before buying some speakers for my own room using a year old laptop and a year old phone not into watches etc but hope and fantasy are the best drugs felt alright to spend on dte options with the possibility of a win and a different life after wishing all those who have read my post all the best in their trading endeavours if you re still trading do start to use trailing stops i see my family members eat losses on equities that they certainly have the time to sell compared to derivatives where the prices can gap up or down rapidly let the app force you to sell your losing positions and then you can revenge trade with more capital haha eating loss on options is better than running it down to all the best but i m probably done for now ive held out for years without any trades despite feeling that i had to revenge trade for my past losses i can probably stop myself now knowing that i have nothing to prove anyone in sg with a good recommendation for therapist time to binge watch kurumi chan,0.9912,positive
 2026-10-23 12:57:00+00:00,,nan,0.0,neutral
 2026-10-23 10:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1xd9uuo),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
 2026-10-23 07:36:02+00:00,"I find it quite funny that the market is punishing Meta and Google for spending too much on AI, despite both having extremely profitable businesses generating billions in cash to finance it.
@@ -418,7 +476,6 @@ Also my plan. Sell half my contracts heading into earnings to catch that earning
 2026-10-22 09:09:08+00:00,,nan,0.0,neutral
 2026-10-22 06:02:33+00:00,"Under the agreement, he can immediately sell 20% of the Class C shares he receives, the equivalent to 10% of his overall economic stake. That would give him liquidity to help cover a potential tax bill triggered by Proposition 40, the name of the ballot measure that California voters will decide in November.",under the agreement he can immediately sell of the class c shares he receives the equivalent to of his overall economic stake that would give him liquidity to help cover a potential tax bill triggered by proposition the name of the ballot measure that california voters will decide in november,0.7964,positive
 2026-10-22 05:18:02+00:00,they made a graph that looks like a roller coaster that could kill people…,they made a graph that looks like a roller coaster that could kill people,-0.4939,negative
-2026-10-22 02:14:03+00:00,,nan,0.0,neutral
 2026-10-22 02:11:09+00:00,,nan,0.0,neutral
 2026-10-21 23:56:18+00:00,Netflix is over! Can’t hold it anymore. ,netflix is over can t hold it anymore,0.0,neutral
 2026-10-21 22:05:42+00:00,🤡🔫 someone post the hotline so I can have it on speed dial for Friday ,someone post the hotline so i can have it on speed dial for friday,0.0,neutral
@@ -515,16 +572,6 @@ Nearly full port of my Roth IRA ",i bought these yesterday just to scalp before 
 2026-10-21 04:13:13+00:00,How low will it go? Nobody knows…,how low will it go nobody knows,-0.2732,negative
 2026-10-21 01:35:52+00:00,ARE YOU READY BAGGIES?,are you ready baggies,0.3612,positive
 2026-10-21 01:35:51+00:00,,nan,0.0,neutral
-2026-10-21 00:57:42+00:00,"What a chart, boys!
-
-If you had invested 1000 bucks in NFLX 5 years ago, you would have a whopping 102.5 USD today!!
-
-Let this serve as a reminder for all of us to keep the majority of our portfolio in VT/SPY. In the same period, I think SPY has returned like 75%.
-
-Be safe out there, boys
-
-Edit: 1024.5 USD today",what a chart boys if you had invested bucks in nflx years ago you would have a whopping usd today let this serve as a reminder for all of us to keep the majority of our portfolio in vt spy in the same period i think spy has returned like be safe out there boys edit usd today,0.6597,positive
-2026-10-21 00:43:14+00:00,,nan,0.0,neutral
 2026-10-20 23:09:22+00:00,,nan,0.0,neutral
 2026-10-20 22:11:39+00:00,,nan,0.0,neutral
 2026-10-20 21:32:57+00:00,80bil gone in the first half of 2026 and they effectively have two customers ,bil gone in the first half of and they effectively have two customers,0.4404,positive
@@ -616,30 +663,3 @@ Have not sold any shares yet…it could be a classic “sell the news” scenari
 Thoughts? Hold for dividend passive income or cash out and buy a lambo?",about a year ago i decided to go full regarded and dropped my life savings into petrobras fundamentals looked great single digit p e ratio absurdly high dividend yield and literal cash printing machine trading at a foreign political discount did not see a full war with iran breaking out in february sent crude futures and global oil stocks spiraling upward also recently political momentum in brazil moving rightward has reduced country risk discount sending the stock ripping even higher have not sold any shares yet it could be a classic sell the news scenario before political volatility hits back or do i continue collecting fat dividends while geopolitical tensions keep oil elevated thoughts hold for dividend passive income or cash out and buy a lambo,-0.088,negative
 2026-10-19 02:00:17+00:00,,nan,0.0,neutral
 2026-10-19 00:39:16+00:00,1300%+. There is also another one mRNA call that is 2200% up that I plan to just let it assign. ,there is also another one mrna call that is up that i plan to just let it assign,0.0,neutral
-2026-10-18 22:53:31+00:00,"*\*not written with AI*\*
-
-Well boys, this is it. At an all time low. Got liquidated by the drop on Friday playing 0DTE.  
-I should have learned my lesson with the 106k and 95k drawdowns earlier in the year, recovered both and finally got to breakeven, when I realized it’s October and I’m 14 points behind SPY, levered up to the tits with calls and went all in on Meta.  
-The funny thing is by the time the dust settled and I gained consciousness after market close,   
-Realized in the last 1 hour I had panic sold everything, all my Stocks, GLD, TLT, BTC, then threw whatever is left 100% in TQQQ.
-
-Ran some analysis now over the past 8000 trades I took during the past 2 years.  
-\- my win rate was over 80%  
-\- but the average winner was a scratch, and the average loss so big it wiped months worth of gains.  
-\- robinhood doesn’t have OCO for multi legged options yet, so I didn’t have any stops.  
-\- This one day has set back my retirement plans by a decade.  
-\- I will probably lose the rest revenge trading now.
-
-I guess with the wife pregnant and a baby on the way I have no option but to keep playing the game. Godspeed retards.",not written with ai well boys this is it at an all time low got liquidated by the drop on friday playing dte i should have learned my lesson with the k and k drawdowns earlier in the year recovered both and finally got to breakeven when i realized it s october and i m points behind spy levered up to the tits with calls and went all in on meta the funny thing is by the time the dust settled and i gained consciousness after market close realized in the last hour i had panic sold everything all my stocks gld tlt btc then threw whatever is left in tqqq ran some analysis now over the past trades i took during the past years my win rate was over but the average winner was a scratch and the average loss so big it wiped months worth of gains robinhood doesn t have oco for multi legged options yet so i didn t have any stops this one day has set back my retirement plans by a decade i will probably lose the rest revenge trading now i guess with the wife pregnant and a baby on the way i have no option but to keep playing the game godspeed retards,-0.1406,negative
-2026-10-18 20:35:53+00:00,,nan,0.0,neutral
-2026-10-18 20:00:38+00:00,This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1x9ct1y),this post contains content not supported on old reddit click here to view the full post,-0.2411,negative
-2026-10-18 14:55:28+00:00,,nan,0.0,neutral
-2026-10-18 11:10:28+00:00,hopefully this makes someone feel better,hopefully this makes someone feel better,0.6808,positive
-2026-10-18 10:53:23+00:00,"yes the market is down, yes it will do that. it’s okay - stand barefoot outside. put your feet in the grass and inhale/exhale.
-
-  
-im not saying you should be happy to lose money - but what I’m seeing is a lot of you are tying all of your happiness to your wealth and it’s causing you more stress than it’s worth.
-
-  
-Loosen your grip, stop checking your balances every day, and wait for the rebound. Speaking from someone who watched everybody lose hair in 2008, panic sell, and lose out on the rebound. ",yes the market is down yes it will do that it s okay stand barefoot outside put your feet in the grass and inhale exhale im not saying you should be happy to lose money but what i m seeing is a lot of you are tying all of your happiness to your wealth and it s causing you more stress than it s worth loosen your grip stop checking your balances every day and wait for the rebound speaking from someone who watched everybody lose hair in panic sell and lose out on the rebound,-0.5089,negative
-2026-10-18 03:42:58+00:00,What are you most confident in ,what are you most confident in,0.5413,positive

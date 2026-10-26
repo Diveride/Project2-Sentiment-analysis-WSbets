@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-25T00:23:01.877844+00:00`
+- Generated at (UTC): `2026-10-26T00:25:36.330310+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 10 | 5 | 0.471 | 759.97 | -0.94% | 5.221 |
-| 2 | TSLA | 6 | 3 | 0.896 | 372.22 | -1.51% | 4.220 |
+| 1 | SPY | 7 | 3 | 0.646 | 759.97 | -0.94% | 5.221 |
+| 2 | TSLA | 6 | 3 | 0.905 | 372.22 | -1.51% | 4.220 |
 | 3 | SOXL | 8 | 2 | 0.116 | 83.56 | -42.90% | 10.714 |
-| 4 | NFLX | 4 | 3 | 0.348 | 65.85 | -8.18% | 0.769 |
-| 5 | BTC | 3 | 3 | -0.150 | 35.89 | -3.81% | 0.722 |
-| 6 | MRNA | 3 | 3 | 0.247 | 200.10 | 2.71% | 12.229 |
-| 7 | TQQQ | 3 | 3 | 0.277 | 66.29 | -15.64% | 1.308 |
-| 8 | IREN | 3 | 3 | -0.065 | 24.91 | -46.03% | 2.150 |
-| 9 | ASTS | 8 | 1 | 0.834 | 39.79 | -34.83% | 5.491 |
-| 10 | SPCX | 4 | 2 | 0.548 | 147.49 | -0.36% | 9.322 |
+| 4 | MRNA | 3 | 3 | 0.247 | 200.10 | 2.71% | 12.229 |
+| 5 | ASTS | 8 | 1 | 0.834 | 39.79 | -34.83% | 5.491 |
+| 6 | SPCX | 4 | 2 | 0.548 | 147.49 | -0.36% | 9.322 |
+| 7 | PANW | 4 | 2 | 0.791 | 380.55 | -2.40% | 11.275 |
+| 8 | EWZ | 4 | 2 | 0.498 | 42.59 | 15.39% | 0.445 |
+| 9 | NVDA | 3 | 2 | 0.023 | 210.96 | -6.06% | 2.316 |
+| 10 | NFLX | 3 | 2 | 0.151 | 65.85 | -8.18% | 0.769 |
 
 ### Aggregate Charts
 
@@ -194,25 +194,9 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
 
-#### NFLX
-
-![NFLX Dashboard](outputs/latest_wsb_analysis/charts/nflx_dashboard.png)
-
-#### BTC
-
-![BTC Dashboard](outputs/latest_wsb_analysis/charts/btc_dashboard.png)
-
 #### MRNA
 
 ![MRNA Dashboard](outputs/latest_wsb_analysis/charts/mrna_dashboard.png)
-
-#### TQQQ
-
-![TQQQ Dashboard](outputs/latest_wsb_analysis/charts/tqqq_dashboard.png)
-
-#### IREN
-
-![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
 
 #### ASTS
 
@@ -221,4 +205,20 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### SPCX
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+
+#### PANW
+
+![PANW Dashboard](outputs/latest_wsb_analysis/charts/panw_dashboard.png)
+
+#### EWZ
+
+![EWZ Dashboard](outputs/latest_wsb_analysis/charts/ewz_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+
+#### NFLX
+
+![NFLX Dashboard](outputs/latest_wsb_analysis/charts/nflx_dashboard.png)
 <!-- AUTO_TOP10_END -->
