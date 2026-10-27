@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-26T00:25:36.330310+00:00`
+- Generated at (UTC): `2026-10-27T01:31:08.493585+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 7 | 3 | 0.646 | 759.97 | -0.94% | 5.221 |
-| 2 | TSLA | 6 | 3 | 0.905 | 372.22 | -1.51% | 4.220 |
-| 3 | SOXL | 8 | 2 | 0.116 | 83.56 | -42.90% | 10.714 |
-| 4 | MRNA | 3 | 3 | 0.247 | 200.10 | 2.71% | 12.229 |
-| 5 | ASTS | 8 | 1 | 0.834 | 39.79 | -34.83% | 5.491 |
-| 6 | SPCX | 4 | 2 | 0.548 | 147.49 | -0.36% | 9.322 |
-| 7 | PANW | 4 | 2 | 0.791 | 380.55 | -2.40% | 11.275 |
-| 8 | EWZ | 4 | 2 | 0.498 | 42.59 | 15.39% | 0.445 |
-| 9 | NVDA | 3 | 2 | 0.023 | 210.96 | -6.06% | 2.316 |
-| 10 | NFLX | 3 | 2 | 0.151 | 65.85 | -8.18% | 0.769 |
+| 1 | TSLA | 8 | 4 | 0.679 | 372.22 | -1.51% | 3.363 |
+| 2 | SPY | 7 | 3 | 0.646 | 759.97 | -0.94% | 5.004 |
+| 3 | META | 3 | 3 | 0.197 | 642.62 | -17.36% | 13.965 |
+| 4 | GAIN | 3 | 3 | 0.749 | 14.68 | -6.20% | 0.041 |
+| 5 | RDDT | 9 | 1 | 0.996 | 144.25 | -5.55% | 3.327 |
+| 6 | ASTS | 8 | 1 | 0.834 | 39.79 | -34.83% | 4.171 |
+| 7 | EWZ | 4 | 2 | 0.908 | 42.59 | 15.39% | 0.454 |
+| 8 | PANW | 4 | 2 | 0.791 | 380.55 | -2.40% | 11.739 |
+| 9 | SOXL | 7 | 1 | 0.855 | 83.56 | -42.90% | 10.710 |
+| 10 | CART | 7 | 1 | 0.948 | 56.44 | 30.47% | 0.536 |
 
 ### Aggregate Charts
 
@@ -182,43 +182,43 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
-#### SPY
-
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
 #### TSLA
 
 ![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 
-#### SOXL
+#### SPY
 
-![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### MRNA
+#### META
 
-![MRNA Dashboard](outputs/latest_wsb_analysis/charts/mrna_dashboard.png)
+![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
+
+#### GAIN
+
+![GAIN Dashboard](outputs/latest_wsb_analysis/charts/gain_dashboard.png)
+
+#### RDDT
+
+![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
 
 #### ASTS
 
 ![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
 
-#### SPCX
+#### EWZ
 
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+![EWZ Dashboard](outputs/latest_wsb_analysis/charts/ewz_dashboard.png)
 
 #### PANW
 
 ![PANW Dashboard](outputs/latest_wsb_analysis/charts/panw_dashboard.png)
 
-#### EWZ
+#### SOXL
 
-![EWZ Dashboard](outputs/latest_wsb_analysis/charts/ewz_dashboard.png)
+![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
 
-#### NVDA
+#### CART
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
-#### NFLX
-
-![NFLX Dashboard](outputs/latest_wsb_analysis/charts/nflx_dashboard.png)
+![CART Dashboard](outputs/latest_wsb_analysis/charts/cart_dashboard.png)
 <!-- AUTO_TOP10_END -->
