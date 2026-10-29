@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-28T01:25:29.045399+00:00`
+- Generated at (UTC): `2026-10-29T01:50:33.523550+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 8 | 4 | 0.653 | 765.37 | -0.78% | 4.777 |
-| 2 | TSLA | 8 | 4 | 0.682 | 391.62 | 5.24% | 3.521 |
-| 3 | NVDA | 4 | 3 | 0.320 | 216.00 | -4.03% | 1.992 |
-| 4 | RDDT | 9 | 1 | 0.996 | 138.45 | -7.60% | 2.698 |
-| 5 | ASTS | 8 | 1 | 0.834 | 39.45 | -36.18% | 5.248 |
-| 6 | EWZ | 4 | 2 | 0.908 | 34.15 | -7.25% | 0.601 |
-| 7 | PANW | 4 | 2 | 0.791 | 390.46 | 4.19% | 10.961 |
-| 8 | CART | 7 | 1 | 0.948 | 60.88 | 40.96% | 0.617 |
-| 9 | NFLX | 3 | 2 | 0.151 | 63.90 | -10.19% | 0.948 |
-| 10 | MRNA | 2 | 2 | -0.059 | 198.85 | -0.02% | 12.691 |
+| 1 | SPY | 9 | 5 | 0.523 | 772.31 | 1.06% | 4.067 |
+| 2 | TSLA | 6 | 3 | 0.940 | 404.22 | 14.56% | 5.728 |
+| 3 | NVDA | 4 | 3 | 0.320 | 215.38 | -5.21% | 1.505 |
+| 4 | DXYZ | 11 | 1 | 0.940 | 27.65 | -9.76% | 0.944 |
+| 5 | META | 3 | 3 | 0.744 | 612.49 | -17.10% | 7.595 |
+| 6 | RDDT | 9 | 1 | 0.996 | 134.70 | -7.33% | 3.577 |
+| 7 | SPCX | 5 | 2 | 0.927 | 145.23 | -2.69% | 9.588 |
+| 8 | CART | 7 | 1 | 0.948 | 58.42 | 34.33% | 0.770 |
+| 9 | GME | 3 | 2 | 0.976 | 23.33 | -1.81% | 0.543 |
+| 10 | AAOI | 6 | 1 | 0.865 | 82.22 | -18.33% | 3.352 |
 
 ### Aggregate Charts
 
@@ -194,31 +194,31 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
+#### DXYZ
+
+![DXYZ Dashboard](outputs/latest_wsb_analysis/charts/dxyz_dashboard.png)
+
+#### META
+
+![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
+
 #### RDDT
 
 ![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
 
-#### ASTS
+#### SPCX
 
-![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
-
-#### EWZ
-
-![EWZ Dashboard](outputs/latest_wsb_analysis/charts/ewz_dashboard.png)
-
-#### PANW
-
-![PANW Dashboard](outputs/latest_wsb_analysis/charts/panw_dashboard.png)
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
 #### CART
 
 ![CART Dashboard](outputs/latest_wsb_analysis/charts/cart_dashboard.png)
 
-#### NFLX
+#### GME
 
-![NFLX Dashboard](outputs/latest_wsb_analysis/charts/nflx_dashboard.png)
+![GME Dashboard](outputs/latest_wsb_analysis/charts/gme_dashboard.png)
 
-#### MRNA
+#### AAOI
 
-![MRNA Dashboard](outputs/latest_wsb_analysis/charts/mrna_dashboard.png)
+![AAOI Dashboard](outputs/latest_wsb_analysis/charts/aaoi_dashboard.png)
 <!-- AUTO_TOP10_END -->
