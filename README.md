@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-29T01:50:33.523550+00:00`
+- Generated at (UTC): `2026-10-30T01:59:51.884196+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | SPY | 9 | 5 | 0.523 | 772.31 | 1.06% | 4.067 |
-| 2 | TSLA | 6 | 3 | 0.940 | 404.22 | 14.56% | 5.728 |
-| 3 | NVDA | 4 | 3 | 0.320 | 215.38 | -5.21% | 1.505 |
-| 4 | DXYZ | 11 | 1 | 0.940 | 27.65 | -9.76% | 0.944 |
-| 5 | META | 3 | 3 | 0.744 | 612.49 | -17.10% | 7.595 |
-| 6 | RDDT | 9 | 1 | 0.996 | 134.70 | -7.33% | 3.577 |
-| 7 | SPCX | 5 | 2 | 0.927 | 145.23 | -2.69% | 9.588 |
-| 8 | CART | 7 | 1 | 0.948 | 58.42 | 34.33% | 0.770 |
-| 9 | GME | 3 | 2 | 0.976 | 23.33 | -1.81% | 0.543 |
-| 10 | AAOI | 6 | 1 | 0.865 | 82.22 | -18.33% | 3.352 |
+| 1 | GOOG | 5 | 4 | -0.132 | 282.32 | -17.15% | 3.320 |
+| 2 | META | 5 | 4 | 0.143 | 624.52 | -13.88% | 10.628 |
+| 3 | SPY | 4 | 4 | 0.515 | 769.36 | 0.88% | 4.617 |
+| 4 | TSLA | 6 | 3 | 0.940 | 403.30 | 13.67% | 4.708 |
+| 5 | MSFT | 4 | 3 | 0.055 | 530.14 | 3.36% | 3.839 |
+| 6 | AMZN | 4 | 3 | -0.465 | 243.79 | -2.15% | 2.416 |
+| 7 | DXYZ | 11 | 1 | 0.940 | 26.79 | -13.16% | 0.890 |
+| 8 | RDDT | 5 | 2 | 0.643 | 129.60 | -9.01% | 1.858 |
+| 9 | SPCX | 5 | 2 | 0.927 | 143.89 | -4.62% | 8.923 |
+| 10 | GME | 3 | 2 | 0.976 | 24.00 | -2.64% | 0.493 |
 
 ### Aggregate Charts
 
@@ -182,6 +182,14 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
+#### GOOG
+
+![GOOG Dashboard](outputs/latest_wsb_analysis/charts/goog_dashboard.png)
+
+#### META
+
+![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
+
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
@@ -190,17 +198,17 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 
-#### NVDA
+#### MSFT
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
+
+#### AMZN
+
+![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
 
 #### DXYZ
 
 ![DXYZ Dashboard](outputs/latest_wsb_analysis/charts/dxyz_dashboard.png)
-
-#### META
-
-![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
 
 #### RDDT
 
@@ -210,15 +218,7 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
-#### CART
-
-![CART Dashboard](outputs/latest_wsb_analysis/charts/cart_dashboard.png)
-
 #### GME
 
 ![GME Dashboard](outputs/latest_wsb_analysis/charts/gme_dashboard.png)
-
-#### AAOI
-
-![AAOI Dashboard](outputs/latest_wsb_analysis/charts/aaoi_dashboard.png)
 <!-- AUTO_TOP10_END -->
