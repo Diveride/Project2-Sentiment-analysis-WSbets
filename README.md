@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-10-31T01:37:55.516620+00:00`
+- Generated at (UTC): `2026-11-01T01:13:09.035062+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | RDDT | 23 | 10 | 0.381 | 91.73 | -38.65% | 2.822 |
+| 1 | RDDT | 32 | 13 | 0.268 | 91.73 | -38.65% | 2.822 |
 | 2 | INTC | 9 | 8 | 0.061 | 65.76 | -45.20% | 4.958 |
-| 3 | GOOG | 5 | 4 | 0.021 | 278.22 | -16.93% | 4.112 |
-| 4 | AMZN | 5 | 4 | 0.021 | 240.35 | -3.17% | 2.339 |
-| 5 | META | 5 | 3 | 0.248 | 614.99 | -15.28% | 12.380 |
-| 6 | MSFT | 4 | 3 | 0.028 | 521.91 | 1.78% | 4.867 |
-| 7 | NVDA | 4 | 3 | 0.097 | 204.64 | -11.36% | 1.724 |
-| 8 | AAPL | 2 | 2 | 0.287 | 344.63 | 4.33% | 2.655 |
-| 9 | SPY | 2 | 2 | 0.338 | 755.72 | -1.08% | 4.549 |
-| 10 | CCJ | 4 | 1 | 0.980 | 76.91 | -10.25% | 0.848 |
+| 3 | GOOG | 6 | 4 | 0.111 | 278.22 | -16.93% | 4.112 |
+| 4 | AMZN | 4 | 4 | -0.162 | 240.35 | -3.17% | 2.339 |
+| 5 | NVDA | 4 | 3 | 0.297 | 204.64 | -11.36% | 1.724 |
+| 6 | META | 4 | 3 | -0.108 | 614.99 | -15.28% | 12.380 |
+| 7 | MSFT | 3 | 3 | 0.148 | 521.91 | 1.78% | 4.867 |
+| 8 | AAPL | 3 | 3 | 0.474 | 344.63 | 4.33% | 2.655 |
+| 9 | MSOS | 9 | 1 | 0.857 | 3.94 | -14.35% | 0.113 |
+| 10 | III | 4 | 2 | 0.921 | 6.10 | 6.27% | 0.086 |
 
 ### Aggregate Charts
 
@@ -198,6 +198,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
 
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+
 #### META
 
 ![META Dashboard](outputs/latest_wsb_analysis/charts/meta_dashboard.png)
@@ -206,19 +210,15 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
 #### AAPL
 
 ![AAPL Dashboard](outputs/latest_wsb_analysis/charts/aapl_dashboard.png)
 
-#### SPY
+#### MSOS
 
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+![MSOS Dashboard](outputs/latest_wsb_analysis/charts/msos_dashboard.png)
 
-#### CCJ
+#### III
 
-![CCJ Dashboard](outputs/latest_wsb_analysis/charts/ccj_dashboard.png)
+![III Dashboard](outputs/latest_wsb_analysis/charts/iii_dashboard.png)
 <!-- AUTO_TOP10_END -->

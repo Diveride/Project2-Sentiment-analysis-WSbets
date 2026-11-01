@@ -3,22 +3,22 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-10-31T01:37:55.518633+00:00`
+- Generated at (UTC): `2026-11-01T01:13:09.037225+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
-| 1 | RDDT | 23 | 10 | 0.381 |
+| 1 | RDDT | 32 | 13 | 0.268 |
 | 2 | INTC | 9 | 8 | 0.061 |
-| 3 | GOOG | 5 | 4 | 0.021 |
-| 4 | AMZN | 5 | 4 | 0.021 |
-| 5 | META | 5 | 3 | 0.248 |
-| 6 | MSFT | 4 | 3 | 0.028 |
-| 7 | NVDA | 4 | 3 | 0.097 |
-| 8 | AAPL | 2 | 2 | 0.287 |
-| 9 | SPY | 2 | 2 | 0.338 |
-| 10 | CCJ | 4 | 1 | 0.980 |
+| 3 | GOOG | 6 | 4 | 0.111 |
+| 4 | AMZN | 4 | 4 | -0.162 |
+| 5 | NVDA | 4 | 3 | 0.297 |
+| 6 | META | 4 | 3 | -0.108 |
+| 7 | MSFT | 3 | 3 | 0.148 |
+| 8 | AAPL | 3 | 3 | 0.474 |
+| 9 | MSOS | 9 | 1 | 0.857 |
+| 10 | III | 4 | 2 | 0.921 |
 
 ## Reddit fetch diagnostics
 
@@ -31,7 +31,7 @@
 | --- | --- | --- | ---: | --- |
 | hot | oauth | success | 100 |  |
 | new | oauth | success | 100 |  |
-| rising | oauth | success | 29 |  |
+| rising | oauth | success | 25 |  |
 | top | oauth | success | 100 |  |
 
 ## Market snapshot
@@ -40,9 +40,9 @@
 - **INTC**: close `65.76`, 1M return `-45.20%` if available, RSI `25.10` and regression RMSE `4.958`
 - **GOOG**: close `278.22`, 1M return `-16.93%` if available, RSI `21.08` and regression RMSE `4.112`
 - **AMZN**: close `240.35`, 1M return `-3.17%` if available, RSI `38.26` and regression RMSE `2.339`
+- **NVDA**: close `204.64`, 1M return `-11.36%` if available, RSI `35.06` and regression RMSE `1.724`
 - **META**: close `614.99`, 1M return `-15.28%` if available, RSI `33.21` and regression RMSE `12.380`
 - **MSFT**: close `521.91`, 1M return `1.78%` if available, RSI `49.02` and regression RMSE `4.867`
-- **NVDA**: close `204.64`, 1M return `-11.36%` if available, RSI `35.06` and regression RMSE `1.724`
 - **AAPL**: close `344.63`, 1M return `4.33%` if available, RSI `55.35` and regression RMSE `2.655`
-- **SPY**: close `755.72`, 1M return `-1.08%` if available, RSI `40.20` and regression RMSE `4.549`
-- **CCJ**: close `76.91`, 1M return `-10.25%` if available, RSI `35.24` and regression RMSE `0.848`
+- **MSOS**: close `3.94`, 1M return `-14.35%` if available, RSI `37.95` and regression RMSE `0.113`
+- **III**: close `6.10`, 1M return `6.27%` if available, RSI `67.02` and regression RMSE `0.086`
