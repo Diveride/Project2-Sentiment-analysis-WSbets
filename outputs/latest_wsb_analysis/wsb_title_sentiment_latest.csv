@@ -1,4 +1,37 @@
 created_utc,title,clean_title,title_sentiment,title_label
+2026-11-02 23:27:24+00:00,Help me spongebob,help me spongebob,0.4019,positive
+2026-11-02 22:56:01+00:00,Describing the A.I. bubble pop to the homies,describing the a i bubble pop to the homies,0.0,neutral
+2026-11-02 22:20:42+00:00,Apple reports fourth quarter results,apple reports fourth quarter results,0.0,neutral
+2026-11-02 22:07:43+00:00,"MOMMA LISA, IT’S YOUR TIME TO SHINE! ❤️",momma lisa it s your time to shine,0.0,neutral
+2026-11-02 22:01:08+00:00,TSLA Put Printed,tsla put printed,0.0,neutral
+2026-11-02 21:53:38+00:00,"Out of sight, out of mind 🤗",out of sight out of mind,0.0,neutral
+2026-11-02 21:50:41+00:00,$24 -> $8400 $AMD Puts,amd puts,0.0,neutral
+2026-11-02 21:37:14+00:00,Apple reports Q3 FY2026 earnings,apple reports q fy earnings,0.0,neutral
+2026-11-02 21:26:20+00:00,Nasdaq 100 Enters Correction as Megacap Results Amplify AI Fears,nasdaq enters correction as megacap results amplify ai fears,-0.4215,negative
+2026-11-02 21:19:48+00:00,Palantir triple beat and record rule of 40 of 158%,palantir triple beat and record rule of of,0.0,neutral
+2026-11-02 21:13:08+00:00,Palantir raises U.S. commercial guidance to 143% as enterprise AI demand fuels revenue surge,palantir raises u s commercial guidance to as enterprise ai demand fuels revenue surge,-0.128,negative
+2026-11-02 21:05:38+00:00,"What Are Your Moves Tomorrow, November 3, 2026",what are your moves tomorrow november,0.0,neutral
+2026-11-02 21:04:47+00:00,3k-80k today using SPX ODTE's,k k today using spx odte s,0.0,neutral
+2026-11-02 20:58:13+00:00,"Meta eyes at least $20 billion from potential bond offerings, Bloomberg News reports",meta eyes at least billion from potential bond offerings bloomberg news reports,0.0,neutral
+2026-11-02 20:18:36+00:00,$spot discussion,spot discussion,0.0,neutral
+2026-11-02 20:18:01+00:00,"Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",oracle files to sell billion in new stock bonds to finance ai buildout,0.0,neutral
+2026-11-02 20:15:34+00:00,$6k SPXW 0DTE in 9 minutes,k spxw dte in minutes,0.0,neutral
+2026-11-02 20:04:30+00:00,Screw GTA 6,screw gta,-0.1027,negative
+2026-11-02 19:50:17+00:00,Banger of a week to save my port.,banger of a week to save my port,0.4939,positive
+2026-11-02 19:49:35+00:00,Open 12K short position in PLTR before earnings,open k short position in pltr before earnings,0.0,neutral
+2026-11-02 19:47:12+00:00,Did I win yet,did i win yet,0.5859,positive
+2026-11-02 19:32:32+00:00,Cameco’s Grant Isaac: Apparently every bad outcome is “Discipline”,cameco s grant isaac apparently every bad outcome is discipline,-0.25,negative
+2026-11-02 18:31:22+00:00,They can liquidate me I don't care,they can liquidate me i don t care,0.4939,positive
+2026-11-02 18:19:57+00:00,Google Big Bet 30k,google big bet k,0.0,neutral
+2026-11-02 17:53:48+00:00,Not a bad Monday morning.,not a bad monday morning,0.431,positive
+2026-11-02 15:49:07+00:00,"SOXL - Timing , Gains too",soxl timing gains too,0.34,positive
+2026-11-02 15:13:18+00:00,"Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",anthropic reports billion in q revenue purchase commitments of billion in revised s,0.128,positive
+2026-11-02 13:00:38+00:00,Gain/Loss Scoreboard for the Past Week,gain loss scoreboard for the past week,0.2732,positive
+2026-11-02 12:58:36+00:00,Rivian and Tesla will build the machines of the future,rivian and tesla will build the machines of the future,0.0,neutral
+2026-11-02 12:18:18+00:00,Marvell to buy Lumentum in $115 billion deal in AI data-center bet,marvell to buy lumentum in billion deal in ai data center bet,0.0,neutral
+2026-11-02 11:00:38+00:00,"Daily Discussion Thread for November 2, 2026",daily discussion thread for november,0.0,neutral
+2026-11-02 08:00:07+00:00,Pager Duty DD - Profit off of Vibe Coded Slop,pager duty dd profit off of vibe coded slop,0.4404,positive
+2026-11-02 05:44:47+00:00,Oil prices fall amid reports that the U.S. and Iran are both seeking diplomacy,oil prices fall amid reports that the u s and iran are both seeking diplomacy,0.0,neutral
 2026-11-01 22:34:51+00:00,"China’s banks, regulators to meet on measures to arrest stock slide",china s banks regulators to meet on measures to arrest stock slide,-0.34,negative
 2026-11-01 22:23:08+00:00,We'll see what happens.,we ll see what happens,0.0,neutral
 2026-11-01 22:22:33+00:00,"FINALLY, I WAS RIGHT",finally i was right,0.0,neutral
@@ -66,39 +99,27 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-10-30 16:27:33+00:00,Thank you Intel. Down $115k CAD in 1 month,thank you intel down k cad in month,0.3612,positive
 2026-10-30 16:26:22+00:00,Bear eating amd intc twlo Rddt bears,bear eating amd intc twlo rddt bears,0.0,neutral
 2026-10-30 16:07:36+00:00,1100CHF  -> 17'000CHF,chf chf,0.0,neutral
-2026-10-30 16:00:36+00:00,Loss Porn,loss porn,-0.3182,negative
-2026-10-30 15:42:41+00:00,+518% on SKHY PUTS,on skhy puts,0.0,neutral
 2026-10-30 15:33:29+00:00,"$10,000,000 RDDT YOLO Post-Mortem: I Was Wrong :(",rddt yolo post mortem i was wrong,-0.25,negative
 2026-10-30 15:13:23+00:00,RIP Nana,rip nana,0.0,neutral
 2026-10-30 15:07:33+00:00,Earnings done? Time for debt!,earnings done time for debt,-0.3612,negative
 2026-10-30 14:48:45+00:00,Treasury Department announces new Series I bond rate of 5.51% for the next six months,treasury department announces new series i bond rate of for the next six months,0.2023,positive
-2026-10-30 14:18:34+00:00,Thanks daddy Musk for that profit,thanks daddy musk for that profit,0.7003,positive
 2026-10-30 13:55:20+00:00,"I dont care anymore, holding the shares to 0",i dont care anymore holding the shares to,-0.1098,negative
 2026-10-30 13:50:10+00:00,Thank you Intel 🥳,thank you intel,0.3612,positive
 2026-10-30 13:47:11+00:00,Nana would be 45x proud...probably,nana would be x proud probably,0.4767,positive
 2026-10-30 13:10:58+00:00,Happy Friday Everyone,happy friday everyone,0.5719,positive
 2026-10-30 12:44:11+00:00,"AMD is as overvalued as it gets. Numbers are just bonkers, it will follow INTC's turbulent repricing",amd is as overvalued as it gets numbers are just bonkers it will follow intc s turbulent repricing,0.0,neutral
-2026-10-30 12:14:59+00:00,Sorry Nana,sorry nana,-0.0772,negative
-2026-10-30 11:52:17+00:00,True regard lose money to a ponzi scheme,true regard lose money to a ponzi scheme,0.0258,neutral
-2026-10-30 10:00:38+00:00,"Daily Discussion Thread for October 30, 2026",daily discussion thread for october,0.0,neutral
 2026-10-30 09:44:54+00:00,$10M RDDT guy waking up to this Shrek,m rddt guy waking up to this shrek,0.0,neutral
 2026-10-30 09:44:18+00:00,"Amazon, Alphabet, SpaceX and Meta are all to blame for the new tech stock rout",amazon alphabet spacex and meta are all to blame for the new tech stock rout,-0.1779,negative
 2026-10-30 09:35:38+00:00,How low can it really go?,how low can it really go,-0.2732,negative
-2026-10-30 09:31:50+00:00,"Oracle long, brains short",oracle long brains short,0.0,neutral
 2026-10-30 09:02:54+00:00,Intel stock plunges 24% after the CFO said 2027 is unlikely to produce positive free cash flow,intel stock plunges after the cfo said is unlikely to produce positive free cash flow,0.7845,positive
-2026-10-30 08:45:44+00:00,RDDT is still a buy,rddt is still a buy,0.0,neutral
-2026-10-30 07:10:44+00:00,GOOGUH,googuh,0.0,neutral
 2026-10-30 06:25:51+00:00,Crypto exchange Binance hacked of over $6 billion,crypto exchange binance hacked of over billion,-0.4019,negative
 2026-10-30 04:26:22+00:00,$RDDT CEO fellow regards,rddt ceo fellow regards,0.0,neutral
-2026-10-30 02:45:16+00:00,Cooked Chat. Its all good 2027 We all eat,cooked chat its all good we all eat,0.4404,positive
 2026-10-30 02:39:59+00:00,Having the worst year of my life so far tbh,having the worst year of my life so far tbh,-0.6249,negative
 2026-10-30 02:25:48+00:00,RDDT leadership is one of us.,rddt leadership is one of us,0.0,neutral
 2026-10-30 02:12:20+00:00,"Genuinely scared , NQ could be down nearly 3% by NY OPEN",genuinely scared nq could be down nearly by ny open,-0.4404,negative
-2026-10-30 01:41:53+00:00,"Spend too much on CapEx go to jail. Don’t spend enough on CapEx, believe it or not, also go jail",spend too much on capex go to jail don t spend enough on capex believe it or not also go jail,0.0,neutral
-2026-10-30 01:37:55+00:00,spectacular month,spectacular month,0.0,neutral
 2026-10-30 01:30:59+00:00,It's not a crash. It's a correction,it s not a crash it s a correction,0.3089,positive
 2026-10-30 00:23:01+00:00,Sandisk sees revenue nearly quintuple — and a stock split is on the way,sandisk sees revenue nearly quintuple and a stock split is on the way,0.0,neutral
-2026-10-29 23:33:53+00:00,Ghayest Position Right now,ghayest position right now,0.0,neutral
+2026-10-29 23:23:30+00:00,"we’re cooked, chat",we re cooked chat,0.0,neutral
 2026-10-29 23:11:22+00:00,Big Tech will bleed while Boomer dividend stocks inherit the AI revolution,big tech will bleed while boomer dividend stocks inherit the ai revolution,0.0,neutral
 2026-10-29 21:36:17+00:00,Never follow a millionaire in a manic state,never follow a millionaire in a manic state,0.0,neutral
 2026-10-29 20:45:19+00:00,How it feels to be an AAPL shareholder right now,how it feels to be an aapl shareholder right now,0.0,neutral
@@ -139,19 +160,3 @@ created_utc,title,clean_title,title_sentiment,title_label
 2026-10-27 11:25:25+00:00,Anthropic straight rawdogging their IPO,anthropic straight rawdogging their ipo,0.2263,positive
 2026-10-27 05:02:37+00:00,"Autistic brains react less to being told ""you're wrong,"" new study finds",autistic brains react less to being told you re wrong new study finds,-0.4767,negative
 2026-10-27 03:41:54+00:00,Guess it’s my turn,guess it s my turn,0.0,neutral
-2026-10-27 01:27:39+00:00,Nvidia Backs $164.5 Billion Of AI Data Centers To Keep GPUs Selling,nvidia backs billion of ai data centers to keep gpus selling,-0.0516,negative
-2026-10-26 22:52:48+00:00,"Anthropic spent only $19B cash since company's founding, but needs $200B per year after IPO. Anyone know the non-cash loss?",anthropic spent only b cash since company s founding but needs b per year after ipo anyone know the non cash loss,-0.4497,negative
-2026-10-26 22:41:11+00:00,I think I’m done.,i think i m done,0.0,neutral
-2026-10-26 20:58:56+00:00,Babe wake up a new religion dropped,babe wake up a new religion dropped,0.0,neutral
-2026-10-26 18:53:26+00:00,"Skydance Is Offering Employees Voluntary Buyouts Ahead of Layoffs, Adopts 5-Days-per-Week In-Office Policy",skydance is offering employees voluntary buyouts ahead of layoffs adopts days per week in office policy,0.1779,positive
-2026-10-26 18:47:09+00:00,Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.,anthropic has filed an s registration statement with the sec related to its proposed ipo,0.0,neutral
-2026-10-26 17:35:31+00:00,CONFIRMED: Anthropic management are regarded,confirmed anthropic management are regarded,0.0,neutral
-2026-10-26 17:02:00+00:00,Anthropic Reveals It Will Pay SpaceX Up to $120.5B for AI Compute,anthropic reveals it will pay spacex up to b for ai compute,-0.1027,negative
-2026-10-26 16:05:17+00:00,"Microsoft offers voluntary buyouts to 60,000 employees",microsoft offers voluntary buyouts to employees,0.0,neutral
-2026-10-26 15:36:53+00:00,China's AI-heavy STAR50 index down 40% from July high,china s ai heavy star index down from july high,0.0,neutral
-2026-10-26 13:13:54+00:00,Anthropic S-1 form submitted to SEC,anthropic s form submitted to sec,0.0,neutral
-2026-10-26 11:27:45+00:00,Meta launches $35 billion stock offering to fund AI expansion,meta launches billion stock offering to fund ai expansion,0.0,neutral
-2026-10-26 10:10:13+00:00,Unemployed and losing big on stock market,unemployed and losing big on stock market,-0.3818,negative
-2026-10-26 07:15:04+00:00,"Brazilian regards, are you OK?",brazilian regards are you ok,0.296,positive
-2026-10-26 02:40:26+00:00,The Unbearable Weight,the unbearable weight,0.0,neutral
-2026-10-26 02:30:19+00:00,"Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",musk says spacex raised billion in debt deal predicts neocloud shakeout,-0.5859,negative

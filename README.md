@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-02T01:32:25.789646+00:00`
+- Generated at (UTC): `2026-11-03T03:30:31.312701+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | RDDT | 46 | 14 | 0.319 | 91.73 | -38.65% | 2.822 |
-| 2 | INTC | 9 | 8 | 0.061 | 65.76 | -45.20% | 4.958 |
-| 3 | GOOG | 8 | 5 | 0.286 | 278.22 | -16.93% | 4.112 |
-| 4 | NVDA | 4 | 3 | 0.297 | 204.64 | -11.36% | 1.724 |
-| 5 | AMZN | 3 | 3 | 0.074 | 240.35 | -3.17% | 2.339 |
-| 6 | MSFT | 3 | 3 | 0.148 | 521.91 | 1.78% | 4.867 |
-| 7 | AAPL | 3 | 3 | 0.474 | 344.63 | 4.33% | 2.655 |
-| 8 | MSOS | 9 | 1 | 0.857 | 3.94 | -14.35% | 0.113 |
-| 9 | GOOGL | 4 | 2 | -0.131 | 279.84 | -17.27% | 4.313 |
-| 10 | NBIS | 4 | 2 | -0.181 | 154.14 | -33.64% | 10.056 |
+| 1 | RDDT | 45 | 13 | 0.310 | 90.97 | -38.48% | 3.322 |
+| 2 | INTC | 9 | 8 | 0.061 | 59.97 | -49.74% | 5.202 |
+| 3 | GOOG | 8 | 5 | 0.286 | 278.04 | -18.31% | 4.327 |
+| 4 | AMD | 5 | 3 | 0.236 | 466.84 | -26.36% | 22.871 |
+| 5 | NVDA | 4 | 3 | 0.297 | 202.06 | -13.63% | 2.029 |
+| 6 | AMZN | 3 | 3 | 0.074 | 245.63 | -2.34% | 3.277 |
+| 7 | MSFT | 3 | 3 | 0.148 | 507.12 | -2.01% | 4.335 |
+| 8 | AAPL | 3 | 3 | 0.474 | 338.32 | 1.39% | 1.942 |
+| 9 | MSOS | 9 | 1 | 0.857 | 4.20 | -6.04% | 0.099 |
+| 10 | GOOGL | 4 | 2 | -0.131 | 278.99 | -18.78% | 4.614 |
 
 ### Aggregate Charts
 
@@ -193,6 +193,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### GOOG
 
 ![GOOG Dashboard](outputs/latest_wsb_analysis/charts/goog_dashboard.png)
+
+#### AMD
+
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
 #### NVDA
 
@@ -217,8 +221,4 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### GOOGL
 
 ![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
-
-#### NBIS
-
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 <!-- AUTO_TOP10_END -->
