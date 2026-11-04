@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-03T03:30:31.312701+00:00`
+- Generated at (UTC): `2026-11-04T02:22:19.430318+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | RDDT | 45 | 13 | 0.310 | 90.97 | -38.48% | 3.322 |
-| 2 | INTC | 9 | 8 | 0.061 | 59.97 | -49.74% | 5.202 |
-| 3 | GOOG | 8 | 5 | 0.286 | 278.04 | -18.31% | 4.327 |
-| 4 | AMD | 5 | 3 | 0.236 | 466.84 | -26.36% | 22.871 |
-| 5 | NVDA | 4 | 3 | 0.297 | 202.06 | -13.63% | 2.029 |
-| 6 | AMZN | 3 | 3 | 0.074 | 245.63 | -2.34% | 3.277 |
-| 7 | MSFT | 3 | 3 | 0.148 | 507.12 | -2.01% | 4.335 |
-| 8 | AAPL | 3 | 3 | 0.474 | 338.32 | 1.39% | 1.942 |
-| 9 | MSOS | 9 | 1 | 0.857 | 4.20 | -6.04% | 0.099 |
-| 10 | GOOGL | 4 | 2 | -0.131 | 278.99 | -18.78% | 4.614 |
+| 1 | RDDT | 50 | 13 | 0.366 | 96.15 | -36.08% | 1.874 |
+| 2 | AMD | 9 | 5 | -0.005 | 483.90 | -23.40% | 23.305 |
+| 3 | GOOG | 8 | 5 | 0.286 | 278.27 | -19.07% | 4.567 |
+| 4 | GOOGL | 9 | 4 | 0.090 | 280.03 | -19.18% | 4.802 |
+| 5 | INTC | 4 | 4 | 0.010 | 60.55 | -47.89% | 5.163 |
+| 6 | AAPL | 4 | 3 | 0.169 | 331.90 | -0.30% | 2.332 |
+| 7 | AMZN | 3 | 3 | 0.074 | 250.69 | -0.28% | 2.993 |
+| 8 | MSFT | 3 | 3 | 0.148 | 520.99 | -0.80% | 3.930 |
+| 9 | MSOS | 9 | 1 | 0.857 | 4.49 | 2.28% | 0.107 |
+| 10 | NBIS | 4 | 2 | -0.181 | 151.64 | -34.80% | 10.138 |
 
 ### Aggregate Charts
 
@@ -186,21 +186,25 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
 
-#### INTC
+#### AMD
 
-![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
 #### GOOG
 
 ![GOOG Dashboard](outputs/latest_wsb_analysis/charts/goog_dashboard.png)
 
-#### AMD
+#### GOOGL
 
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
 
-#### NVDA
+#### INTC
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
+
+#### AAPL
+
+![AAPL Dashboard](outputs/latest_wsb_analysis/charts/aapl_dashboard.png)
 
 #### AMZN
 
@@ -210,15 +214,11 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### AAPL
-
-![AAPL Dashboard](outputs/latest_wsb_analysis/charts/aapl_dashboard.png)
-
 #### MSOS
 
 ![MSOS Dashboard](outputs/latest_wsb_analysis/charts/msos_dashboard.png)
 
-#### GOOGL
+#### NBIS
 
-![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 <!-- AUTO_TOP10_END -->
