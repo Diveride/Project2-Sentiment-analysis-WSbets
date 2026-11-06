@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-05T02:31:09.539240+00:00`
+- Generated at (UTC): `2026-11-06T02:29:14.423053+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | RDDT | 47 | 12 | 0.446 | 101.89 | -31.59% | 3.326 |
-| 2 | GOOGL | 10 | 5 | 0.218 | 288.93 | -16.90% | 5.035 |
-| 3 | AMD | 9 | 5 | -0.005 | 488.78 | -24.74% | 23.183 |
-| 4 | INTC | 6 | 5 | 0.175 | 58.27 | -48.20% | 5.076 |
-| 5 | AMZN | 5 | 4 | -0.146 | 266.03 | 3.80% | 3.315 |
-| 6 | NVDA | 5 | 4 | 0.143 | 200.13 | -16.35% | 1.728 |
-| 7 | SPY | 4 | 4 | -0.019 | 766.81 | -1.58% | 3.760 |
-| 8 | SOXL | 7 | 3 | 0.201 | 66.68 | -59.41% | 8.997 |
-| 9 | GOOG | 4 | 3 | 0.288 | 287.30 | -16.63% | 4.739 |
-| 10 | LITE | 11 | 1 | 0.865 | 626.75 | -44.70% | 38.975 |
+| 1 | RDDT | 23 | 7 | 0.349 | 93.81 | -38.57% | 1.721 |
+| 2 | AMD | 11 | 7 | 0.076 | 404.40 | -37.39% | 24.230 |
+| 3 | SPY | 5 | 5 | -0.324 | 733.00 | -5.69% | 4.655 |
+| 4 | GOOGL | 8 | 4 | 0.113 | 282.57 | -19.38% | 5.357 |
+| 5 | INTC | 5 | 4 | 0.030 | 52.25 | -53.81% | 5.083 |
+| 6 | LITE | 11 | 1 | 0.865 | 509.70 | -54.13% | 40.932 |
+| 7 | MRVL | 11 | 1 | 0.865 | 133.55 | -53.09% | 12.279 |
+| 8 | NVDA | 3 | 3 | 0.481 | 181.60 | -23.53% | 2.349 |
+| 9 | SPCX | 3 | 3 | 0.497 | 123.62 | -26.24% | 4.969 |
+| 10 | MSOS | 9 | 1 | 0.857 | 4.13 | -7.61% | 0.117 |
 
 ### Aggregate Charts
 
@@ -186,39 +186,39 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
 
-#### GOOGL
-
-![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
-
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
-#### INTC
-
-![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
-
-#### AMZN
-
-![AMZN Dashboard](outputs/latest_wsb_analysis/charts/amzn_dashboard.png)
-
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### SOXL
+#### GOOGL
 
-![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
+![GOOGL Dashboard](outputs/latest_wsb_analysis/charts/googl_dashboard.png)
 
-#### GOOG
+#### INTC
 
-![GOOG Dashboard](outputs/latest_wsb_analysis/charts/goog_dashboard.png)
+![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
 
 #### LITE
 
 ![LITE Dashboard](outputs/latest_wsb_analysis/charts/lite_dashboard.png)
+
+#### MRVL
+
+![MRVL Dashboard](outputs/latest_wsb_analysis/charts/mrvl_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+
+#### SPCX
+
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+
+#### MSOS
+
+![MSOS Dashboard](outputs/latest_wsb_analysis/charts/msos_dashboard.png)
 <!-- AUTO_TOP10_END -->
