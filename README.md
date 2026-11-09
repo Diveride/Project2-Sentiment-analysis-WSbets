@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-08T01:29:05.945205+00:00`
+- Generated at (UTC): `2026-11-09T01:46:47.544806+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -164,15 +164,15 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1 | AMD | 12 | 8 | 0.053 | 449.04 | -27.65% | 24.621 |
-| 2 | SPY | 5 | 5 | 0.008 | 735.29 | -4.99% | 4.949 |
-| 3 | RDDT | 15 | 2 | 0.172 | 95.10 | -39.22% | 1.869 |
-| 4 | SOXL | 11 | 2 | -0.452 | 45.97 | -67.74% | 9.678 |
-| 5 | NVDA | 4 | 3 | 0.150 | 186.64 | -19.02% | 3.361 |
-| 6 | SPCX | 3 | 3 | 0.417 | 134.27 | -16.38% | 3.957 |
-| 7 | QQQ | 4 | 2 | 0.366 | 656.10 | -12.24% | 8.568 |
-| 8 | SNDK | 4 | 2 | 0.658 | 835.06 | -48.12% | 92.399 |
-| 9 | DNUT | 3 | 2 | 0.252 | 4.17 | 38.54% | 0.091 |
-| 10 | ODTE | 2 | 2 | -0.871 | 23.14 | -7.18% | 0.121 |
+| 2 | SPY | 4 | 4 | 0.222 | 735.29 | -4.99% | 4.949 |
+| 3 | SOXL | 11 | 2 | -0.452 | 45.97 | -67.74% | 9.678 |
+| 4 | SNDK | 4 | 2 | 0.658 | 835.06 | -48.12% | 92.399 |
+| 5 | NVDA | 3 | 2 | -0.211 | 186.64 | -19.02% | 3.361 |
+| 6 | DNUT | 3 | 2 | 0.252 | 4.17 | 38.54% | 0.091 |
+| 7 | ODTE | 2 | 2 | -0.871 | 23.14 | -7.18% | 0.121 |
+| 8 | NOW | 2 | 2 | 0.148 | 101.97 | -27.03% | 3.093 |
+| 9 | TIME | 2 | 2 | 0.482 | 25.88 | -7.39% | 0.231 |
+| 10 | ASTS | 2 | 2 | -0.195 | 32.33 | -43.21% | 6.290 |
 
 ### Aggregate Charts
 
@@ -190,29 +190,17 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### RDDT
-
-![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
-
 #### SOXL
 
 ![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
 
-#### NVDA
-
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
-#### SPCX
-
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
-
-#### QQQ
-
-![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
-
 #### SNDK
 
 ![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
 #### DNUT
 
@@ -221,4 +209,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### ODTE
 
 ![ODTE Dashboard](outputs/latest_wsb_analysis/charts/odte_dashboard.png)
+
+#### NOW
+
+![NOW Dashboard](outputs/latest_wsb_analysis/charts/now_dashboard.png)
+
+#### TIME
+
+![TIME Dashboard](outputs/latest_wsb_analysis/charts/time_dashboard.png)
+
+#### ASTS
+
+![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
 <!-- AUTO_TOP10_END -->
