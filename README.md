@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-09T01:46:47.544806+00:00`
+- Generated at (UTC): `2026-11-10T04:09:30.721090+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | AMD | 12 | 8 | 0.053 | 449.04 | -27.65% | 24.621 |
-| 2 | SPY | 4 | 4 | 0.222 | 735.29 | -4.99% | 4.949 |
-| 3 | SOXL | 11 | 2 | -0.452 | 45.97 | -67.74% | 9.678 |
-| 4 | SNDK | 4 | 2 | 0.658 | 835.06 | -48.12% | 92.399 |
-| 5 | NVDA | 3 | 2 | -0.211 | 186.64 | -19.02% | 3.361 |
-| 6 | DNUT | 3 | 2 | 0.252 | 4.17 | 38.54% | 0.091 |
-| 7 | ODTE | 2 | 2 | -0.871 | 23.14 | -7.18% | 0.121 |
-| 8 | NOW | 2 | 2 | 0.148 | 101.97 | -27.03% | 3.093 |
-| 9 | TIME | 2 | 2 | 0.482 | 25.88 | -7.39% | 0.231 |
-| 10 | ASTS | 2 | 2 | -0.195 | 32.33 | -43.21% | 6.290 |
+| 1 | NVDA | 13 | 9 | 0.026 | 178.67 | -22.07% | 2.044 |
+| 2 | AMD | 8 | 5 | -0.098 | 508.58 | -16.37% | 23.736 |
+| 3 | SOXL | 11 | 2 | -0.452 | 56.20 | -59.79% | 9.699 |
+| 4 | CVS | 9 | 1 | -0.953 | 85.25 | -1.06% | 0.926 |
+| 5 | QQQ | 3 | 2 | -0.288 | 679.35 | -9.57% | 8.056 |
+| 6 | DNUT | 3 | 2 | 0.252 | 4.03 | 36.15% | 0.098 |
+| 7 | SNDK | 3 | 2 | 0.324 | 886.51 | -43.96% | 94.267 |
+| 8 | ASTS | 2 | 2 | -0.195 | 36.89 | -27.62% | 6.281 |
+| 9 | SPCX | 2 | 2 | 0.764 | 142.07 | -12.61% | 3.086 |
+| 10 | PLTR | 5 | 1 | -0.848 | 169.20 | -19.06% | 1.750 |
 
 ### Aggregate Charts
 
@@ -182,43 +182,43 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ### Per-Ticker Dashboards
 
+#### NVDA
+
+![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
-#### SPY
-
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
 #### SOXL
 
 ![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
 
-#### SNDK
+#### CVS
 
-![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
+![CVS Dashboard](outputs/latest_wsb_analysis/charts/cvs_dashboard.png)
 
-#### NVDA
+#### QQQ
 
-![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
 #### DNUT
 
 ![DNUT Dashboard](outputs/latest_wsb_analysis/charts/dnut_dashboard.png)
 
-#### ODTE
+#### SNDK
 
-![ODTE Dashboard](outputs/latest_wsb_analysis/charts/odte_dashboard.png)
-
-#### NOW
-
-![NOW Dashboard](outputs/latest_wsb_analysis/charts/now_dashboard.png)
-
-#### TIME
-
-![TIME Dashboard](outputs/latest_wsb_analysis/charts/time_dashboard.png)
+![SNDK Dashboard](outputs/latest_wsb_analysis/charts/sndk_dashboard.png)
 
 #### ASTS
 
 ![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
+
+#### SPCX
+
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+
+#### PLTR
+
+![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
 <!-- AUTO_TOP10_END -->
