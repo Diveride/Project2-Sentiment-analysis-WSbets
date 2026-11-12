@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-11T01:58:46.924005+00:00`
+- Generated at (UTC): `2026-11-12T03:02:29.216061+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 13 | 9 | -0.007 | 168.89 | -25.38% | 4.008 |
-| 2 | SOXL | 11 | 2 | -0.452 | 56.06 | -56.34% | 9.833 |
-| 3 | QQQ | 4 | 3 | 0.054 | 674.76 | -9.55% | 8.514 |
-| 4 | AMD | 4 | 3 | 0.080 | 515.21 | -13.30% | 23.914 |
-| 5 | CVS | 9 | 1 | -0.953 | 89.01 | 1.45% | 0.981 |
-| 6 | ASTS | 2 | 2 | -0.195 | 36.89 | -27.62% | 5.354 |
-| 7 | MSFT | 2 | 2 | -0.118 | 533.16 | -1.48% | 5.611 |
-| 8 | SPCX | 2 | 2 | 0.764 | 142.07 | -12.61% | 3.085 |
-| 9 | PLTR | 5 | 1 | -0.848 | 169.20 | -19.06% | 1.658 |
-| 10 | INTC | 4 | 1 | -0.848 | 58.13 | -42.64% | 5.230 |
+| 1 | NVDA | 13 | 9 | 0.022 | 173.73 | -23.98% | 2.117 |
+| 2 | QQQ | 4 | 3 | 0.054 | 690.38 | -7.15% | 6.529 |
+| 3 | CVS | 9 | 1 | -0.953 | 89.52 | 2.25% | 1.116 |
+| 4 | ASTS | 2 | 2 | -0.195 | 36.62 | -22.19% | 5.726 |
+| 5 | MSFT | 2 | 2 | -0.118 | 521.13 | -4.11% | 3.824 |
+| 6 | AMD | 2 | 2 | 0.417 | 552.90 | -8.69% | 22.703 |
+| 7 | CRWV | 4 | 1 | 0.912 | 60.77 | -21.90% | 2.167 |
+| 8 | SMCI | 4 | 1 | 0.933 | 30.43 | -22.11% | 1.097 |
+| 9 | MRNA | 3 | 1 | 0.829 | 248.69 | 15.00% | 10.571 |
+| 10 | GRND | 2 | 1 | 0.904 | 14.05 | -9.18% | 0.549 |
 
 ### Aggregate Charts
 
@@ -186,17 +186,9 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### SOXL
-
-![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
-
 #### QQQ
 
 ![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
-
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
 #### CVS
 
@@ -210,15 +202,23 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### SPCX
+#### AMD
 
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### PLTR
+#### CRWV
 
-![PLTR Dashboard](outputs/latest_wsb_analysis/charts/pltr_dashboard.png)
+![CRWV Dashboard](outputs/latest_wsb_analysis/charts/crwv_dashboard.png)
 
-#### INTC
+#### SMCI
 
-![INTC Dashboard](outputs/latest_wsb_analysis/charts/intc_dashboard.png)
+![SMCI Dashboard](outputs/latest_wsb_analysis/charts/smci_dashboard.png)
+
+#### MRNA
+
+![MRNA Dashboard](outputs/latest_wsb_analysis/charts/mrna_dashboard.png)
+
+#### GRND
+
+![GRND Dashboard](outputs/latest_wsb_analysis/charts/grnd_dashboard.png)
 <!-- AUTO_TOP10_END -->
