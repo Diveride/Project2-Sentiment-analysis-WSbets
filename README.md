@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-12T03:02:29.216061+00:00`
+- Generated at (UTC): `2026-11-13T02:39:50.105920+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 13 | 9 | 0.022 | 173.73 | -23.98% | 2.117 |
-| 2 | QQQ | 4 | 3 | 0.054 | 690.38 | -7.15% | 6.529 |
-| 3 | CVS | 9 | 1 | -0.953 | 89.52 | 2.25% | 1.116 |
-| 4 | ASTS | 2 | 2 | -0.195 | 36.62 | -22.19% | 5.726 |
-| 5 | MSFT | 2 | 2 | -0.118 | 521.13 | -4.11% | 3.824 |
-| 6 | AMD | 2 | 2 | 0.417 | 552.90 | -8.69% | 22.703 |
-| 7 | CRWV | 4 | 1 | 0.912 | 60.77 | -21.90% | 2.167 |
-| 8 | SMCI | 4 | 1 | 0.933 | 30.43 | -22.11% | 1.097 |
-| 9 | MRNA | 3 | 1 | 0.829 | 248.69 | 15.00% | 10.571 |
-| 10 | GRND | 2 | 1 | 0.904 | 14.05 | -9.18% | 0.549 |
+| 1 | NVDA | 18 | 13 | 0.003 | 166.19 | -24.90% | 6.519 |
+| 2 | AMD | 8 | 5 | 0.274 | 585.30 | 2.54% | 23.006 |
+| 3 | SPY | 14 | 2 | 0.440 | 757.12 | -1.62% | 4.753 |
+| 4 | CHTR | 12 | 1 | -0.997 | 132.66 | 26.17% | 7.932 |
+| 5 | GPT | 3 | 2 | -0.002 | 31.46 | -7.52% | 0.348 |
+| 6 | ASTS | 2 | 2 | -0.195 | 34.50 | -18.13% | 7.038 |
+| 7 | MSFT | 2 | 2 | -0.118 | 523.00 | -2.00% | 7.271 |
+| 8 | QQQ | 2 | 2 | 0.182 | 688.17 | -5.59% | 9.049 |
+| 9 | RKLB | 2 | 2 | 0.479 | 64.07 | 8.26% | 3.526 |
+| 10 | CRWV | 4 | 1 | 0.912 | 56.60 | -13.96% | 2.020 |
 
 ### Aggregate Charts
 
@@ -186,13 +186,21 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### QQQ
+#### AMD
 
-![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### CVS
+#### SPY
 
-![CVS Dashboard](outputs/latest_wsb_analysis/charts/cvs_dashboard.png)
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
+#### CHTR
+
+![CHTR Dashboard](outputs/latest_wsb_analysis/charts/chtr_dashboard.png)
+
+#### GPT
+
+![GPT Dashboard](outputs/latest_wsb_analysis/charts/gpt_dashboard.png)
 
 #### ASTS
 
@@ -202,23 +210,15 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
 
-#### AMD
+#### QQQ
 
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
+
+#### RKLB
+
+![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
 #### CRWV
 
 ![CRWV Dashboard](outputs/latest_wsb_analysis/charts/crwv_dashboard.png)
-
-#### SMCI
-
-![SMCI Dashboard](outputs/latest_wsb_analysis/charts/smci_dashboard.png)
-
-#### MRNA
-
-![MRNA Dashboard](outputs/latest_wsb_analysis/charts/mrna_dashboard.png)
-
-#### GRND
-
-![GRND Dashboard](outputs/latest_wsb_analysis/charts/grnd_dashboard.png)
 <!-- AUTO_TOP10_END -->
