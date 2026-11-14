@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-13T02:39:50.105920+00:00`
+- Generated at (UTC): `2026-11-14T02:28:42.733869+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 18 | 13 | 0.003 | 166.19 | -24.90% | 6.519 |
-| 2 | AMD | 8 | 5 | 0.274 | 585.30 | 2.54% | 23.006 |
-| 3 | SPY | 14 | 2 | 0.440 | 757.12 | -1.62% | 4.753 |
-| 4 | CHTR | 12 | 1 | -0.997 | 132.66 | 26.17% | 7.932 |
-| 5 | GPT | 3 | 2 | -0.002 | 31.46 | -7.52% | 0.348 |
-| 6 | ASTS | 2 | 2 | -0.195 | 34.50 | -18.13% | 7.038 |
-| 7 | MSFT | 2 | 2 | -0.118 | 523.00 | -2.00% | 7.271 |
-| 8 | QQQ | 2 | 2 | 0.182 | 688.17 | -5.59% | 9.049 |
-| 9 | RKLB | 2 | 2 | 0.479 | 64.07 | 8.26% | 3.526 |
-| 10 | CRWV | 4 | 1 | 0.912 | 56.60 | -13.96% | 2.020 |
+| 1 | NVDA | 25 | 16 | 0.082 | 162.85 | -25.03% | 3.035 |
+| 2 | SPY | 19 | 3 | -0.040 | 754.37 | -2.26% | 4.754 |
+| 3 | AMD | 7 | 4 | 0.324 | 534.06 | -5.01% | 23.095 |
+| 4 | CHTR | 12 | 1 | -0.997 | 138.39 | 25.82% | 7.668 |
+| 5 | ASTS | 2 | 2 | -0.089 | 34.50 | -18.13% | 5.035 |
+| 6 | RKLB | 2 | 2 | 0.479 | 64.07 | 8.26% | 3.589 |
+| 7 | QQQ | 2 | 2 | 0.020 | 679.89 | -6.61% | 8.016 |
+| 8 | UAE | 4 | 1 | 0.762 | 21.11 | 8.09% | 0.152 |
+| 9 | HELP | 4 | 1 | 0.495 | 8.86 | -14.64% | 0.292 |
+| 10 | HOLD | 3 | 1 | -0.429 | 31.43 | -4.31% | 0.207 |
 
 ### Aggregate Charts
 
@@ -186,39 +186,39 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
 #### SPY
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
+#### AMD
+
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
 #### CHTR
 
 ![CHTR Dashboard](outputs/latest_wsb_analysis/charts/chtr_dashboard.png)
 
-#### GPT
-
-![GPT Dashboard](outputs/latest_wsb_analysis/charts/gpt_dashboard.png)
-
 #### ASTS
 
 ![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
-
-#### MSFT
-
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
-
-#### QQQ
-
-![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
 #### RKLB
 
 ![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
 
-#### CRWV
+#### QQQ
 
-![CRWV Dashboard](outputs/latest_wsb_analysis/charts/crwv_dashboard.png)
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
+
+#### UAE
+
+![UAE Dashboard](outputs/latest_wsb_analysis/charts/uae_dashboard.png)
+
+#### HELP
+
+![HELP Dashboard](outputs/latest_wsb_analysis/charts/help_dashboard.png)
+
+#### HOLD
+
+![HOLD Dashboard](outputs/latest_wsb_analysis/charts/hold_dashboard.png)
 <!-- AUTO_TOP10_END -->
