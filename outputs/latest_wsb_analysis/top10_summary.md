@@ -3,22 +3,22 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-11-14T02:28:42.735290+00:00`
+- Generated at (UTC): `2026-11-15T01:58:21.761053+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
-| 1 | NVDA | 25 | 16 | 0.082 |
-| 2 | SPY | 19 | 3 | -0.040 |
-| 3 | AMD | 7 | 4 | 0.324 |
-| 4 | CHTR | 12 | 1 | -0.997 |
-| 5 | ASTS | 2 | 2 | -0.089 |
-| 6 | RKLB | 2 | 2 | 0.479 |
-| 7 | QQQ | 2 | 2 | 0.020 |
-| 8 | UAE | 4 | 1 | 0.762 |
-| 9 | HELP | 4 | 1 | 0.495 |
-| 10 | HOLD | 3 | 1 | -0.429 |
+| 1 | NVDA | 34 | 20 | 0.264 |
+| 2 | SPY | 14 | 2 | 0.440 |
+| 3 | AMD | 3 | 3 | 0.719 |
+| 4 | DXYZ | 10 | 1 | 0.990 |
+| 5 | SPCX | 3 | 2 | 0.166 |
+| 6 | ASTS | 2 | 2 | -0.089 |
+| 7 | UAE | 4 | 1 | 0.762 |
+| 8 | HELP | 4 | 1 | 0.495 |
+| 9 | HOLD | 3 | 1 | -0.429 |
+| 10 | LINE | 3 | 1 | -0.429 |
 
 ## Reddit fetch diagnostics
 
@@ -31,7 +31,7 @@
 | --- | --- | --- | ---: | --- |
 | hot | oauth | success | 100 |  |
 | new | oauth | success | 100 |  |
-| rising | oauth | success | 27 |  |
+| rising | oauth | success | 25 |  |
 | top | oauth | success | 100 |  |
 
 ## Market snapshot
@@ -39,10 +39,10 @@
 - **NVDA**: close `162.85`, 1M return `-25.03%` if available, RSI `24.86` and regression RMSE `3.035`
 - **SPY**: close `754.37`, 1M return `-2.26%` if available, RSI `47.08` and regression RMSE `4.754`
 - **AMD**: close `534.06`, 1M return `-5.01%` if available, RSI `50.36` and regression RMSE `23.095`
-- **CHTR**: close `138.39`, 1M return `25.82%` if available, RSI `66.66` and regression RMSE `7.668`
-- **ASTS**: close `34.50`, 1M return `-18.13%` if available, RSI `38.98` and regression RMSE `5.035`
-- **RKLB**: close `64.07`, 1M return `8.26%` if available, RSI `56.29` and regression RMSE `3.589`
-- **QQQ**: close `679.89`, 1M return `-6.61%` if available, RSI `42.81` and regression RMSE `8.016`
-- **UAE**: close `21.11`, 1M return `8.09%` if available, RSI `69.11` and regression RMSE `0.152`
-- **HELP**: close `8.86`, 1M return `-14.64%` if available, RSI `39.04` and regression RMSE `0.292`
-- **HOLD**: close `31.43`, 1M return `-4.31%` if available, RSI `48.29` and regression RMSE `0.207`
+- **DXYZ**: close `26.47`, 1M return `-8.72%` if available, RSI `46.71` and regression RMSE `0.682`
+- **SPCX**: close `139.11`, 1M return `-6.40%` if available, RSI `46.42` and regression RMSE `3.076`
+- **ASTS**: close `32.60`, 1M return `-26.68%` if available, RSI `36.79` and regression RMSE `5.056`
+- **UAE**: close `20.92`, 1M return `6.95%` if available, RSI `65.41` and regression RMSE `0.154`
+- **HELP**: close `8.87`, 1M return `-19.73%` if available, RSI `39.16` and regression RMSE `0.297`
+- **HOLD**: close `31.44`, 1M return `-3.63%` if available, RSI `48.37` and regression RMSE `0.213`
+- **LINE**: close `35.31`, 1M return `3.52%` if available, RSI `45.89` and regression RMSE `0.715`

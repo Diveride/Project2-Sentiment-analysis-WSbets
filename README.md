@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-14T02:28:42.733869+00:00`
+- Generated at (UTC): `2026-11-15T01:58:21.759293+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 25 | 16 | 0.082 | 162.85 | -25.03% | 3.035 |
-| 2 | SPY | 19 | 3 | -0.040 | 754.37 | -2.26% | 4.754 |
-| 3 | AMD | 7 | 4 | 0.324 | 534.06 | -5.01% | 23.095 |
-| 4 | CHTR | 12 | 1 | -0.997 | 138.39 | 25.82% | 7.668 |
-| 5 | ASTS | 2 | 2 | -0.089 | 34.50 | -18.13% | 5.035 |
-| 6 | RKLB | 2 | 2 | 0.479 | 64.07 | 8.26% | 3.589 |
-| 7 | QQQ | 2 | 2 | 0.020 | 679.89 | -6.61% | 8.016 |
-| 8 | UAE | 4 | 1 | 0.762 | 21.11 | 8.09% | 0.152 |
-| 9 | HELP | 4 | 1 | 0.495 | 8.86 | -14.64% | 0.292 |
-| 10 | HOLD | 3 | 1 | -0.429 | 31.43 | -4.31% | 0.207 |
+| 1 | NVDA | 34 | 20 | 0.264 | 162.85 | -25.03% | 3.035 |
+| 2 | SPY | 14 | 2 | 0.440 | 754.37 | -2.26% | 4.754 |
+| 3 | AMD | 3 | 3 | 0.719 | 534.06 | -5.01% | 23.095 |
+| 4 | DXYZ | 10 | 1 | 0.990 | 26.47 | -8.72% | 0.682 |
+| 5 | SPCX | 3 | 2 | 0.166 | 139.11 | -6.40% | 3.076 |
+| 6 | ASTS | 2 | 2 | -0.089 | 32.60 | -26.68% | 5.056 |
+| 7 | UAE | 4 | 1 | 0.762 | 20.92 | 6.95% | 0.154 |
+| 8 | HELP | 4 | 1 | 0.495 | 8.87 | -19.73% | 0.297 |
+| 9 | HOLD | 3 | 1 | -0.429 | 31.44 | -3.63% | 0.213 |
+| 10 | LINE | 3 | 1 | -0.429 | 35.31 | 3.52% | 0.715 |
 
 ### Aggregate Charts
 
@@ -194,21 +194,17 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### CHTR
+#### DXYZ
 
-![CHTR Dashboard](outputs/latest_wsb_analysis/charts/chtr_dashboard.png)
+![DXYZ Dashboard](outputs/latest_wsb_analysis/charts/dxyz_dashboard.png)
+
+#### SPCX
+
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
 #### ASTS
 
 ![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
-
-#### RKLB
-
-![RKLB Dashboard](outputs/latest_wsb_analysis/charts/rklb_dashboard.png)
-
-#### QQQ
-
-![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
 #### UAE
 
@@ -221,4 +217,8 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### HOLD
 
 ![HOLD Dashboard](outputs/latest_wsb_analysis/charts/hold_dashboard.png)
+
+#### LINE
+
+![LINE Dashboard](outputs/latest_wsb_analysis/charts/line_dashboard.png)
 <!-- AUTO_TOP10_END -->
