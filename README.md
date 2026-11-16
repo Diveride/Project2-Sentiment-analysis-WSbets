@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-15T01:58:21.759293+00:00`
+- Generated at (UTC): `2026-11-16T02:11:16.161546+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,14 +163,14 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 34 | 20 | 0.264 | 162.85 | -25.03% | 3.035 |
+| 1 | NVDA | 35 | 21 | 0.296 | 162.85 | -25.03% | 3.035 |
 | 2 | SPY | 14 | 2 | 0.440 | 754.37 | -2.26% | 4.754 |
-| 3 | AMD | 3 | 3 | 0.719 | 534.06 | -5.01% | 23.095 |
+| 3 | AMD | 4 | 4 | 0.788 | 534.06 | -5.01% | 23.095 |
 | 4 | DXYZ | 10 | 1 | 0.990 | 26.47 | -8.72% | 0.682 |
-| 5 | SPCX | 3 | 2 | 0.166 | 139.11 | -6.40% | 3.076 |
-| 6 | ASTS | 2 | 2 | -0.089 | 32.60 | -26.68% | 5.056 |
-| 7 | UAE | 4 | 1 | 0.762 | 20.92 | 6.95% | 0.154 |
-| 8 | HELP | 4 | 1 | 0.495 | 8.87 | -19.73% | 0.297 |
+| 5 | SPCX | 2 | 2 | 0.502 | 139.11 | -6.40% | 3.076 |
+| 6 | UAE | 4 | 1 | 0.762 | 20.92 | 6.95% | 0.154 |
+| 7 | HELP | 4 | 1 | 0.495 | 8.87 | -19.73% | 0.297 |
+| 8 | WMT | 4 | 1 | 0.857 | 128.09 | 8.67% | 0.823 |
 | 9 | HOLD | 3 | 1 | -0.429 | 31.44 | -3.63% | 0.213 |
 | 10 | LINE | 3 | 1 | -0.429 | 35.31 | 3.52% | 0.715 |
 
@@ -202,10 +202,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
-#### ASTS
-
-![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
-
 #### UAE
 
 ![UAE Dashboard](outputs/latest_wsb_analysis/charts/uae_dashboard.png)
@@ -213,6 +209,10 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### HELP
 
 ![HELP Dashboard](outputs/latest_wsb_analysis/charts/help_dashboard.png)
+
+#### WMT
+
+![WMT Dashboard](outputs/latest_wsb_analysis/charts/wmt_dashboard.png)
 
 #### HOLD
 
