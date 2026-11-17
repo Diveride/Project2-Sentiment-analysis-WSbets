@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-16T02:11:16.161546+00:00`
+- Generated at (UTC): `2026-11-17T04:31:28.165303+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 35 | 21 | 0.296 | 162.85 | -25.03% | 3.035 |
-| 2 | SPY | 14 | 2 | 0.440 | 754.37 | -2.26% | 4.754 |
-| 3 | AMD | 4 | 4 | 0.788 | 534.06 | -5.01% | 23.095 |
-| 4 | DXYZ | 10 | 1 | 0.990 | 26.47 | -8.72% | 0.682 |
-| 5 | SPCX | 2 | 2 | 0.502 | 139.11 | -6.40% | 3.076 |
-| 6 | UAE | 4 | 1 | 0.762 | 20.92 | 6.95% | 0.154 |
-| 7 | HELP | 4 | 1 | 0.495 | 8.87 | -19.73% | 0.297 |
-| 8 | WMT | 4 | 1 | 0.857 | 128.09 | 8.67% | 0.823 |
-| 9 | HOLD | 3 | 1 | -0.429 | 31.44 | -3.63% | 0.213 |
-| 10 | LINE | 3 | 1 | -0.429 | 35.31 | 3.52% | 0.715 |
+| 1 | NVDA | 40 | 21 | 0.356 | 156.14 | -27.08% | 2.751 |
+| 2 | SPY | 14 | 2 | 0.440 | 739.95 | -3.05% | 5.012 |
+| 3 | DXYZ | 13 | 2 | 0.906 | 27.16 | -2.69% | 0.707 |
+| 4 | AMD | 3 | 3 | 0.910 | 504.28 | -4.63% | 23.377 |
+| 5 | NYT | 3 | 2 | 0.832 | 73.50 | 8.44% | 0.735 |
+| 6 | ASTS | 2 | 2 | 0.070 | 28.58 | -29.71% | 7.762 |
+| 7 | YOU | 2 | 2 | 0.642 | 56.18 | 27.89% | 1.701 |
+| 8 | UAE | 4 | 1 | 0.762 | 20.88 | 6.97% | 0.166 |
+| 9 | WMT | 4 | 1 | 0.857 | 128.41 | 8.08% | 0.999 |
+| 10 | LIFE | 2 | 1 | 0.869 | 33.99 | -9.41% | 1.993 |
 
 ### Aggregate Charts
 
@@ -190,35 +190,35 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
 #### DXYZ
 
 ![DXYZ Dashboard](outputs/latest_wsb_analysis/charts/dxyz_dashboard.png)
 
-#### SPCX
+#### AMD
 
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+
+#### NYT
+
+![NYT Dashboard](outputs/latest_wsb_analysis/charts/nyt_dashboard.png)
+
+#### ASTS
+
+![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
+
+#### YOU
+
+![YOU Dashboard](outputs/latest_wsb_analysis/charts/you_dashboard.png)
 
 #### UAE
 
 ![UAE Dashboard](outputs/latest_wsb_analysis/charts/uae_dashboard.png)
 
-#### HELP
-
-![HELP Dashboard](outputs/latest_wsb_analysis/charts/help_dashboard.png)
-
 #### WMT
 
 ![WMT Dashboard](outputs/latest_wsb_analysis/charts/wmt_dashboard.png)
 
-#### HOLD
+#### LIFE
 
-![HOLD Dashboard](outputs/latest_wsb_analysis/charts/hold_dashboard.png)
-
-#### LINE
-
-![LINE Dashboard](outputs/latest_wsb_analysis/charts/line_dashboard.png)
+![LIFE Dashboard](outputs/latest_wsb_analysis/charts/life_dashboard.png)
 <!-- AUTO_TOP10_END -->
