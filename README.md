@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-17T04:31:28.165303+00:00`
+- Generated at (UTC): `2026-11-18T03:45:11.341748+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 40 | 21 | 0.356 | 156.14 | -27.08% | 2.751 |
-| 2 | SPY | 14 | 2 | 0.440 | 739.95 | -3.05% | 5.012 |
-| 3 | DXYZ | 13 | 2 | 0.906 | 27.16 | -2.69% | 0.707 |
-| 4 | AMD | 3 | 3 | 0.910 | 504.28 | -4.63% | 23.377 |
-| 5 | NYT | 3 | 2 | 0.832 | 73.50 | 8.44% | 0.735 |
-| 6 | ASTS | 2 | 2 | 0.070 | 28.58 | -29.71% | 7.762 |
-| 7 | YOU | 2 | 2 | 0.642 | 56.18 | 27.89% | 1.701 |
-| 8 | UAE | 4 | 1 | 0.762 | 20.88 | 6.97% | 0.166 |
-| 9 | WMT | 4 | 1 | 0.857 | 128.41 | 8.08% | 0.999 |
-| 10 | LIFE | 2 | 1 | 0.869 | 33.99 | -9.41% | 1.993 |
+| 1 | NVDA | 32 | 15 | 0.373 | 155.46 | -28.39% | 8.689 |
+| 2 | SPY | 14 | 2 | 0.440 | 732.44 | -4.44% | 5.249 |
+| 3 | DXYZ | 13 | 2 | 0.906 | 26.48 | -5.12% | 0.701 |
+| 4 | SLS | 3 | 3 | 0.572 | 19.15 | 82.55% | 0.828 |
+| 5 | NYT | 3 | 2 | 0.832 | 73.82 | 8.45% | 0.569 |
+| 6 | YOU | 2 | 2 | 0.642 | 54.60 | 20.85% | 1.719 |
+| 7 | WMT | 4 | 1 | 0.857 | 127.52 | 7.43% | 0.840 |
+| 8 | FMCC | 3 | 1 | 0.946 | 3.80 | 21.02% | 0.321 |
+| 9 | FNMA | 3 | 1 | 0.946 | 4.19 | 22.51% | 0.351 |
+| 10 | LIFE | 2 | 1 | 0.869 | 32.80 | -15.59% | 2.041 |
 
 ### Aggregate Charts
 
@@ -194,29 +194,29 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![DXYZ Dashboard](outputs/latest_wsb_analysis/charts/dxyz_dashboard.png)
 
-#### AMD
+#### SLS
 
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+![SLS Dashboard](outputs/latest_wsb_analysis/charts/sls_dashboard.png)
 
 #### NYT
 
 ![NYT Dashboard](outputs/latest_wsb_analysis/charts/nyt_dashboard.png)
 
-#### ASTS
-
-![ASTS Dashboard](outputs/latest_wsb_analysis/charts/asts_dashboard.png)
-
 #### YOU
 
 ![YOU Dashboard](outputs/latest_wsb_analysis/charts/you_dashboard.png)
 
-#### UAE
-
-![UAE Dashboard](outputs/latest_wsb_analysis/charts/uae_dashboard.png)
-
 #### WMT
 
 ![WMT Dashboard](outputs/latest_wsb_analysis/charts/wmt_dashboard.png)
+
+#### FMCC
+
+![FMCC Dashboard](outputs/latest_wsb_analysis/charts/fmcc_dashboard.png)
+
+#### FNMA
+
+![FNMA Dashboard](outputs/latest_wsb_analysis/charts/fnma_dashboard.png)
 
 #### LIFE
 
