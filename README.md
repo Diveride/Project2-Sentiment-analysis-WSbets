@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-18T03:45:11.341748+00:00`
+- Generated at (UTC): `2026-11-19T03:31:20.291891+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 32 | 15 | 0.373 | 155.46 | -28.39% | 8.689 |
-| 2 | SPY | 14 | 2 | 0.440 | 732.44 | -4.44% | 5.249 |
-| 3 | DXYZ | 13 | 2 | 0.906 | 26.48 | -5.12% | 0.701 |
-| 4 | SLS | 3 | 3 | 0.572 | 19.15 | 82.55% | 0.828 |
-| 5 | NYT | 3 | 2 | 0.832 | 73.82 | 8.45% | 0.569 |
-| 6 | YOU | 2 | 2 | 0.642 | 54.60 | 20.85% | 1.719 |
-| 7 | WMT | 4 | 1 | 0.857 | 127.52 | 7.43% | 0.840 |
-| 8 | FMCC | 3 | 1 | 0.946 | 3.80 | 21.02% | 0.321 |
-| 9 | FNMA | 3 | 1 | 0.946 | 4.19 | 22.51% | 0.351 |
-| 10 | LIFE | 2 | 1 | 0.869 | 32.80 | -15.59% | 2.041 |
+| 1 | NVDA | 34 | 16 | 0.521 | 150.96 | -30.26% | 2.969 |
+| 2 | SPY | 14 | 2 | 0.350 | 730.20 | -5.05% | 5.041 |
+| 3 | DXYZ | 13 | 2 | 0.906 | 25.30 | -11.38% | 0.699 |
+| 4 | MSTR | 11 | 1 | -0.930 | 90.32 | -36.72% | 7.284 |
+| 5 | STRC | 11 | 1 | -0.930 | 96.11 | -2.63% | 0.825 |
+| 6 | AMD | 3 | 3 | 0.908 | 530.14 | -0.86% | 23.661 |
+| 7 | SLS | 3 | 3 | 0.572 | 17.95 | 49.83% | 0.940 |
+| 8 | NYT | 3 | 2 | 0.832 | 70.80 | 1.78% | 0.592 |
+| 9 | QQQ | 3 | 2 | 0.463 | 659.51 | -8.10% | 7.267 |
+| 10 | HSBC | 2 | 2 | -0.388 | 84.66 | -8.71% | 1.851 |
 
 ### Aggregate Charts
 
@@ -194,6 +194,18 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![DXYZ Dashboard](outputs/latest_wsb_analysis/charts/dxyz_dashboard.png)
 
+#### MSTR
+
+![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
+
+#### STRC
+
+![STRC Dashboard](outputs/latest_wsb_analysis/charts/strc_dashboard.png)
+
+#### AMD
+
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+
 #### SLS
 
 ![SLS Dashboard](outputs/latest_wsb_analysis/charts/sls_dashboard.png)
@@ -202,23 +214,11 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NYT Dashboard](outputs/latest_wsb_analysis/charts/nyt_dashboard.png)
 
-#### YOU
+#### QQQ
 
-![YOU Dashboard](outputs/latest_wsb_analysis/charts/you_dashboard.png)
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
 
-#### WMT
+#### HSBC
 
-![WMT Dashboard](outputs/latest_wsb_analysis/charts/wmt_dashboard.png)
-
-#### FMCC
-
-![FMCC Dashboard](outputs/latest_wsb_analysis/charts/fmcc_dashboard.png)
-
-#### FNMA
-
-![FNMA Dashboard](outputs/latest_wsb_analysis/charts/fnma_dashboard.png)
-
-#### LIFE
-
-![LIFE Dashboard](outputs/latest_wsb_analysis/charts/life_dashboard.png)
+![HSBC Dashboard](outputs/latest_wsb_analysis/charts/hsbc_dashboard.png)
 <!-- AUTO_TOP10_END -->
