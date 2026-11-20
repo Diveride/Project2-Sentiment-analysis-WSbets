@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-19T03:31:20.291891+00:00`
+- Generated at (UTC): `2026-11-20T03:19:03.301863+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 34 | 16 | 0.521 | 150.96 | -30.26% | 2.969 |
-| 2 | SPY | 14 | 2 | 0.350 | 730.20 | -5.05% | 5.041 |
-| 3 | DXYZ | 13 | 2 | 0.906 | 25.30 | -11.38% | 0.699 |
-| 4 | MSTR | 11 | 1 | -0.930 | 90.32 | -36.72% | 7.284 |
-| 5 | STRC | 11 | 1 | -0.930 | 96.11 | -2.63% | 0.825 |
-| 6 | AMD | 3 | 3 | 0.908 | 530.14 | -0.86% | 23.661 |
-| 7 | SLS | 3 | 3 | 0.572 | 17.95 | 49.83% | 0.940 |
-| 8 | NYT | 3 | 2 | 0.832 | 70.80 | 1.78% | 0.592 |
-| 9 | QQQ | 3 | 2 | 0.463 | 659.51 | -8.10% | 7.267 |
-| 10 | HSBC | 2 | 2 | -0.388 | 84.66 | -8.71% | 1.851 |
+| 1 | NVDA | 27 | 15 | 0.374 | 145.98 | -34.23% | 6.388 |
+| 2 | AMD | 5 | 5 | 0.658 | 489.19 | -11.49% | 24.667 |
+| 3 | MSTR | 11 | 1 | -0.930 | 86.13 | -43.88% | 7.088 |
+| 4 | STRC | 11 | 1 | -0.930 | 96.11 | -2.63% | 0.862 |
+| 5 | SPY | 3 | 3 | 0.280 | 715.87 | -7.40% | 5.238 |
+| 6 | DXYZ | 10 | 1 | 0.990 | 25.30 | -11.38% | 0.725 |
+| 7 | SE | 4 | 2 | 0.061 | 68.60 | -14.71% | 3.915 |
+| 8 | HSBC | 2 | 2 | -0.388 | 83.35 | -11.24% | 2.526 |
+| 9 | SMCI | 5 | 1 | 0.636 | 23.84 | -32.98% | 0.541 |
+| 10 | UAE | 4 | 1 | 0.762 | 21.20 | 7.72% | 0.179 |
 
 ### Aggregate Charts
 
@@ -186,13 +186,9 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
-#### SPY
+#### AMD
 
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
-
-#### DXYZ
-
-![DXYZ Dashboard](outputs/latest_wsb_analysis/charts/dxyz_dashboard.png)
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
 #### MSTR
 
@@ -202,23 +198,27 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![STRC Dashboard](outputs/latest_wsb_analysis/charts/strc_dashboard.png)
 
-#### AMD
+#### SPY
 
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
-#### SLS
+#### DXYZ
 
-![SLS Dashboard](outputs/latest_wsb_analysis/charts/sls_dashboard.png)
+![DXYZ Dashboard](outputs/latest_wsb_analysis/charts/dxyz_dashboard.png)
 
-#### NYT
+#### SE
 
-![NYT Dashboard](outputs/latest_wsb_analysis/charts/nyt_dashboard.png)
-
-#### QQQ
-
-![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
+![SE Dashboard](outputs/latest_wsb_analysis/charts/se_dashboard.png)
 
 #### HSBC
 
 ![HSBC Dashboard](outputs/latest_wsb_analysis/charts/hsbc_dashboard.png)
+
+#### SMCI
+
+![SMCI Dashboard](outputs/latest_wsb_analysis/charts/smci_dashboard.png)
+
+#### UAE
+
+![UAE Dashboard](outputs/latest_wsb_analysis/charts/uae_dashboard.png)
 <!-- AUTO_TOP10_END -->
