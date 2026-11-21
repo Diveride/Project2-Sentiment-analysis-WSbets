@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-20T03:19:03.301863+00:00`
+- Generated at (UTC): `2026-11-21T03:16:11.736389+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 27 | 15 | 0.374 | 145.98 | -34.23% | 6.388 |
-| 2 | AMD | 5 | 5 | 0.658 | 489.19 | -11.49% | 24.667 |
-| 3 | MSTR | 11 | 1 | -0.930 | 86.13 | -43.88% | 7.088 |
-| 4 | STRC | 11 | 1 | -0.930 | 96.11 | -2.63% | 0.862 |
-| 5 | SPY | 3 | 3 | 0.280 | 715.87 | -7.40% | 5.238 |
-| 6 | DXYZ | 10 | 1 | 0.990 | 25.30 | -11.38% | 0.725 |
-| 7 | SE | 4 | 2 | 0.061 | 68.60 | -14.71% | 3.915 |
-| 8 | HSBC | 2 | 2 | -0.388 | 83.35 | -11.24% | 2.526 |
-| 9 | SMCI | 5 | 1 | 0.636 | 23.84 | -32.98% | 0.541 |
-| 10 | UAE | 4 | 1 | 0.762 | 21.20 | 7.72% | 0.179 |
+| 1 | NVDA | 18 | 11 | 0.383 | 125.53 | -40.85% | 11.033 |
+| 2 | SPY | 10 | 6 | 0.477 | 689.81 | -9.71% | 5.675 |
+| 3 | AMD | 4 | 3 | 0.228 | 424.39 | -16.45% | 26.387 |
+| 4 | NBIS | 4 | 3 | 0.278 | 81.31 | -48.92% | 8.855 |
+| 5 | DXYZ | 10 | 1 | 0.990 | 23.60 | -12.20% | 0.698 |
+| 6 | SPCX | 5 | 2 | 0.917 | 127.79 | -11.72% | 2.587 |
+| 7 | GOOG | 5 | 2 | 0.047 | 264.00 | -17.70% | 8.466 |
+| 8 | DRAM | 3 | 2 | 0.561 | 33.36 | -26.97% | 1.218 |
+| 9 | SE | 3 | 1 | -0.875 | 62.63 | -17.25% | 3.347 |
+| 10 | SOXL | 2 | 1 | -0.592 | 30.88 | -62.39% | 14.511 |
 
 ### Aggregate Charts
 
@@ -186,39 +186,39 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
 
+#### SPY
+
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### MSTR
+#### NBIS
 
-![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
-
-#### STRC
-
-![STRC Dashboard](outputs/latest_wsb_analysis/charts/strc_dashboard.png)
-
-#### SPY
-
-![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
+![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
 
 #### DXYZ
 
 ![DXYZ Dashboard](outputs/latest_wsb_analysis/charts/dxyz_dashboard.png)
 
+#### SPCX
+
+![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
+
+#### GOOG
+
+![GOOG Dashboard](outputs/latest_wsb_analysis/charts/goog_dashboard.png)
+
+#### DRAM
+
+![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
+
 #### SE
 
 ![SE Dashboard](outputs/latest_wsb_analysis/charts/se_dashboard.png)
 
-#### HSBC
+#### SOXL
 
-![HSBC Dashboard](outputs/latest_wsb_analysis/charts/hsbc_dashboard.png)
-
-#### SMCI
-
-![SMCI Dashboard](outputs/latest_wsb_analysis/charts/smci_dashboard.png)
-
-#### UAE
-
-![UAE Dashboard](outputs/latest_wsb_analysis/charts/uae_dashboard.png)
+![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
 <!-- AUTO_TOP10_END -->
