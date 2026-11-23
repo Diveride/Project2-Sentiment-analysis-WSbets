@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-22T02:16:16.296303+00:00`
+- Generated at (UTC): `2026-11-23T02:47:41.525573+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 15 | 12 | 0.296 | 125.53 | -40.85% | 11.033 |
-| 2 | SPY | 9 | 5 | 0.700 | 689.81 | -9.71% | 5.675 |
-| 3 | DRAM | 4 | 3 | 0.348 | 33.36 | -26.97% | 1.218 |
-| 4 | SPCX | 5 | 2 | 0.917 | 127.79 | -11.72% | 2.587 |
-| 5 | GOOG | 5 | 2 | 0.047 | 264.00 | -17.70% | 8.466 |
-| 6 | AMD | 3 | 2 | 0.543 | 424.39 | -16.45% | 26.387 |
-| 7 | NBIS | 3 | 2 | 0.417 | 81.31 | -48.92% | 8.855 |
-| 8 | SOXL | 3 | 1 | -0.592 | 30.88 | -62.39% | 14.511 |
-| 9 | NAMI | 2 | 1 | -0.984 | 1.55 | -16.22% | 0.989 |
-| 10 | TTWO | 2 | 1 | -0.912 | 210.00 | 1.05% | 2.060 |
+| 1 | NVDA | 12 | 10 | 0.187 | 125.53 | -40.85% | 11.033 |
+| 2 | SPY | 9 | 5 | 0.376 | 689.81 | -9.71% | 5.675 |
+| 3 | MSTR | 3 | 3 | -0.299 | 77.80 | -46.64% | 5.394 |
+| 4 | QQQ | 6 | 2 | 0.817 | 608.45 | -13.63% | 12.098 |
+| 5 | ARE | 2 | 2 | 0.000 | 40.20 | -7.22% | 0.296 |
+| 6 | BACK | 2 | 2 | 0.000 | 0.00 | -40.00% | 0.013 |
+| 7 | DRAM | 2 | 2 | 0.130 | 33.36 | -26.97% | 1.218 |
+| 8 | GOOG | 2 | 2 | 0.045 | 264.00 | -17.70% | 8.466 |
+| 9 | HIMS | 3 | 1 | 0.897 | 14.60 | -49.88% | 0.892 |
+| 10 | NAMI | 2 | 1 | -0.984 | 1.55 | -16.22% | 0.989 |
 
 ### Aggregate Charts
 
@@ -190,35 +190,35 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
+#### MSTR
+
+![MSTR Dashboard](outputs/latest_wsb_analysis/charts/mstr_dashboard.png)
+
+#### QQQ
+
+![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
+
+#### ARE
+
+![ARE Dashboard](outputs/latest_wsb_analysis/charts/are_dashboard.png)
+
+#### BACK
+
+![BACK Dashboard](outputs/latest_wsb_analysis/charts/back_dashboard.png)
+
 #### DRAM
 
 ![DRAM Dashboard](outputs/latest_wsb_analysis/charts/dram_dashboard.png)
-
-#### SPCX
-
-![SPCX Dashboard](outputs/latest_wsb_analysis/charts/spcx_dashboard.png)
 
 #### GOOG
 
 ![GOOG Dashboard](outputs/latest_wsb_analysis/charts/goog_dashboard.png)
 
-#### AMD
+#### HIMS
 
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
-
-#### NBIS
-
-![NBIS Dashboard](outputs/latest_wsb_analysis/charts/nbis_dashboard.png)
-
-#### SOXL
-
-![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
+![HIMS Dashboard](outputs/latest_wsb_analysis/charts/hims_dashboard.png)
 
 #### NAMI
 
 ![NAMI Dashboard](outputs/latest_wsb_analysis/charts/nami_dashboard.png)
-
-#### TTWO
-
-![TTWO Dashboard](outputs/latest_wsb_analysis/charts/ttwo_dashboard.png)
 <!-- AUTO_TOP10_END -->

@@ -3,22 +3,22 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-11-22T02:16:16.298071+00:00`
+- Generated at (UTC): `2026-11-23T02:47:41.526939+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
-| 1 | NVDA | 15 | 12 | 0.296 |
-| 2 | SPY | 9 | 5 | 0.700 |
-| 3 | DRAM | 4 | 3 | 0.348 |
-| 4 | SPCX | 5 | 2 | 0.917 |
-| 5 | GOOG | 5 | 2 | 0.047 |
-| 6 | AMD | 3 | 2 | 0.543 |
-| 7 | NBIS | 3 | 2 | 0.417 |
-| 8 | SOXL | 3 | 1 | -0.592 |
-| 9 | NAMI | 2 | 1 | -0.984 |
-| 10 | TTWO | 2 | 1 | -0.912 |
+| 1 | NVDA | 12 | 10 | 0.187 |
+| 2 | SPY | 9 | 5 | 0.376 |
+| 3 | MSTR | 3 | 3 | -0.299 |
+| 4 | QQQ | 6 | 2 | 0.817 |
+| 5 | ARE | 2 | 2 | 0.000 |
+| 6 | BACK | 2 | 2 | 0.000 |
+| 7 | DRAM | 2 | 2 | 0.130 |
+| 8 | GOOG | 2 | 2 | 0.045 |
+| 9 | HIMS | 3 | 1 | 0.897 |
+| 10 | NAMI | 2 | 1 | -0.984 |
 
 ## Reddit fetch diagnostics
 
@@ -38,11 +38,11 @@
 
 - **NVDA**: close `125.53`, 1M return `-40.85%` if available, RSI `15.05` and regression RMSE `11.033`
 - **SPY**: close `689.81`, 1M return `-9.71%` if available, RSI `24.91` and regression RMSE `5.675`
+- **MSTR**: close `77.80`, 1M return `-46.64%` if available, RSI `20.22` and regression RMSE `5.394`
+- **QQQ**: close `608.45`, 1M return `-13.63%` if available, RSI `26.63` and regression RMSE `12.098`
+- **ARE**: close `40.20`, 1M return `-7.22%` if available, RSI `35.72` and regression RMSE `0.296`
+- **BACK**: close `0.00`, 1M return `-40.00%` if available, RSI `47.41` and regression RMSE `0.013`
 - **DRAM**: close `33.36`, 1M return `-26.97%` if available, RSI `30.57` and regression RMSE `1.218`
-- **SPCX**: close `127.79`, 1M return `-11.72%` if available, RSI `38.60` and regression RMSE `2.587`
 - **GOOG**: close `264.00`, 1M return `-17.70%` if available, RSI `26.84` and regression RMSE `8.466`
-- **AMD**: close `424.39`, 1M return `-16.45%` if available, RSI `38.42` and regression RMSE `26.387`
-- **NBIS**: close `81.31`, 1M return `-48.92%` if available, RSI `28.51` and regression RMSE `8.855`
-- **SOXL**: close `30.88`, 1M return `-62.39%` if available, RSI `28.48` and regression RMSE `14.511`
+- **HIMS**: close `14.60`, 1M return `-49.88%` if available, RSI `24.78` and regression RMSE `0.892`
 - **NAMI**: close `1.55`, 1M return `-16.22%` if available, RSI `37.93` and regression RMSE `0.989`
-- **TTWO**: close `210.00`, 1M return `1.05%` if available, RSI `49.51` and regression RMSE `2.060`
