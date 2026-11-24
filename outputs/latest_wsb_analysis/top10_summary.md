@@ -3,22 +3,22 @@
 - Data source: `reddit_authenticated_api`
 - Subreddit: `wallstreetbets`
 - Price lookback: `1y`
-- Generated at (UTC): `2026-11-23T02:47:41.526939+00:00`
+- Generated at (UTC): `2026-11-24T06:06:19.700285+00:00`
 
 ## Top tickers
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment |
 | --- | --- | ---: | ---: | ---: |
-| 1 | NVDA | 12 | 10 | 0.187 |
-| 2 | SPY | 9 | 5 | 0.376 |
-| 3 | MSTR | 3 | 3 | -0.299 |
-| 4 | QQQ | 6 | 2 | 0.817 |
-| 5 | ARE | 2 | 2 | 0.000 |
-| 6 | BACK | 2 | 2 | 0.000 |
-| 7 | DRAM | 2 | 2 | 0.130 |
-| 8 | GOOG | 2 | 2 | 0.045 |
-| 9 | HIMS | 3 | 1 | 0.897 |
-| 10 | NAMI | 2 | 1 | -0.984 |
+| 1 | NVDA | 24 | 16 | 0.424 |
+| 2 | ANT | 7 | 5 | 0.313 |
+| 3 | BACK | 3 | 3 | 0.227 |
+| 4 | SOXL | 4 | 2 | 0.414 |
+| 5 | ARE | 2 | 2 | -0.370 |
+| 6 | SOUN | 2 | 2 | 0.045 |
+| 7 | YOU | 2 | 2 | 0.529 |
+| 8 | NAMI | 2 | 1 | -0.984 |
+| 9 | AMD | 2 | 1 | 0.090 |
+| 10 | TTWO | 2 | 1 | -0.912 |
 
 ## Reddit fetch diagnostics
 
@@ -31,18 +31,18 @@
 | --- | --- | --- | ---: | --- |
 | hot | oauth | success | 100 |  |
 | new | oauth | success | 100 |  |
-| rising | oauth | success | 25 |  |
+| rising | oauth | success | 28 |  |
 | top | oauth | success | 100 |  |
 
 ## Market snapshot
 
-- **NVDA**: close `125.53`, 1M return `-40.85%` if available, RSI `15.05` and regression RMSE `11.033`
-- **SPY**: close `689.81`, 1M return `-9.71%` if available, RSI `24.91` and regression RMSE `5.675`
-- **MSTR**: close `77.80`, 1M return `-46.64%` if available, RSI `20.22` and regression RMSE `5.394`
-- **QQQ**: close `608.45`, 1M return `-13.63%` if available, RSI `26.63` and regression RMSE `12.098`
-- **ARE**: close `40.20`, 1M return `-7.22%` if available, RSI `35.72` and regression RMSE `0.296`
+- **NVDA**: close `165.05`, 1M return `-21.76%` if available, RSI `42.87` and regression RMSE `4.529`
+- **ANT**: close `87.64`, 1M return `nan%` if available, RSI `0.00`
 - **BACK**: close `0.00`, 1M return `-40.00%` if available, RSI `47.41` and regression RMSE `0.013`
-- **DRAM**: close `33.36`, 1M return `-26.97%` if available, RSI `30.57` and regression RMSE `1.218`
-- **GOOG**: close `264.00`, 1M return `-17.70%` if available, RSI `26.84` and regression RMSE `8.466`
-- **HIMS**: close `14.60`, 1M return `-49.88%` if available, RSI `24.78` and regression RMSE `0.892`
-- **NAMI**: close `1.55`, 1M return `-16.22%` if available, RSI `37.93` and regression RMSE `0.989`
+- **SOXL**: close `43.21`, 1M return `-48.29%` if available, RSI `36.64` and regression RMSE `15.018`
+- **ARE**: close `41.63`, 1M return `-3.23%` if available, RSI `42.61` and regression RMSE `0.296`
+- **SOUN**: close `2.89`, 1M return `-34.65%` if available, RSI `25.26` and regression RMSE `0.500`
+- **YOU**: close `53.50`, 1M return `17.89%` if available, RSI `56.48` and regression RMSE `1.685`
+- **NAMI**: close `1.47`, 1M return `-19.45%` if available, RSI `34.78` and regression RMSE `0.998`
+- **AMD**: close `453.46`, 1M return `-12.25%` if available, RSI `42.56` and regression RMSE `26.284`
+- **TTWO**: close `209.36`, 1M return `2.78%` if available, RSI `49.10` and regression RMSE `1.936`
