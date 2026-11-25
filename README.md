@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-24T06:06:19.698659+00:00`
+- Generated at (UTC): `2026-11-25T04:55:51.874886+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 24 | 16 | 0.424 | 165.05 | -21.76% | 4.529 |
-| 2 | ANT | 7 | 5 | 0.313 | 87.64 | n/a | n/a |
-| 3 | BACK | 3 | 3 | 0.227 | 0.00 | -40.00% | 0.013 |
-| 4 | SOXL | 4 | 2 | 0.414 | 43.21 | -48.29% | 15.018 |
-| 5 | ARE | 2 | 2 | -0.370 | 41.63 | -3.23% | 0.296 |
-| 6 | SOUN | 2 | 2 | 0.045 | 2.89 | -34.65% | 0.500 |
-| 7 | YOU | 2 | 2 | 0.529 | 53.50 | 17.89% | 1.685 |
-| 8 | NAMI | 2 | 1 | -0.984 | 1.47 | -19.45% | 0.998 |
-| 9 | AMD | 2 | 1 | 0.090 | 453.46 | -12.25% | 26.284 |
-| 10 | TTWO | 2 | 1 | -0.912 | 209.36 | 2.78% | 1.936 |
+| 1 | NVDA | 24 | 16 | 0.377 | 155.38 | -28.06% | 12.238 |
+| 2 | ANT | 7 | 5 | 0.480 | 81.91 | n/a | n/a |
+| 3 | SOXL | 5 | 3 | 0.178 | 32.60 | -63.98% | 16.528 |
+| 4 | BACK | 3 | 3 | 0.227 | 0.00 | -40.00% | 0.012 |
+| 5 | AMD | 3 | 2 | 0.308 | 413.27 | -22.21% | 28.271 |
+| 6 | ARE | 2 | 2 | -0.370 | 42.00 | -3.23% | 0.271 |
+| 7 | SOUN | 2 | 2 | 0.045 | 2.62 | -38.09% | 0.515 |
+| 8 | YOU | 2 | 2 | 0.529 | 51.23 | 11.20% | 1.740 |
+| 9 | NAMI | 2 | 1 | -0.984 | 1.33 | -26.39% | 1.002 |
+| 10 | TTWO | 2 | 1 | -0.912 | 220.41 | 8.39% | 1.881 |
 
 ### Aggregate Charts
 
@@ -190,13 +190,17 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![ANT Dashboard](outputs/latest_wsb_analysis/charts/ant_dashboard.png)
 
+#### SOXL
+
+![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
+
 #### BACK
 
 ![BACK Dashboard](outputs/latest_wsb_analysis/charts/back_dashboard.png)
 
-#### SOXL
+#### AMD
 
-![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
+![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
 #### ARE
 
@@ -213,10 +217,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### NAMI
 
 ![NAMI Dashboard](outputs/latest_wsb_analysis/charts/nami_dashboard.png)
-
-#### AMD
-
-![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
 #### TTWO
 
