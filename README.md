@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-25T04:55:51.874886+00:00`
+- Generated at (UTC): `2026-11-26T04:11:34.117732+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 24 | 16 | 0.377 | 155.38 | -28.06% | 12.238 |
-| 2 | ANT | 7 | 5 | 0.480 | 81.91 | n/a | n/a |
-| 3 | SOXL | 5 | 3 | 0.178 | 32.60 | -63.98% | 16.528 |
-| 4 | BACK | 3 | 3 | 0.227 | 0.00 | -40.00% | 0.012 |
-| 5 | AMD | 3 | 2 | 0.308 | 413.27 | -22.21% | 28.271 |
-| 6 | ARE | 2 | 2 | -0.370 | 42.00 | -3.23% | 0.271 |
-| 7 | SOUN | 2 | 2 | 0.045 | 2.62 | -38.09% | 0.515 |
-| 8 | YOU | 2 | 2 | 0.529 | 51.23 | 11.20% | 1.740 |
-| 9 | NAMI | 2 | 1 | -0.984 | 1.33 | -26.39% | 1.002 |
-| 10 | TTWO | 2 | 1 | -0.912 | 220.41 | 8.39% | 1.881 |
+| 1 | NVDA | 26 | 15 | 0.368 | 149.30 | -31.49% | 6.723 |
+| 2 | ANT | 6 | 4 | 0.475 | 82.79 | n/a | n/a |
+| 3 | SOXL | 6 | 4 | 0.002 | 32.02 | -68.32% | 18.933 |
+| 4 | SPY | 5 | 2 | 0.330 | 716.70 | -6.88% | 6.345 |
+| 5 | AMD | 3 | 2 | 0.308 | 406.03 | -27.53% | 28.263 |
+| 6 | CRWV | 3 | 2 | 0.952 | 42.57 | -28.54% | 2.386 |
+| 7 | RDDT | 2 | 2 | 0.679 | 91.51 | -32.94% | 2.190 |
+| 8 | IREN | 2 | 2 | 0.772 | 12.85 | -53.17% | 2.872 |
+| 9 | GOOG | 2 | 2 | 0.764 | 270.98 | -14.47% | 7.872 |
+| 10 | NAMI | 2 | 1 | -0.984 | 1.25 | -31.32% | 0.955 |
 
 ### Aggregate Charts
 
@@ -194,31 +194,31 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![SOXL Dashboard](outputs/latest_wsb_analysis/charts/soxl_dashboard.png)
 
-#### BACK
+#### SPY
 
-![BACK Dashboard](outputs/latest_wsb_analysis/charts/back_dashboard.png)
+![SPY Dashboard](outputs/latest_wsb_analysis/charts/spy_dashboard.png)
 
 #### AMD
 
 ![AMD Dashboard](outputs/latest_wsb_analysis/charts/amd_dashboard.png)
 
-#### ARE
+#### CRWV
 
-![ARE Dashboard](outputs/latest_wsb_analysis/charts/are_dashboard.png)
+![CRWV Dashboard](outputs/latest_wsb_analysis/charts/crwv_dashboard.png)
 
-#### SOUN
+#### RDDT
 
-![SOUN Dashboard](outputs/latest_wsb_analysis/charts/soun_dashboard.png)
+![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
 
-#### YOU
+#### IREN
 
-![YOU Dashboard](outputs/latest_wsb_analysis/charts/you_dashboard.png)
+![IREN Dashboard](outputs/latest_wsb_analysis/charts/iren_dashboard.png)
+
+#### GOOG
+
+![GOOG Dashboard](outputs/latest_wsb_analysis/charts/goog_dashboard.png)
 
 #### NAMI
 
 ![NAMI Dashboard](outputs/latest_wsb_analysis/charts/nami_dashboard.png)
-
-#### TTWO
-
-![TTWO Dashboard](outputs/latest_wsb_analysis/charts/ttwo_dashboard.png)
 <!-- AUTO_TOP10_END -->
