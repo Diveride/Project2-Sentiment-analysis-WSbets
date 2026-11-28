@@ -148,7 +148,7 @@ Stock Price Prediction with PyTorch: https://medium.com/swlh/stock-price-predict
 <!-- AUTO_TOP10_START -->
 ## Latest Top 10 Snapshot (Auto-updated)
 
-- Generated at (UTC): `2026-11-27T04:17:23.544784+00:00`
+- Generated at (UTC): `2026-11-28T03:56:13.394779+00:00`
 - Data source: `reddit_authenticated_api`
 - Raw outputs:
   - `outputs/latest_wsb_analysis/top10_wsb_stocks.csv`
@@ -163,16 +163,16 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 | Rank | Ticker | Mentions | Posts | Avg Sentiment | Last Close | 21D Return | RMSE |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 1 | NVDA | 24 | 13 | 0.299 | 149.30 | -31.49% | 6.723 |
-| 2 | ANT | 6 | 4 | 0.485 | 82.79 | n/a | n/a |
-| 3 | SPY | 5 | 2 | -0.122 | 716.70 | -6.88% | 6.345 |
-| 4 | TTWO | 3 | 2 | -0.456 | 227.34 | 12.95% | 1.938 |
-| 5 | AMZN | 3 | 2 | 0.626 | 244.43 | -3.43% | 2.202 |
-| 6 | GOOG | 3 | 2 | 0.626 | 270.98 | -14.47% | 7.872 |
-| 7 | TSLA | 3 | 2 | 0.626 | 380.14 | -6.70% | 4.391 |
-| 8 | MSFT | 3 | 2 | 0.826 | 489.93 | -7.79% | 7.435 |
-| 9 | QQQ | 3 | 2 | -0.627 | 633.93 | -12.11% | 12.838 |
-| 10 | RDDT | 2 | 2 | 0.679 | 91.51 | -32.94% | 2.190 |
+| 1 | NVDA | 17 | 10 | 0.146 | 150.49 | -30.13% | 14.045 |
+| 2 | SPY | 6 | 3 | 0.082 | 728.32 | -5.70% | 6.505 |
+| 3 | TTWO | 3 | 2 | -0.456 | 230.22 | 17.89% | 1.955 |
+| 4 | AMZN | 3 | 2 | 0.626 | 254.12 | -0.19% | 2.412 |
+| 5 | GOOG | 3 | 2 | 0.626 | 272.44 | -15.36% | 5.984 |
+| 6 | TSLA | 3 | 2 | 0.626 | 400.00 | -1.04% | 4.535 |
+| 7 | QQQ | 3 | 2 | -0.627 | 650.99 | -10.28% | 10.802 |
+| 8 | RDDT | 2 | 2 | 0.679 | 93.83 | -30.34% | 2.096 |
+| 9 | ANT | 2 | 2 | 0.451 | 91.88 | n/a | n/a |
+| 10 | SOXX | 2 | 2 | -0.452 | 134.07 | -22.94% | 4.380 |
 
 ### Aggregate Charts
 
@@ -185,10 +185,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### NVDA
 
 ![NVDA Dashboard](outputs/latest_wsb_analysis/charts/nvda_dashboard.png)
-
-#### ANT
-
-![ANT Dashboard](outputs/latest_wsb_analysis/charts/ant_dashboard.png)
 
 #### SPY
 
@@ -210,10 +206,6 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 
 ![TSLA Dashboard](outputs/latest_wsb_analysis/charts/tsla_dashboard.png)
 
-#### MSFT
-
-![MSFT Dashboard](outputs/latest_wsb_analysis/charts/msft_dashboard.png)
-
 #### QQQ
 
 ![QQQ Dashboard](outputs/latest_wsb_analysis/charts/qqq_dashboard.png)
@@ -221,4 +213,12 @@ See `outputs/latest_wsb_analysis/top10_summary.md` for the narrative market snap
 #### RDDT
 
 ![RDDT Dashboard](outputs/latest_wsb_analysis/charts/rddt_dashboard.png)
+
+#### ANT
+
+![ANT Dashboard](outputs/latest_wsb_analysis/charts/ant_dashboard.png)
+
+#### SOXX
+
+![SOXX Dashboard](outputs/latest_wsb_analysis/charts/soxx_dashboard.png)
 <!-- AUTO_TOP10_END -->
